@@ -1,4 +1,4 @@
-Data incid,Centro abi,Tipo di st,Caratteris,Stato fond,Tipo pavim,Condizioni,Condizio_1,Danni a co,Incidente,Pattuglia,Pattugli_1,strada,nearest_x,nearest_y,quartiere
+data,abitato,tipo,carattistiche,stato_fondo,pavimentazione,meteo,traffico,danni_cose,lesioni,chiamata,arrivo,strada,nearest_x,nearest_y,quartiere
 04/01/2022,si,Strada urbana,Rettilineo,Asciutto,Asfaltata,Sereno,Normale,no,no,15:20:00,15:30:00,w30009725,16.8677559036262,41.1312951658515,1
 11/01/2022,si,Strada urbana,Incrocio,Asciutto,Asfaltata,Sereno,Normale,no,no,11:10:00,11:25:00,w24889107,16.8668910057468,41.1259701778455,1
 28/01/2022,si,Strada urbana,Rotatoria,Asciutto,Asfaltata,Sereno,Scarso,no,si,13:45:00,14:00:00,w343262086,16.8671965432725,41.1318654631086,1
