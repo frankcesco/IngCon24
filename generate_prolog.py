@@ -1,4 +1,5 @@
 import csv
+import os
 
 def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as prolog_file:
@@ -24,13 +25,16 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
             for row in reader:
                 prolog_file.write(f"quartiere('{row['id']}', '{row['nome']}', {row['area']}, {row['pop2011']}).\n")
 
-# File paths
-incidenti_file = 'incidenti223.csv'
-strade_file = 'strade.csv'
-quartieri_file = 'quartieri.csv'
-output_file = 'knowledge_base.pl'
+if __name__ == "__main__":
+    # Define the paths
+    base_path = os.path.abspath(os.path.dirname(__file__))
+    data_path = os.path.join(base_path, 'data')
+    incidenti_file = os.path.join(data_path, 'incidenti2223.csv')
+    strade_file = os.path.join(data_path, 'strade.csv')
+    quartieri_file = os.path.join(data_path, 'quartieri.csv')
+    output_file = os.path.join(base_path, 'knowledge_base.pl')
 
-# Generate the Prolog knowledge base
-generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
+    # Generate the Prolog knowledge base
+    generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
 
-print(f"Knowledge base generated and saved to {output_file}")
+    print(f"Knowledge base generated and saved to {output_file}")
