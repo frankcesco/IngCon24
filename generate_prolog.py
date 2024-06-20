@@ -7,7 +7,7 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
         with open(incidenti_file, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                prolog_file.write(f"incidente('{row['data']}', '{row['abitato']}', '{row['tipo']}', '{row['carattistiche']}', "
+                prolog_file.write(f"incidente('{row['id']}', '{row['data']}', '{row['abitato']}', '{row['tipo']}', '{row['carattistiche']}', "
                                   f"'{row['stato_fondo']}', '{row['pavimentazione']}', '{row['meteo']}', '{row['traffico']}', "
                                   f"'{row['danni_cose']}', '{row['lesioni']}', '{row['chiamata']}', '{row['arrivo']}', "
                                   f"'{row['strada']}', {row['nearest_x']}, {row['nearest_y']}, '{row['quartiere']}').\n")
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     # Define the paths
     base_path = os.path.abspath(os.path.dirname(__file__))
     data_path = os.path.join(base_path, 'data')
-    incidenti_file = os.path.join(data_path, 'incidenti2223.csv')
+    incidenti_file = os.path.join(data_path, 'incidenti.csv')
     strade_file = os.path.join(data_path, 'strade.csv')
     quartieri_file = os.path.join(data_path, 'quartieri.csv')
     output_file = os.path.join(base_path, 'knowledge_base.pl')
