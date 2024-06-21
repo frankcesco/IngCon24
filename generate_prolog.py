@@ -8,7 +8,7 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
             reader = csv.DictReader(csvfile)
             for row in reader:
                 prolog_file.write(f"incidente('{row['id']}', '{row['data']}', '{row['abitato']}', '{row['tipo']}', '{row['carattistiche']}', "
-                                  f"'{row['stato_fondo']}', '{row['pavimentazione']}', '{row['meteo']}', '{row['traffico']}', "
+                                  f"'{row['asciutto']}', '{row['pavimentazione']}', '{row['meteo']}', '{row['traffico']}', "
                                   f"'{row['danni_cose']}', '{row['lesioni']}', '{row['chiamata']}', '{row['arrivo']}', "
                                   f"'{row['strada']}', {row['nearest_x']}, {row['nearest_y']}, '{row['quartiere']}').\n")
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
     incidenti_file = os.path.join(data_path, 'incidenti.csv')
     strade_file = os.path.join(data_path, 'strade.csv')
     quartieri_file = os.path.join(data_path, 'quartieri.csv')
-    output_file = os.path.join(base_path, 'knowledge_base.pl')
+    output_file = os.path.join(base_path, 'facts.pl')
 
     # Generate the Prolog knowledge base
     generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
