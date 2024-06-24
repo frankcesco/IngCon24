@@ -3,6 +3,12 @@ import os
 
 def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as prolog_file:
+        # Dichiarazione di predicati dinamici
+        prolog_file.write("% Predicati dinamici\n")
+        prolog_file.write(":- dynamic incidente/17.\n")
+        prolog_file.write(":- dynamic strada/7.\n")
+        prolog_file.write(":- dynamic quartiere/4.\n\n")
+
         # Process Incidenti
         with open(incidenti_file, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)

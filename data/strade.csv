@@ -48,7 +48,7 @@ w24888910,residential,Via Dalmazia,yes,,"1",816.383754144033219
 w24888924,residential,Piazza Eroi del Mare,yes,"30","1",115.920061548929539
 w24888988,residential,Via Fiume,yes,,"1",82.937356486170074
 w24888996,residential,Via Giuseppe Laudisi,yes,,"1",73.972935609568040
-w24888999,residential,Via Raffaele d'Addosio,yes,,"1",123.570873499518939
+w24888999,residential,Via Raffaele d Addosio,yes,,"1",123.570873499518939
 w24889002,residential,Via Francesco Maria Parisi,yes,,"1",73.477982586750400
 w24889030,residential,Via Vincenzo de Romita,yes,,"1",150.478308826281989
 w24889060,tertiary,Corso Cavour,yes,,"1",104.474196512014373
@@ -57,7 +57,7 @@ w24889107,residential,Piazza Giuseppe Massari,yes,,"1",29.349142148795941
 w24889172,residential,Piazza Aldo Moro,yes,"30","1",139.899547298667102
 w24889189,residential,Via Giovanni Pascoli,yes,,"1",127.734615445646170
 w24889264,tertiary,Via Napoli,yes,,"1",96.417148807294751
-w24889463,residential,Via San Francesco d'Assisi,no,,"1",102.590493366217189
+w24889463,residential,Via San Francesco d Assisi,no,,"1",102.590493366217189
 w24889475,residential,Via Pasquale Villari,no,,"1",187.105110433076931
 w24909577,residential,Via Michele Fiorino,yes,,"1",107.073728339783017
 w24909587,residential,w24909587,no,,"1",61.076262328091317
@@ -87,7 +87,7 @@ w24995603,unclassified,Viale Enzo Ferrari,yes,,"1",54.640302571543330
 w24995604,secondary_link,w24995604,yes,,"1",90.598416986242810
 w24995605,secondary,w24995605,yes,,"1",46.428134474829477
 w24995606,secondary_link,w24995606,yes,,"1",84.784185255116824
-w24995607,secondary,Via Gabriele D'Annunzio,no,,"1",604.724188118013785
+w24995607,secondary,Via Gabriele D Annunzio,no,,"1",604.724188118013785
 w24995608,unclassified,Viale Enzo Ferrari,yes,,"2",756.899558578680512
 w24998892,trunk_link,w24998892,no,,"1",312.212929212872098
 w25072229,trunk_link,w25072229,yes,"40","1",253.824673692828014
@@ -167,7 +167,7 @@ w25633801,service,w25633801,no,,"1",39.382490036795232
 w25633838,service,w25633838,no,,"1",42.272939513919852
 w25633859,service,w25633859,no,,"1",50.764104450157532
 w25633936,tertiary,Viale Giuseppe di Vittorio,yes,,"1",219.349964923119330
-w25633955,tertiary,Viale Unità d'Italia,yes,,"1",91.211647486073346
+w25633955,tertiary,Viale Unità d Italia,yes,,"1",91.211647486073346
 w25633977,trunk_link,w25633977,yes,,"1",128.621188800037203
 w25634025,primary_link,w25634025,yes,"40","2",108.234911570699580
 w25634029,primary_link,w25634029,no,"40","2",44.859948988905451
@@ -351,7 +351,7 @@ w25817392,unclassified,Via Salvatore Matarrese,yes,"50","1",446.242537233428720
 w25817411,unclassified,w25817411,yes,,"1",43.074317633850853
 w25817422,tertiary,Via Antonio Lucarelli,yes,,"1",45.732824265700323
 w25817423,tertiary,Via Antonio Lucarelli,yes,,"1",186.968184274078169
-w25817432,unclassified,Viale Nicola Dell'Andro,yes,,"1",29.556846293382794
+w25817432,unclassified,Viale Nicola Dell Andro,yes,,"1",29.556846293382794
 w25817447,unclassified,Viale Giuseppe Bartolo,yes,,"1",116.843469211166777
 w25817554,unclassified,Via Cancello Rotto,yes,,"1",304.383175692796726
 w25817657,unclassified,Via Giuseppe Petraglione,yes,,"1",286.184613109563088
@@ -645,7 +645,7 @@ w28921522,trunk,Tangenziale di Bari,yes,"90","3",1526.257313612233474
 w28921523,trunk,Tangenziale di Bari,yes,"90","3",33.441299027841779
 w28921525,trunk,Tangenziale di Bari,yes,"90","3",287.534423210886246
 w28921527,unclassified,Viale Saverio Dioguardi,yes,,"1",60.530589938292138
-w28921528,unclassified,Viale Nicola Dell'Andro,yes,,"1",433.108764320456999
+w28921528,unclassified,Viale Nicola Dell Andro,yes,,"1",433.108764320456999
 w28921530,tertiary,Via Antonio Lucarelli,yes,"30","1",228.602911929596786
 w28921531,tertiary,Via Antonio Lucarelli,yes,"30","1",30.985846567219070
 w28921534,unclassified,w28921534,yes,,"1",133.410423722422280
@@ -705,7 +705,7 @@ w29093155,tertiary,w29093155,yes,,"1",35.463884182568748
 w29093156,tertiary_link,w29093156,yes,,"1",105.525639028925497
 w29139996,trunk_link,w29139996,yes,"40","1",78.581294542400343
 w29176650,trunk_link,w29176650,yes,"40","1",257.998082320766116
-w29187723,residential,Via San Francesco d'Assisi,no,,"1",163.984203095185251
+w29187723,residential,Via San Francesco d Assisi,no,,"1",163.984203095185251
 w29191963,trunk_link,w29191963,yes,"40","1",122.425493393682387
 w29222894,trunk_link,w29222894,yes,,"1",125.276723937178517
 w29222895,primary_link,w29222895,yes,,"1",44.223898275548791
@@ -753,7 +753,7 @@ w29927721,unclassified,Via Vincenzo Ranieri,no,,"1",579.385964464163408
 w29927953,unclassified,w29927953,no,,"1",464.168394878904110
 w29927994,unclassified,w29927994,no,,"1",47.183258807262632
 w29928025,unclassified,w29928025,no,,"1",34.016381382065383
-w29928132,unclassified,Via Nicola dell'Olio,no,,"1",272.117210265198935
+w29928132,unclassified,Via Nicola dell Olio,no,,"1",272.117210265198935
 w29928191,unclassified,w29928191,no,,"1",164.637203970254035
 w29928958,unclassified,Via Nicola Massaro,no,,"1",781.322874283083024
 w29929292,unclassified,Via Vittorio Veneto in Palese,yes,,"1",395.603010636316583
@@ -862,9 +862,9 @@ w30029559,residential,Via Alessandro Maria Calefati,yes,,"1",751.308526814155130
 w30029561,residential,Via Abate Giacinto Gimma,yes,"30","1",289.528533666341673
 w30029562,residential,Via Abate Giacinto Gimma,yes,,"1",751.871479128249234
 w30029564,residential,Via Vito Nicola de Nicolò,yes,,"1",187.644701535215063
-w30029565,secondary,Viale Unità d'Italia,yes,,"1",520.039230309998743
+w30029565,secondary,Viale Unità d Italia,yes,,"1",520.039230309998743
 w30029568,secondary,Viale della Repubblica,yes,,"1",604.189072174429157
-w30029569,secondary,Viale Unità d'Italia,yes,"50","2",41.465266683855745
+w30029569,secondary,Viale Unità d Italia,yes,"50","2",41.465266683855745
 w30029571,residential,Via Giuseppe Pisanelli,no,,"1",63.228709314142371
 w30029575,residential,Via Francesco Campione,no,"50","1",381.809612475035749
 w30029577,residential,Via Padre Mario Labarbuta,no,,"1",163.756632987423160
@@ -903,7 +903,7 @@ w30049038,residential,1° Traversa Ottorino Respighi,no,,"2",224.273799812552284
 w30049154,residential,Viale Ottorino Respighi,no,,"1",306.810394606926309
 w30049220,residential,Via Vincenzo Corrado,no,,"1",334.952787496864403
 w30049509,secondary,Viale Mercadante,yes,,"1",54.445573344495770
-w30064494,residential,Via Martiri d'Avola,yes,,"1",230.031685654096691
+w30064494,residential,Via Martiri d Avola,yes,,"1",230.031685654096691
 w30106478,tertiary,Strada Complanare Ovest,yes,,"1",20.424391125192667
 w30113392,residential,Via Nicola Costa,no,,"1",218.197277915007476
 w30113414,unclassified,Via Napoli,no,,"1",218.527109956721347
@@ -1188,7 +1188,7 @@ w30504069,residential,Via Giuseppe Papalia,no,,"2",437.588024116857923
 w30504096,residential,w30504096,no,,"1",106.974411858595317
 w30504107,residential,w30504107,no,,"1",139.195855032493768
 w30504258,residential,Via Pantaleo Carabellese,no,,"1",346.861636406063951
-w30504298,residential,Via Colonnello Lorenzo d'Avanzo,no,,"1",366.944891659868574
+w30504298,residential,Via Colonnello Lorenzo d Avanzo,no,,"1",366.944891659868574
 w30504548,residential,w30504548,no,,"1",112.955473838068897
 w30504562,residential,w30504562,no,,"1",135.571410531320652
 w30504575,residential,Via Pantaleo Carabellese,no,,"1",108.247668990875752
@@ -1223,21 +1223,21 @@ w30631851,residential,w30631851,no,,"1",49.529069004027754
 w30632010,residential,Via Daunia,no,,"1",73.790301786714252
 w30632198,residential,Via Cavalieri di Vittorio Veneto,no,,"1",219.768278845540436
 w30632255,residential,Via Giuseppe Musci,no,,"1",69.302108495472936
-w30632260,residential,Via Salvo D'acquisto,no,,"1",147.163618304611077
+w30632260,residential,Via Salvo D acquisto,no,,"1",147.163618304611077
 w30632261,residential,Via Luigi Gurakuqi,no,,"1",228.457665832681812
 w30632379,residential,Via Maresciallo Vittorio Maggiore,no,,"1",128.908827092770565
 w30632389,residential,Via Santa Teresa,yes,,"1",88.376420449292709
 w30632396,residential,Via Padre M. Kolbe,yes,,"1",113.060188164690842
 w30632415,residential,w30632415,no,,"1",62.184861078366296
-w30632431,residential,Via delle Medaglie d'Oro,no,,"1",199.710381090590715
+w30632431,residential,Via delle Medaglie d Oro,no,,"1",199.710381090590715
 w30632444,residential,Via Liside,no,,"1",107.407881111351486
 w30632522,residential,w30632522,no,,"1",107.621363581534638
 w30632562,residential,Via Clinia,no,,"1",188.306571473638201
 w30632573,residential,Via Carolina Accolti Gil Salvati,no,,"1",109.540186666475904
 w30632746,residential,Viale Caduti Di Tutte Le Guerre,no,,"1",73.249834385896435
 w30632846,residential,Via Archita da Taranto,no,,"1",222.958543930540884
-w30632850,residential,Piazza San Francesco d'Assisi,no,,"1",78.102666394057309
-w30632860,residential,Piazza San Francesco d'Assisi,no,,"1",78.376627282491242
+w30632850,residential,Piazza San Francesco d Assisi,no,,"1",78.102666394057309
+w30632860,residential,Piazza San Francesco d Assisi,no,,"1",78.376627282491242
 w30632898,residential,Via Madre Clelia Merloni,yes,,"1",454.710530497645266
 w30632949,residential,Via Pitagora,no,,"1",222.742784557906930
 w30633049,secondary,Via Carabiniere Giovanni del Conte,no,,"1",123.623548607054502
@@ -1262,7 +1262,7 @@ w30651489,primary,Via Giuseppe Fanelli,no,"50","1",41.371113508984592
 w30651627,unclassified,w30651627,no,,"1",216.613075298907148
 w30651630,unclassified,w30651630,no,,"1",48.142873554860401
 w30651635,unclassified,w30651635,no,,"1",62.915820309552316
-w30652659,residential,Via Lorenzo D'Agostino,no,,"1",139.643971397490617
+w30652659,residential,Via Lorenzo D Agostino,no,,"1",139.643971397490617
 w30652696,unclassified,Via Raffaele Bovio,yes,,"1",405.315875187911843
 w30652831,residential,Via Pietro Leonida Laforgia,no,,"1",242.724594543706985
 w30652840,residential,Via Junipero Serra,no,,"1",125.720456566604639
@@ -1302,7 +1302,7 @@ w30672338,secondary,Viale Madre Teresa di Calcutta,no,"50","4",716.0703603167509
 w30672482,unclassified,w30672482,no,,"1",10.284098314221954
 w30672530,unclassified,w30672530,yes,,"1",133.057745161426965
 w30672547,tertiary,Via Michele Mitolo,yes,,"1",502.317955347360339
-w30672559,tertiary,Via Renato Dell'Andro,yes,,"1",287.902460717341000
+w30672559,tertiary,Via Renato Dell Andro,yes,,"1",287.902460717341000
 w30672640,trunk_link,w30672640,yes,,"1",80.615044787734973
 w30672668,trunk_link,w30672668,yes,"40","1",70.842100714786937
 w30672817,secondary,Viale Giuseppe Tatarella - Asse Nord-Sud,yes,"50","2",958.956651952091079
@@ -1326,9 +1326,9 @@ w30673486,residential,Via Mauro Amoruso,yes,,"1",185.681183267117035
 w30673626,unclassified,Via Robert Kennedy,yes,,"1",132.994712132385274
 w30673862,unclassified,Via Robert Kennedy,yes,,"1",326.449139661814399
 w30674186,unclassified,Via Santi Cirillo E Metodio,yes,,"1",85.383675124802323
-w30674192,unclassified,Viale Nicola Dell'Andro,yes,,"1",68.963184288734510
-w30674315,unclassified,Via San Tommaso D'Aquino,yes,,"1",478.357273206859304
-w30674359,unclassified,Via San Tommaso D'Aquino,yes,,"1",526.237554945404327
+w30674192,unclassified,Viale Nicola Dell Andro,yes,,"1",68.963184288734510
+w30674315,unclassified,Via San Tommaso D Aquino,yes,,"1",478.357273206859304
+w30674359,unclassified,Via San Tommaso D Aquino,yes,,"1",526.237554945404327
 w30674361,unclassified,w30674361,yes,,"1",41.197938985260848
 w30674378,unclassified,w30674378,yes,,"1",44.614127507619131
 w30674385,unclassified,Viale Saverio Dioguardi,yes,,"1",107.508431449026560
@@ -1349,16 +1349,16 @@ w30690500,unclassified,Via Vitantonio di Cagno,no,,"1",116.871934467565708
 w30690501,unclassified,w30690501,no,,"1",30.604921225661315
 w30690502,unclassified,w30690502,yes,,"1",107.281158167013487
 w30690503,unclassified,Stradella Cannaruto,no,,"1",41.572935118730932
-w30690504,unclassified,Stradella del Caffe',yes,,"1",180.607907243630734
+w30690504,unclassified,Stradella del Caffe ,yes,,"1",180.607907243630734
 w30690505,unclassified,w30690505,no,,"1",73.214538160043958
 w30690506,unclassified,Via Aurelio Carrante,yes,"30","1",233.129048324489077
 w30690507,unclassified,Via Aurelio Carrante,yes,"30","1",233.383710353070114
 w30690508,unclassified,Via Vitantonio di Cagno,yes,,"1",521.653465482673028
-w30690509,unclassified,Stradella del Caffe',yes,,"1",66.407947601239243
+w30690509,unclassified,Stradella del Caffe ,yes,,"1",66.407947601239243
 w30690557,service,w30690557,no,,"1",16.508178789585170
-w30690558,residential,Stradella del Caffe',no,,"1",60.233763260023210
-w30690562,residential,Stradella del Caffe',no,,"1",39.277481828345024
-w30690563,residential,Stradella del Caffe',no,,"1",114.279160377523212
+w30690558,residential,Stradella del Caffe ,no,,"1",60.233763260023210
+w30690562,residential,Stradella del Caffe ,no,,"1",39.277481828345024
+w30690563,residential,Stradella del Caffe ,no,,"1",114.279160377523212
 w30690568,service,w30690568,yes,,"1",42.762439000466415
 w30691718,trunk_link,w30691718,yes,"40","1",320.919914056744346
 w30691719,trunk,Tangenziale di Bari,yes,"90","3",184.838231588054327
@@ -1391,7 +1391,7 @@ w30706585,residential,Via Giuseppe Maria Giovene,yes,,"1",283.244336200333464
 w30706669,unclassified,Via Papa Bonifacio IX,no,,"1",122.278895587015214
 w30706677,residential,Via Antonio De Ferraris,yes,,"1",456.518946630898142
 w30706691,residential,Via Giuseppe Saverio Poli,yes,,"1",148.532011974369084
-w30706753,residential,Via Scipione l'Africano,no,,"1",196.792633360942801
+w30706753,residential,Via Scipione l Africano,no,,"1",196.792633360942801
 w30706854,residential,Via Leonardo Mastrandrea,yes,,"1",62.868215477074202
 w30706869,residential,w30706869,no,,"1",92.238807050383897
 w30706896,secondary,Via San Lorenzo,yes,,"1",315.932511754029406
@@ -1574,7 +1574,7 @@ w31310435,unclassified,w31310435,no,,"1",227.192130300465891
 w31310439,unclassified,w31310439,no,,"1",327.689576050931237
 w31310440,unclassified,w31310440,no,,"1",144.184748452088286
 w31310441,unclassified,Via Giulio Petroni,yes,,"1",860.420258123411145
-w31311003,tertiary,Via Sant'Angelo,no,,"1",154.106832559000168
+w31311003,tertiary,Via Sant Angelo,no,,"1",154.106832559000168
 w31311004,tertiary,w31311004,yes,,"1",260.800066303493395
 w31311005,residential,Via Trieste in Ceglie,yes,,"1",450.335550647780224
 w31311006,residential,Via San Gaspare del Bufalo,no,,"1",199.386164448504729
@@ -1830,7 +1830,7 @@ w32942113,residential,Via Alfredo Violante,no,,"1",197.017230368056971
 w32942115,tertiary,Via Scardicchio,no,,"1",192.420436155608002
 w32942153,residential,Via Alessandria,no,,"1",139.758135896166124
 w32942157,residential,Via Novara,no,,"1",102.019069421335715
-w32942162,residential,Via Val D'Aosta,no,,"1",131.708949862328950
+w32942162,residential,Via Val D Aosta,no,,"1",131.708949862328950
 w32942165,residential,Via Mantova,no,,"1",109.921639972403625
 w32942174,residential,Via Toscana,no,"50","1",230.620261763920666
 w32942178,residential,Via Latina,no,"50","1",116.355279139459029
@@ -1882,7 +1882,7 @@ w33053940,unclassified,w33053940,no,,"1",98.090482839930374
 w33054022,residential,Francesco Paolo Troccoli A,no,,"2",206.859678672900657
 w33054042,residential,Francesco Paolo Troccoli E,no,,"1",104.585635888848714
 w33054121,unclassified,w33054121,no,,"1",247.107923237063545
-w33054175,unclassified,Via Salvatore D'Alesio,no,,"1",198.389784725423141
+w33054175,unclassified,Via Salvatore D Alesio,no,,"1",198.389784725423141
 w33054202,unclassified,w33054202,yes,,"1",392.854751289947615
 w33054205,unclassified,w33054205,yes,,"1",485.031181436088616
 w33054227,unclassified,Via Don Carlo Gnocchi,no,,"2",478.504353579058034
@@ -1899,7 +1899,7 @@ w33537456,unclassified,Via Achille de Pascale,no,,"1",204.469335526704384
 w33537462,residential,Via Giuseppe Lembo,no,,"1",238.666527114793212
 w33831686,residential,Via Daniele Petrera,yes,,"1",267.657944016708825
 w33831687,residential,Via Pasubio,no,"30","1",232.309444506768642
-w33831688,residential,Stradella del Caffe',no,,"1",17.231273892459981
+w33831688,residential,Stradella del Caffe ,no,,"1",17.231273892459981
 w33831689,unclassified,Via Rodolfo Redi,yes,,"1",88.996824345626308
 w33837409,residential,Via Domenico Mandragora,no,,"1",209.769376026889177
 w34547612,unclassified,w34547612,no,,"1",364.736705016302608
@@ -2244,7 +2244,7 @@ w50321766,service,Piazza Aldo Moro,yes,,"1",119.250971191474221
 w50322583,unclassified,w50322583,yes,,"1",28.945462475959602
 w50326732,service,w50326732,yes,,"1",69.889827609657701
 w50326735,service,w50326735,no,,"1",165.778053179834956
-w50367867,unclassified,Viale Nicola Dell'Andro,yes,,"1",11.978560086178023
+w50367867,unclassified,Viale Nicola Dell Andro,yes,,"1",11.978560086178023
 w50367869,unclassified,Viale Saverio Dioguardi,yes,,"1",88.507550259946996
 w50367887,service,w50367887,no,,"1",28.092904592637939
 w50367888,unclassified,Via Generale Carlo Alberto Dalla Chiesa,no,,"1",285.815077946936526
@@ -2304,7 +2304,7 @@ w51140786,secondary,w51140786,no,,"1",15.447947392524197
 w51141670,service,w51141670,no,,"1",13.142263447425846
 w51167039,service,w51167039,no,,"1",32.279553171968963
 w51167044,service,w51167044,no,,"1",36.837050760420993
-w51167338,unclassified,Via Geremia D'Erasmo,no,,"1",378.892658632753864
+w51167338,unclassified,Via Geremia D Erasmo,no,,"1",378.892658632753864
 w51167529,tertiary,Prolungamento Via Camillo Rosalba,no,"50","2",445.678029922668600
 w51167608,residential,Via Rocco Dicillo,yes,"50","1",30.697597652136842
 w51167620,residential,Contrada Ferrigni,no,,"1",272.458275579284248
@@ -2334,7 +2334,7 @@ w52042641,unclassified,Via Vincenzo Sassanelli,no,,"1",356.022001211910606
 w52128306,trunk_link,w52128306,yes,,"1",442.645820783571594
 w52128308,trunk_link,w52128308,no,,"1",228.324344804272869
 w52570166,tertiary,Strada Complanare Ovest,no,"70","1",1285.511766141110911
-w53100661,secondary,Via Gabriele D'Annunzio,no,,"2",111.533685294479326
+w53100661,secondary,Via Gabriele D Annunzio,no,,"2",111.533685294479326
 w53100665,trunk_link,SS 16 Raccordo Aeroporto,yes,"50","1",302.136721107295216
 w53100666,service,w53100666,no,,"1",337.754750979693654
 w53100674,service,w53100674,no,,"1",317.485799756147458
@@ -2354,12 +2354,12 @@ w53104912,service,w53104912,no,,"1",52.075269589672175
 w53515047,unclassified,w53515047,no,,"1",615.391963016016803
 w53515473,tertiary,w53515473,yes,,"1",68.776532460428044
 w53535815,residential,Via Pollaioli,no,,"1",150.455042396607098
-w53535816,tertiary,Via Renato Dell'Andro,yes,,"1",291.410316790810498
+w53535816,tertiary,Via Renato Dell Andro,yes,,"1",291.410316790810498
 w53536452,unclassified,Viale delle Murge,no,,"1",221.938374190946405
 w53536453,secondary,Viale Louis Pasteur,yes,,"1",225.566001539789113
 w53537351,service,w53537351,yes,,"1",183.952347169374406
-w55285495,secondary_link,Via Gabriele D'Annunzio,yes,,"2",66.667814106418646
-w55285501,secondary,Via Gabriele D'Annunzio,yes,,"2",64.768522294558622
+w55285495,secondary_link,Via Gabriele D Annunzio,yes,,"2",66.667814106418646
+w55285501,secondary,Via Gabriele D Annunzio,yes,,"2",64.768522294558622
 w55974659,service,w55974659,no,,"1",205.046786642745587
 w55974660,service,w55974660,no,,"1",120.047632069870630
 w55974661,track,Strada rurale del torrente Balice,no,,"1",1514.832745058824685
@@ -2389,7 +2389,7 @@ w68558005,secondary,Corso Trieste,yes,,"1",502.528031201435340
 w68558008,tertiary,Corso Vittorio Emanuele Secondo,no,,"2",99.595378831846276
 w68558009,secondary,Lungomare Nazario Sauro,no,,"4",927.188603109131805
 w68558013,secondary,Corso Trieste,yes,,"1",888.700020428535254
-w68563024,secondary,Viale Unità d'Italia,yes,,"2",399.537506180184380
+w68563024,secondary,Viale Unità d Italia,yes,,"2",399.537506180184380
 w68563028,secondary,Sottovia Luigi di Savoia,no,,"1",14.238914278886401
 w68563030,residential,Via Gian Giuseppe Carulli,no,,"1",107.938870383656408
 w68563032,tertiary,Sottovia Luigi di Savoia,yes,,"1",75.442624286287696
@@ -2411,9 +2411,9 @@ w68576724,residential,Piazza Aldo Moro,yes,,"1",24.851969510056687
 w68576725,residential,Via Niccolò Piccinni,yes,,"1",138.035020676445214
 w69131924,residential,Largo Nicola Nitti Valentini,yes,,"1",52.346997867286326
 w69131927,residential,w69131927,yes,,"1",29.013394192789946
-w69135105,residential,Via Martiri d'Otranto,yes,,"1",81.920919230399775
+w69135105,residential,Via Martiri d Otranto,yes,,"1",81.920919230399775
 w69135107,residential,Via Indipendenza,yes,,"1",285.658544787311200
-w69135968,residential,Via Martiri d'Otranto,yes,,"1",123.725133265368186
+w69135968,residential,Via Martiri d Otranto,yes,,"1",123.725133265368186
 w69142602,tertiary,Piazza Giuseppe Garibaldi,yes,,"1",40.329377092219069
 w69142606,secondary,Via Brigata Regina,no,,"2",342.982438842121667
 w69142609,tertiary,Piazza Giuseppe Garibaldi,yes,,"1",36.543624494693148
@@ -2430,7 +2430,7 @@ w69306704,tertiary,Via Nazionale,no,"50","2",405.353178175964956
 w69306705,trunk,Strada Statale 16 Adriatica,yes,"70","2",29.869788006454481
 w69306706,unclassified,Lungomare Cristoforo Colombo,yes,,"1",82.284297377846272
 w69306707,tertiary,Via Napoli in Santo Spirito,no,,"1",399.984782987413894
-w69306708,unclassified,Via Duca d'Aosta,yes,,"1",311.165097720082770
+w69306708,unclassified,Via Duca d Aosta,yes,,"1",311.165097720082770
 w69306709,residential,Corso Umberto I,no,,"1",135.698700567775347
 w69306710,unclassified,Via Vittorio Veneto in Palese,no,,"1",220.886919898487747
 w69306712,tertiary,Via Napoli in Santo Spirito,no,,"2",1304.668559403366316
@@ -2655,11 +2655,11 @@ w93284087,service,Via Fratelli De Filippo,no,,"1",7.018699128625479
 w93284588,service,w93284588,no,,"1",42.130347367494061
 w93676468,tertiary_link,SP 210 Perimetrale Aeroporto di Palese,yes,"50","1",97.163068505452671
 w93676469,tertiary,SP 210 Perimetrale Aeroporto di Palese,no,"50","1",3008.700913798039437
-w93676470,secondary,Via Gabriele D'Annunzio,yes,,"1",183.302794551906516
+w93676470,secondary,Via Gabriele D Annunzio,yes,,"1",183.302794551906516
 w93676473,service,w93676473,yes,,"1",19.416478756369798
-w93676474,secondary,Via Gabriele D'Annunzio,yes,,"1",180.699659890764138
-w93676475,tertiary,Via Gabriele D'Annunzio,no,,"1",104.813894276190837
-w93676476,secondary,Via Gabriele D'Annunzio,yes,,"1",22.032293689168863
+w93676474,secondary,Via Gabriele D Annunzio,yes,,"1",180.699659890764138
+w93676475,tertiary,Via Gabriele D Annunzio,no,,"1",104.813894276190837
+w93676476,secondary,Via Gabriele D Annunzio,yes,,"1",22.032293689168863
 w93678142,unclassified,Via Nicola Ruffo,yes,,"1",13.389138063200132
 w93678145,service,w93678145,no,,"1",104.550200682662961
 w93678146,unclassified,Via Vincenzo Aulisio,yes,,"1",658.175093599217234
@@ -2749,7 +2749,7 @@ w96606440,service,w96606440,yes,,"1",20.374765287010952
 w96606441,tertiary,Viale Quinto Orazio Flacco,no,"30","2",545.557521534832745
 w96606442,unclassified,Viale Santa Rita,yes,,"1",538.484966374533656
 w96606443,service,w96606443,yes,,"1",27.864387621053424
-w96606444,residential,Via Scipione l'Africano,yes,,"1",33.093049810470490
+w96606444,residential,Via Scipione l Africano,yes,,"1",33.093049810470490
 w96606445,residential,w96606445,yes,,"1",175.819746615590446
 w96606448,service,Piazza Giulio Cesare,yes,,"2",115.630302833497126
 w96606451,tertiary_link,w96606451,yes,,"1",20.645872720623515
@@ -2761,7 +2761,7 @@ w96606465,tertiary,Via Antonio Lucarelli,yes,,"1",34.258300544887412
 w96606468,unclassified,w96606468,yes,,"1",25.292394016850480
 w96606469,service,w96606469,yes,,"1",27.656511713682185
 w96606476,unclassified,w96606476,no,,"1",9.792330698751851
-w96606479,residential,Via Scipione l'Africano,yes,,"1",32.364122135441498
+w96606479,residential,Via Scipione l Africano,yes,,"1",32.364122135441498
 w96606480,secondary,w96606480,no,,"1",13.101516474859372
 w96606484,residential,w96606484,no,,"1",10.962174167705555
 w100123469,tertiary,Via Vittorio Veneto,no,"50","1",681.836224640266096
@@ -3120,7 +3120,7 @@ w127668804,service,w127668804,no,,"1",293.247112931486981
 w127669585,service,w127669585,no,,"1",156.232055647653141
 w127669586,secondary,Viale Europa,yes,,"2",55.586172646389841
 w127669587,secondary,Viale Europa,no,,"2",959.217414569680159
-w127669592,secondary,Via Gabriele D'Annunzio,no,,"2",48.967578521298051
+w127669592,secondary,Via Gabriele D Annunzio,no,,"2",48.967578521298051
 w127669593,secondary,Viale Europa,yes,,"2",59.135653071618478
 w128057691,residential,Strada Santa Teresa dei maschi,yes,,"1",8.064349286234437
 w128077123,residential,Largo Maurelli,yes,,"1",21.171500999954844
@@ -3446,12 +3446,12 @@ w131750851,unclassified,Via Santi Cirillo E Metodio,yes,,"1",204.347862468763481
 w131750852,unclassified,Via Santi Cirillo E Metodio,yes,,"1",12.519383324380092
 w131750853,unclassified,Via Don Luigi Guanella,yes,,"1",24.279637192336452
 w131752094,service,w131752094,no,,"1",94.553078942709078
-w131752095,unclassified,Viale Nicola Dell'Andro,yes,,"1",224.636547254432571
+w131752095,unclassified,Viale Nicola Dell Andro,yes,,"1",224.636547254432571
 w131752096,unclassified,Viale Saverio Dioguardi,yes,,"1",20.723880867530227
 w131752097,unclassified,Viale Saverio Dioguardi,no,,"1",140.157102645450209
-w131752098,unclassified,Viale Nicola Dell'Andro,yes,,"1",13.413031836517927
-w131752100,unclassified,Viale Nicola Dell'Andro,yes,,"1",92.417521489563640
-w131752102,unclassified,Viale Nicola Dell'Andro,yes,,"1",13.077274893876597
+w131752098,unclassified,Viale Nicola Dell Andro,yes,,"1",13.413031836517927
+w131752100,unclassified,Viale Nicola Dell Andro,yes,,"1",92.417521489563640
+w131752102,unclassified,Viale Nicola Dell Andro,yes,,"1",13.077274893876597
 w131754400,service,w131754400,no,,"1",12.904621458317404
 w131754403,track,w131754403,no,,"1",640.328371797670457
 w131754406,track,w131754406,no,,"1",647.689644387886005
@@ -3659,8 +3659,8 @@ w133757843,service,w133757843,yes,,"1",241.690485259937333
 w133761502,primary_link,w133761502,yes,,"1",16.066910199701603
 w133761505,residential,w133761505,no,,"1",41.664859261238618
 w133762088,service,w133762088,yes,,"1",60.962141358726825
-w134683607,service,Molo Sant'Antonio,no,,"1",334.077234643926658
-w134683612,service,Molo Sant'Antonio,no,,"1",175.697416973436930
+w134683607,service,Molo Sant Antonio,no,,"1",334.077234643926658
+w134683612,service,Molo Sant Antonio,no,,"1",175.697416973436930
 w134773383,service,w134773383,no,,"1",17.782778189074023
 w134773384,residential,Piazza Federico Secondo di Svevia,yes,,"1",196.790066150889459
 w134796051,service,Parcheggio sotterraneo,yes,,"1",62.589178937189345
@@ -4161,9 +4161,9 @@ w150890376,unclassified,w150890376,no,,"1",170.326233506331960
 w150890378,unclassified,w150890378,no,,"1",38.007977976141724
 w150890379,residential,Via Cheren,yes,,"1",204.845971905273814
 w150890725,residential,w150890725,no,,"2",321.564607891764410
-w151503388,unclassified,Stradella del Caffe',yes,,"1",59.260626788724124
-w151503390,residential,Stradella del Caffe',yes,,"1",54.146004313927335
-w151503391,unclassified,Stradella del Caffe',no,,"1",104.371336595505014
+w151503388,unclassified,Stradella del Caffe ,yes,,"1",59.260626788724124
+w151503390,residential,Stradella del Caffe ,yes,,"1",54.146004313927335
+w151503391,unclassified,Stradella del Caffe ,no,,"1",104.371336595505014
 w151503392,service,w151503392,no,,"1",61.192947346756348
 w151503393,secondary,w151503393,no,,"1",12.403809474523369
 w151503401,secondary,w151503401,no,,"1",13.086478293456532
@@ -4242,11 +4242,11 @@ w153799166,unclassified,w153799166,no,,"1",249.944002369074724
 w153799170,track,w153799170,no,,"1",158.883304190832803
 w153804505,service,w153804505,no,,"1",31.555176271779793
 w153804506,service,w153804506,no,,"1",138.973558417255163
-w153804507,service,Parco dell'Amore,no,,"1",89.207572638582448
-w153804508,service,Parco dell'Amore,no,,"1",72.039393604222013
+w153804507,service,Parco dell Amore,no,,"1",89.207572638582448
+w153804508,service,Parco dell Amore,no,,"1",72.039393604222013
 w153804509,service,Strada Caratore del Carmine,no,,"1",658.784259048753938
-w153804510,service,Parco dell'Amore,no,,"1",76.646364826447751
-w153804511,service,Parco dell'Amore,no,,"1",33.257630423744395
+w153804510,service,Parco dell Amore,no,,"1",76.646364826447751
+w153804511,service,Parco dell Amore,no,,"1",33.257630423744395
 w153804512,service,w153804512,yes,,"1",164.510965975669421
 w153804513,track,w153804513,no,,"1",1147.158923339681451
 w153807988,service,w153807988,yes,,"1",10.544582783791606
@@ -4275,14 +4275,14 @@ w155011869,service,w155011869,no,,"1",198.649210717329055
 w155011870,service,w155011870,no,,"1",141.855313380304665
 w155011871,trunk_link,w155011871,no,"40","1",18.547445219097604
 w158336119,service,w158336119,yes,,"1",11.104632199492553
-w159252916,residential,Via Nicolò Dell'Arca,yes,,"1",84.568484225132494
+w159252916,residential,Via Nicolò Dell Arca,yes,,"1",84.568484225132494
 w159344785,unclassified,Via Cardinale Agostino Ciasca,yes,,"1",110.212733980207830
 w161411481,secondary,Viale Japigia,yes,"30","1",470.482323340116352
 w161412692,residential,Via Pisani,yes,,"1",64.463737022361371
 w161412693,residential,Via De Lilla,no,,"1",156.755858776295071
 w161412694,residential,Via Enrico Nannei,yes,,"1",136.984887449615400
 w161412695,residential,w161412695,yes,,"1",184.432038452184827
-w161413796,residential,Via degli Alpini d'Italia,no,,"2",173.572319597205819
+w161413796,residential,Via degli Alpini d Italia,no,,"2",173.572319597205819
 w162744562,secondary_link,w162744562,yes,,"1",66.557231795178609
 w162744575,secondary,Corso Trieste,no,,"1",79.927440531053790
 w162744583,service,Parcheggio bici e moto,no,"5","1",76.757814722252220
@@ -4318,11 +4318,11 @@ w166477589,unclassified,w166477589,no,,"1",275.639082651116780
 w166477590,service,w166477590,no,,"1",99.506505426397496
 w166477591,service,w166477591,no,,"1",108.409623792588192
 w166477592,service,w166477592,no,,"1",130.308776329744830
-w166477593,residential,Via Lorenzo D'Agostino,no,,"1",168.964947649128106
+w166477593,residential,Via Lorenzo D Agostino,no,,"1",168.964947649128106
 w166477594,service,w166477594,no,,"1",88.159467162898949
 w166477597,service,w166477597,no,,"1",47.010669253729901
 w166477599,service,w166477599,no,,"1",314.561456915335327
-w166477600,residential,Via Lorenzo D'Agostino,no,,"1",249.705488953448594
+w166477600,residential,Via Lorenzo D Agostino,no,,"1",249.705488953448594
 w166477601,service,w166477601,no,,"1",16.438200682222334
 w166477605,service,w166477605,no,,"1",165.279768204561918
 w166478240,service,w166478240,no,,"1",46.529259962268327
@@ -4397,7 +4397,7 @@ w170755005,unclassified,w170755005,no,,"1",46.685833870566263
 w170760197,service,Via Caduti di Via Fani,no,,"1",59.544016522576442
 w172275399,track,w172275399,no,,"1",441.629415762241251
 w172275400,service,w172275400,no,,"1",232.949673706872858
-w172276151,unclassified,Strada Pozzo dell'Ombra,no,,"1",146.051494441770444
+w172276151,unclassified,Strada Pozzo dell Ombra,no,,"1",146.051494441770444
 w172276157,unclassified,Strada vecchia Bitritto Ceglie,no,,"1",669.856461918068476
 w172300148,service,w172300148,yes,,"1",6.132250190784397
 w173437205,track,w173437205,no,,"1",876.539677277283317
@@ -4575,8 +4575,8 @@ w180398954,track,w180398954,no,,"1",76.705944146759322
 w180398956,residential,w180398956,no,,"1",29.952548839250014
 w180398959,residential,Via Piave,no,,"1",48.215682386862234
 w180398960,residential,Via del Montello,no,,"1",24.191049490813228
-w180398961,residential,Via dell'Orto,no,,"1",35.987412001148890
-w180398962,track,Via dell'Orto,no,,"1",153.101160205623643
+w180398961,residential,Via dell Orto,no,,"1",35.987412001148890
+w180398962,track,Via dell Orto,no,,"1",153.101160205623643
 w180398963,residential,Via delle Mura,no,,"1",60.173754218059770
 w180399678,residential,Via Francesco Boccaccio,no,,"1",39.092515135611848
 w180399679,residential,Via Alessandro Manzoni,no,,"1",61.860701126419997
@@ -4590,7 +4590,7 @@ w180401340,residential,Via Giuseppe Mazzini,no,,"1",20.887401535740391
 w180401341,residential,Via Regina Margherita,no,,"1",51.208329674102643
 w180401342,residential,Via Umberto I,no,,"1",72.010786539575676
 w180401343,residential,Via dei 14 caduti,no,,"1",65.349468765654095
-w180401344,residential,Via dell'Astico,no,,"1",33.957235646795489
+w180401344,residential,Via dell Astico,no,,"1",33.957235646795489
 w180401680,residential,Via Vittorio Veneto,no,,"1",61.327859676365875
 w180403012,service,w180403012,no,,"1",146.646130692983292
 w180403013,unclassified,Strada Cisterna di Terra Rossa,no,,"1",608.881247017505757
@@ -4610,7 +4610,7 @@ w180412338,track,w180412338,no,,"1",297.821542089086222
 w180412339,service,w180412339,no,,"1",35.613388517871229
 w180412340,track,w180412340,no,,"1",558.006702905231464
 w180412341,track,w180412341,no,,"1",284.534462552696937
-w180412342,unclassified,Strada Pozzo dell'Ombra,no,,"1",194.162127225296786
+w180412342,unclassified,Strada Pozzo dell Ombra,no,,"1",194.162127225296786
 w180412343,tertiary,Via Raffaele Perrone,no,,"1",121.704510938976171
 w180412344,tertiary,Via Trabaccolanti,no,,"1",122.049124087460328
 w180412345,unclassified,Via Vincenzo Zaccaria,no,,"1",320.848743431784612
@@ -4881,7 +4881,7 @@ w205674754,unclassified,Via delle Ginestre,no,,"1",128.833218594849967
 w205682921,unclassified,w205682921,no,,"1",155.238880151288129
 w205682923,service,Percorso Framarino,no,,"1",690.547885287698023
 w205682925,track,w205682925,no,,"1",2874.977603161282786
-w205682932,track,Stradella dell'Annunziata,no,,"1",155.141189420484068
+w205682932,track,Stradella dell Annunziata,no,,"1",155.141189420484068
 w208685597,unclassified,Via Lorenzo Vitale,no,,"1",267.717439801244439
 w208686457,unclassified,Via Mimmo Conenna,yes,,"2",280.489692096134092
 w208686459,unclassified,w208686459,no,,"1",123.137485522372728
@@ -5196,8 +5196,8 @@ w292125240,unclassified,Via Glomerelli,no,,"1",563.830035287483042
 w292276949,tertiary,Via La Rotella,no,"50","1",490.855964021407203
 w292278100,unclassified,w292278100,yes,,"1",35.068090500591822
 w292278101,secondary,w292278101,yes,,"1",18.296430929962263
-w292278102,secondary,Via Gabriele D'Annunzio,yes,,"2",34.930055245558655
-w292278103,secondary,Via Gabriele D'Annunzio,yes,,"2",35.270619478007632
+w292278102,secondary,Via Gabriele D Annunzio,yes,,"2",34.930055245558655
+w292278103,secondary,Via Gabriele D Annunzio,yes,,"2",35.270619478007632
 w292278104,secondary,Strada Provinciale Bitonto - Aeroporto Palese,yes,,"2",42.054865203760031
 w292278105,secondary,Strada Provinciale Bitonto - Aeroporto Palese,yes,,"2",43.768972179698551
 w292318562,track,w292318562,no,,"1",71.843473171156063
@@ -5292,18 +5292,18 @@ w294553164,trunk_link,w294553164,yes,"40","1",132.479328892434609
 w294745487,tertiary,Corso Alcide De Gasperi,no,"50","1",91.674458240935380
 w294745488,unclassified,w294745488,no,,"1",184.109545653607483
 w294945201,residential,w294945201,no,,"1",230.804169709448786
-w294945205,residential,Duca d'Aosta,no,,"1",214.957742115085892
-w294945206,service,Vico Duca d'Aosta,no,,"1",60.824047019918048
+w294945205,residential,Duca d Aosta,no,,"1",214.957742115085892
+w294945206,service,Vico Duca d Aosta,no,,"1",60.824047019918048
 w294945208,residential,w294945208,no,,"1",156.131857250408871
 w294945209,unclassified,Via Pierino Palasciano,no,,"1",256.257995275793292
 w294945211,unclassified,Via Antonio Antonelli,yes,,"1",116.508200749691554
 w294945213,residential,w294945213,no,,"1",363.001437004649290
 w294945215,residential,Via Maria Chieco Bianchi,no,,"1",120.471714488903871
 w294945217,residential,w294945217,yes,,"1",161.375905648364380
-w294945219,residential,Vico Duca d'Aosta,yes,,"1",130.624259567006959
-w294945222,service,Vico 5° Duca d'Aosta,no,,"1",76.212958416164597
-w294945223,service,Vico 4° Duca d'Aosta,no,,"1",68.076978487610972
-w294945225,service,Vico Duca d'Aosta,no,,"1",161.305227596615964
+w294945219,residential,Vico Duca d Aosta,yes,,"1",130.624259567006959
+w294945222,service,Vico 5° Duca d Aosta,no,,"1",76.212958416164597
+w294945223,service,Vico 4° Duca d Aosta,no,,"1",68.076978487610972
+w294945225,service,Vico Duca d Aosta,no,,"1",161.305227596615964
 w294952951,residential,Via Giuseppe Garibaldi,yes,,"1",173.467795363013238
 w294952952,unclassified,Via Indipendenza,yes,,"1",233.290193535410197
 w294952953,service,Via Giuseppe Garibaldi,no,,"1",32.283814737285994
@@ -5321,7 +5321,7 @@ w294952964,residential,Via Don Demetrio Magrini,yes,,"1",31.904778693364538
 w294952965,residential,Vico 10° Modugno,no,,"1",71.990866176714150
 w294952966,service,w294952966,no,,"1",84.860863160586831
 w294952967,service,Vico 9° Modugno,no,,"1",63.938094278045952
-w294952968,residential,Via dell'Olio,yes,,"1",206.957235578447865
+w294952968,residential,Via dell Olio,yes,,"1",206.957235578447865
 w294952969,residential,Vico 11° Modugno,yes,,"1",125.864859150511904
 w294952970,residential,Via Saverio Sgaramella,yes,,"1",104.885608331648285
 w294952971,residential,Via Fiume,no,,"1",161.726278937081275
@@ -5647,9 +5647,9 @@ w331886098,service,w331886098,no,,"1",35.462719643522014
 w331886602,unclassified,Via della Sincerità,no,,"1",93.214283141608050
 w331887304,unclassified,Via della Fratellanza,no,,"1",83.967008886662825
 w331887307,unclassified,Via della Vita,no,,"1",98.805229982150891
-w331887309,unclassified,Via dell'Amicizia,no,,"1",93.731711340087784
+w331887309,unclassified,Via dell Amicizia,no,,"1",93.731711340087784
 w331887413,unclassified,Via Della Lealtà,no,,"1",168.540744153556204
-w331923930,unclassified,Via dell'Affidabilità,no,,"1",92.093820171181406
+w331923930,unclassified,Via dell Affidabilità,no,,"1",92.093820171181406
 w331923931,unclassified,Via della Gentilezza,no,,"1",86.413033302248408
 w331925482,unclassified,w331925482,no,"50","1",165.024476712963121
 w331926456,unclassified,w331926456,yes,"40","1",50.613615711296902
@@ -5943,7 +5943,7 @@ w362821130,service,w362821130,no,,"1",62.663918803248215
 w362821131,unclassified,Via Giosuè Carducci,no,,"1",15.788137754058569
 w362821132,unclassified,Vico Calabria,no,,"1",49.335773552412014
 w362821133,unclassified,w362821133,no,,"1",89.608861946924577
-w362821134,unclassified,Via di Carbonara Sant'Agostino,no,,"1",43.938371962883039
+w362821134,unclassified,Via di Carbonara Sant Agostino,no,,"1",43.938371962883039
 w362821135,service,w362821135,no,,"1",50.391172343030469
 w362821136,unclassified,Vico Niccolò Piccinni,no,,"1",53.738302291123432
 w362821137,service,w362821137,no,,"1",84.710729732691931
@@ -6114,7 +6114,7 @@ w375900145,service,w375900145,no,,"1",50.320761387652730
 w376214446,residential,Via Giustino Fortunato,no,,"1",234.984748989040753
 w376989732,service,w376989732,yes,,"1",22.590628869944819
 w376989734,service,w376989734,no,,"1",93.964412316731767
-w377444784,track,Strada torre dell'amore,no,,"1",264.338027521472554
+w377444784,track,Strada torre dell amore,no,,"1",264.338027521472554
 w377626867,service,w377626867,no,,"1",33.758843494122374
 w377626868,residential,Via Giustino Fortunato,no,,"1",169.223876512504461
 w377980041,service,w377980041,no,,"1",40.510339702916120
@@ -6295,11 +6295,11 @@ w398989762,residential,Via Andrea da Bari,yes,,"1",293.115585500479654
 w398989764,secondary,w398989764,yes,,"1",10.526707506207906
 w398989766,secondary,Via Bruno Buozzi,no,"30","2",289.320259369275163
 w398989767,unclassified,Viale Enzo Ferrari,yes,,"1",759.116608619266117
-w398989768,secondary,Via Gabriele D'Annunzio,yes,,"1",26.272383279679691
-w398989769,secondary,Via Gabriele D'Annunzio,yes,,"1",35.931924574029992
-w398989770,secondary,Via Gabriele D'Annunzio,yes,,"1",30.293077979075544
-w398989771,secondary,Via Gabriele D'Annunzio,yes,,"1",11.533554846998630
-w398989772,tertiary,Via Gabriele D'Annunzio,no,,"1",324.439753337044635
+w398989768,secondary,Via Gabriele D Annunzio,yes,,"1",26.272383279679691
+w398989769,secondary,Via Gabriele D Annunzio,yes,,"1",35.931924574029992
+w398989770,secondary,Via Gabriele D Annunzio,yes,,"1",30.293077979075544
+w398989771,secondary,Via Gabriele D Annunzio,yes,,"1",11.533554846998630
+w398989772,tertiary,Via Gabriele D Annunzio,no,,"1",324.439753337044635
 w398989773,unclassified,w398989773,no,,"1",76.111845325961610
 w398989774,residential,Via Macchie,no,,"1",54.638769669194772
 w401605424,secondary,Via Napoli,no,,"1",823.336922993440112
@@ -6576,9 +6576,9 @@ w499039903,unclassified,w499039903,no,,"1",36.760024840104478
 w499039905,unclassified,Via Volpe,no,,"1",262.038906523351955
 w499039906,unclassified,Via Capitano V.Maiorano,no,,"1",254.007550621186226
 w499039907,unclassified,Via Ada Del Vecchio Guelfi,no,,"1",118.650645320562816
-w499039908,unclassified,Vico XI Duca D'Aosta,no,,"1",263.441076116091040
+w499039908,unclassified,Vico XI Duca D Aosta,no,,"1",263.441076116091040
 w499039911,residential,w499039911,no,,"1",56.688568260765514
-w499039912,unclassified,Via Nicola Dell'Olio,no,,"1",220.315745015940706
+w499039912,unclassified,Via Nicola Dell Olio,no,,"1",220.315745015940706
 w499039913,unclassified,Via Antonio Ardone,no,,"1",169.975655346591424
 w499039914,unclassified,Via Attilio Alto,no,,"1",166.648190128101078
 w499039915,unclassified,2^ Traversa Pizzillo,no,,"1",331.583552033222020
@@ -6777,11 +6777,11 @@ w561837468,unclassified,w561837468,no,,"1",157.288431933459464
 w562421455,service,w562421455,no,,"1",76.514218775424339
 w562421456,service,w562421456,no,,"1",144.477377818681163
 w562434065,residential,w562434065,yes,,"1",18.699697621507525
-w562434066,residential,Stradella del Caffe',yes,,"1",57.987562868511297
+w562434066,residential,Stradella del Caffe ,yes,,"1",57.987562868511297
 w562442949,unclassified,Via Luigi Ranieri,yes,,"1",84.217480989858984
 w562442950,service,w562442950,no,,"1",42.786888718416094
 w562494589,secondary,w562494589,yes,,"1",21.342662587473061
-w562692076,residential,Via Massimo d'Azeglio,no,,"1",78.028385107153753
+w562692076,residential,Via Massimo d Azeglio,no,,"1",78.028385107153753
 w562692077,secondary_link,w562692077,yes,,"1",13.137710816410754
 w562692078,residential,w562692078,yes,,"1",100.104684989070108
 w562692079,residential,Via Giovan Battista Trevisani,yes,,"1",154.386641123850666
@@ -6900,8 +6900,8 @@ w592192873,track,w592192873,no,,"1",146.012831301670644
 w592192874,track,w592192874,no,,"1",153.835730524590190
 w592192875,track,w592192875,no,,"1",509.148584866157648
 w592192876,track,w592192876,no,,"1",278.363228518733763
-w594166323,residential,Via Martiri d'Avola,no,,"1",110.329983408208165
-w594166325,residential,Via Martiri d'Avola,no,,"1",111.891435480826772
+w594166323,residential,Via Martiri d Avola,no,,"1",110.329983408208165
+w594166325,residential,Via Martiri d Avola,no,,"1",111.891435480826772
 w600289216,residential,Via Niccolò Piccinni,no,"30","1",63.900528900058653
 w600289217,residential,Largo Nicola Nitti Valentini,yes,,"1",35.029896547565656
 w600289219,residential,Largo Nicola Nitti Valentini,yes,,"1",21.971534955926323
@@ -7038,7 +7038,7 @@ w695809699,track,w695809699,no,,"1",222.436745975122392
 w695809700,track,w695809700,no,,"1",191.417189368614572
 w695809701,track,w695809701,no,,"1",274.394575735471676
 w695932524,unclassified,Via Caladoria,no,,"1",340.260687750358329
-w696425569,residential,Via San Francesco d'Assisi,yes,,"1",30.314813646397411
+w696425569,residential,Via San Francesco d Assisi,yes,,"1",30.314813646397411
 w696640159,unclassified,w696640159,no,,"1",19.532663144292265
 w696640160,unclassified,w696640160,no,,"1",260.813829257798602
 w696640161,residential,Traversa I Cangiano,no,,"1",110.561009235351946
@@ -7059,9 +7059,9 @@ w699486876,unclassified,Via Fratelli Prayer,no,,"1",123.469132567327108
 w699486879,unclassified,w699486879,yes,,"1",9.558171192754553
 w699486884,unclassified,w699486884,yes,,"1",11.439222581659582
 w699486887,service,w699486887,no,,"1",88.076988995404037
-w699486888,unclassified,Strada Sant'Anna,yes,,"1",33.697138553095044
+w699486888,unclassified,Strada Sant Anna,yes,,"1",33.697138553095044
 w699486890,tertiary,Strada Complanare Est,yes,,"1",43.383078120698329
-w699486892,unclassified,Strada Sant'Anna,yes,,"1",30.658467616190030
+w699486892,unclassified,Strada Sant Anna,yes,,"1",30.658467616190030
 w699486893,tertiary,w699486893,yes,,"1",16.820178207363512
 w699486894,tertiary,Strada Complanare Est,yes,,"1",41.625898725389305
 w699486899,unclassified,Via Mimmo Conenna,yes,,"2",184.899665838899381
@@ -8487,7 +8487,7 @@ w1223050325,unclassified,Piazzale Mater Ecclesiae,yes,,"1",102.686696089962524
 w1223050326,unclassified,Piazzale Mater Ecclesiae,yes,,"1",6.679784141677029
 w1223050327,tertiary,Via Antonio Lucarelli,yes,,"1",62.950279246256251
 w1223051880,tertiary,Via Antonio Lucarelli,yes,,"1",13.945864518005180
-w1223051883,unclassified,Viale Nicola Dell'Andro,yes,,"1",198.882933213346178
+w1223051883,unclassified,Viale Nicola Dell Andro,yes,,"1",198.882933213346178
 w1223054102,tertiary,Via Camillo Rosalba,yes,,"1",68.237958527442430
 w1223054103,tertiary,Via Camillo Rosalba,no,,"2",117.589848069777503
 w1223054104,unclassified,w1223054104,yes,,"1",8.900551400322760
@@ -8689,7 +8689,7 @@ w1226960833,secondary,w1226960833,yes,,"1",28.745002183658343
 w1226960834,unclassified,w1226960834,yes,,"1",5.897169834754865
 w1226960835,tertiary,Via Camillo Rosalba,no,,"4",16.339282350133306
 w1226960836,tertiary,Via Antonio Lucarelli,yes,"30","1",19.132119871400274
-w1226960837,tertiary,Via Renato Dell'Andro,yes,,"1",81.627777448213024
+w1226960837,tertiary,Via Renato Dell Andro,yes,,"1",81.627777448213024
 w1226960838,unclassified,w1226960838,yes,,"1",59.961323215447706
 w1227238104,tertiary,Via Antonio Lucarelli,yes,,"1",25.402160204539790
 w1227238105,unclassified,w1227238105,yes,,"1",16.666042960632094
@@ -8750,7 +8750,7 @@ w1227985499,service,Piazza della Libertà,no,,"1",28.403867208616052
 w1228005144,trunk_link,w1228005144,no,,"1",19.920591776652248
 w1228005145,trunk,Strada Statale 16 Adriatica,yes,"90","2",51.231710646714525
 w1228005146,trunk_link,w1228005146,no,,"1",123.744701663993453
-w1228005147,secondary,Via Gabriele D'Annunzio,yes,,"1",5.619338678538612
+w1228005147,secondary,Via Gabriele D Annunzio,yes,,"1",5.619338678538612
 w1228005148,secondary,w1228005148,yes,,"1",19.304135006818488
 w1228005149,secondary,SP 156 Bitonto - Aeroporto Palese,no,"70","2",284.289720724445317
 w1228005161,tertiary,w1228005161,yes,,"1",43.022114185118170
@@ -8782,7 +8782,7 @@ w1228383711,service,w1228383711,no,,"1",47.306054257863977
 w1228384125,residential,w1228384125,yes,,"1",28.733863420547578
 w1228496363,secondary,SP 156 Bitonto - Aeroporto Palese,no,"70","2",8.826699838820602
 w1228496364,secondary,w1228496364,yes,,"1",17.162956432012887
-w1228501780,secondary,Via Gabriele D'Annunzio,yes,,"1",8.211549129384359
+w1228501780,secondary,Via Gabriele D Annunzio,yes,,"1",8.211549129384359
 w1228501781,trunk,Strada Statale 16 Adriatica,yes,"90","2",28.700769811288559
 w1228501783,trunk,Strada Statale 16 Adriatica,yes,"90","2",224.245633394485964
 w1228501784,trunk,Strada Statale 16 Adriatica,yes,"90","2",151.289901963065375
@@ -8884,7 +8884,7 @@ w1234719271,service,w1234719271,no,,"1",162.835589477413890
 w1234719275,service,w1234719275,no,,"1",94.621118365305719
 w1234719276,service,w1234719276,no,,"1",37.726027879319155
 w1235824817,residential,Via Mortara,no,,"1",69.693185391009578
-w1235831583,residential,Via Sant'Antonio,no,,"1",59.967558559063974
+w1235831583,residential,Via Sant Antonio,no,,"1",59.967558559063974
 w1235831584,residential,Via delle Laudi,no,,"1",58.868586588611471
 w1235833384,residential,Via della Concordia,yes,,"1",61.021481748185757
 w1235834656,residential,Via Orticelli,no,,"1",34.761308484658187
@@ -8909,7 +8909,7 @@ w1235853096,unclassified,Strada Scansano,no,,"1",19.837972885547963
 w1235853097,unclassified,Strada Scansano,no,,"1",21.667958706656190
 w1235853098,secondary,Via Giuseppe Fanelli,no,,"1",59.848052457867155
 w1235853099,service,w1235853099,no,,"1",26.879990276639315
-w1235853100,tertiary,Viale Unità d'Italia,yes,,"1",38.929648495774934
+w1235853100,tertiary,Viale Unità d Italia,yes,,"1",38.929648495774934
 w1235853101,residential,Via Giuseppe Pisanelli,yes,,"1",67.266515283226695
 w1235853104,residential,Piazza Aldo Moro,yes,,"1",5.668919220983650
 w1235853105,residential,Piazza Aldo Moro,yes,,"1",23.864364502122154
