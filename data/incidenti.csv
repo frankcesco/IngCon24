@@ -1,4 +1,4 @@
-id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,lesioni,chiamata,arrivo,strada,nearest_x,nearest_y,quartiere
+id,data,abitato,tipo,caratteris,asciutto,pavimentaz,meteo,traffico,danni_cose,lesioni,chiamata,arrivo,strada,nearest_x,nearest_y,quartiere
 1,01/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,00:00:00,00:00:00,w25634217,16.8741426742193,41.1256269434237,2
 2,01/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,00:30:00,00:40:00,w333546056,16.8702890840991,41.0778942898334,14
 3,01/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,14:15:00,14:30:00,w24888910,16.8809648764353,41.1210237941443,3
@@ -7,10 +7,14 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6,02/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,00:00:00,00:00:00,w1219743205,16.8840193084736,41.1025105851248,6
 7,02/01/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Scarso,no,si,14:20:00,14:30:00,w25654689,16.8501802190298,41.1142537353495,8
 8,02/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,17:55:00,18:00:00,w292335019,16.8322447263976,41.1248661903233,9
-9,02/01/2022,si,Provinciale entro l abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
-9,02/01/2022,si,Provinciale entro l abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
-10,02/01/2022,si,Provinciale entro l abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
-10,02/01/2022,si,Provinciale entro l abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
+9,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
+9,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
+9,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
+9,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
+10,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
+10,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
+10,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387163,16.9995005,41.0831559,17
+10,02/01/2022,si,Provinciale entro l'abitato,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,20:00:00,20:15:00,w713387164,16.9995005,41.0831559,17
 11,02/01/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Normale,no,si,21:15:00,21:20:00,w1164108701,16.8537653125836,41.1077766213592,8
 12,03/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,06:10:00,06:15:00,w96606441,16.8615102149403,41.1103787503567,8
 13,03/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,08:15:00,08:25:00,w714465412,16.9991507378271,41.0863025647585,17
@@ -37,7 +41,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 34,06/01/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,si,no,06:20:00,06:30:00,w68563043,16.8725704480576,41.1208414223306,2
 35,06/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:35:00,12:40:00,w25817735,16.8660588364677,41.0925869086724,8
 36,06/01/2022,si,Strada urbana,Rotatoria,no,Asfaltata,Pioggia in atto,Normale,no,no,21:32:00,21:40:00,w901684284,16.8929027561897,41.0917255422981,6
-37,07/01/2022,si,Statale entro l abitato,Sottopasso illuminato,no,Asfaltata,Nuvoloso,Scarso,si,no,02:30:00,02:55:00,w45828364,16.813400448367,41.1350117278292,10
+37,07/01/2022,si,Statale entro l'abitato,Sottopasso illuminato,no,Asfaltata,Nuvoloso,Scarso,si,no,02:30:00,02:55:00,w45828364,16.813400448367,41.1350117278292,10
 38,07/01/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,11:35:00,11:45:00,w600312455,16.7474370431701,41.1625860893122,13
 39,07/01/2022,no,Statale,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,no,16:50:00,17:05:00,w1217506132,16.9122181134935,41.0996599417748,5
 40,07/01/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Intenso,no,si,18:45:00,18:50:00,w48180343,16.8618692423144,41.0777964492902,14
@@ -57,7 +61,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 54,10/01/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Normale,no,si,11:30:00,11:45:00,w30002101,16.8694439877042,41.1121173367089,7
 55,10/01/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,13:36:00,13:50:00,w25634811,16.8427537400686,41.1368974514089,10
 56,10/01/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,17:15:00,17:25:00,w30047398,16.8477406616895,41.1262793684646,4
-57,10/01/2022,si,Statale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,no,17:15:00,17:30:00,w28792611,16.8997641833492,41.0962630689954,5
+57,10/01/2022,si,Statale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,no,17:15:00,17:30:00,w28792611,16.8997641833492,41.0962630689954,5
 58,10/01/2022,no,Statale,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,17:20:00,17:35:00,w318950469,16.8930498343961,41.0911261661599,6
 59,10/01/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,si,no,20:30:00,20:40:00,w31576511,16.8511355310129,41.0893248114288,14
 60,11/01/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,08:25:00,08:30:00,w25634770,16.8379829254619,41.1306893287018,10
@@ -81,12 +85,12 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 78,13/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:15:00,13:30:00,w25654998,16.8648297456907,41.1032465926481,8
 79,13/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:30:00,14:50:00,w48563881,16.8693513197769,41.1213620632731,2
 80,13/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,18:15:00,18:22:00,w100126148,16.8302148448916,41.1124986190943,9
-81,14/01/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,07:20:00,07:30:00,w28921522,16.8573355074551,41.0900341321897,8
+81,14/01/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,07:20:00,07:30:00,w28921522,16.8573355074551,41.0900341321897,8
 82,14/01/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,13:30:00,13:55:00,w48174808,16.8485079323269,41.1143500489578,8
 83,14/01/2022,si,Strada urbana,Intersezione non regolata/non segnalata,si,Asfaltata,Sereno,Intenso,no,si,15:00:00,15:10:00,w30653669,16.8599563879039,41.1069092931903,8
 84,14/01/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,18:05:00,18:20:00,w30633410,16.8875484541767,41.1152457615013,5
 85,14/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,18:15:00,18:25:00,w80317990,16.7852638263357,41.1275715376989,11
-86,14/01/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,22:47:00,23:05:00,w1223005493,16.7734128821518,41.1313445716982,11
+86,14/01/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,22:47:00,23:05:00,w1223005493,16.7734128821518,41.1313445716982,11
 87,15/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,09:20:00,09:30:00,w1070605626,16.8518303629554,41.1291405963194,4
 88,15/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,09:45:00,09:55:00,w1236614316,16.8781682591979,41.1065478235413,6
 89,15/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,11:50:00,11:55:00,w24884077,16.866441671728,41.1245311522612,2
@@ -102,7 +106,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 99,17/01/2022,no,Provinciale,Curva a visuale libera,no,Asfaltata,Sereno,Normale,no,si,08:20:00,08:30:00,w45827645,16.768184513193,41.1284550942697,12
 100,17/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,08:35:00,08:40:00,w134805760,16.8647501575821,41.1088256536959,8
 101,17/01/2022,si,Strada urbana,Incrocio,si,In conglomerato cementizio,Sereno,Scarso,no,no,11:05:00,11:15:00,w306652057,16.8569556813575,41.1264767214684,4
-102,17/01/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:10:00,14:30:00,w1217506132,16.9096363020496,41.0991694558736,5
+102,17/01/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:10:00,14:30:00,w1217506132,16.9096363020496,41.0991694558736,5
 103,17/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,14:35:00,14:40:00,w50319918,16.8677148062883,41.108649409602,7
 104,17/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:05:00,15:15:00,w130559644,16.8212253526953,41.1380339157437,10
 105,17/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:20:00,19:40:00,w1219744083,16.8791193664448,41.1034768265597,7
@@ -114,6 +118,10 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 111,19/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,19:30:00,19:45:00,w24884196,16.860186952265,41.1193397383258,4
 112,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w127664375,16.7806901,41.125474,11
 112,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w374168420,16.7806901,41.125474,11
+112,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w127664375,16.7806901,41.125474,11
+112,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w374168420,16.7806901,41.125474,11
+113,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w127664375,16.7806901,41.125474,11
+113,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w374168420,16.7806901,41.125474,11
 113,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w127664375,16.7806901,41.125474,11
 113,19/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:50:00,20:10:00,w374168420,16.7806901,41.125474,11
 114,20/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,00:15:00,00:30:00,w31578895,16.8503382751839,41.1171000821129,9
@@ -146,7 +154,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 141,24/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:00:00,10:20:00,w30902756,16.8662939843482,41.0626633613507,15
 142,24/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:00:00,14:10:00,w1210924615,16.8626837136349,41.0668495468142,15
 143,24/01/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:10:00,15:20:00,w30029559,16.8642196523382,41.1237357976525,2
-144,24/01/2022,si,Provinciale entro l abitato,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,no,16:15:00,16:25:00,w173680979,16.8460748463381,41.1000784133124,8
+144,24/01/2022,si,Provinciale entro l'abitato,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,no,16:15:00,16:25:00,w173680979,16.8460748463381,41.1000784133124,8
 145,24/01/2022,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,no,no,20:00:00,20:10:00,w32469721,16.8035466014626,41.1302713982263,11
 146,25/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00:00,00:00:00,w68576721,16.8642006778714,41.1257277830528,2
 147,25/01/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,06:05:00,06:10:00,w303326645,16.8757995045244,41.1174080336974,2
@@ -266,7 +274,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 261,12/02/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,03:20:00,03:30:00,w736596146,16.8721873728184,41.112560139043,7
 262,12/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:50:00,10:00:00,w24884052,16.8714491837531,41.1221416703874,2
 263,12/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:00:00,11:15:00,w653583335,16.863306570798,41.1166318740255,2
-264,12/02/2022,si,Provinciale entro l abitato,Incrocio,si,Asfaltata,Sereno,Normale,no,no,12:00:00,12:10:00,w28306374,16.9986691916976,41.084427065586,17
+264,12/02/2022,si,Provinciale entro l'abitato,Incrocio,si,Asfaltata,Sereno,Normale,no,no,12:00:00,12:10:00,w28306374,16.9986691916976,41.084427065586,17
 265,12/02/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,13:40:00,14:00:00,w565496547,16.8646758779937,41.10397032595,8
 266,12/02/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,18:25:00,18:30:00,w30654184,16.8769671393811,41.1161188096095,6
 267,12/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,20:40:00,20:55:00,w241918044,16.8725240728054,41.1263256753235,1
@@ -384,7 +392,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 379,25/02/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,13:25:00,13:30:00,w25634401,16.8861163488286,41.1056946287175,6
 380,25/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:50:00,15:10:00,w24884032,16.860431191133,41.1259036051058,4
 381,25/02/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,15:10:00,15:15:00,w653583336,16.8599335288619,41.1071228285787,8
-382,25/02/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,16:45:00,16:50:00,w153799151,16.8409589419419,41.0946449629839,8
+382,25/02/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,16:45:00,16:50:00,w153799151,16.8409589419419,41.0946449629839,8
 383,25/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,18:00:00,18:10:00,w30113517,16.7830554775426,41.152072228762,12
 384,25/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:30:00,18:40:00,w682707457,16.8816031597973,41.1129689171882,6
 385,25/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:40:00,19:00:00,w50317008,16.8521115592492,41.1201636963032,4
@@ -398,12 +406,12 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 393,27/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,11:45:00,12:00:00,w33837409,16.8647923572278,41.1137536201702,8
 394,27/02/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,18:35:00,18:40:00,w968705518,16.8671680434471,41.1041565689826,8
 395,28/02/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Scarso,no,si,06:55:00,07:10:00,w318933768,16.8626986708849,41.1165835443241,2
-396,28/02/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,si,si,07:25:00,07:30:00,w27810832,16.8392715037828,41.0916478877475,8
+396,28/02/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,si,si,07:25:00,07:30:00,w27810832,16.8392715037828,41.0916478877475,8
 397,28/02/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Sereno,Normale,no,no,08:40:00,08:45:00,w25634431,16.8814010113833,41.1059557642302,6
 398,28/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:15:00,10:30:00,w30706677,16.8601593464951,41.1086983035049,8
 399,28/02/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:45:00,12:50:00,w325737258,16.8690802124244,41.1186465960397,2
 400,28/02/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,si,14:20:00,14:25:00,w1219744082,16.8763664665298,41.100794965049,7
-401,28/02/2022,si,Statale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,si,no,16:20:00,16:30:00,w28487854,16.8873694109803,41.0892615236819,6
+401,28/02/2022,si,Statale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,si,no,16:20:00,16:30:00,w28487854,16.8873694109803,41.0892615236819,6
 402,28/02/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Normale,no,si,18:40:00,18:50:00,w25586000,16.8671805652765,41.0950498988857,7
 403,01/03/2022,no,Statale,Rettilineo,no,Asfaltata,Nevicata in atto,Scarso,no,no,05:18:00,05:28:00,w30277595,16.7708082188138,41.1519653162828,12
 404,01/03/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Grandine in atto,Normale,no,si,07:00:00,07:15:00,w29390846,16.861773498285,41.0775261669043,14
@@ -437,7 +445,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 432,05/03/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,no,12:25:00,12:35:00,w130574777,16.8190395924334,41.1339838402713,10
 433,05/03/2022,no,Statale,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,no,14:05:00,14:20:00,w28792609,16.9083335807385,41.0985789617173,5
 434,05/03/2022,no,Statale,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,si,14:05:00,14:20:00,w28792609,16.9089254450263,41.098840344559,5
-435,05/03/2022,si,Statale entro l abitato,Curva senza visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,si,15:40:00,15:45:00,w30859256,16.986510210889,41.0874814524961,17
+435,05/03/2022,si,Statale entro l'abitato,Curva senza visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,si,15:40:00,15:45:00,w30859256,16.986510210889,41.0874814524961,17
 436,05/03/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,no,20:00:00,20:18:00,w50079224,16.8162700098202,41.1231990526335,9
 437,06/03/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00:00,00:00:00,w68576723,16.8673473366975,41.1213514199454,2
 438,06/03/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,03:50:00,04:05:00,w49197451,16.8495586267565,41.12112227677,4
@@ -629,7 +637,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 624,29/03/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:25:00,15:45:00,w30504258,16.9072173417491,41.1076314399371,5
 625,29/03/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,15:40:00,15:55:00,w180465485,16.83596760316,41.1346363124394,10
 626,29/03/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:45:00,17:55:00,w24884090,16.8763340623584,41.122439566716,3
-627,29/03/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:30:00,18:40:00,w28684909,16.8418915253694,41.0957305807271,8
+627,29/03/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:30:00,18:40:00,w28684909,16.8418915253694,41.0957305807271,8
 628,29/03/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,19:15:00,19:35:00,w31341609,16.8659298941025,41.0707200520093,14
 629,29/03/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,21:20:00,21:40:00,w68576725,16.8679920745076,41.1252411230192,2
 630,30/03/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,01:20:00,01:30:00,w736596146,16.8721522545159,41.1121205122304,7
@@ -695,7 +703,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 690,07/04/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,08:55:00,09:10:00,w562701235,16.8378325129572,41.1309288001442,10
 691,07/04/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,si,12:40:00,12:50:00,w1234008506,16.8580891715239,41.1281449226887,4
 692,07/04/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,si,14:07:00,14:12:00,w30002265,16.8877889772858,41.1086721689477,6
-693,07/04/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,16:20:00,16:30:00,w30311846,16.9031388915574,41.0743197707713,14
+693,07/04/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,16:20:00,16:30:00,w30311846,16.9031388915574,41.0743197707713,14
 694,07/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,18:20:00,18:40:00,w136015433,16.8885983205343,41.0978062064404,6
 695,07/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:20:00,19:25:00,w67034079,16.8888162020099,41.11741114357,3
 696,07/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,21:50:00,22:14:00,w30673467,16.859040661907,41.1054593464499,8
@@ -761,7 +769,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 756,15/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,15:10:00,15:30:00,w264909164,16.8677527822286,41.1118645969966,8
 757,15/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,16:30:00,16:45:00,w25634399,16.8836078968301,41.1050622912993,6
 758,15/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:00:00,18:10:00,w1019768021,16.9240302707419,41.1112972726237,5
-759,15/04/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:20:00,19:30:00,w173763757,16.8375715525546,41.0902714274414,8
+759,15/04/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:20:00,19:30:00,w173763757,16.8375715525546,41.0902714274414,8
 760,15/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:48:00,21:20:00,w180534899,16.9350459423928,41.1070595850545,5
 761,15/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,21:40:00,21:50:00,w562701235,16.8378322966939,41.1309247423851,10
 762,15/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,22:00:00,22:05:00,w69142613,16.8721924604669,41.1242002828411,2
@@ -801,7 +809,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 796,20/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,15:00:00,15:05:00,w31341609,16.8659458552449,41.0707521048906,14
 797,20/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,20:00:00,20:15:00,w48874535,16.8594629558899,41.1274639453892,4
 798,20/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,21:15:00,21:30:00,w80317994,16.7873823961846,41.1285920242001,11
-799,21/04/2022,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,si,si,11:50:00,12:00:00,w50079219,16.8220172256693,41.1243206826251,9
+799,21/04/2022,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,si,si,11:50:00,12:00:00,w50079219,16.8220172256693,41.1243206826251,9
 800,21/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,12:45:00,13:05:00,w30002079,16.8736008044733,41.1059400091168,7
 801,21/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Intenso,no,si,13:10:00,13:20:00,w1236614318,16.8788577828373,41.101123456354,7
 802,21/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:15:00,17:57:00,w27534765,16.8098171311679,41.1382129319241,10
@@ -810,7 +818,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 805,22/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,09:00:00,09:15:00,w26085211,16.9989455224921,41.0852723380541,17
 806,22/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:15:00,10:30:00,w49208259,16.8882874367472,41.1012030167203,6
 807,22/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Scarso,no,no,13:20:00,13:40:00,w27534126,16.841053432168,41.1322486861528,10
-808,22/04/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,14:15:00,14:20:00,w438861390,16.8221033983426,41.1076009326514,9
+808,22/04/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,14:15:00,14:20:00,w438861390,16.8221033983426,41.1076009326514,9
 809,22/04/2022,si,Strada urbana,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,16:00:00,16:10:00,w69131924,16.8629627784766,41.125210206366,2
 810,22/04/2022,no,Statale,Rettilineo,no,Asfaltata,Nuvoloso,Intenso,no,no,18:10:00,18:15:00,w383272083,16.8465807952244,41.0919927623446,8
 811,23/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,01:45:00,02:00:00,w789364353,16.8735600677843,41.1124856690639,7
@@ -824,7 +832,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 819,24/04/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,13:35:00,13:50:00,w130574811,16.8271511440894,41.1314210287132,10
 820,24/04/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Scarso,no,si,17:15:00,17:20:00,w30397082,16.9995979483669,41.0866827008008,17
 821,24/04/2022,si,Strada urbana,Strettoia,si,Asfaltata,Sereno,Normale,no,no,21:00:00,21:15:00,w1226914470,16.8459674189319,41.0903083609864,14
-822,24/04/2022,si,Provinciale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,si,si,22:40:00,22:50:00,w137324482,16.8487445839088,41.0442373926792,16
+822,24/04/2022,si,Provinciale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,si,si,22:40:00,22:50:00,w137324482,16.8487445839088,41.0442373926792,16
 823,25/04/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:50:00,01:00:00,w29093038,16.8031116383483,41.1230504025942,11
 824,25/04/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,07:50:00,08:05:00,w51167620,16.857126180387,41.0731297697079,14
 825,25/04/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,11:05:00,11:20:00,w68558005,16.890987622913,41.1181486147833,5
@@ -906,7 +914,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 901,03/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,14:40:00,14:55:00,w30630832,16.8964093535067,41.1118468386764,5
 902,03/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,17:55:00,18:10:00,w127664378,16.7784615267617,41.1243996318923,11
 903,03/05/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,18:20:00,18:40:00,w1236716735,16.8835043002191,41.0921791421582,6
-904,03/05/2022,si,Statale entro l abitato,Incrocio,si,Asfaltata,Sereno,Normale,no,no,19:05:00,19:15:00,w293184745,16.7719672,41.1524458,12
+904,03/05/2022,si,Statale entro l'abitato,Incrocio,si,Asfaltata,Sereno,Normale,no,no,19:05:00,19:15:00,w293184745,16.7719672,41.1524458,12
 905,03/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:15:00,20:27:00,w1107330352,16.8538321214308,41.1036301799232,8
 906,03/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,si,si,21:14:00,21:23:00,w30632260,16.8949627412892,41.1072726062719,5
 907,04/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,08:15:00,08:25:00,w33053472,16.7818719356662,41.1269755588083,11
@@ -1100,7 +1108,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1095,24/05/2022,no,Comunale extraurbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,18:30:00,18:40:00,w568741090,16.816550467156,41.1236178052418,9
 1096,24/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:50:00,19:05:00,w122548815,16.897320276547,41.1167923348817,5
 1097,24/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:15:00,20:35:00,w25654677,16.8691653031374,41.109698223691,7
-1098,24/05/2022,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,21:15:00,21:35:00,w30277673,16.7702884036085,41.1527568071131,12
+1098,24/05/2022,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,21:15:00,21:35:00,w30277673,16.7702884036085,41.1527568071131,12
 1099,25/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,00:00:00,00:00:00,w32469632,16.8037136534446,41.1272425078424,11
 1100,25/05/2022,no,Altra strada,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,07:40:00,07:50:00,w27376452,16.926672393825,41.1021161383558,5
 1101,25/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:10:00,09:20:00,w29983508,16.8636931089465,41.1148587098095,8
@@ -1142,9 +1150,9 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1137,29/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,10:30:00,10:40:00,w318933769,16.8687109189657,41.1149564841347,8
 1138,29/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,12:40:00,12:50:00,w29980637,16.864338677042,41.1223857770094,2
 1139,29/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:40:00,19:55:00,w24884194,16.8523188013884,41.1216493068675,4
-1140,29/05/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,21:18:00,21:29:00,w30150527,16.9987906101405,41.0843164748116,17
+1140,29/05/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,21:18:00,21:29:00,w30150527,16.9987906101405,41.0843164748116,17
 1141,29/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,22:00:00,22:10:00,w1236716737,16.8834480240836,41.0654670531807,14
-1142,29/05/2022,si,Provinciale entro l abitato,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,22:45:00,23:00:00,w24888810,16.8745382728093,41.1223184772155,2
+1142,29/05/2022,si,Provinciale entro l'abitato,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,22:45:00,23:00:00,w24888810,16.8745382728093,41.1223184772155,2
 1143,30/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00:00,00:00:00,w30277320,16.898705373012,41.1129468535957,5
 1144,30/05/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,08:40:00,08:45:00,w24884068,16.8711274914248,41.1254407514666,2
 1145,30/05/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:45:00,09:50:00,w562701235,16.8377624646302,41.1297075536142,10
@@ -1307,7 +1315,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1302,16/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,22:10:00,22:20:00,w29975377,16.8644587518469,41.1210687752743,2
 1303,17/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:35:00,08:40:00,w132725570,16.8002008636862,41.1216570476229,11
 1304,17/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:30:00,09:40:00,w30632389,16.8920668579452,41.1084838482861,5
-1305,17/06/2022,si,Provinciale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,si,13:00:00,13:12:00,w173763757,16.837570001656,41.0902719774586,8
+1305,17/06/2022,si,Provinciale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,si,13:00:00,13:12:00,w173763757,16.837570001656,41.0902719774586,8
 1306,17/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:20:00,15:25:00,w50367914,16.8738973436978,41.1074627102711,7
 1307,17/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:30:00,15:45:00,w24884161,16.8647650624998,41.1269130536629,2
 1308,17/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,16:00:00,16:15:00,w27534610,16.8133698618689,41.1389167237553,10
@@ -1339,7 +1347,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1334,20/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,17:15:00,17:25:00,w1219747634,16.8937653038941,41.114849511872,5
 1335,20/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:35:00,19:45:00,w49199258,16.813649702221,41.1237309039638,9
 1336,20/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,20:35:00,20:45:00,w1226173975,16.8758287570192,41.1240376790136,3
-1337,20/06/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,21:40:00,21:50:00,w28792611,16.8997676500255,41.0962647750662,5
+1337,20/06/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,21:40:00,21:50:00,w28792611,16.8997676500255,41.0962647750662,5
 1338,20/06/2022,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Scarso,no,si,21:50:00,22:05:00,w32526078,16.7917706049438,41.121304457934,11
 1339,21/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:30:00,08:40:00,w50309445,16.8742297071275,41.1189925157844,2
 1340,21/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:10:00,12:15:00,w1221506608,16.9115911399555,41.1079788391796,5
@@ -1427,7 +1435,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1422,29/06/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Sereno,Normale,no,no,22:10:00,22:15:00,w24884257,16.8736916344701,41.1222523562294,2
 1423,29/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,23:00:00,23:10:00,w1222704309,16.7888884710293,41.1219730855986,11
 1424,30/06/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,00:00:00,00:00:00,w29975382,16.869140046564,41.1198496776738,2
-1425,30/06/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:15:00,09:20:00,w30277595,16.7708096716308,41.1519681082714,12
+1425,30/06/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:15:00,09:20:00,w30277595,16.7708096716308,41.1519681082714,12
 1426,30/06/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:10:00,11:30:00,w438861389,16.8235904820519,41.1084762846179,9
 1427,30/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,12:05:00,12:13:00,w69306703,16.7665794024529,41.150046229814,12
 1428,30/06/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:25:00,13:30:00,w457644090,16.7964804586634,41.1125941311757,9
@@ -1441,7 +1449,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1436,01/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,17:15:00,17:30:00,w344265630,16.8380009749713,41.1306168180537,10
 1437,01/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,19:10:00,19:20:00,w28921525,16.8674511604732,41.0896252055875,14
 1438,01/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,23:30:00,23:45:00,w27534583,16.8123001827727,41.1372771371237,10
-1439,02/07/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,00:10:00,00:20:00,w28792611,16.8997641833492,41.0962630689954,5
+1439,02/07/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,00:10:00,00:20:00,w28792611,16.8997641833492,41.0962630689954,5
 1440,02/07/2022,si,Strada urbana,Curva senza visuale libera,si,Asfaltata,Sereno,Scarso,no,si,01:20:00,01:30:00,w25817868,16.8778351995135,41.0957356170712,7
 1441,02/07/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,02:00:00,02:15:00,w30029568,16.8740867781768,41.1071400377557,7
 1442,02/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:35:00,09:45:00,w30015979,16.8446802142207,41.1361502844025,10
@@ -1539,7 +1547,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1534,13/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:05:00,12:20:00,w30505908,16.9003187356413,41.1058355238013,5
 1535,13/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:40:00,17:50:00,w744703540,16.8974535220844,41.1069701485922,5
 1536,13/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,18:00:00,18:20:00,w562701235,16.8378322966939,41.1309247423851,10
-1537,13/07/2022,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,21:00:00,21:15:00,w49205176,16.8590668529747,41.0778619792844,14
+1537,13/07/2022,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,21:00:00,21:15:00,w49205176,16.8590668529747,41.0778619792844,14
 1538,13/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,22:12:00,22:18:00,w27534765,16.8110277501034,41.137826916207,10
 1539,14/07/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,00:00:00,00:00:00,w31248796,16.8913400273307,41.1116761581308,5
 1540,14/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,00:00:00,00:00:00,w80011282,16.9906200626619,41.087148794493,17
@@ -1600,7 +1608,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1595,20/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:00:00,15:15:00,w30113530,16.7766881909037,41.1517755574655,12
 1596,20/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,16:45:00,16:55:00,w68576721,16.864590034017,41.1257493869281,2
 1597,20/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,si,no,17:45:00,18:10:00,w29984220,16.8758134714393,41.1087247341926,7
-1598,20/07/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,18:01:00,18:09:00,w180534898,16.9114397066402,41.1134293142716,5
+1598,20/07/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,18:01:00,18:09:00,w180534898,16.9114397066402,41.1134293142716,5
 1599,20/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,23:00:00,23:10:00,w1226173975,16.8758287570192,41.1240376790136,3
 1600,21/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,09:30:00,09:35:00,w30501262,16.9134275859475,41.1057879508892,5
 1601,21/07/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,10:15:00,10:30:00,w1218701181,16.8906730475407,41.1100726335073,5
@@ -1678,7 +1686,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1673,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,si,si,02:55:00,03:05:00,w48503537,16.9006718932061,41.1160115747921,5
 1674,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,11:45:00,11:55:00,w159252916,16.870834467369,41.1197037906479,2
 1675,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:15:00,14:30:00,w306657149,16.8510644751778,41.1277511246037,4
-1676,30/07/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,15:15:00,15:30:00,w30277595,16.7708082188138,41.1519653162828,12
+1676,30/07/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,15:15:00,15:30:00,w30277595,16.7708082188138,41.1519653162828,12
 1677,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,16:20:00,16:30:00,w30015974,16.8603819348434,41.1282204201685,4
 1678,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:08:00,18:15:00,w325737261,16.8798602485475,41.1006968721756,6
 1679,30/07/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,18:35:00,18:50:00,w101269229,16.8556379481543,41.0978859579789,8
@@ -1688,7 +1696,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1683,31/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,14:05:00,14:20:00,w24888743,16.8541266090199,41.1197303217748,4
 1684,31/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,16:50:00,17:00:00,w29984220,16.8770283115275,41.1087006302426,7
 1685,31/07/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,17:18:00,17:25:00,w180455772,16.7847302206032,41.1485415887012,12
-1686,31/07/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,21:30:00,21:40:00,w30711403,16.9032170666629,41.0742288593161,14
+1686,31/07/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,21:30:00,21:40:00,w30711403,16.9032170666629,41.0742288593161,14
 1687,01/08/2022,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Scarso,no,si,00:30:00,00:45:00,w1253560889,16.8518302987606,41.1291339364944,4
 1688,01/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:30:00,10:35:00,w968705518,16.8674973842055,41.1053329407277,7
 1689,01/08/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,19:15:00,19:30:00,w344265628,16.837767553364,41.1282010747313,10
@@ -1699,7 +1707,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1694,02/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,17:20:00,17:26:00,w135048702,16.8645408192263,41.1159555669986,8
 1695,02/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,20:30:00,20:44:00,w30277595,16.7708096716308,41.1519681082714,12
 1696,03/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:10:00,09:20:00,w30277465,16.8988355131266,41.1075998618651,5
-1697,03/08/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:40:00,11:50:00,w28921525,16.8676994565851,41.0896188315747,14
+1697,03/08/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:40:00,11:50:00,w28921525,16.8676994565851,41.0896188315747,14
 1698,03/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:55:00,12:00:00,w69306703,16.7650300640967,41.1503103557538,12
 1699,03/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:10:00,14:20:00,w25585764,16.8767142032559,41.1126041007925,6
 1700,03/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,14:50:00,15:00:00,w1223059754,16.8951581235725,41.1168426438672,5
@@ -1759,7 +1767,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1754,10/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:20:00,08:30:00,w438861389,16.8233159201938,41.1083171205461,9
 1755,10/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:55:00,09:05:00,w30425392,16.9441293101927,41.0955337044935,5
 1756,10/08/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:40:00,09:50:00,w136015433,16.885660052835,41.0996800341167,6
-1757,10/08/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,16:40:00,16:50:00,w383272079,16.8488764028504,41.0912981180943,14
+1757,10/08/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,16:40:00,16:50:00,w383272079,16.8488764028504,41.0912981180943,14
 1758,10/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:25:00,19:30:00,w29986258,16.8784300639665,41.1203890212699,3
 1759,10/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,20:00:00,20:15:00,w540660816,16.835622272391,41.0970737196117,8
 1760,10/08/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,21:15:00,21:35:00,w374168420,16.7792771615467,41.1265740218472,11
@@ -1776,7 +1784,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1771,11/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,15:40:00,16:00:00,w30015974,16.8641461828114,41.1286886179073,2
 1772,11/08/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,si,si,18:20:00,18:30:00,w27534610,16.8142899448846,41.1388786669399,10
 1773,11/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:40:00,19:50:00,w29975385,16.8720691499469,41.1199945236395,2
-1774,12/08/2022,si,Provinciale entro l abitato,Passaggio a livello (custodito),si,Asfaltata,Nevicata in atto,Scarso,si,no,00:00:00,00:00:00,w1225902100,16.8717609167531,41.1071006738314,7
+1774,12/08/2022,si,Provinciale entro l'abitato,Passaggio a livello (custodito),si,Asfaltata,Nevicata in atto,Scarso,si,no,00:00:00,00:00:00,w1225902100,16.8717609167531,41.1071006738314,7
 1775,12/08/2022,si,Strada urbana,Cavalcavia,si,Asfaltata,Nuvoloso,Scarso,no,si,07:55:00,08:05:00,w1226669096,16.9412965445965,41.0969467631053,5
 1776,12/08/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,10:15:00,10:32:00,w325737261,16.8832842197966,41.0940005100144,6
 1777,12/08/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Normale,no,no,11:30:00,11:36:00,w69306726,16.7678776436521,41.1530545732846,12
@@ -1894,7 +1902,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1889,01/09/2022,si,Strada urbana,Intersezione non regolata/non segnalata,si,Asfaltata,Nuvoloso,Normale,no,si,10:05:00,10:15:00,w568741090,16.8186653139396,41.1241053366037,9
 1890,01/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,10:25:00,10:40:00,w30029559,16.8630547637458,41.123663845763,2
 1891,01/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,10:40:00,10:55:00,w28279199,16.8522632754771,41.0835388072571,14
-1892,01/09/2022,si,Provinciale entro l abitato,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Normale,no,no,14:10:00,14:40:00,w561218346,16.8866035037097,41.0837173024096,6
+1892,01/09/2022,si,Provinciale entro l'abitato,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Normale,no,no,14:10:00,14:40:00,w561218346,16.8866035037097,41.0837173024096,6
 1893,01/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,14:20:00,14:50:00,w25654915,16.8684779049767,41.1029977723739,7
 1894,01/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,17:00:00,17:15:00,w24884043,16.8622715537439,41.1229383574511,2
 1895,01/09/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,18:00:00,18:10:00,w295029133,16.7631527915931,41.1513339110901,12
@@ -1982,7 +1990,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1977,12/09/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,00:45:00,00:50:00,w25817813,16.8705183813909,41.093171344031,7
 1978,12/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,07:10:00,07:20:00,w736596146,16.8721277613023,41.1117501480513,7
 1979,12/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,08:57:00,09:11:00,w706348096,16.8817674726981,41.1019813552617,6
-1980,12/09/2022,si,Provinciale entro l abitato,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,10:45:00,10:55:00,w1223328897,16.8374352921481,41.0886794924919,8
+1980,12/09/2022,si,Provinciale entro l'abitato,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,10:45:00,10:55:00,w1223328897,16.8374352921481,41.0886794924919,8
 1981,12/09/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,si,si,12:25:00,12:35:00,w147971386,16.952630882234,41.0932580231022,17
 1982,12/09/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,16:30:00,16:45:00,w29976860,16.8627993733309,41.126668898455,2
 1983,12/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,16:55:00,17:05:00,w1220606619,16.8770533844076,41.1087213367499,7
@@ -1994,7 +2002,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 1989,13/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:45:00,10:00:00,w25817735,16.8659010136749,41.0904021149759,7
 1990,13/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:15:00,10:30:00,w68563024,16.8733693331497,41.1137759547984,7
 1991,13/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:20:00,10:30:00,w30653669,16.8595855242167,41.1037262063172,8
-1992,13/09/2022,si,Provinciale entro l abitato,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,11:30:00,11:45:00,w974029223,16.821319168003,41.0883608418496,8
+1992,13/09/2022,si,Provinciale entro l'abitato,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,11:30:00,11:45:00,w974029223,16.821319168003,41.0883608418496,8
 1993,13/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,18:00:00,18:10:00,w255569471,16.815450016045,41.1265905376437,9
 1994,13/09/2022,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,no,20:05:00,20:13:00,w29976859,16.8611503503054,41.1219981172357,2
 1995,14/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:15:00,10:19:00,w30653167,16.8884784785906,41.1023537038585,6
@@ -2101,7 +2109,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2096,24/09/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Intenso,no,si,22:45:00,23:00:00,w28279077,16.8702732603912,41.1186866151507,2
 2097,24/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,22:45:00,22:50:00,w185619565,16.8723205709026,41.1153334438242,7
 2098,25/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:45:00,11:00:00,w27378276,16.9126768984458,41.1045766106984,5
-2099,25/09/2022,si,Provinciale entro l abitato,Intersezione non regolata/non segnalata,no,Asfaltata,Pioggia in atto,Normale,si,si,19:15:00,19:25:00,w73216888,16.7712194838546,41.1437047652533,12
+2099,25/09/2022,si,Provinciale entro l'abitato,Intersezione non regolata/non segnalata,no,Asfaltata,Pioggia in atto,Normale,si,si,19:15:00,19:25:00,w73216888,16.7712194838546,41.1437047652533,12
 2100,25/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,20:00:00,20:15:00,w176518949,16.822312315627,41.1243221082035,9
 2101,25/09/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,21:30:00,21:45:00,w25756821,16.8646077224676,41.0977595559581,8
 2102,26/09/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,00:00:00,00:10:00,w499025614,16.8718074755514,41.1189853668393,2
@@ -2170,7 +2178,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2165,03/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,12:00:00,12:20:00,w96606454,16.8633170498569,41.1129552733238,8
 2166,03/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,13:05:00,13:15:00,w1231453026,16.790696264395,41.122407816292,11
 2167,03/10/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,16:50:00,17:00:00,w114957090,16.8489132042606,41.114252154554,8
-2168,03/10/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,17:50:00,18:05:00,w901684284,16.8929044142166,41.0917221708347,6
+2168,03/10/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,17:50:00,18:05:00,w901684284,16.8929044142166,41.0917221708347,6
 2169,03/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,21:30:00,21:40:00,w140004506,16.8597598437636,41.1054373244518,8
 2170,04/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,00:22:00,00:30:00,w568741090,16.8201238770551,41.1243612763657,9
 2171,04/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:20:00,10:30:00,w28791151,16.851797505115,41.1143950363025,8
@@ -2231,12 +2239,12 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2226,10/10/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,11:50:00,11:55:00,w110550855,16.8818951052501,41.1059503786108,6
 2227,10/10/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,13:15:00,13:30:00,w30029559,16.8670802530954,41.12389245209,2
 2228,10/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Normale,no,no,14:20:00,14:30:00,w180534897,16.8717680866001,41.1296788396502,1
-2229,10/10/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,14:20:00,14:26:00,w45827645,16.7702260969999,41.1296760214949,11
+2229,10/10/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,14:20:00,14:26:00,w45827645,16.7702260969999,41.1296760214949,11
 2230,10/10/2022,no,Provinciale,Pendenza,no,Asfaltata,Pioggia in atto,Scarso,si,no,15:10:00,15:35:00,w1223328898,16.8337999692474,41.0883207243118,8
 2231,10/10/2022,no,Statale,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,18:05:00,18:12:00,w28685919,16.8135654279668,41.1038105628262,9
 2232,10/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,19:10:00,19:20:00,w25634505,16.8897692130729,41.1106908043843,5
 2233,10/10/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Sereno,Intenso,no,si,20:45:00,21:00:00,w49197451,16.8518998319024,41.1220003541695,4
-2234,10/10/2022,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,22:00:00,22:15:00,w27535287,16.8068901936386,41.1377766728596,10
+2234,10/10/2022,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,22:00:00,22:15:00,w27535287,16.8068901936386,41.1377766728596,10
 2235,11/10/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Scarso,no,no,00:00:00,00:00:00,w1274603770,16.8732683080819,41.11725039398,2
 2236,11/10/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Nuvoloso,Scarso,no,no,06:15:00,06:30:00,w1236614317,16.8796686703663,41.1012895652204,6
 2237,11/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,no,09:12:00,09:17:00,w130574775,16.8209263738984,41.1068415122127,9
@@ -2246,7 +2254,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2241,11/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:40:00,19:47:00,w30654310,16.8748050452525,41.1153065004334,6
 2242,11/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,20:40:00,20:45:00,w29983499,16.8680296318182,41.1169205247118,2
 2243,11/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,20:40:00,20:45:00,w29983499,16.8680296318182,41.1169205247118,2
-2244,12/10/2022,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Nuvoloso,Scarso,si,no,00:30:00,00:35:00,w28082673,16.8929969942921,41.0923179826919,6
+2244,12/10/2022,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Nuvoloso,Scarso,si,no,00:30:00,00:35:00,w28082673,16.8929969942921,41.0923179826919,6
 2245,12/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,10:45:00,10:50:00,w293184741,16.7710099424911,41.1526695025933,12
 2246,12/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:45:00,11:55:00,w24884039,16.8719712676861,41.1254777695623,2
 2247,12/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,14:55:00,15:05:00,w25634741,16.871568836153,41.1075864009678,7
@@ -2265,7 +2273,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2260,14/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Intenso,si,no,00:00:00,00:00:00,w29980634,16.869244344007,41.1226668758816,2
 2261,14/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,06:40:00,06:55:00,w1006573752,16.7570383,41.1628465,13
 2262,14/10/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,08:10:00,08:20:00,w25586000,16.8676302913544,41.0967057619773,7
-2263,14/10/2022,si,Provinciale entro l abitato,Pendenza,no,Asfaltata,Nuvoloso,Normale,no,si,09:45:00,09:50:00,w696640159,16.7550561383213,41.1559815937297,13
+2263,14/10/2022,si,Provinciale entro l'abitato,Pendenza,no,Asfaltata,Nuvoloso,Normale,no,si,09:45:00,09:50:00,w696640159,16.7550561383213,41.1559815937297,13
 2264,14/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,10:45:00,10:55:00,w241917281,16.8723952285946,41.1262151597756,1
 2265,14/10/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Normale,no,si,11:10:00,11:20:00,w180465483,16.8453608569913,41.1367649077566,10
 2266,14/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,no,11:35:00,11:50:00,w398989767,16.7742605490795,41.1360478014927,12
@@ -2369,7 +2377,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2364,26/10/2022,si,Strada urbana,Curva a visuale libera,no,Asfaltata,Nuvoloso,Scarso,si,no,19:30:00,19:40:00,w131492721,16.8537001578383,41.0807724855916,14
 2365,26/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,21:37:00,21:52:00,w25838210,16.8541986257426,41.0971495541529,8
 2366,27/10/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,01:40:00,01:50:00,w24884196,16.8602839888022,41.1182395558159,4
-2367,27/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:00:00,09:15:00,w384160317,16.8499646796104,41.1141901446164,8
+2367,27/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:00:00,09:15:00,w1043372476,16.8499626186911,41.1142455071211,8
 2368,27/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:40:00,09:45:00,w982418225,16.8857791455227,41.1064917281467,6
 2369,27/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:10:00,10:20:00,w122078818,16.9088982910907,41.1025156613898,5
 2370,27/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,13:20:00,13:50:00,w33831687,16.8669406607891,41.1105442498491,8
@@ -2399,7 +2407,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2394,29/10/2022,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,21:15:00,21:25:00,w24909989,16.8809384558911,41.1186196902446,3
 2395,30/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,01:35:00,01:45:00,w1070609213,16.8706331767809,41.1261047813792,1
 2396,30/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,06:15:00,06:30:00,w398989766,16.8412937471864,41.1180325650862,9
-2397,30/10/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:45:00,08:55:00,w28792611,16.8997676500255,41.0962647750662,5
+2397,30/10/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:45:00,08:55:00,w28792611,16.8997676500255,41.0962647750662,5
 2398,30/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,14:40:00,14:50:00,w1238531676,16.8637980178057,41.0732077061819,14
 2399,31/10/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Scarso,si,si,01:20:00,01:35:00,w1219746771,16.8903371838819,41.1099495228294,5
 2400,31/10/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:39:00,10:15:00,w27534126,16.8410517930838,41.1322071585851,10
@@ -2426,7 +2434,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2421,03/11/2022,si,Strada urbana,Incrocio,si,Lastricata,Sereno,Scarso,no,si,08:40:00,08:50:00,w1233267579,16.8699283163027,41.1332429627083,1
 2422,03/11/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,11:10:00,11:20:00,w48563882,16.8690749943131,41.1205957427589,2
 2423,03/11/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,18:20:00,18:30:00,w44894229,16.8643997057659,41.1181086323464,2
-2424,03/11/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,19:10:00,19:35:00,w30859256,16.9734449388286,41.090144322623,17
+2424,03/11/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,19:10:00,19:35:00,w30859256,16.9734449388286,41.090144322623,17
 2425,03/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,20:50:00,21:00:00,w32942662,16.7947640898091,41.1231183727584,11
 2426,04/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,no,07:00:00,07:25:00,w1116392207,16.7453392900243,41.1665661439059,13
 2427,04/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,09:25:00,09:35:00,w30632898,16.8894321298333,41.1134887039935,5
@@ -2465,7 +2473,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2460,07/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,17:20:00,17:30:00,w107580308,16.7488675211083,41.1626710798334,13
 2461,07/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:50:00,18:00:00,w325737262,16.8736247041927,41.1035286944344,7
 2462,07/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:10:00,18:20:00,w24884043,16.8684410179157,41.1232841531795,2
-2463,07/11/2022,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,20:50:00,21:10:00,w28792611,16.8997641833492,41.0962630689954,5
+2463,07/11/2022,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,20:50:00,21:10:00,w28792611,16.8997641833492,41.0962630689954,5
 2464,08/11/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,06:40:00,06:50:00,w27534029,16.8520576115317,41.1209924354567,4
 2465,08/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,09:55:00,10:10:00,w208686459,16.9361756941205,41.1028248378104,5
 2466,08/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:20:00,10:35:00,w30029565,16.8735711782262,41.1133085356957,7
@@ -2475,7 +2483,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2470,08/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,15:50:00,16:00:00,w1043675236,16.8612666400126,41.0736617364306,14
 2471,08/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,17:35:00,17:50:00,w734285482,16.8376890394769,41.116669115135,9
 2472,08/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,22:00:00,22:10:00,w24884196,16.8601860267845,41.1193505174512,4
-2473,08/11/2022,si,Provinciale entro l abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,22:20:00,22:25:00,w137324482,16.8505223379567,41.046945658921,16
+2473,08/11/2022,si,Provinciale entro l'abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,22:20:00,22:25:00,w137324482,16.8505223379567,41.046945658921,16
 2474,08/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,23:25:00,23:35:00,w24884194,16.8552077222485,41.1218288176255,4
 2475,09/11/2022,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,00:00:00,00:00:00,w30009729,16.8742040845161,41.1249338431725,2
 2476,09/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00:00,00:00:00,w264909168,16.8741259955915,41.1189923647209,2
@@ -2552,7 +2560,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2547,16/11/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,20:00:00,20:15:00,w1211804126,16.848865520646,41.1019127787404,8
 2548,16/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,21:00:00,21:10:00,w29980613,16.8580198852193,41.1179492062887,4
 2549,16/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,21:20:00,21:30:00,w204094194,16.791796345069,41.1180630161046,11
-2550,17/11/2022,si,Statale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,no,00:10:00,00:15:00,w28792609,16.9002181939934,41.0963404720798,5
+2550,17/11/2022,si,Statale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,no,00:10:00,00:15:00,w28792609,16.9002181939934,41.0963404720798,5
 2551,17/11/2022,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Intenso,no,si,08:40:00,09:00:00,w30015974,16.8636965469264,41.1286277778965,2
 2552,17/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,08:45:00,09:00:00,w31555229,16.8350371989957,41.1224827372979,9
 2553,17/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,09:39:00,09:50:00,w318933768,16.8606879360685,41.1164644616539,8
@@ -2570,7 +2578,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2565,18/11/2022,no,Statale,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,no,si,13:30:00,14:00:00,w80037214,16.7771860019244,41.1524627638875,12
 2566,18/11/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,21:15:00,21:33:00,w31341609,16.866432167694,41.0717189619493,14
 2567,19/11/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Nuvoloso,Normale,no,no,09:40:00,09:50:00,w1040770889,16.848008327669,41.1205381083965,4
-2568,19/11/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,14:05:00,14:15:00,w148734901,16.8673663632788,41.0574477613337,15
+2568,19/11/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,14:05:00,14:15:00,w148734901,16.8673663632788,41.0574477613337,15
 2569,19/11/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Nuvoloso,Normale,no,si,16:45:00,17:00:00,w24884052,16.8672722584441,41.1218896488108,2
 2570,19/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,17:13:00,17:25:00,w25633468,16.8792470960731,41.1050086361577,6
 2571,20/11/2022,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Scarso,no,no,01:25:00,01:40:00,w789364353,16.8737498765624,41.1124857152059,7
@@ -2659,7 +2667,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2654,29/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,16:50:00,16:55:00,w1274596356,16.8708820444205,41.117088456088,2
 2655,29/11/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,17:20:00,17:30:00,w29980613,16.8614199937192,41.1181700942552,4
 2656,29/11/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Nuvoloso,Normale,no,si,17:40:00,18:00:00,w30015974,16.8593697550541,41.1281874051768,4
-2657,29/11/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,20:00:00,20:15:00,w30198473,16.7561401653625,41.1340306652854,12
+2657,29/11/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,20:00:00,20:15:00,w30198473,16.7561401653625,41.1340306652854,12
 2658,30/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,00:00:00,00:00:00,w30708999,16.852015654459,41.1074564179067,8
 2659,30/11/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Scarso,no,no,08:50:00,09:10:00,w25819183,16.8673005994234,41.0926270651735,7
 2660,30/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,12:20:00,12:30:00,w80317992,16.802281467097,41.1238619928795,11
@@ -2667,7 +2675,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2662,30/11/2022,si,Strada urbana,Intersezione stradale segnalata,no,Asfaltata,Pioggia in atto,Normale,no,no,18:40:00,18:55:00,w344265630,16.8379996309548,41.1305910629477,10
 2663,30/11/2022,no,Comunale extraurbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,19:00:00,19:05:00,w1083740671,16.8497625159593,41.1030941949466,8
 2664,30/11/2022,no,Comunale extraurbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,si,19:05:00,19:20:00,w184763146,16.8102179531449,41.1092109298282,9
-2665,30/11/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,19:30:00,19:50:00,w173680990,16.8398777502471,41.0930323102754,8
+2665,30/11/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,si,19:30:00,19:50:00,w173680990,16.8398777502471,41.0930323102754,8
 2666,30/11/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Normale,no,si,19:45:00,20:05:00,w30015974,16.8604787588534,41.1282253074746,4
 2667,30/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,20:15:00,20:27:00,w1107330352,16.8539173483149,41.1025505450406,8
 2668,30/11/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,no,20:30:00,20:40:00,w30729987,16.8424034307685,41.0813613880418,8
@@ -2773,14 +2781,14 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2768,14/12/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,10:15:00,10:30:00,w499099402,16.8891524930405,41.1182000398776,3
 2769,14/12/2022,no,Provinciale,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,no,13:30:00,13:45:00,w173680987,16.8394182924716,41.0921209751711,8
 2770,14/12/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,no,13:30:00,13:45:00,w53536452,16.852232,41.1079383,8
-2771,14/12/2022,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Intenso,no,si,14:20:00,14:25:00,w1218642475,16.9080850295341,41.0987463897064,5
+2771,14/12/2022,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Intenso,no,si,14:20:00,14:25:00,w1218642475,16.9080850295341,41.0987463897064,5
 2772,14/12/2022,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,14:40:00,14:45:00,w30029559,16.868120351764,41.1239538916316,2
 2773,14/12/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Nuvoloso,Intenso,no,si,15:55:00,16:15:00,w29093035,16.825263048101,41.1241584976188,9
 2774,14/12/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,si,16:45:00,16:50:00,w1225902098,16.8715718194673,41.1070021792738,7
 2775,14/12/2022,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,si,18:15:00,18:30:00,w27703542,16.8653233650091,41.0870698846649,14
 2776,15/12/2022,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Normale,no,no,07:30:00,07:45:00,w682707457,16.8807932545841,41.1139748880996,6
 2777,15/12/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,09:18:00,09:33:00,w29983499,16.8664175473629,41.1168185239156,2
-2778,15/12/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:10:00,10:30:00,w28792611,16.8997641833492,41.0962630689954,5
+2778,15/12/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:10:00,10:30:00,w28792611,16.8997641833492,41.0962630689954,5
 2779,15/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:23:00,11:32:00,w30900935,16.8844279619002,41.0879947217733,6
 2780,15/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:35:00,11:45:00,w29093038,16.8017081747628,41.1229118466616,11
 2781,15/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:00:00,14:10:00,w551997056,16.9133406675065,41.1075715509048,5
@@ -2881,7 +2889,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2876,24/12/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,18:20:00,18:25:00,w1226173975,16.8768755119804,41.1234619523958,3
 2877,24/12/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,si,si,19:20:00,19:50:00,w48503540,16.8986929650369,41.1164709705182,5
 2878,24/12/2022,si,Strada urbana,Curva a visuale libera,no,Asfaltata,Sereno,Scarso,no,si,20:35:00,20:45:00,w1210924615,16.8614213612379,41.0649625131375,15
-2879,25/12/2022,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,si,no,13:05:00,13:20:00,w80023270,16.7993075240625,41.1430608559206,10
+2879,25/12/2022,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,si,no,13:05:00,13:20:00,w80023270,16.7993075240625,41.1430608559206,10
 2880,25/12/2022,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,19:10:00,19:20:00,w136015427,16.8902015033076,41.090578208201,6
 2881,26/12/2022,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Sereno,Scarso,no,no,04:20:00,04:30:00,w68563024,16.8732710741668,41.1146661109896,7
 2882,26/12/2022,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,si,11:30:00,11:40:00,w68576723,16.8671660649312,41.1232388409977,2
@@ -2907,7 +2915,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2902,28/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,14:20:00,14:30:00,w29975382,16.8679098637539,41.1197625022761,2
 2903,28/12/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,si,20:15:00,20:25:00,w29093034,16.8254204280737,41.1244658439668,9
 2904,28/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,21:10:00,21:15:00,w25563712,16.8786713291327,41.1152721109113,6
-2905,29/12/2022,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,si,06:20:00,06:30:00,w374827214,16.8739323291185,41.0541046998566,15
+2905,29/12/2022,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,si,06:20:00,06:30:00,w374827214,16.8739323291185,41.0541046998566,15
 2906,29/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,13:10:00,13:25:00,w25748962,16.8673481903642,41.1019615317712,7
 2907,29/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:15:00,14:25:00,w68563030,16.8729422711824,41.1200468201863,2
 2908,29/12/2022,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,16:15:00,16:30:00,w180534899,16.9464356448999,41.1023935327698,5
@@ -2930,7 +2938,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2925,31/12/2022,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,15:15:00,15:25:00,w24884090,16.8736515885054,41.1222767630179,2
 2926,31/12/2022,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,15:55:00,16:10:00,w561218346,16.8866035065864,41.0837174427486,6
 2927,31/12/2022,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,17:49:00,17:55:00,w398989767,16.7778483914244,41.1369838070478,12
-2928,01/01/2023,si,Provinciale entro l abitato,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,04:25,04:30,w80011296,16.8986668640198,41.0812419942814,14
+2928,01/01/2023,si,Provinciale entro l'abitato,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,04:25,04:30,w80011296,16.8986668640198,41.0812419942814,14
 2929,01/01/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Intenso,no,no,12:04,12:12,w1226173975,16.8758287570192,41.1240376790136,3
 2930,01/01/2023,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Normale,no,si,19:15,19:25,w25819183,16.8700482643279,41.0921721728345,7
 2931,02/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,01:00,01:10,w29975386,16.8552403914278,41.1205420755846,4
@@ -2940,7 +2948,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2935,02/01/2023,si,Strada urbana,Rotatoria,no,Asfaltata,Sereno,Normale,no,no,18:44,18:50,w901684284,16.8929044142166,41.0917221708347,6
 2936,02/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,18:50,19:10,w29980620,16.8632392027669,41.1223729772791,2
 2937,02/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:10,19:20,w25563712,16.8783858207491,41.115586044709,6
-2938,02/01/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:15,19:35,w53100868,16.7667679583663,41.1451848721859,12
+2938,02/01/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:15,19:35,w53100868,16.7667679583663,41.1451848721859,12
 2939,02/01/2023,si,Strada urbana,Incrocio,no,Asfaltata,Foschia,Scarso,no,no,21:20,21:40,w69306716,16.7597619617607,41.1512320200229,12
 2940,02/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Foschia,Normale,no,si,21:50,22:05,w30708894,16.8531986524309,41.111323504882,8
 2941,02/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,22:00,22:10,w484212512,16.8723780055663,41.1259075924001,2
@@ -2990,9 +2998,9 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 2985,08/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:30,19:40,w68576718,16.861716817456,41.1250726034614,2
 2986,08/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,21:30,21:40,w24888729,16.8540852301237,41.1205019157216,4
 2987,09/01/2023,no,Statale,Rettilineo,no,Asfaltata,Nuvoloso,Intenso,no,no,09:15,09:28,w30858354,16.8752505599381,41.0894218246577,14
-2988,09/01/2023,si,Statale entro l abitato,Rettilineo,no,Asfaltata,Nuvoloso,Intenso,no,no,09:40,09:50,w30311846,16.9031392920713,41.0743193407098,14
+2988,09/01/2023,si,Statale entro l'abitato,Rettilineo,no,Asfaltata,Nuvoloso,Intenso,no,no,09:40,09:50,w30311846,16.9031392920713,41.0743193407098,14
 2989,09/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,si,09:50,10:00,w298496614,16.8281897472504,41.1057226460818,9
-2990,09/01/2023,si,Provinciale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Scarso,no,no,11:50,12:10,w30729875,16.8380202793779,41.0874510912691,8
+2990,09/01/2023,si,Provinciale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Scarso,no,no,11:50,12:10,w30729875,16.8380202793779,41.0874510912691,8
 2991,09/01/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,13:15,13:25,w982418223,16.8853604268276,41.1073551760149,6
 2992,09/01/2023,no,Statale,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,no,14:20,14:30,w30311535,16.8939083603686,41.0864096914887,6
 2993,09/01/2023,no,Statale,Curva senza visuale libera,si,Asfaltata,Sole radente,Intenso,si,no,15:55,16:00,w1055087604,16.9090915831424,41.0990663133596,5
@@ -3021,6 +3029,10 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3016,12/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Scarso,no,no,22:35,22:50,w132717751,16.825661911411,41.1241202249511,9
 3017,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633572,16.8129609,41.1359189,10
 3017,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633573,16.8129609,41.1359189,10
+3017,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633572,16.8129609,41.1359189,10
+3017,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633573,16.8129609,41.1359189,10
+3018,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633572,16.8129609,41.1359189,10
+3018,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633573,16.8129609,41.1359189,10
 3018,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633572,16.8129609,41.1359189,10
 3018,12/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w390633573,16.8129609,41.1359189,10
 3019,13/01/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Scarso,si,no,00:30,00:35,w294384863,16.900502594207,41.1059605462323,5
@@ -3032,7 +3044,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3025,14/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,07:45,08:00,w385690411,16.8741613677663,41.1199808192527,2
 3026,14/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,08:52,09:15,w25634567,16.8720691279119,41.1109024084478,7
 3027,14/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:27,10:35,w69142626,16.8527963698482,41.1223437868155,4
-3028,14/01/2023,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,si,13:55,14:05,w30120641,16.9871191784523,41.0868953606292,17
+3028,14/01/2023,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,si,13:55,14:05,w30120641,16.9871191784523,41.0868953606292,17
 3029,14/01/2023,no,Statale,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,14:05,14:20,w30406267,17.0073326718518,41.082502205057,17
 3030,14/01/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Normale,si,no,14:58,15:05,w27535287,16.8064470867042,41.1380590838058,10
 3031,14/01/2023,si,Strada urbana,Intersezione stradale segnalata,no,Asfaltata,Nuvoloso,Scarso,no,no,16:30,16:45,w102834719,16.9512908300708,41.0920901469258,5
@@ -3092,7 +3104,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3085,21/01/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,si,11:00,11:05,w1228728432,16.7991175107054,41.1235770189416,11
 3086,21/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:05,11:15,w29928958,16.7689099689686,41.1602991333362,12
 3087,21/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:20,11:25,w316549004,16.8758369,41.1037767,7
-3088,21/01/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Intenso,no,si,11:50,12:10,w80011261,16.9907945719957,41.0857689087355,17
+3088,21/01/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Intenso,no,si,11:50,12:10,w80011261,16.9907945719957,41.0857689087355,17
 3089,21/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,si,13:15,13:30,w30029575,16.8658304238904,41.1128184321378,8
 3090,21/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:20,14:35,w401605424,16.8465630843943,41.1273941203677,4
 3091,21/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,20:30,20:40,w786590306,16.8801807200035,41.1176393887598,5
@@ -3129,7 +3141,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3122,24/01/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,20:30,21:00,w100123469,16.8711658990297,41.0703242332949,14
 3123,25/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,00:00,00:00,w1245191805,16.8670603215156,41.1258944694427,1
 3124,25/01/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,08:35,09:00,w28718193,16.8329247602455,41.088200161846,8
-3125,25/01/2023,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,si,10:26,10:35,w45827645,16.7691810482333,41.1288821339694,11
+3125,25/01/2023,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,si,si,10:26,10:35,w45827645,16.7691810482333,41.1288821339694,11
 3126,25/01/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,11:15,11:25,w29975379,16.8707298928703,41.1199321743985,2
 3127,25/01/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,si,11:25,11:35,w31311006,16.8633423826002,41.0676655332964,14
 3128,25/01/2023,no,Altra strada,Rotatoria,no,Asfaltata,Pioggia in atto,Normale,no,no,13:20,13:40,w50079221,16.8214414925904,41.1157767574275,9
@@ -3203,7 +3215,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3196,02/02/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,09:35,09:50,w1263508456,16.8997704578092,41.106196274804,5
 3197,02/02/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,14:00,14:15,w325737261,16.8806232226261,41.0992146729574,6
 3198,02/02/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:10,15:15,w29983499,16.8669697472336,41.1168543041351,2
-3199,02/02/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,15:30,15:40,w28792611,16.8997641833492,41.0962630689954,5
+3199,02/02/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,15:30,15:40,w28792611,16.8997641833492,41.0962630689954,5
 3200,02/02/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,16:45,17:00,w25654677,16.8660201656245,41.1099371644691,8
 3201,02/02/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,23:30,23:40,w130557860,16.8269237633086,41.1337695038174,10
 3202,03/02/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w1043675225,16.859190163994,41.0776151642061,14
@@ -3353,7 +3365,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3346,21/02/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,20:20,20:30,w25654897,16.8738598110907,41.103845116377,7
 3347,21/02/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,20:30,20:40,w318933773,16.8631101131752,41.1070652456704,8
 3348,21/02/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,23:59,00:15,w30706677,16.8601593464951,41.1086983035049,8
-3349,22/02/2023,si,Statale entro l abitato,Pianeggiante,si,Asfaltata,Sereno,Scarso,no,si,00:00,00:00,w31576672,16.8778151259115,41.0894873868474,7
+3349,22/02/2023,si,Statale entro l'abitato,Pianeggiante,si,Asfaltata,Sereno,Scarso,no,si,00:00,00:00,w31576672,16.8778151259115,41.0894873868474,7
 3350,22/02/2023,no,Statale,Curva senza visuale libera,si,Asfaltata,Sereno,Normale,no,si,08:05,08:25,w1225891582,16.777357274053,41.1523328015109,12
 3351,22/02/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,no,09:40,10:00,w68558005,16.8907048156624,41.1183988607851,5
 3352,22/02/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,10:10,10:20,w1019768021,16.9190397680006,41.1113767748927,5
@@ -3405,7 +3417,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3392,27/02/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,11:50,12:00,w29980637,16.864338677042,41.1223857770094,2
 3393,27/02/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,12:00,12:15,w560784298,16.8802188775834,41.1168206801299,6
 3394,27/02/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,14:45,15:10,w344265627,16.844423912459,41.1311784227961,10
-3395,27/02/2023,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,15:28,15:34,w69304911,16.771022359682,41.1516126604079,12
+3395,27/02/2023,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,15:28,15:34,w69304911,16.771022359682,41.1516126604079,12
 3396,27/02/2023,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,16:40,16:45,w130574777,16.8225249686655,41.1329424535409,10
 3397,27/02/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,no,21:30,21:40,w1040770897,16.8512321,41.1260097,4
 3398,27/02/2023,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Scarso,no,si,22:50,22:15,w29317593,16.8612539095229,41.1189120374684,4
@@ -3487,7 +3499,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3474,09/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,07:45,07:50,w29975382,16.8657411668901,41.1196480601166,2
 3475,09/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:18,08:35,w1219744083,16.8794483524475,41.1023760682644,6
 3476,09/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:30,08:36,w30505929,16.8980892017373,41.1068951445099,5
-3477,09/03/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:00,09:10,w441641091,16.8429757766683,41.0971570033993,8
+3477,09/03/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:00,09:10,w441641091,16.8429757766683,41.0971570033993,8
 3478,09/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,14:50,15:05,w294952981,16.7636999720019,41.1484242650713,12
 3479,09/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:40,18:00,w30002079,16.8736037249676,41.1064507078631,7
 3480,09/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:20,18:30,w734285482,16.8395197893745,41.1173553316655,9
@@ -3498,7 +3510,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3485,10/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,07:25,07:40,w982418225,16.8856949960289,41.106669181018,6
 3486,10/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:40,10:55,w30706669,16.8610238398257,41.1075839734539,8
 3487,10/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,10:40,10:50,w100126148,16.8281202898355,41.1112160787827,9
-3488,10/03/2023,si,Statale entro l abitato,Intersezione non regolata/non segnalata,si,Asfaltata,Sereno,Normale,no,si,11:05,11:10,w380827449,16.7732064429742,41.1484153155794,12
+3488,10/03/2023,si,Statale entro l'abitato,Intersezione non regolata/non segnalata,si,Asfaltata,Sereno,Normale,no,si,11:05,11:10,w380827449,16.7732064429742,41.1484153155794,12
 3489,10/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,12:25,12:40,w1006297380,16.7640638246072,41.1465868264714,12
 3490,10/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,no,13:30,13:40,w30653669,16.8599740532597,41.1070914280663,8
 3491,10/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,14:00,14:15,w1228238390,16.8157674295671,41.1175746587432,9
@@ -3518,7 +3530,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3505,12/03/2023,si,Strada urbana,Intersezione stradale segnalata,no,Asfaltata,Pioggia in atto,Normale,no,si,10:20,10:35,w562701235,16.8378322966939,41.1309247423851,10
 3506,12/03/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,10:30,10:40,w25756875,16.886061700829,41.0938260912453,6
 3507,12/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,15:15,15:20,w29976859,16.8611347952471,41.1221604594636,2
-3508,12/03/2023,si,Provinciale entro l abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,17:35,17:45,w1236716737,16.8842907738912,41.0681696917772,14
+3508,12/03/2023,si,Provinciale entro l'abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,17:35,17:45,w1236716737,16.8842907738912,41.0681696917772,14
 3509,12/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,20:55,21:15,w180535593,16.9988933247322,41.08523946618,17
 3510,12/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,21:20,21:30,w135048702,16.8639901654487,41.1146241742917,8
 3511,13/03/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Scarso,no,si,00:30,00:40,w30049220,16.8233547201208,41.1351050722367,10
@@ -3537,11 +3549,11 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3524,13/03/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Nuvoloso,Normale,no,si,19:40,19:50,w30654184,16.8769726878681,41.1161122861487,6
 3525,13/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,si,20:00,20:07,w68558008,16.8662917766005,41.1258521665915,2
 3526,14/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,00:00,00:00,w30633077,16.8855746835886,41.1074337640032,6
-3527,14/03/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:05,08:10,w30277595,16.7708096716308,41.1519681082714,12
+3527,14/03/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:05,08:10,w30277595,16.7708096716308,41.1519681082714,12
 3528,14/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:30,12:40,w25974304,16.9990993117868,41.0873154099748,17
 3529,14/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:20,13:30,w30654313,16.8764114238946,41.1115288046289,7
 3530,14/03/2023,no,Comunale extraurbana,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,no,no,15:15,15:20,w127669587,16.7898746015906,41.133209744548,11
-3531,14/03/2023,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,si,si,15:45,15:55,w28792611,16.8997641833492,41.0962630689954,5
+3531,14/03/2023,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,si,si,15:45,15:55,w28792611,16.8997641833492,41.0962630689954,5
 3532,14/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Intenso,si,si,18:15,18:35,w25654677,16.8678599984956,41.1098899448726,8
 3533,14/03/2023,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Intenso,no,si,19:35,19:45,w27535688,16.8336563181108,41.1294550206356,10
 3534,15/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,00:00,00:00,w25756833,16.877263997633,41.1043011089541,7
@@ -3568,7 +3580,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3549,16/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:20,14:35,w968705518,16.8676847678409,41.1063800675349,7
 3550,16/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:15,15:30,w561218346,16.8858116735409,41.0860894305899,6
 3551,16/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,21:00,21:03,w29986258,16.8741803851929,41.1201230732471,2
-3552,16/03/2023,si,Provinciale entro l abitato,Curva a visuale libera,si,Asfaltata,Vento forte,Scarso,no,si,21:50,22:05,w131039498,16.9557132647866,41.0953699328348,17
+3552,16/03/2023,si,Provinciale entro l'abitato,Curva a visuale libera,si,Asfaltata,Vento forte,Scarso,no,si,21:50,22:05,w131039498,16.9557132647866,41.0953699328348,17
 3553,17/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,00:50,01:00,w448630413,16.8714397859051,41.1005176917124,7
 3554,17/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,12:05,12:10,w1227452803,16.8991592336478,41.1064836420115,5
 3555,17/03/2023,si,Strada urbana,Incrocio,si,In conglomerato cementizio,Sereno,Scarso,no,si,14:55,15:20,w30029561,16.869422822202,41.1246615830428,2
@@ -3635,7 +3647,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3616,23/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,21:45,22:00,w148734932,16.866030413398,41.0662449029435,15
 3617,24/03/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w68558009,16.8844083966474,41.1207647972369,3
 3618,24/03/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,00:30,00:40,w25634811,16.8418623853096,41.1371447426422,10
-3619,24/03/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:15,12:30,w131748149,16.850338234632,41.0918973660795,8
+3619,24/03/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:15,12:30,w131748149,16.850338234632,41.0918973660795,8
 3620,24/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,12:40,12:55,w1180503876,16.8910069647809,41.0953078642364,6
 3621,24/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:15,15:30,w30016109,16.8583632012298,41.1263026021453,4
 3622,24/03/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:00,17:15,w132717756,16.8139237747622,41.1237790391763,9
@@ -3770,7 +3782,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3751,08/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,15:25,15:40,w48563884,16.870806392773,41.1199874752454,2
 3752,08/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,17:20,17:30,w1219750918,16.9177211257347,41.1055971048517,5
 3753,09/04/2023,si,Strada urbana,Rotatoria,no,Asfaltata,Nuvoloso,Scarso,no,si,00:00,00:00,w1223324599,16.8543461,41.0998245,8
-3754,09/04/2023,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,13:15,13:25,w137324482,16.8482421216343,41.0340347980367,16
+3754,09/04/2023,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,si,13:15,13:25,w137324482,16.8482421216343,41.0340347980367,16
 3755,09/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,16:50,17:00,w69142613,16.872163229956,41.1244526993064,2
 3756,09/04/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,si,17:55,18:05,w30501041,16.9178376602468,41.1054440720087,5
 3757,09/04/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,si,20:30,21:00,w29975386,16.853012726097,41.1204200884275,4
@@ -3819,7 +3831,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3800,14/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:30,17:45,w32942691,16.7992644697629,41.1214937066043,11
 3801,15/04/2023,no,Statale,Curva senza visuale libera,si,Asfaltata,Sereno,Scarso,no,si,03:35,03:45,w1225891584,16.777425752561,41.1522090534657,12
 3802,15/04/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,10:50,11:05,w67304754,16.8743456149831,41.1181517462463,2
-3803,15/04/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,13:00,13:10,w28921257,16.8364872674619,41.0838704599598,8
+3803,15/04/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,13:00,13:10,w28921257,16.8364872674619,41.0838704599598,8
 3804,15/04/2023,si,Strada urbana,Galleria illuminata,si,Asfaltata,Sereno,Normale,no,no,13:15,13:30,w301006987,16.8526438970412,41.1159715378485,8
 3805,15/04/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Nuvoloso,Scarso,no,si,15:10,15:28,w25586000,16.8676305228535,41.0967099712444,7
 3806,15/04/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,16:45,17:00,w653559096,16.8686449811321,41.1169440339623,7
@@ -3880,7 +3892,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3861,21/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:40,20:55,w32942662,16.7925131256751,41.1229291150562,11
 3862,21/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,21:15,21:40,w294384863,16.900502594207,41.1059605462323,5
 3863,21/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,21:55,22:05,w1043372476,16.8499805147108,41.1142461733166,8
-3864,22/04/2023,si,Provinciale entro l abitato,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w777035418,16.7460731791926,41.1499856229503,13
+3864,22/04/2023,si,Provinciale entro l'abitato,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w777035418,16.7460731791926,41.1499856229503,13
 3865,22/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,02:05,02:10,w1019768021,16.9213890524529,41.1113386727339,5
 3866,22/04/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,10:10,10:15,w25634605,16.8673800055919,41.1116932766999,8
 3867,22/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:55,13:05,w503016650,16.8516113292121,41.1268068483944,4
@@ -3927,7 +3939,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3902,26/04/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:25,14:45,w30711403,16.9015849569353,41.0769316470229,14
 3903,26/04/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,18:25,18:45,w24884039,16.8692810326749,41.1253104717811,2
 3904,27/04/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,no,si,01:40,01:45,w180534899,16.9535342613314,41.1005852224294,5
-3905,27/04/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,07:27,07:37,w173688383,16.8302286519269,41.0741545001464,8
+3905,27/04/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,07:27,07:37,w173688383,16.8302286519269,41.0741545001464,8
 3906,27/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:00,11:15,w982418225,16.8866600424283,41.1046182958327,6
 3907,27/04/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:40,11:50,w1219744083,16.8792507504954,41.1030368771344,7
 3908,27/04/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,14:00,14:13,w560531297,16.8786115447923,41.1194162296192,3
@@ -3990,7 +4002,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 3965,04/05/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,16:10,16:15,w25817735,16.866183648272,41.0929645736144,8
 3966,04/05/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,16:35,16:45,w129127808,16.8539603409831,41.1085715240899,8
 3967,04/05/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,17:10,17:20,w68576716,16.8672195799419,41.122548393236,2
-3968,04/05/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:15,19:22,w30002414,16.8801581260643,41.1184416898151,3
+3968,04/05/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:15,19:22,w30002414,16.8801581260643,41.1184416898151,3
 3969,04/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:30,19:45,w246673709,16.8447782222715,41.1005903872481,8
 3970,05/05/2023,si,Strada urbana,Cavalcavia,si,Asfaltata,Sereno,Intenso,no,no,00:00,00:00,w1124568218,16.8584334114004,41.1076804970763,8
 3971,05/05/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Scarso,no,no,00:30,00:45,w80317990,16.7852598871733,41.1276325742297,11
@@ -4073,7 +4085,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4048,13/05/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Scarso,no,si,15:52,15:55,w25563715,16.8780327771221,41.1148040816844,6
 4049,13/05/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Intenso,no,no,18:55,19:10,w30029561,16.8720721549542,41.1248245240671,2
 4050,13/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,21:45,21:55,w30029581,16.8676278372855,41.1113834898111,8
-4051,14/05/2023,si,Statale entro l abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,si,si,03:10,03:20,w30859243,16.986467532635,41.0874015317839,17
+4051,14/05/2023,si,Statale entro l'abitato,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,si,si,03:10,03:20,w30859243,16.986467532635,41.0874015317839,17
 4052,14/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,10:15,10:25,w30002088,16.8621694324062,41.1072192339858,8
 4053,14/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:00,12:05,w29980624,16.8599987217749,41.1250534470926,4
 4054,14/05/2023,si,Strada urbana,Incrocio,si,Asfaltata,Vento forte,Normale,no,si,12:35,12:50,w80317992,16.80401465,41.12329395,11
@@ -4096,7 +4108,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4071,16/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:50,15:00,w115816775,16.8174647784129,41.1343028620675,10
 4072,16/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,16:00,16:10,w30002079,16.8736129991237,41.1066323990892,7
 4073,16/05/2023,si,Strada urbana,Intersezione non regolata/non segnalata,si,Asfaltata,Nuvoloso,Scarso,si,si,17:35,17:45,w30113517,16.7848478153723,41.1544441554534,12
-4074,16/05/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,19:10,19:30,w692410974,16.8204297128548,41.1051460248725,9
+4074,16/05/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,19:10,19:30,w692410974,16.8204297128548,41.1051460248725,9
 4075,16/05/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,20:30,20:45,w131750851,16.8585042723069,41.0965605369487,8
 4076,17/05/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Scarso,no,no,01:20,01:25,w736596146,16.8722345665037,41.1133803864277,7
 4077,17/05/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,07:45,07:50,w130557835,16.8135444860078,41.1373380839411,10
@@ -4175,7 +4187,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4150,24/05/2023,no,Comunale extraurbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w398989767,16.7742605490795,41.1360478014927,12
 4151,24/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:00,09:20,w24884194,16.8531934150527,41.1217029650988,4
 4152,24/05/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:00,09:15,w562692078,16.8557813213982,41.1253203423317,4
-4153,24/05/2023,si,Provinciale entro l abitato,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,11:15,11:30,w204988966,16.7453413558028,41.1479985752915,13
+4153,24/05/2023,si,Provinciale entro l'abitato,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,11:15,11:30,w204988966,16.7453413558028,41.1479985752915,13
 4154,24/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:20,11:30,w24888895,16.8786828418089,41.120718058648,3
 4155,24/05/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:30,11:40,w31248795,16.8910763673397,41.1098990592487,5
 4156,24/05/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,13:05,13:15,w27378276,16.9138152154389,41.106273583945,5
@@ -4272,9 +4284,27 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
 4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
 4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4247,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
 4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
 4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
 4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4248,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
+4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
 4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w292276949,16.8231994,41.1209675,9
 4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637939,16.8231994,41.1209675,9
 4249,01/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w95637938,16.8231994,41.1209675,9
@@ -4289,7 +4319,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4258,03/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,04:35,04:45,w29980637,16.864338677042,41.1223857770094,2
 4259,03/06/2023,no,Comunale extraurbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:00,08:20,w176518948,16.8199154288568,41.1139385532392,9
 4260,03/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:50,09:58,w28791561,16.8580207242274,41.1163006674006,8
-4261,03/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:50,13:00,w331928386,16.74387508058,41.1464326592357,13
+4261,03/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:50,13:00,w331928386,16.74387508058,41.1464326592357,13
 4262,03/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,13:15,13:25,w25585861,16.8743227926205,41.1104354076025,7
 4263,03/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,15:40,15:45,w69306707,16.7483749860451,41.1628094012214,13
 4264,03/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,si,no,17:15,17:30,w27523145,16.8809923224675,41.1032818520097,6
@@ -4356,7 +4386,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4325,10/06/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,no,13:10,13:28,w29975386,16.8612402234198,41.1208863880466,4
 4326,10/06/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Normale,si,no,14:20,14:30,w125161611,16.8722099,41.1290105,1
 4327,10/06/2023,no,Statale,Rettilineo,no,Asfaltata,Nuvoloso,Normale,si,si,14:45,14:55,w227359947,16.7683968709568,41.1437444435555,12
-4328,10/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,20:35,20:55,w184753746,16.7669995850907,41.1285488821981,12
+4328,10/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,20:35,20:55,w184753746,16.7669995850907,41.1285488821981,12
 4329,10/06/2023,no,Statale,Curva a visuale libera,si,Asfaltata,Nuvoloso,Scarso,no,no,22:10,22:15,w28792609,16.9024463017714,41.0971852715922,5
 4330,11/06/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Nuvoloso,Scarso,no,si,06:15,06:20,w441641091,16.8429769961375,41.0971584837219,8
 4331,11/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:45,13:00,w29980624,16.8606995258522,41.1253124424863,4
@@ -4367,7 +4397,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4336,12/06/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,si,si,12:30,12:35,w30632846,16.8906819235039,41.1139086936632,5
 4337,12/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:05,15:10,w25586444,16.8674931892577,41.1126057646154,8
 4338,12/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:40,15:55,w25838207,16.8542598333582,41.097448701311,8
-4339,12/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,16:10,16:20,w27810832,16.8399527890574,41.0928503511276,8
+4339,12/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,16:10,16:20,w27810832,16.8399527890574,41.0928503511276,8
 4340,12/06/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,18:30,18:45,w1274596356,16.8718691890094,41.1171524983899,2
 4341,12/06/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,19:35,19:55,w30632415,16.8949145555749,41.1103657066446,5
 4342,12/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:40,19:50,w29983503,16.8663882027026,41.1140045529479,8
@@ -4377,7 +4407,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4346,13/06/2023,si,Strada urbana,Rettilineo,si,Strada pavimentata dissestata,Sereno,Normale,si,no,00:00,00:00,w25654817,16.8717361261025,41.1067341329351,7
 4347,13/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,01:50,01:56,w24884205,16.8624399511677,41.1194508984477,2
 4348,13/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,01:55,02:05,w1137605124,16.8561409708463,41.1205901971924,4
-4349,13/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:50,11:20,w27810832,16.8392737784369,41.0916519261101,8
+4349,13/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:50,11:20,w27810832,16.8392737784369,41.0916519261101,8
 4350,13/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,12:45,12:55,w1225902098,16.8717499549509,41.1069980784207,7
 4351,13/06/2023,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,19:45,19:55,w1253560890,16.8510503608377,41.1294213551061,4
 4352,14/06/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,si,no,00:00,00:00,w569092297,16.8192680649212,41.109647029035,9
@@ -4417,7 +4447,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4386,17/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w24884196,16.8599740202881,41.1217686921253,4
 4387,17/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,03:24,03:31,w24884039,16.870912457137,41.1254178907274,2
 4388,17/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,10:15,10:25,w699486870,16.9101460619549,41.1077497440636,5
-4389,17/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:55,12:20,w29093156,16.844822667577,41.0854687579802,14
+4389,17/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:55,12:20,w29093156,16.844822667577,41.0854687579802,14
 4390,17/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:30,19:40,w29187723,16.864198202997,41.1266883749778,2
 4391,18/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,01:35,01:40,w166971188,16.8688810829566,41.0849200812906,14
 4392,18/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:40,09:50,w30674845,16.8623385573296,41.0932481130704,8
@@ -4454,8 +4484,8 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4423,22/06/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Scarso,no,si,03:05,03:10,w30002254,16.8899111896079,41.1096822499347,5
 4424,22/06/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,09:15,09:30,w383272079,16.8589165608569,41.0898293318424,14
 4425,22/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,13:15,13:25,w344274900,16.846154111214,41.1332001277907,10
-4426,22/06/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:15,14:30,w28792611,16.9008433585386,41.0967861832649,5
-4427,22/06/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:55,16:10,w561218346,16.886556689136,41.0821289044691,6
+4426,22/06/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,14:15,14:30,w28792611,16.9008433585386,41.0967861832649,5
+4427,22/06/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:55,16:10,w561218346,16.886556689136,41.0821289044691,6
 4428,22/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,16:10,16:15,w344265629,16.842370200766,41.1319922104689,10
 4429,22/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,18:45,18:50,w653559096,16.8686194381132,41.1169429233962,7
 4430,22/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,no,21:10,21:20,w241918046,16.8725179485211,41.1258618170501,2
@@ -4501,7 +4531,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4470,27/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:55,16:15,w69131924,16.8630232800454,41.1251346210727,2
 4471,27/06/2023,si,Strada urbana,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,no,no,17:00,17:10,w29092313,16.8205611557398,41.1065530240475,9
 4472,27/06/2023,no,Statale,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,no,si,18:15,18:30,w30311846,16.9030233646626,41.0744438205456,14
-4473,27/06/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:40,19:50,w28792611,16.8997676500255,41.0962647750662,5
+4473,27/06/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:40,19:50,w28792611,16.8997676500255,41.0962647750662,5
 4474,27/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,23:00,23:15,w29980624,16.858476991269,41.1244911064174,4
 4475,28/06/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w1220626089,16.8730498098628,41.1172323032532,2
 4476,28/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:30,10:35,w29317862,16.8718146946027,41.1215097659251,2
@@ -4517,7 +4547,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4486,29/06/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,16:00,16:25,w559495119,16.8541894602791,41.1000286074242,8
 4487,29/06/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,no,18:20,18:30,w1070589233,16.8736289591372,41.1038507446635,7
 4488,29/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,20:10,20:30,w32469592,16.8009686375664,41.1264275358567,11
-4489,29/06/2023,si,Provinciale entro l abitato,Cavalcavia,si,Asfaltata,Sereno,Normale,si,si,21:30,21:40,w175461670,16.8861776294856,41.0805631769012,14
+4489,29/06/2023,si,Provinciale entro l'abitato,Cavalcavia,si,Asfaltata,Sereno,Normale,si,si,21:30,21:40,w175461670,16.8861776294856,41.0805631769012,14
 4490,30/06/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,00:00,00:00,w25654817,16.8714510783807,41.1005391687632,7
 4491,30/06/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,02:00,02:10,w1225902100,16.8717623375808,41.107119826589,7
 4492,30/06/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,08:55,09:10,w24884194,16.8586959046649,41.1220463148423,4
@@ -4623,7 +4653,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4592,09/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,19:40,19:45,w204257670,16.7940106,41.12313,11
 4593,09/07/2023,si,Strada urbana,Incrocio,no,Strada pavimentata dissestata,Sereno,Intenso,no,no,20:20,20:30,w26085262,17.0020013077763,41.0882061737111,17
 4594,09/07/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,21:15,21:25,w25654221,16.8618376049199,41.1140659102265,8
-4595,10/07/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:25,10:45,w30859243,16.9840512827431,41.0878962480665,17
+4595,10/07/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:25,10:45,w30859243,16.9840512827431,41.0878962480665,17
 4596,10/07/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,11:20,11:25,w136316505,16.9173950635479,41.1049521979966,5
 4597,10/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,11:25,11:35,w30504258,16.9067547413756,41.1069400611033,5
 4598,10/07/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,no,11:40,12:00,w294245757,16.9613689741018,41.0925934474891,17
@@ -4660,7 +4690,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4629,13/07/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Intenso,no,si,20:00,20:05,w130557835,16.8190108826168,41.136455640553,10
 4630,13/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,20:10,20:20,w30171910,16.9856173296497,41.092908881805,17
 4631,14/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w30120460,16.9875121249298,41.0911756027407,17
-4632,14/07/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,01:50,02:00,w28792611,16.8997641833492,41.0962630689954,5
+4632,14/07/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,01:50,02:00,w28792611,16.8997641833492,41.0962630689954,5
 4633,14/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,06:25,06:40,w27534611,16.8159773499318,41.1374745426643,10
 4634,14/07/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,09:20,09:40,w1265255787,16.8672730261237,41.100754593129,7
 4635,14/07/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,10:30,10:40,w68558009,16.8872500180129,41.1198719516571,3
@@ -4782,13 +4812,13 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4751,26/07/2023,si,Strada urbana,Pendenza,si,Asfaltata,Sereno,Scarso,no,no,11:20,11:30,w376214446,16.8802263423841,41.1045710844294,6
 4752,26/07/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,17:00,17:10,w28921522,16.8571287069732,41.0900447022382,8
 4753,26/07/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,17:20,17:25,w28792611,16.8997676500255,41.0962647750662,5
-4754,26/07/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,17:20,17:25,w28921522,16.8549386731177,41.0902467825211,8
+4754,26/07/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,17:20,17:25,w28921522,16.8549386731177,41.0902467825211,8
 4755,26/07/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Intenso,no,no,17:55,18:00,w628162106,16.8443381005587,41.1340084873772,10
 4756,26/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:20,20:26,w672264512,16.8560298016013,41.1089600414619,8
 4757,26/07/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,20:40,20:55,w51167338,16.8693351801425,41.0809641875999,14
 4758,27/07/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Scarso,no,no,00:00,00:00,w30009729,16.8742263721688,41.1249215998219,2
 4759,27/07/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w24884108,16.8743309968678,41.120934385565,2
-4760,27/07/2023,si,Provinciale entro l abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w45827645,16.772297391096,41.1311063201617,12
+4760,27/07/2023,si,Provinciale entro l'abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w45827645,16.772297391096,41.1311063201617,12
 4761,27/07/2023,si,Strada urbana,Intersezione stradale segnalata,no,Asfaltata,Pioggia in atto,Normale,no,no,00:20,00:30,w303326645,16.8754825603456,41.1173884862698,2
 4762,27/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:45,09:55,w31355816,16.8711390852068,41.0729378406778,14
 4763,27/07/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,15:55,16:05,w50367907,16.8646394240102,41.1010967395377,8
@@ -4837,13 +4867,13 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4806,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w30015974,16.8620362104545,41.1284198304415,2
 4807,01/08/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Intenso,no,si,00:00,00:00,w1218701182,16.8902255843186,41.1100170380008,5
 4808,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,07:40,08:00,w1238531676,16.8641336734651,41.0742631810069,14
-4809,01/08/2023,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,si,08:30,08:45,w28488205,16.8935323021644,41.0896562079816,6
+4809,01/08/2023,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,si,08:30,08:45,w28488205,16.8935323021644,41.0896562079816,6
 4810,01/08/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,11:15,11:25,w29928958,16.7679197872226,41.1603191224325,12
 4811,01/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,11:30,11:39,w789364353,16.8736800934886,41.1124859664501,7
 4812,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:00,12:30,w29975386,16.8590410603446,41.120752027159,4
 4813,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,13:45,14:00,w68558005,16.8921678155206,41.1176014696002,5
 4814,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,14:45,14:55,w417295501,16.8509391583906,41.1108715020945,8
-4815,01/08/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,19:00,19:10,w653583333,16.8361850789009,41.0945518232889,8
+4815,01/08/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,19:00,19:10,w653583333,16.8361850789009,41.0945518232889,8
 4816,01/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,23:10,23:20,w122545162,16.9118276471241,41.1134487780959,5
 4817,02/08/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,00:10,00:18,w68555527,16.8665520147912,41.1258672808082,2
 4818,02/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,01:00,01:10,w30674315,16.8563376271906,41.0980350456223,8
@@ -4946,7 +4976,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4915,11/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,20:40,20:50,w30002088,16.8668900601097,41.1072265413945,8
 4916,12/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w1224642808,16.8651399882437,41.1257801899908,2
 4917,12/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,12:10,12:20,w30701607,16.8713705292911,41.1025805108843,7
-4918,12/08/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,14:20,14:40,w1228005149,16.7744182432557,41.1318663818454,12
+4918,12/08/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,14:20,14:40,w1228005149,16.7744182432557,41.1318663818454,12
 4919,12/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,18:30,18:40,w901684284,16.8929027561897,41.0917255422981,6
 4920,12/08/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,si,19:50,19:55,w33053177,16.7836477980332,41.1266633772711,11
 4921,12/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,20:50,21:10,w33537446,16.7460734626158,41.1642924410102,13
@@ -5013,7 +5043,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 4982,21/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:40,09:55,w1266862214,16.8639511130119,41.1266962998964,2
 4983,21/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,09:40,09:50,w30029580,16.87014122765,41.1111233794072,7
 4984,21/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,12:25,12:35,w49811483,16.862049092797,41.0674287858582,14
-4985,21/08/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:10,17:20,w28792611,16.8997641833492,41.0962630689954,5
+4985,21/08/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,17:10,17:20,w28792611,16.8997641833492,41.0962630689954,5
 4986,21/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,18:20,18:38,w29980624,16.8585001235379,41.1244996661446,4
 4987,21/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:40,19:45,w44894229,16.8644006405351,41.1181086852643,2
 4988,21/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,20:50,20:58,w24884257,16.8735899045108,41.1231930777939,2
@@ -5068,7 +5098,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5037,26/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:15,13:20,w30631241,16.8938826786552,41.1123911414203,5
 5038,26/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,16:15,16:25,w1049517351,16.8742064069061,41.1175327430622,2
 5039,26/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,16:30,16:40,w30009729,16.8738440781221,41.1251332065285,2
-5040,26/08/2023,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,no,no,20:50,21:05,w147971377,16.9492801976451,41.09358106225,5
+5040,26/08/2023,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Intenso,no,no,20:50,21:05,w147971377,16.9492801976451,41.09358106225,5
 5041,26/08/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,22:45,22:55,w1220626089,16.8729893960528,41.1172273159969,2
 5042,27/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:22,00:33,w30029568,16.8740644963532,41.1075402962773,7
 5043,27/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,03:55,04:12,w29980616,16.8655723383714,41.1217693292034,2
@@ -5111,7 +5141,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5080,30/08/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Nuvoloso,Normale,no,si,15:50,16:00,w1227793587,16.8926484125792,41.1129504344845,5
 5081,30/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:45,18:55,w188121550,16.7504971673945,41.163449481689,13
 5082,31/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,00:00,00:00,w27378276,16.9132099455332,41.1053732080482,5
-5083,31/08/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,01:21,01:33,w28792611,16.8997676500255,41.0962647750662,5
+5083,31/08/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,01:21,01:33,w28792611,16.8997676500255,41.0962647750662,5
 5084,31/08/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,06:55,07:05,w24909653,16.8546884473837,41.1230586915975,4
 5085,31/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:20,08:30,w110550855,16.8836462965511,41.1066902940168,6
 5086,31/08/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,09:33,09:45,w318933768,16.8606830988685,41.1164641411065,8
@@ -5131,7 +5161,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5100,02/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,00:25,00:35,w68576723,16.867030469978,41.1245850096347,2
 5101,02/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,01:25,01:30,w30016109,16.8588678339144,41.1203798155098,4
 5102,02/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,02:45,03:00,w32526051,16.7962122630829,41.1244097571139,11
-5103,02/09/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,10:30,10:35,w30277595,16.7708456189731,41.1520371910074,12
+5103,02/09/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,si,10:30,10:35,w30277595,16.7708456189731,41.1520371910074,12
 5104,02/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,11:00,11:05,w111797678,16.9120322100764,41.1069526204383,5
 5105,02/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,12:40,12:50,w1043675237,16.8617582541008,41.0721194002805,14
 5106,02/09/2023,no,Statale,Curva senza visuale libera,si,Asfaltata,Nebbia,Normale,no,no,15:10,15:30,w1274596356,16.8718691890094,41.1171524983899,2
@@ -5174,7 +5204,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5143,06/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:55,12:05,w175461670,16.8863071983413,41.0810070301173,14
 5144,06/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,17:00,17:20,w132725572,16.7908323847992,41.1263081031303,11
 5145,06/09/2023,si,Strada urbana,Pendenza,si,Asfaltata,Sereno,Normale,no,no,17:30,17:40,w1118886206,16.8739449175892,41.1201029406937,2
-5146,06/09/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,18:30,18:40,w1223005494,16.7770951319259,41.1335296153275,11
+5146,06/09/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,18:30,18:40,w1223005494,16.7770951319259,41.1335296153275,11
 5147,06/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:50,20:00,w30505385,16.8988939437372,41.1128802760609,5
 5148,06/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,20:50,21:00,w333546056,16.8702903607462,41.0778943716595,14
 5149,06/09/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Scarso,no,no,23:00,23:10,w131492721,16.8472287183024,41.0838305172834,14
@@ -5188,7 +5218,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5157,07/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,13:40,14:10,w325737258,16.8692103559378,41.1186557461091,2
 5158,07/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,16:05,16:15,w130574844,16.8267704324439,41.136377228027,10
 5159,07/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,16:55,17:05,w1227793591,16.9122139998264,41.1038873786116,5
-5160,07/09/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:00,19:15,w30858354,16.8711389071145,41.0895294391605,14
+5160,07/09/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:00,19:15,w30858354,16.8711389071145,41.0895294391605,14
 5161,07/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,22:55,23:10,w30633553,16.8895373005062,41.116933564385,5
 5162,08/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,00:00,00:00,w344265630,16.8379142231901,41.1289550036721,10
 5163,08/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,si,02:00,02:05,w49197451,16.8519849060966,41.1220407324862,4
@@ -5324,7 +5354,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5293,19/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,11:45,12:00,w25585815,16.8802157402901,41.1146968515907,6
 5294,19/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,12:25,12:30,w136316543,16.9004048551298,41.1082866486162,5
 5295,19/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:10,13:30,w25634811,16.8427537526422,41.1368974479258,10
-5296,19/09/2023,si,Statale entro l abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,16:40,16:50,w1055087604,16.9011892734994,41.0975122644324,5
+5296,19/09/2023,si,Statale entro l'abitato,Curva a visuale libera,si,Asfaltata,Sereno,Normale,no,no,16:40,16:50,w1055087604,16.9011892734994,41.0975122644324,5
 5297,19/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,16:40,16:55,w25748839,16.8661250598489,41.0991862142138,8
 5298,19/09/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,17:00,17:15,w49811430,16.8654943,41.0681417,14
 5299,19/09/2023,si,Strada urbana,Cavalcavia,si,Asfaltata,Sereno,Normale,no,no,18:20,18:30,w28921530,16.8579597208745,41.0931803402637,8
@@ -5333,7 +5363,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5302,20/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,00:00,00:00,w1219872302,16.8674302883369,41.1259408768469,1
 5303,20/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,si,07:40,07:50,w67028691,16.8929015989543,41.1162389411563,5
 5304,20/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,08:20,09:00,w30631241,16.8938829607841,41.1123910318912,5
-5305,20/09/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:00,09:15,w28082673,16.8929295479557,41.0916890988905,6
+5305,20/09/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:00,09:15,w28082673,16.8929295479557,41.0916890988905,6
 5306,20/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,09:25,09:30,w1043372476,16.8498407084499,41.114240968902,8
 5307,20/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:50,12:00,w25838293,16.8477724550562,41.1141474845604,8
 5308,20/09/2023,si,Strada urbana,Intersezione non regolata/non segnalata,si,Asfaltata,Sereno,Scarso,no,si,11:50,12:00,w558277669,16.7621317380268,41.1516748706299,12
@@ -5375,7 +5405,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5344,24/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,16:10,16:15,w68563024,16.873190623711,41.1154600809537,7
 5345,24/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,20:10,20:40,w137324482,16.8504958513697,41.0469228719073,16
 5346,25/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:30,08:40,w30047398,16.8477325832245,41.1263988221307,4
-5347,25/09/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,si,no,09:13,09:22,w28111105,16.8927935086138,41.0916500787054,6
+5347,25/09/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,si,no,09:13,09:22,w28111105,16.8927935086138,41.0916500787054,6
 5348,25/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,09:39,09:45,w1070589233,16.8736206686888,41.10417027774,7
 5349,25/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:03,10:20,w25654689,16.8503694474572,41.1142622621455,8
 5350,25/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,11:40,11:50,w562701235,16.8377866252582,41.1301273168425,10
@@ -5438,7 +5468,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5407,29/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:40,12:50,w736596146,16.8717753400257,41.1072695456168,7
 5408,29/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,13:20,13:30,w24884090,16.8745398449428,41.1223330737805,2
 5409,29/09/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:50,19:00,w25586000,16.8665106945256,41.0937156215132,7
-5410,30/09/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,si,no,00:00,00:00,w30859256,16.9732968316362,41.0901743965189,17
+5410,30/09/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,si,no,00:00,00:00,w30859256,16.9732968316362,41.0901743965189,17
 5411,30/09/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,00:40,00:50,w30706896,16.8687453982218,41.1131688736547,8
 5412,30/09/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,si,no,09:30,09:40,w279919374,16.8225654086149,41.1182469196831,9
 5413,30/09/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,09:35,09:50,w318933768,16.8617093444892,41.1165293116157,2
@@ -5649,7 +5679,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5612,20/10/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,18:42,18:55,w69306726,16.7664801304845,41.1532907814858,12
 5613,20/10/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,19:50,20:00,w30029557,16.8718704189092,41.118262835721,2
 5614,21/10/2023,si,Strada urbana,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,no,00:00,00:00,w1274596356,16.8718691890094,41.1171524983899,2
-5615,21/10/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,si,no,03:50,04:10,w35682128,16.7488784601348,41.1491086181144,13
+5615,21/10/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,si,no,03:50,04:10,w35682128,16.7488784601348,41.1491086181144,13
 5616,21/10/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,07:05,07:15,w682707457,16.8818709406879,41.112626369712,6
 5617,21/10/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,10:29,10:38,w1225908704,16.8742107324307,41.1005650475854,7
 5618,21/10/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Scarso,no,si,12:05,12:20,w344265614,16.8412100783124,41.1319632217717,10
@@ -5872,7 +5902,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5829,12/11/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Nuvoloso,Normale,no,no,11:30,11:45,w577223386,16.8645779786761,41.1001463615504,8
 5830,12/11/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,12:20,12:30,w49810913,16.8764582134698,41.1042367192026,7
 5831,12/11/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,si,18:55,19:20,w1228728432,16.7989647294294,41.1238439949509,11
-5832,12/11/2023,si,Provinciale entro l abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,21:15,21:28,w484255850,16.8155235244139,41.1042150143555,9
+5832,12/11/2023,si,Provinciale entro l'abitato,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,21:15,21:28,w484255850,16.8155235244139,41.1042150143555,9
 5833,13/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w325737261,16.8833115641896,41.0937678363841,6
 5834,13/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,00:00,00:00,w312994640,16.818467420935,41.1167560522185,9
 5835,13/11/2023,no,Statale,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,08:05,08:25,w901684284,16.8925161165561,41.0925028816496,6
@@ -5951,9 +5981,27 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
 5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
 5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5908,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
 5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
 5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
 5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5909,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
+5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
 5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716742,16.8828958,41.0627074,14
 5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w175451804,16.8828958,41.0627074,14
 5910,18/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Vento forte,Normale,no,no,16:10,16:20,w1236716737,16.8828958,41.0627074,14
@@ -5987,7 +6035,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5938,22/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,si,08:06,08:20,w68576723,16.8671196900486,41.1236993933994,2
 5939,22/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Scarso,no,no,10:55,11:00,w50082639,16.8639540599161,41.0845695056418,14
 5940,22/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,11:10,11:15,w1236614316,16.8781361722347,41.1066236394022,6
-5941,22/11/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:38,11:50,w1226716500,16.834514751022,41.0948387238728,8
+5941,22/11/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,11:38,11:50,w1226716500,16.834514751022,41.0948387238728,8
 5942,22/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,12:40,12:55,w1180503876,16.8910921071136,41.0951316872313,6
 5943,22/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,15:50,16:05,w28921804,16.8649094306301,41.1019469635952,8
 5944,22/11/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,no,19:10,19:30,w68576719,16.8653132485821,41.1244603136334,2
@@ -6017,7 +6065,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5968,24/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,19:15,19:25,w100126148,16.8359621333489,41.1159532744516,9
 5969,25/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,04:15,04:25,w30029579,16.870673894558,41.1129153370188,7
 5970,25/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,12:40,12:55,w1221620557,16.8651700206325,41.1167496720138,2
-5971,25/11/2023,si,Statale entro l abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,12:52,13:00,w293184748,16.770963,41.1517481,12
+5971,25/11/2023,si,Statale entro l'abitato,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Normale,no,no,12:52,13:00,w293184748,16.770963,41.1517481,12
 5972,25/11/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,13:15,13:25,w131750852,16.8601089631047,41.0964847065528,8
 5973,25/11/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,no,18:50,19:00,w1078484684,16.8740926435871,41.1189235633649,2
 5974,25/11/2023,si,Strada urbana,Incrocio,no,Asfaltata,Pioggia in atto,Normale,no,si,20:00,20:15,w25654869,16.8671794509328,41.1041646482894,7
@@ -6041,7 +6089,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 5992,28/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,11:41,11:57,w67029075,16.8904825553528,41.117220078082,5
 5993,28/11/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,13:00,13:05,w1218775698,16.8871399773731,41.1033135397124,6
 5994,28/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,no,13:30,13:40,w69306707,16.7484288579906,41.1627955563225,13
-5995,28/11/2023,si,Statale entro l abitato,Curva senza visuale libera,no,Asfaltata,Sereno,Normale,si,no,16:02,16:15,w35681799,16.8138035062477,41.1350859295688,10
+5995,28/11/2023,si,Statale entro l'abitato,Curva senza visuale libera,no,Asfaltata,Sereno,Normale,si,no,16:02,16:15,w35681799,16.8138035062477,41.1350859295688,10
 5996,28/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,16:50,17:00,w299234256,16.8243500097606,41.1241901961668,9
 5997,28/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,no,17:25,17:40,w28791564,16.8743588557478,41.1179941825666,2
 5998,28/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Intenso,no,no,18:50,19:00,w31340171,16.8669299375613,41.0890282977005,14
@@ -6068,7 +6116,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6019,30/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,08:47,09:00,w325737260,16.8879372164033,41.1126364417546,5
 6020,30/11/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,09:10,09:15,w1175373547,16.8569321932702,41.1019512291455,8
 6021,30/11/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,si,09:37,09:45,w1226173975,16.8758287570192,41.1240376790136,3
-6022,30/11/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:20,14:40,w31576674,16.8881873121042,41.0891322600241,6
+6022,30/11/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,14:20,14:40,w31576674,16.8881873121042,41.0891322600241,6
 6023,30/11/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,18:32,18:45,w292125240,16.8423579765119,41.1143136357637,9
 6024,01/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Nuvoloso,Normale,no,si,10:55,11:00,w25655035,16.8622381402519,41.1025562473699,8
 6025,01/12/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,11:55,12:10,w30002265,16.8877854454553,41.1086705035994,6
@@ -6103,7 +6151,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6054,04/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,16:15,16:25,w30706975,16.8652847149158,41.1144770824059,8
 6055,04/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,16:30,16:40,w33537462,16.7454350721704,41.1626852690461,13
 6056,04/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,no,17:40,17:50,w736596146,16.8722429460236,41.1135477156446,7
-6057,04/12/2023,si,Provinciale entro l abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,19:35,19:50,w31240152,16.8301607962028,41.1241949963381,9
+6057,04/12/2023,si,Provinciale entro l'abitato,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,19:35,19:50,w31240152,16.8301607962028,41.1241949963381,9
 6058,04/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,20:30,20:40,w68576720,16.8656800927108,41.1251109480585,2
 6059,04/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,21:10,21:25,w24884016,16.8614053232376,41.1260827680828,2
 6060,04/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,21:45,22:00,w318933773,16.8661197389041,41.1070928428786,8
@@ -6113,7 +6161,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6064,05/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,no,18:00,18:15,w24884091,16.8760002304184,41.121755687885,2
 6065,05/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Intenso,no,no,18:39,18:54,w1167944482,16.8581330466151,41.1074374473331,8
 6066,05/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:50,19:00,w25654817,16.8717340785449,41.1066975339901,7
-6067,05/12/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,si,si,18:55,19:10,w28921522,16.848243990911,41.091590224253,8
+6067,05/12/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,si,si,18:55,19:10,w28921522,16.848243990911,41.091590224253,8
 6068,05/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:30,19:40,w25756850,16.8824691719638,41.0993202680076,6
 6069,05/12/2023,si,Strada urbana,Rotatoria,no,Asfaltata,Pioggia in atto,Normale,no,si,22:10,22:18,w1226715337,16.8537544503448,41.1074289558621,8
 6070,05/12/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Nuvoloso,Scarso,no,no,23:10,23:15,w25654667,16.8644480290708,41.1083167411033,8
@@ -6125,7 +6173,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6076,06/12/2023,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Scarso,no,si,02:30,02:45,w27534610,16.8155401881882,41.1388237520031,10
 6077,06/12/2023,si,Strada urbana,Incrocio,no,Asfaltata,Sereno,Scarso,no,si,06:10,06:15,w27535688,16.8338700193479,41.1293900636525,10
 6078,06/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,08:50,09:05,w30708040,16.8575533288357,41.116215427659,8
-6079,06/12/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,09:45,09:55,w1055087604,16.8996284398517,41.0968842895678,5
+6079,06/12/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,09:45,09:55,w1055087604,16.8996284398517,41.0968842895678,5
 6080,06/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,10:15,10:20,w25585764,16.8774447163044,41.1126380518308,6
 6081,06/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,11:10,11:20,w1070609213,16.8706590249539,41.1261063251986,1
 6082,06/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,12:30,12:40,w706348097,16.8833907106243,41.1037864499328,6
@@ -6164,7 +6212,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6115,09/12/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Intenso,no,no,20:05,20:15,w1226173975,16.87707680276,41.1233526969837,3
 6116,09/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,20:10,20:20,w27534619,16.8130671057736,41.1380937409386,10
 6117,09/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,22:05,22:20,w30029559,16.8604251768121,41.1235181627971,4
-6118,10/12/2023,si,Statale entro l abitato,Curva senza visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,no,12:15,12:30,w30277595,16.7708477026759,41.1520411954173,12
+6118,10/12/2023,si,Statale entro l'abitato,Curva senza visuale libera,no,Asfaltata,Pioggia in atto,Normale,si,no,12:15,12:30,w30277595,16.7708477026759,41.1520411954173,12
 6119,10/12/2023,si,Strada urbana,Intersezione semaforizzata,no,Asfaltata,Pioggia in atto,Normale,si,no,17:30,17:35,w344265627,16.8441762619185,41.129940164399,10
 6120,10/12/2023,si,Strada urbana,Incrocio,no,Asfaltata,Nuvoloso,Normale,no,no,19:40,19:55,w30029568,16.8740865465802,41.1071202748448,7
 6121,10/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,20:20,20:40,w503041218,16.8621801181662,41.0707257229344,14
@@ -6191,7 +6239,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6142,13/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,16:40,16:50,w132714058,16.8490256941396,41.1266343873262,4
 6143,13/12/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,16:55,17:10,w30655770,16.8643885242376,41.08450254108,14
 6144,13/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,19:30,19:40,w1220608823,16.8784818425827,41.111252857112,6
-6145,13/12/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,22:15,22:30,w1219314994,16.794613541878,41.1453397235864,10
+6145,13/12/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,22:15,22:30,w1219314994,16.794613541878,41.1453397235864,10
 6146,14/12/2023,no,Statale,Curva a visuale libera,no,Asfaltata,Pioggia in atto,Intenso,si,no,00:00,00:00,w26024555,16.9881682122294,41.08711186426,17
 6147,14/12/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Intenso,no,no,08:55,09:10,w25634431,16.8819061627753,41.1061241896911,6
 6148,14/12/2023,si,Strada urbana,Rettilineo,no,Asfaltata,Pioggia in atto,Normale,no,no,13:00,13:15,w30700040,16.8604789716303,41.1037571364464,8
@@ -6203,6 +6251,10 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6154,14/12/2023,no,Provinciale,Rettilineo,no,Asfaltata,Pioggia in atto,Scarso,no,no,19:35,19:50,w28684909,16.842634982197,41.0967539401036,8
 6155,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w787571217,16.8676876,41.1197878,2
 6155,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w797020842,16.8676876,41.1197878,2
+6155,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w787571217,16.8676876,41.1197878,2
+6155,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w797020842,16.8676876,41.1197878,2
+6156,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w787571217,16.8676876,41.1197878,2
+6156,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w797020842,16.8676876,41.1197878,2
 6156,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w787571217,16.8676876,41.1197878,2
 6156,15/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w797020842,16.8676876,41.1197878,2
 6157,15/12/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,00:00,00:00,w1219744083,16.8796448030687,41.1013486397579,6
@@ -6227,14 +6279,14 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6176,16/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,14:45,14:55,w30675400,16.854123213113,41.0988753723771,8
 6177,16/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,15:30,15:40,w204129301,16.7917080468633,41.1212517818668,11
 6178,16/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,17:00,17:10,w25634503,16.8842154797064,41.1156660740075,5
-6179,17/12/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,00:00,00:00,w1225782673,16.8162716145227,41.1045175017701,9
+6179,17/12/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,00:00,00:00,w1225782673,16.8162716145227,41.1045175017701,9
 6180,17/12/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Nuvoloso,Scarso,no,no,02:20,02:30,w68563043,16.8725704480576,41.1208414223306,2
 6181,17/12/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,12:50,13:20,w25585833,16.8756405395196,41.1087523293866,7
 6182,17/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Scarso,no,si,14:05,14:30,w1227452798,16.9069409150621,41.0988984301324,5
 6183,17/12/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Normale,no,si,14:15,14:30,w25563712,16.8783858207491,41.115586044709,6
 6184,17/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,si,14:25,14:35,w27535688,16.8342841891305,41.1292637308972,10
 6185,17/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,18:45,18:50,w31785088,16.8622804079167,41.1053087429076,8
-6186,17/12/2023,si,Provinciale entro l abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,20:50,21:00,w49063454,16.8215695444672,41.0886281147446,8
+6186,17/12/2023,si,Provinciale entro l'abitato,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,20:50,21:00,w49063454,16.8215695444672,41.0886281147446,8
 6187,17/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,22:10,22:25,w173680979,16.8464962222008,41.1003495161461,8
 6188,18/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,00:00,00:00,w69306703,16.766254396725,41.1500977408614,12
 6189,18/12/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Normale,no,si,00:05,00:15,w30049154,16.8318710571797,41.1323137282637,10
@@ -6310,7 +6362,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6259,22/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:15,18:30,w25634779,16.8271259870526,41.1279155107318,10
 6260,22/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:25,18:40,w25654817,16.8716360178057,41.1031575065275,7
 6261,22/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,18:30,18:40,w184760819,16.8145614497131,41.1049710910328,9
-6262,22/12/2023,si,Statale entro l abitato,Pianeggiante,si,Asfaltata,Nuvoloso,Normale,no,si,19:30,19:40,w147971377,16.9485384779765,41.0937606872147,5
+6262,22/12/2023,si,Statale entro l'abitato,Pianeggiante,si,Asfaltata,Nuvoloso,Normale,no,si,19:30,19:40,w147971377,16.9485384779765,41.0937606872147,5
 6263,22/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Intenso,no,si,19:40,19:45,w1235836018,16.8670857791734,41.1294506557752,1
 6264,22/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,si,19:50,19:55,w299234256,16.8242193381352,41.1241966979352,9
 6265,22/12/2023,si,Strada urbana,Intersezione semaforizzata,si,Asfaltata,Sereno,Scarso,no,no,22:40,22:54,w299233206,16.8347211171911,41.131511845196,10
@@ -6374,7 +6426,7 @@ id,data,abitato,tipo,caratterist,asciutto,pavimentaz,meteo,traffico,danni_cose,l
 6323,30/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Normale,no,no,09:30,09:40,w24909618,16.8557529860649,41.1228447676468,4
 6324,30/12/2023,si,Strada urbana,Incrocio,si,Asfaltata,Sereno,Normale,no,no,12:50,12:55,w25756833,16.8776376222439,41.1027877609068,7
 6325,30/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Sereno,Scarso,no,no,13:45,14:00,w101510621,16.8736556694952,41.0962214427779,7
-6326,30/12/2023,si,Statale entro l abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,si,si,14:10,14:20,w28921525,16.8660789832306,41.0896604307679,14
+6326,30/12/2023,si,Statale entro l'abitato,Rettilineo,si,Asfaltata,Nuvoloso,Normale,si,si,14:10,14:20,w28921525,16.8660789832306,41.0896604307679,14
 6327,30/12/2023,si,Strada urbana,Rettilineo,si,Asfaltata,Nuvoloso,Normale,no,si,16:50,17:00,w30655239,16.8702524315048,41.0755201094443,14
 6328,30/12/2023,si,Strada urbana,Rotatoria,si,Asfaltata,Sereno,Normale,no,no,17:35,17:45,w25634514,16.8816938657319,41.1149036595936,6
 6329,30/12/2023,si,Strada urbana,Intersezione stradale segnalata,si,Asfaltata,Sereno,Intenso,no,no,19:28,19:33,w30029568,16.8737411882641,41.1107879847698,7
