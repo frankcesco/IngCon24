@@ -1,6 +1,5 @@
 from pyswip import Prolog
 import csv
-import os
 
 def run_prolog_rules():
     prolog = Prolog()
