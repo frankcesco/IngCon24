@@ -4,45 +4,71 @@ import csv
 def run_prolog_rules():
     prolog = Prolog()
 
-    # Load facts and rules
+    # Carica i fatti e le regole
     prolog.consult('facts.pl')
     prolog.consult('rules.pl')
 
-    # Execute the rule to process max speeds with an open-world assumption
+    # Esegui la regola per elaborare le velocità massime con un'ipotesi di mondo aperto
     list(prolog.query('assign_speeds'))
 
-    # Retrieve all updated facts
-    updated_facts = list(prolog.query('strada(Id, Highway, Name, Oneway, Maxspeed, Lanes, Length)'))
+    # Recupera tutti i fatti aggiornati
+    updated_strade = list(prolog.query('strada(Id, Highway, Name, Oneway, Maxspeed, Lanes, Length)'))
+    updated_incidenti = list(prolog.query('incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere)'))
+    updated_quartieri = list(prolog.query('quartiere(Id, Nome, Area, Pop2011)'))
 
-    # Read the original facts from facts.pl
+    # Funzione per verificare se ci sono valori nulli
+    def has_null_values(fact):
+        return any(value == 'null' or value is None for value in fact.values())
+
+    # Filtra i fatti aggiornati per rimuovere quelli con valori nulli
+    filtered_strade = [fact for fact in updated_strade if not has_null_values(fact)]
+    filtered_incidenti = [fact for fact in updated_incidenti if not has_null_values(fact)]
+    filtered_quartieri = [fact for fact in updated_quartieri if not has_null_values(fact)]
+
+    # Leggi i fatti originali da facts.pl
     with open('facts.pl', 'r', encoding='utf-8') as original_file:
         lines = original_file.readlines()
 
-    # Replace the updated facts in the facts.pl file
-    with open('facts.pl', 'w', encoding='utf-8') as updated_file:
+    # Scrivi solo i fatti aggiornati e non nulli in updated_facts.pl
+    with open('updated_facts.pl', 'w', encoding='utf-8') as updated_file:
         for line in lines:
             if line.startswith('strada('):
                 original_id = line.split(',')[0].split('(')[1].strip("'")
-                for fact in updated_facts:
+                for fact in filtered_strade:
                     if fact['Id'] == original_id:
-                        updated_file.write(f"strada('{fact['Id']}', '{fact['Highway']}', '{fact['Name']}', '{fact['Oneway']}', "
+                        updated_file.write(f"strada('{fact['Id']}', '{fact['Highway']}', '{fact['Name']}', {fact['Oneway']}, "
                                            f"{fact['Maxspeed']}, {fact['Lanes']}, {fact['Length']}).\n")
+                        break
+            elif line.startswith('incidente('):
+                original_id = line.split(',')[0].split('(')[1].strip("'")
+                for fact in filtered_incidenti:
+                    if fact['Id'] == original_id:
+                        updated_file.write(f"incidente('{fact['Id']}', '{fact['Data']}', '{fact['Abitato']}', '{fact['Tipo']}', '{fact['Caratteris']}', "
+                                           f"'{fact['Asciutto']}', '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', '{fact['DanniCose']}', "
+                                           f"'{fact['Lesioni']}', '{fact['Chiamata']}', '{fact['Arrivo']}', '{fact['Strada']}', '{fact['NearestX']}', "
+                                           f"'{fact['NearestY']}', '{fact['Quartiere']}').\n")
+                        break
+            elif line.startswith('quartiere('):
+                original_id = line.split(',')[0].split('(')[1].strip("'")
+                for fact in filtered_quartieri:
+                    if fact['Id'] == original_id:
+                        updated_file.write(f"quartiere('{fact['Id']}', '{fact['Nome']}', {fact['Area']}, {fact['Pop2011']}).\n")
                         break
             else:
                 updated_file.write(line)
 
-    print("Updated speeds saved to facts.pl")
+    print("Fatti filtrati e aggiornati salvati in updated_facts.pl")
 
-    # Export the results to a CSV file
+    # Esporta i risultati in un file CSV
     with open('updated_speeds.csv', 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Id', 'Maxspeed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
-        for fact in updated_facts:
+        for fact in filtered_strade:
             writer.writerow({'Id': fact['Id'], 'Maxspeed': fact['Maxspeed']})
 
-    print("Updated speeds exported to updated_speeds.csv")
+    print("Velocità aggiornate esportate in updated_speeds.csv")
 
 if __name__ == '__main__':
     run_prolog_rules()
