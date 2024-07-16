@@ -1,4 +1,3 @@
-
 import csv
 import os
 
@@ -29,7 +28,7 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
         # Funzione per trasformare il campo 'chiamata' in 'ora' e 'minuto'
         def transform_chiamata(value):
             parts = value.split(':')
-            if len(parts) == 3:
+            if len(parts) >= 2:
                 return parts[0], parts[1]
             return 'null', 'null'
 
