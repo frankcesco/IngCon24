@@ -43,17 +43,12 @@ def run_prolog_rules():
                 original_id = line.split(',')[0].split('(')[1].strip("'")
                 for fact in filtered_incidenti:
                     if fact['Id'] == original_id:
-                        updated_file.write(f"incidente('{fact['Id']}', '{fact['Data']}', '{fact['Abitato']}', '{fact['Tipo']}', '{fact['Caratteris']}', "
-                                           f"'{fact['Asciutto']}', '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', '{fact['DanniCose']}', "
-                                           f"'{fact['Lesioni']}', '{fact['Chiamata']}', '{fact['Arrivo']}', '{fact['Strada']}', '{fact['NearestX']}', "
-                                           f"'{fact['NearestY']}', '{fact['Quartiere']}').\n")
+                        updated_file.write(f"incidente('{fact['Id']}', '{fact['Data']}', {fact['Abitato']}, '{fact['Tipo']}', '{fact['Caratteris']}', "
+                                           f"{fact['Asciutto']}, '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', {fact['DanniCose']}, "
+                                           f"{fact['Lesioni']}, '{fact['Chiamata']}', '{fact['Arrivo']}', '{fact['Strada']}', {fact['NearestX']}, "
+                                           f"{fact['NearestY']}, '{fact['Quartiere']}').\n")
                         break
-            elif line.startswith('quartiere('):
-                original_id = line.split(',')[0].split('(')[1].strip("'")
-                for fact in filtered_quartieri:
-                    if fact['Id'] == original_id:
-                        updated_file.write(f"quartiere('{fact['Id']}', '{fact['Nome']}', {fact['Area']}, {fact['Pop2011']}).\n")
-                        break
+            # I quartieri non vengono gestiti in quanto non contengono valori nulli, e una eventuale gestione rimuove cifre significative dall'area.
             else:
                 updated_file.write(line)
 
