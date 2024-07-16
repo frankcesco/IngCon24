@@ -1,3 +1,4 @@
+
 import csv
 import os
 
@@ -9,7 +10,7 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
         prolog_file.write(":- dynamic strada/7.\n")
         prolog_file.write(":- dynamic quartiere/4.\n\n")
 
-        # Funzione per rimuovere apostrofo
+        # Funzione per rimuovere apostrofi
         def remove_apostrophe(value):
             return value.replace("'", " ")
 
@@ -25,8 +26,18 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
         def replace_empty_with_null(value):
             return 'null' if value == '' else value
 
+        # Funzione per trasformare il campo 'chiamata' in 'ora' e 'minuto'
+        def transform_chiamata(value):
+            parts = value.split(':')
+            if len(parts) == 3:
+                return parts[0], parts[1]
+            return 'null', 'null'
+
         # Funzione per formattare i valori per Prolog
-        def format_value(value, is_boolean=False):
+        def format_value(value, is_boolean=False, is_chiamata=False):
+            if is_chiamata:
+                ora, minuto = transform_chiamata(value)
+                return f"{ora}, {minuto}"
             value = replace_empty_with_null(value)
             if is_boolean:
                 value = convert_boolean(value)
@@ -41,9 +52,9 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
                                   f"{format_value(row['caratteris'])}, {format_value(row['asciutto'], is_boolean=True)}, "
                                   f"{format_value(row['pavimentaz'])}, {format_value(row['meteo'])}, "
                                   f"{format_value(row['traffico'])}, {format_value(row['danni_cose'], is_boolean=True)}, "
-                                  f"{format_value(row['lesioni'], is_boolean=True)}, {format_value(row['chiamata'])}, "
-                                  f"{format_value(row['arrivo'])}, {format_value(row['strada'])}, "
-                                  f"{replace_empty_with_null(row['nearest_x'])}, {replace_empty_with_null(row['nearest_y'])}, {format_value(row['quartiere'])}).\n")
+                                  f"{format_value(row['lesioni'], is_boolean=True)}, {format_value(row['chiamata'], is_chiamata=True)}, "
+                                  f"{format_value(row['strada'])}, {replace_empty_with_null(row['nearest_x'])}, "
+                                  f"{replace_empty_with_null(row['nearest_y'])}, {format_value(row['quartiere'])}).\n")
 
         # Processo le Strade
         with open(strade_file, newline='', encoding='utf-8') as csvfile:
@@ -51,7 +62,8 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
             for row in reader:
                 prolog_file.write(f"strada({format_value(row['full_id'])}, {format_value(row['highway'])}, "
                                   f"{format_value(row['name'])}, {format_value(row['oneway'], is_boolean=True)}, "
-                                  f"{replace_empty_with_null(row['maxspeed'])}, {replace_empty_with_null(row['lanes'])}, {replace_empty_with_null(row['length'])}).\n")
+                                  f"{replace_empty_with_null(row['maxspeed'])}, {replace_empty_with_null(row['lanes'])}, "
+                                  f"{replace_empty_with_null(row['length'])}).\n")
 
         # Processo i Quartieri
         with open(quartieri_file, newline='', encoding='utf-8') as csvfile:

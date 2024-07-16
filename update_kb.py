@@ -13,7 +13,7 @@ def run_prolog_rules():
 
     # Recupera tutti i fatti aggiornati
     updated_strade = list(prolog.query('strada(Id, Highway, Name, Oneway, Maxspeed, Lanes, Length)'))
-    updated_incidenti = list(prolog.query('incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere)'))
+    updated_incidenti = list(prolog.query('incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Ora, Minuto, Strada, NearestX, NearestY, Quartiere)'))
     updated_quartieri = list(prolog.query('quartiere(Id, Nome, Area, Pop2011)'))
 
     # Funzione per verificare se ci sono valori nulli
@@ -45,7 +45,7 @@ def run_prolog_rules():
                     if fact['Id'] == original_id:
                         updated_file.write(f"incidente('{fact['Id']}', '{fact['Data']}', {fact['Abitato']}, '{fact['Tipo']}', '{fact['Caratteris']}', "
                                            f"{fact['Asciutto']}, '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', {fact['DanniCose']}, "
-                                           f"{fact['Lesioni']}, '{fact['Chiamata']}', '{fact['Arrivo']}', '{fact['Strada']}', {fact['NearestX']}, "
+                                           f"{fact['Lesioni']}, {fact['Ora']}, {fact['Minuto']}, '{fact['Strada']}', {fact['NearestX']}, "
                                            f"{fact['NearestY']}, '{fact['Quartiere']}').\n")
                         break
             # I quartieri non vengono gestiti in quanto non contengono valori nulli, e una eventuale gestione rimuove cifre significative dall'area.
