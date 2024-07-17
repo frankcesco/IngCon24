@@ -32,7 +32,7 @@ def apply_inference_rules():
     print(f"Fatti aggiornati dei quartieri trovati: {len(updated_quartieri)}")
 
     # Leggi i fatti originali da updated_facts.pl
-    with open('updated_facts.pl', 'r', encoding='utf-8') as original_file:
+    with open('../prolog/updated_facts.pl', 'r', encoding='utf-8') as original_file:
         lines = original_file.readlines()
 
     # Scrivi solo i fatti aggiornati e non nulli in final_facts.pl
