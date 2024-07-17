@@ -56,3 +56,53 @@ assign_speeds :-
     assign_track_speed,
     calculate_speed_distribution,
     assign_missing_speeds.
+
+% Calcolo della fascia oraria di un incidente basata sull'orario di chiamata
+fascia_oraria(Chiamata, 'mattina') :- Chiamata >= 6, Chiamata < 12.
+fascia_oraria(Chiamata, 'pomeriggio') :- Chiamata >= 12, Chiamata < 18.
+fascia_oraria(Chiamata, 'sera') :- Chiamata >= 18, Chiamata < 24.
+fascia_oraria(Chiamata, 'notte') :- Chiamata >= 0, Chiamata < 6.
+
+% Calcolo della densità di popolazione di un quartiere
+densita_quartiere(Quartiere, Densita) :-
+    quartiere(Quartiere, _, Area, Popolazione),
+    Area > 0,
+    Densita is Popolazione / Area.
+
+% Conta il numero di incidenti per quartiere
+incidenti_per_quartiere(Quartiere, NumeroIncidenti) :-
+    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, Quartiere), Incidenti),
+    length(Incidenti, NumeroIncidenti),
+    writeln(incidenti_per_quartiere(Quartiere, NumeroIncidenti)).
+
+% Regola per aggiungere fascia oraria agli incidenti
+assign_fascia_oraria :-
+    incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere),
+    fascia_oraria(Chiamata, FasciaOraria),
+    retract(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere)),
+    assertz(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere, FasciaOraria)),
+    writeln(assign_fascia_oraria(Id, FasciaOraria)),
+    fail.
+assign_fascia_oraria.
+
+% Calcolo dell'incidentalità di un quartiere
+incidentalita_quartiere(Quartiere, Incidentalita) :-
+    incidenti_per_quartiere(Quartiere, NumeroIncidentiQuartiere),
+    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _), IncidentiTotali),
+    length(IncidentiTotali, NumeroIncidentiTotali),
+    writeln(total_incidents(NumeroIncidentiTotali)),  % Debug: stampa il numero totale di incidenti
+    densita_quartiere(Quartiere, Densita),
+    writeln(density(Quartiere, Densita)),  % Debug: stampa la densità del quartiere
+    Densita > 0,
+    Incidentalita is (NumeroIncidentiQuartiere / NumeroIncidentiTotali) / Densita,
+    writeln(incidentalita_quartiere(Quartiere, Incidentalita)).
+
+% Regola per aggiungere incidentalità ai quartieri
+assign_incidentalita :-
+    quartiere(Id, Nome, Area, Pop2011),
+    incidentalita_quartiere(Id, Incidentalita),
+    retract(quartiere(Id, Nome, Area, Pop2011)),
+    assertz(quartiere(Id, Nome, Area, Pop2011, Incidentalita)),
+    writeln(assign_incidentalita(Id, Incidentalita)),
+    fail.
+assign_incidentalita.
