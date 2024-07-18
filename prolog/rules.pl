@@ -1,4 +1,4 @@
-% Regola per assegnare 30 km/h alle strade di tipo track con maxspeed nullo.
+% Regola per assegnare 30 km/h alle strade di tipo track con maxspeed nullo
 assign_track_speed :-
     retract(strada(Id, 'track', Name, Oneway, null, Lanes, Length)),
     assertz(strada(Id, 'track', Name, Oneway, 30, Lanes, Length)),
@@ -63,46 +63,33 @@ fascia_oraria(Chiamata, 'pomeriggio') :- Chiamata >= 12, Chiamata < 18.
 fascia_oraria(Chiamata, 'sera') :- Chiamata >= 18, Chiamata < 24.
 fascia_oraria(Chiamata, 'notte') :- Chiamata >= 0, Chiamata < 6.
 
-% Calcolo della densità di popolazione di un quartiere
-densita_quartiere(Quartiere, Densita) :-
-    quartiere(Quartiere, _, Area, Popolazione),
-    Area > 0,
-    Densita is Popolazione / Area.
-
-% Conta il numero di incidenti per quartiere
-incidenti_per_quartiere(Quartiere, NumeroIncidenti) :-
-    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, Quartiere), Incidenti),
-    length(Incidenti, NumeroIncidenti),
-    writeln(incidenti_per_quartiere(Quartiere, NumeroIncidenti)).
-
 % Regola per aggiungere fascia oraria agli incidenti
 assign_fascia_oraria :-
     incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere),
     fascia_oraria(Chiamata, FasciaOraria),
     retract(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere)),
     assertz(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere, FasciaOraria)),
-    writeln(assign_fascia_oraria(Id, FasciaOraria)),
     fail.
 assign_fascia_oraria.
 
-% Calcolo dell'incidentalità di un quartiere
-incidentalita_quartiere(Quartiere, Incidentalita) :-
-    incidenti_per_quartiere(Quartiere, NumeroIncidentiQuartiere),
-    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _), IncidentiTotali),
-    length(IncidentiTotali, NumeroIncidentiTotali),
-    writeln(total_incidents(NumeroIncidentiTotali)),  % Debug: stampa il numero totale di incidenti
-    densita_quartiere(Quartiere, Densita),
-    writeln(density(Quartiere, Densita)),  % Debug: stampa la densità del quartiere
-    Densita > 0,
-    Incidentalita is (NumeroIncidentiQuartiere / NumeroIncidentiTotali) / Densita,
-    writeln(incidentalita_quartiere(Quartiere, Incidentalita)).
+% Calcolo della densità di popolazione di un quartiere in abitanti per km quadrato
+densita_quartiere(Quartiere, Densita) :-
+    quartiere(Quartiere, _, Area, Popolazione),
+    AreaKm2 is Area / 1000000,  % Converti l'area da m^2 a km^2
+    AreaKm2 > 0,
+    Densita is Popolazione / AreaKm2.
 
-% Regola per aggiungere incidentalità ai quartieri
-assign_incidentalita :-
+% Conta il numero di incidenti per quartiere
+incidenti_per_quartiere(Quartiere, NumeroIncidenti) :-
+    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, Quartiere, _), Incidenti),
+    length(Incidenti, NumeroIncidenti).
+
+% Regola per aggiungere il numero di incidenti e la densità ai quartieri
+assign_features :-
     quartiere(Id, Nome, Area, Pop2011),
-    incidentalita_quartiere(Id, Incidentalita),
+    incidenti_per_quartiere(Id, NumeroIncidenti),
+    densita_quartiere(Id, Densita),
     retract(quartiere(Id, Nome, Area, Pop2011)),
-    assertz(quartiere(Id, Nome, Area, Pop2011, Incidentalita)),
-    writeln(assign_incidentalita(Id, Incidentalita)),
+    assertz(quartiere(Id, Nome, Area, Pop2011, NumeroIncidenti, Densita)),
     fail.
-assign_incidentalita.
+assign_features.
