@@ -4,9 +4,9 @@ import csv
 def run_prolog_rules():
     prolog = Prolog()
 
-    # Carica i fatti e le regole
-    prolog.consult('facts.pl')
-    prolog.consult('rules.pl')
+    # Carica i fatti e le regole salvati in prolog/facts.pl e prolog/rules.pl
+    prolog.consult('../prolog/facts.pl')
+    prolog.consult('../prolog/rules.pl')
 
     # Esegui la regola per elaborare le velocità massime con un'ipotesi di mondo aperto
     list(prolog.query('assign_speeds'))
@@ -26,11 +26,11 @@ def run_prolog_rules():
     filtered_quartieri = [fact for fact in updated_quartieri if not has_null_values(fact)]
 
     # Leggi i fatti originali da facts.pl
-    with open('facts.pl', 'r', encoding='utf-8') as original_file:
+    with open('../prolog/facts.pl', 'r', encoding='utf-8') as original_file:
         lines = original_file.readlines()
 
     # Scrivi solo i fatti aggiornati e non nulli in updated_facts.pl
-    with open('updated_facts.pl', 'w', encoding='utf-8') as updated_file:
+    with open('../prolog/updated_facts.pl', 'w', encoding='utf-8') as updated_file:
         for line in lines:
             if line.startswith('strada('):
                 original_id = line.split(',')[0].split('(')[1].strip("'")
@@ -55,7 +55,7 @@ def run_prolog_rules():
     print("Fatti filtrati e aggiornati salvati in updated_facts.pl")
 
     # Esporta i risultati in un file CSV
-    with open('updated_speeds.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('../data/updated_speeds.csv', 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['Id', 'Maxspeed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 

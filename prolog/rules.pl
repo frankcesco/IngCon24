@@ -1,4 +1,4 @@
-% Regola per assegnare 30 km/h alle strade di tipo track con maxspeed nullo.
+% Regola per assegnare 30 km/h alle strade di tipo track con maxspeed nullo
 assign_track_speed :-
     retract(strada(Id, 'track', Name, Oneway, null, Lanes, Length)),
     assertz(strada(Id, 'track', Name, Oneway, 30, Lanes, Length)),
@@ -56,3 +56,40 @@ assign_speeds :-
     assign_track_speed,
     calculate_speed_distribution,
     assign_missing_speeds.
+
+% Calcolo della fascia oraria di un incidente basata sull'orario di chiamata
+fascia_oraria(Chiamata, 'mattina') :- Chiamata >= 6, Chiamata < 12.
+fascia_oraria(Chiamata, 'pomeriggio') :- Chiamata >= 12, Chiamata < 18.
+fascia_oraria(Chiamata, 'sera') :- Chiamata >= 18, Chiamata < 24.
+fascia_oraria(Chiamata, 'notte') :- Chiamata >= 0, Chiamata < 6.
+
+% Regola per aggiungere fascia oraria agli incidenti
+assign_fascia_oraria :-
+    incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere),
+    fascia_oraria(Chiamata, FasciaOraria),
+    retract(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere)),
+    assertz(incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Chiamata, Arrivo, Strada, NearestX, NearestY, Quartiere, FasciaOraria)),
+    fail.
+assign_fascia_oraria.
+
+% Calcolo della densità di popolazione di un quartiere in abitanti per km quadrato
+densita_quartiere(Quartiere, Densita) :-
+    quartiere(Quartiere, _, Area, Popolazione),
+    AreaKm2 is Area / 1000000,  % Converti l'area da m^2 a km^2
+    AreaKm2 > 0,
+    Densita is Popolazione / AreaKm2.
+
+% Conta il numero di incidenti per quartiere
+incidenti_per_quartiere(Quartiere, NumeroIncidenti) :-
+    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, Quartiere, _), Incidenti),
+    length(Incidenti, NumeroIncidenti).
+
+% Regola per aggiungere il numero di incidenti e la densità ai quartieri
+assign_features :-
+    quartiere(Id, Nome, Area, Pop2011),
+    incidenti_per_quartiere(Id, NumeroIncidenti),
+    densita_quartiere(Id, Densita),
+    retract(quartiere(Id, Nome, Area, Pop2011)),
+    assertz(quartiere(Id, Nome, Area, Pop2011, NumeroIncidenti, Densita)),
+    fail.
+assign_features.
