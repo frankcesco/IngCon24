@@ -29,7 +29,7 @@ def visualize_data(df_pavimentazione, df_danni_cose):
 
     # Grafico a barre per pavimentazione
     pavimentazione_counts = df_pavimentazione['Pavimentazione'].value_counts()
-    plt.figure(figsize=(12, 8))
+    plt.figure(figsize=(12, 5))
     pavimentazione_counts.plot(kind='bar')
     plt.title('Distribuzione dei valori di Pavimentazione')
     plt.xlabel('Pavimentazione', fontsize=12)
@@ -47,7 +47,7 @@ def visualize_data(df_pavimentazione, df_danni_cose):
 
     # Grafico a barre per danni_cose
     danni_cose_counts = df_danni_cose['DanniCose'].value_counts()
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(8, 4))
     danni_cose_counts.plot(kind='bar')
     plt.title('Distribuzione dei valori di Danni Cose')
     plt.xlabel('Danni Cose')
