@@ -21,12 +21,6 @@ def apply_inference_rules():
     print(f"Incidenti caricati: {len(incidenti)}")
     print(f"Quartieri caricati: {len(quartieri)}")
 
-    # Stampa i fatti caricati per verifica
-    for inc in incidenti:
-        print(f"Incidente: {inc}")
-    for qrt in quartieri:
-        print(f"Quartiere: {qrt}")
-
     # Esegui le regole per aggiungere le nuove feature
     print("Esecuzione della regola: assign_fascia_oraria")
     list(prolog.query('assign_fascia_oraria'))
