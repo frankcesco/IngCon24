@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import chi2_contingency, pearsonr
 
+
 def extract_data():
     prolog = Prolog()
     prolog.consult('../prolog/final_facts.pl')
@@ -29,6 +30,7 @@ def extract_data():
     })
 
     return df
+
 
 def calculate_tetrachoric_correlation(df):
     # Creare una tabella di contingenza manualmente
@@ -65,6 +67,13 @@ def calculate_tetrachoric_correlation(df):
 
     return tetracorr
 
+
+def calculate_chi_squared(contingency_table):
+    # Calcolare il valore chi-quadrato e il p-value
+    chi2, p, _, _ = chi2_contingency(contingency_table, correction=False)
+    return chi2, p
+
+
 def calculate_pearson_correlation(df):
     # Assicurati che i dati siano numerici
     df['DanniCose'] = pd.to_numeric(df['DanniCose'])
@@ -75,6 +84,7 @@ def calculate_pearson_correlation(df):
 
     return pearson_corr
 
+
 if __name__ == '__main__':
     # Estrarre dati da Prolog
     df = extract_data()
@@ -83,15 +93,38 @@ if __name__ == '__main__':
     print("Dati estratti:")
     print(df)
 
+    # Calcolare la tabella di contingenza
+    contingency_table = np.zeros((2, 2))
+
+    for _, row in df.iterrows():
+        if row['DanniCose'] == 0 and row['Lesioni'] == 0:
+            contingency_table[0, 0] += 1
+        elif row['DanniCose'] == 0 and row['Lesioni'] == 1:
+            contingency_table[0, 1] += 1
+        elif row['DanniCose'] == 1 and row['Lesioni'] == 0:
+            contingency_table[1, 0] += 1
+        elif row['DanniCose'] == 1 and row['Lesioni'] == 1:
+            contingency_table[1, 1] += 1
+
     # Calcolare la correlazione tetracorica
     tetracorr = calculate_tetrachoric_correlation(df)
+
+    # Calcolare il chi-quadrato e il p-value
+    chi2, p = calculate_chi_squared(contingency_table)
 
     # Calcolare la correlazione di Pearson
     pearson_corr = calculate_pearson_correlation(df)
 
     # Visualizzare i risultati
+    print("Tabella di Contingenza:")
+    print(contingency_table)
+
     print("Correlazione tetracorica tra 'DanniCose' e 'Lesioni':")
     print(tetracorr)
+
+    print("Chi-quadrato e p-value:")
+    print(f"Chi-quadrato: {chi2}")
+    print(f"p-value: {p}")
 
     print("Coefficiente di correlazione di Pearson tra 'DanniCose' e 'Lesioni':")
     print(pearson_corr)
