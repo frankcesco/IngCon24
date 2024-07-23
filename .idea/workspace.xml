@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e26ea15c-9437-4c04-b84d-a86abd474766" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rules.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update_kb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/incidenti.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/incidenti.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/quartieri.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/quartieri.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/strade.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/strade.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts.pl" beforeDir="false" afterPath="$PROJECT_DIR$/facts.pl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_prolog.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_prolog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/updated_speeds.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/updated_speeds.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prolog/final_facts.pl" beforeDir="false" afterPath="$PROJECT_DIR$/prolog/final_facts.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prolog/updated_facts.pl" beforeDir="false" afterPath="$PROJECT_DIR$/prolog/updated_facts.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/generate_prolog.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/generate_prolog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +105,7 @@
       <workItem from="1719244243628" duration="481000" />
       <workItem from="1719244791205" duration="625000" />
       <workItem from="1719245435364" duration="729000" />
+      <workItem from="1721744005390" duration="788000" />
     </task>
     <servers />
   </component>
@@ -138,8 +135,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IngCon24$generate_prolog.coverage" NAME="generate_prolog Coverage Results" MODIFIED="1719246132178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/IngCon24$update_kb.coverage" NAME="update_kb Coverage Results" MODIFIED="1719246140673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/IngCon24$main.coverage" NAME="main Coverage Results" MODIFIED="1719224168384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IngCon24$generate_prolog.coverage" NAME="generate_prolog Coverage Results" MODIFIED="1721744428623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/IngCon24$update_kb.coverage" NAME="update_kb Coverage Results" MODIFIED="1721744214183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/IngCon24$main.coverage" NAME="main Coverage Results" MODIFIED="1721744758468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
   </component>
 </project>

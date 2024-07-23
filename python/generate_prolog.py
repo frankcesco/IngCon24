@@ -74,8 +74,8 @@ def generate_prolog_kb(incidenti_file, strade_file, quartieri_file, output_file)
 if __name__ == "__main__":
     # Definisco i percorsi
     base_path = os.path.abspath(os.path.dirname(__file__))
-    data_path = os.path.join(base_path, '..\data')
-    prolog_path = os.path.join(base_path, '..\prolog')
+    data_path = os.path.abspath(os.path.join(base_path, '..', 'data'))
+    prolog_path = os.path.abspath(os.path.join(base_path, '..', 'prolog'))
     incidenti_file = os.path.join(data_path, 'incidenti.csv')
     strade_file = os.path.join(data_path, 'strade.csv')
     quartieri_file = os.path.join(data_path, 'quartieri.csv')
