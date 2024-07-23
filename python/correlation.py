@@ -1,37 +1,48 @@
 from pyswip import Prolog
 import pandas as pd
 import numpy as np
-from scipy.stats import chi2_contingency
-
+from scipy.stats import chi2_contingency, pearsonr
 
 def extract_data():
     prolog = Prolog()
     prolog.consult('../prolog/final_facts.pl')
 
-    # Estrarre dati per danni_cose e lesioni
+    # Estrarre dati per danni_cose e lesioni, insieme all'ID dell'incidente
+    incident_ids = []
     danni_cose_data = []
     lesioni_data = []
 
     query = (
-        "incidente(_, _, _, _, _, _, _, _, _, DanniCose, Lesioni, _, _, _, _, _, _, _)"
+        "incidente(ID, _, _, _, _, _, _, _, _, DanniCose, Lesioni, _, _, _, _, _, _, _)"
     )
 
     for result in prolog.query(query):
+        incident_ids.append(result["ID"])
         danni_cose_data.append(result["DanniCose"])
         lesioni_data.append(result["Lesioni"])
 
     # Creare dataframe
     df = pd.DataFrame({
+        "ID": incident_ids,
         "DanniCose": danni_cose_data,
         "Lesioni": lesioni_data
     })
 
     return df
 
-
 def calculate_tetrachoric_correlation(df):
-    # Creare una tabella di contingenza
-    contingency_table = pd.crosstab(df['DanniCose'], df['Lesioni'])
+    # Creare una tabella di contingenza manualmente
+    contingency_table = np.zeros((2, 2))
+
+    for _, row in df.iterrows():
+        if row['DanniCose'] == 0 and row['Lesioni'] == 0:
+            contingency_table[0, 0] += 1
+        elif row['DanniCose'] == 0 and row['Lesioni'] == 1:
+            contingency_table[0, 1] += 1
+        elif row['DanniCose'] == 1 and row['Lesioni'] == 0:
+            contingency_table[1, 0] += 1
+        elif row['DanniCose'] == 1 and row['Lesioni'] == 1:
+            contingency_table[1, 1] += 1
 
     # Stampare la tabella di contingenza per debugging
     print("Tabella di Contingenza:")
@@ -41,29 +52,46 @@ def calculate_tetrachoric_correlation(df):
     if contingency_table.shape != (2, 2):
         raise ValueError("La tabella di contingenza non è 2x2. Verifica i dati.")
 
-    # Calcolare il coefficiente tetracorico
-    chi2, p, dof, expected = chi2_contingency(contingency_table, correction=False)
+    # Calcolare la correlazione tetracorica utilizzando una formula alternativa
+    a = contingency_table[0, 0]
+    b = contingency_table[0, 1]
+    c = contingency_table[1, 0]
+    d = contingency_table[1, 1]
 
-    # Assicurati che il calcolo non dia errori
-    print(f"Chi-quadrato: {chi2}, N: {contingency_table.sum().sum()}")
-
-    # Correlazione tetracorica (approssimazione)
-    try:
-        tetracorr = np.sqrt((chi2 - contingency_table.sum().sum()) / (contingency_table.sum().sum() + 1))
-    except ValueError as e:
-        print(f"Errore nel calcolo della correlazione tetracorica: {e}")
+    if (a + b) * (c + d) * (a + c) * (b + d) == 0:
         tetracorr = np.nan
+    else:
+        tetracorr = (a * d - b * c) / np.sqrt((a + b) * (c + d) * (a + c) * (b + d))
 
     return tetracorr
 
+def calculate_pearson_correlation(df):
+    # Assicurati che i dati siano numerici
+    df['DanniCose'] = pd.to_numeric(df['DanniCose'])
+    df['Lesioni'] = pd.to_numeric(df['Lesioni'])
+
+    # Calcola il coefficiente di correlazione di Pearson
+    pearson_corr, _ = pearsonr(df['DanniCose'], df['Lesioni'])
+
+    return pearson_corr
 
 if __name__ == '__main__':
     # Estrarre dati da Prolog
     df = extract_data()
 
+    # Stampare i dati caricati per verifica
+    print("Dati estratti:")
+    print(df)
+
     # Calcolare la correlazione tetracorica
     tetracorr = calculate_tetrachoric_correlation(df)
+
+    # Calcolare la correlazione di Pearson
+    pearson_corr = calculate_pearson_correlation(df)
 
     # Visualizzare i risultati
     print("Correlazione tetracorica tra 'DanniCose' e 'Lesioni':")
     print(tetracorr)
+
+    print("Coefficiente di correlazione di Pearson tra 'DanniCose' e 'Lesioni':")
+    print(pearson_corr)
