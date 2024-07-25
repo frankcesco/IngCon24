@@ -64,7 +64,7 @@ def apply_inference_rules():
                 for fact in updated_incidenti:
                     if fact['Id'] == original_id:
                         final_file.write(
-                            f"incidente('{fact['Id']}', '{fact['Data']}', '{fact['Abitato']}', '{fact['Tipo']}', '{fact['Caratteris']}', {fact['Asciutto']}, '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', {fact['DanniCose']}, {fact['Lesioni']}, {fact['Chiamata']}, {fact['Arrivo']}, '{fact['Strada']}', {fact['NearestX']}, {fact['NearestY']}, '{fact['Quartiere']}', '{fact['FasciaOraria']}').\n")
+                            f"incidente('{fact['Id']}', '{fact['Data']}', {fact['Abitato']}, '{fact['Tipo']}', '{fact['Caratteris']}', {fact['Asciutto']}, '{fact['Pavimentaz']}', '{fact['Meteo']}', '{fact['Traffico']}', {fact['DanniCose']}, {fact['Lesioni']}, {fact['Chiamata']}, {fact['Arrivo']}, '{fact['Strada']}', {fact['NearestX']}, {fact['NearestY']}, '{fact['Quartiere']}', '{fact['FasciaOraria']}').\n")
                         break
             elif line.startswith('quartiere('):
                 original_id = line.split(',')[0].split('(')[1].strip("'")
