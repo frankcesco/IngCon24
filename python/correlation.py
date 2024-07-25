@@ -32,29 +32,8 @@ def extract_data():
     return df
 
 
-def calculate_tetrachoric_correlation(df):
-    # Creare una tabella di contingenza manualmente
-    contingency_table = np.zeros((2, 2))
-
-    for _, row in df.iterrows():
-        if row['DanniCose'] == 0 and row['Lesioni'] == 0:
-            contingency_table[0, 0] += 1
-        elif row['DanniCose'] == 0 and row['Lesioni'] == 1:
-            contingency_table[0, 1] += 1
-        elif row['DanniCose'] == 1 and row['Lesioni'] == 0:
-            contingency_table[1, 0] += 1
-        elif row['DanniCose'] == 1 and row['Lesioni'] == 1:
-            contingency_table[1, 1] += 1
-
-    # Stampare la tabella di contingenza per debugging
-    print("Tabella di Contingenza:")
-    print(contingency_table)
-
-    # Assicurati che la tabella sia 2x2
-    if contingency_table.shape != (2, 2):
-        raise ValueError("La tabella di contingenza non è 2x2. Verifica i dati.")
-
-    # Calcolare la correlazione tetracorica utilizzando una formula alternativa
+def calculate_tetrachoric_correlation(contingency_table):
+    # Estrarre valori dalla tabella di contingenza
     a = contingency_table[0, 0]
     b = contingency_table[0, 1]
     c = contingency_table[1, 0]
@@ -63,7 +42,10 @@ def calculate_tetrachoric_correlation(df):
     if (a + b) * (c + d) * (a + c) * (b + d) == 0:
         tetracorr = np.nan
     else:
-        tetracorr = (a * d - b * c) / np.sqrt((a + b) * (c + d) * (a + c) * (b + d))
+        # Calcolare la proporzione di successi e fallimenti
+        prop = (a + c) * (b + d) / ((a + b) * (c + d))
+        # Applicare la formula generale della correlazione tetracorica
+        tetracorr = np.cos(np.pi / (1 + np.sqrt(prop)))
 
     return tetracorr
 
@@ -107,7 +89,7 @@ if __name__ == '__main__':
             contingency_table[1, 1] += 1
 
     # Calcolare la correlazione tetracorica
-    tetracorr = calculate_tetrachoric_correlation(df)
+    tetracorr = calculate_tetrachoric_correlation(contingency_table)
 
     # Calcolare il chi-quadrato e il p-value
     chi2, p = calculate_chi_squared(contingency_table)
