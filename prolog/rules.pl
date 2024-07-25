@@ -79,17 +79,11 @@ densita_quartiere(Quartiere, Densita) :-
     AreaKm2 > 0,
     Densita is Popolazione / AreaKm2.
 
-% Conta il numero di incidenti per quartiere
-incidenti_per_quartiere(Quartiere, NumeroIncidenti) :-
-    findall(_, incidente(_, _, _, _, _, _, _, _, _, _, _, _, _, _, _, _, Quartiere, _), Incidenti),
-    length(Incidenti, NumeroIncidenti).
-
-% Regola per aggiungere il numero di incidenti e la densità ai quartieri
+% Regola per aggiungere la densità ai quartieri
 assign_features :-
     quartiere(Id, Nome, Area, Pop2011),
-    incidenti_per_quartiere(Id, NumeroIncidenti),
     densita_quartiere(Id, Densita),
     retract(quartiere(Id, Nome, Area, Pop2011)),
-    assertz(quartiere(Id, Nome, Area, Pop2011, NumeroIncidenti, Densita)),
+    assertz(quartiere(Id, Nome, Area, Pop2011, Densita)),
     fail.
 assign_features.

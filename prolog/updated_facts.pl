@@ -6437,180 +6437,180 @@ incidente('6331', '31/12/2023', 1, 'Strada urbana', 'Intersezione semaforizzata'
 incidente('6332', '31/12/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 15, 10, 'w25585825', 16.8722785131346, 41.1133895639094, '7').
 incidente('6333', '31/12/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 15, 55, 'w30015974', 16.8594716402886, 41.128190791343, '4').
 incidente('6334', '31/12/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 16, 45, 'w25654677', 16.8666998472478, 41.1099214519428, '8').
-strada('w14347631', 'secondary', 'Viale Mercadante', 1, 30, 1, 43.29362229088869).
+strada('w14347631', 'secondary', 'Viale Mercadante', 1, 50, 1, 43.29362229088869).
 strada('w24884016', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 40, 1, 310.50967584175856).
-strada('w24884032', 'residential', 'Via Carlo Perrone', 1, 20, 1, 110.07585978483365).
-strada('w24884036', 'residential', 'Largo Angelo Fraccacreta', 1, 20, 1, 116.98937677360507).
+strada('w24884032', 'residential', 'Via Carlo Perrone', 1, 30, 1, 110.07585978483365).
+strada('w24884036', 'residential', 'Largo Angelo Fraccacreta', 1, 30, 1, 116.98937677360507).
 strada('w24884039', 'residential', 'Via NiccolÃ² Piccinni', 1, 30, 1, 289.2814926053851).
-strada('w24884041', 'residential', 'Via Abate Giacinto Gimma', 1, 20, 1, 101.03702645416018).
+strada('w24884041', 'residential', 'Via Abate Giacinto Gimma', 1, 30, 1, 101.03702645416018).
 strada('w24884042', 'residential', 'Via Alessandro Maria Calefati', 0, 30, 1, 290.8451002525539).
 strada('w24884043', 'residential', 'Via NicolÃ² Putignani', 1, 30, 1, 652.4620023033305).
 strada('w24884052', 'tertiary', 'Via Dante Alighieri', 1, 40, 1, 1045.5932272114526).
-strada('w24884056', 'service', 'Via Michele Garruba', 0, 10, 1, 136.97928296549784).
+strada('w24884056', 'service', 'Via Michele Garruba', 0, 20, 1, 136.97928296549784).
 strada('w24884068', 'residential', 'Via Melo da Bari', 1, 30, 1, 151.92005292588328).
-strada('w24884071', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 107.63264780905126).
+strada('w24884071', 'residential', 'Piazza Aldo Moro', 1, 5, 1, 107.63264780905126).
 strada('w24884076', 'tertiary', 'Via Beata Elia di San Clemente', 1, 40, 1, 133.72475231152893).
 strada('w24884077', 'residential', 'Via Marchese di Montrone', 1, 30, 1, 445.2406671589467).
-strada('w24884086', 'residential', 'Via Andrea da Bari', 1, 30, 1, 78.57761700109744).
+strada('w24884086', 'residential', 'Via Andrea da Bari', 1, 20, 1, 78.57761700109744).
 strada('w24884089', 'residential', 'Via Salvatore Cognetti', 1, 30, 1, 26.691953794140865).
-strada('w24884090', 'residential', 'Via Matteo Renato Imbriani', 1, 30, 1, 371.0078757331091).
-strada('w24884091', 'residential', 'Via Cardassi', 1, 20, 1, 299.6840930141944).
+strada('w24884090', 'residential', 'Via Matteo Renato Imbriani', 1, 20, 1, 371.0078757331091).
+strada('w24884091', 'residential', 'Via Cardassi', 1, 30, 1, 299.6840930141944).
 strada('w24884095', 'residential', 'Via Alberto Sordi', 1, 30, 1, 107.92431025998862).
-strada('w24884096', 'residential', 'Piazza Eroi del Mare', 1, 30, 1, 86.14791479796062).
-strada('w24884103', 'residential', 'Via Sagarriga Visconti', 1, 20, 1, 133.82011225534296).
+strada('w24884096', 'residential', 'Piazza Eroi del Mare', 1, 20, 1, 86.14791479796062).
+strada('w24884103', 'residential', 'Via Sagarriga Visconti', 1, 30, 1, 133.82011225534296).
 strada('w24884107', 'residential', 'Via Eritrea', 1, 30, 1, 134.77366332683505).
 strada('w24884108', 'residential', 'Via Marcello Celentano', 1, 30, 1, 296.5920010826655).
 strada('w24884161', 'residential', 'Via Alfredo Oriani', 1, 30, 1, 138.38333319381704).
 strada('w24884183', 'service', 'Via Giovanni Palatucci', 0, 20, 1, 87.76150212511627).
-strada('w24884189', 'residential', 'Via Giovanni Bovio', 1, 30, 1, 543.1311806382982).
+strada('w24884189', 'residential', 'Via Giovanni Bovio', 1, 5, 1, 543.1311806382982).
 strada('w24884194', 'residential', 'Via Principe Amedeo', 1, 20, 1, 665.8896301051581).
-strada('w24884196', 'residential', 'Via Giovan Battista Trevisani', 1, 20, 1, 761.8760195827651).
-strada('w24884205', 'residential', 'Via Scipione Crisanzio', 1, 20, 1, 604.11564698805).
-strada('w24884206', 'residential', 'Via LibertÃ ', 1, 30, 1, 223.48156275758214).
+strada('w24884196', 'residential', 'Via Giovan Battista Trevisani', 1, 30, 1, 761.8760195827651).
+strada('w24884205', 'residential', 'Via Scipione Crisanzio', 1, 30, 1, 604.11564698805).
+strada('w24884206', 'residential', 'Via LibertÃ ', 1, 20, 1, 223.48156275758214).
 strada('w24884211', 'residential', 'Via Tenente Casale y Figoroa', 1, 30, 1, 145.1988725963755).
 strada('w24884241', 'residential', 'Via Francesco Petrelli', 1, 30, 1, 127.15248845199076).
 strada('w24884242', 'residential', 'Via Ettore Fieramosca', 1, 30, 1, 520.958418012448).
 strada('w24884257', 'secondary', 'Via Nicola de Giosa', 1, 50, 1, 347.79792443383343).
-strada('w24884262', 'residential', 'Corso Sidney Sonnino', 1, 20, 1, 843.5041275890045).
+strada('w24884262', 'residential', 'Corso Sidney Sonnino', 1, 30, 1, 843.5041275890045).
 strada('w24888729', 'residential', 'Via Monsignor Francesco Nitti', 1, 30, 1, 307.0251254066661).
 strada('w24888743', 'residential', 'Via Don Giovanni Bosco', 1, 30, 1, 334.0155424656966).
 strada('w24888745', 'residential', 'Via Canonico Bux', 0, 30, 1, 156.41487422368635).
 strada('w24888782', 'residential', 'Via Emanuele Mola', 1, 30, 1, 221.35920814810953).
 strada('w24888785', 'service', 'w24888785', 1, 20, 1, 158.32519711485017).
 strada('w24888810', 'residential', 'Via Giuseppe Bozzi', 1, 30, 1, 259.9180160599206).
-strada('w24888867', 'residential', 'Via Goffredo di Crollalanza', 1, 20, 1, 134.35585787783043).
-strada('w24888882', 'residential', 'Via Zara', 1, 30, 1, 151.51389976411846).
-strada('w24888892', 'residential', 'Via Giuseppe Volpe', 1, 30, 1, 150.68533833421435).
-strada('w24888895', 'residential', 'Via Giandomenico Petroni', 0, 30, 1, 150.18544776572435).
+strada('w24888867', 'residential', 'Via Goffredo di Crollalanza', 1, 30, 1, 134.35585787783043).
+strada('w24888882', 'residential', 'Via Zara', 1, 20, 1, 151.51389976411846).
+strada('w24888892', 'residential', 'Via Giuseppe Volpe', 1, 20, 1, 150.68533833421435).
+strada('w24888895', 'residential', 'Via Giandomenico Petroni', 0, 20, 1, 150.18544776572435).
 strada('w24888910', 'residential', 'Via Dalmazia', 1, 30, 1, 816.3837541440332).
 strada('w24888924', 'residential', 'Piazza Eroi del Mare', 1, 30, 1, 115.92006154892954).
 strada('w24888988', 'residential', 'Via Fiume', 1, 30, 1, 82.93735648617007).
-strada('w24888996', 'residential', 'Via Giuseppe Laudisi', 1, 5, 1, 73.97293560956804).
-strada('w24888999', 'residential', 'Via Raffaele d Addosio', 1, 30, 1, 123.57087349951894).
-strada('w24889002', 'residential', 'Via Francesco Maria Parisi', 1, 20, 1, 73.4779825867504).
+strada('w24888996', 'residential', 'Via Giuseppe Laudisi', 1, 20, 1, 73.97293560956804).
+strada('w24888999', 'residential', 'Via Raffaele d Addosio', 1, 20, 1, 123.57087349951894).
+strada('w24889002', 'residential', 'Via Francesco Maria Parisi', 1, 30, 1, 73.4779825867504).
 strada('w24889030', 'residential', 'Via Vincenzo de Romita', 1, 30, 1, 150.478308826282).
-strada('w24889060', 'tertiary', 'Corso Cavour', 1, 30, 1, 104.47419651201437).
-strada('w24889089', 'residential', 'Via Muciaccia', 0, 30, 1, 58.445632945162075).
-strada('w24889107', 'residential', 'Piazza Giuseppe Massari', 1, 30, 1, 29.34914214879594).
+strada('w24889060', 'tertiary', 'Corso Cavour', 1, 40, 1, 104.47419651201437).
+strada('w24889089', 'residential', 'Via Muciaccia', 0, 20, 1, 58.445632945162075).
+strada('w24889107', 'residential', 'Piazza Giuseppe Massari', 1, 20, 1, 29.34914214879594).
 strada('w24889172', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 139.8995472986671).
 strada('w24889189', 'residential', 'Via Giovanni Pascoli', 1, 30, 1, 127.73461544564617).
 strada('w24889264', 'tertiary', 'Via Napoli', 1, 40, 1, 96.41714880729475).
-strada('w24889463', 'residential', 'Via San Francesco d Assisi', 0, 30, 1, 102.59049336621719).
+strada('w24889463', 'residential', 'Via San Francesco d Assisi', 0, 20, 1, 102.59049336621719).
 strada('w24889475', 'residential', 'Via Pasquale Villari', 0, 30, 1, 187.10511043307693).
-strada('w24909577', 'residential', 'Via Michele Fiorino', 1, 30, 1, 107.07372833978302).
+strada('w24909577', 'residential', 'Via Michele Fiorino', 1, 20, 1, 107.07372833978302).
 strada('w24909587', 'residential', 'w24909587', 0, 30, 1, 61.07626232809132).
-strada('w24909598', 'residential', 'Via Domenico Turitto', 1, 20, 1, 183.86776095918054).
-strada('w24909618', 'residential', 'Via Saverio Costantino', 1, 20, 1, 92.08904486773193).
+strada('w24909598', 'residential', 'Via Domenico Turitto', 1, 30, 1, 183.86776095918054).
+strada('w24909618', 'residential', 'Via Saverio Costantino', 1, 30, 1, 92.08904486773193).
 strada('w24909625', 'residential', 'Via Fratelli Bandiera', 1, 30, 1, 119.27833414428298).
 strada('w24909628', 'residential', 'Via Malta', 0, 30, 1, 94.71700895666389).
 strada('w24909639', 'residential', 'Via Vittorio Bottego', 0, 20, 1, 245.23885836295162).
-strada('w24909643', 'residential', 'Via Francesco Netti', 0, 30, 1, 310.38572402157604).
-strada('w24909646', 'residential', 'Via Tommaso Porcelli', 0, 30, 1, 127.24351961704522).
+strada('w24909643', 'residential', 'Via Francesco Netti', 0, 20, 1, 310.38572402157604).
+strada('w24909646', 'residential', 'Via Tommaso Porcelli', 0, 20, 1, 127.24351961704522).
 strada('w24909650', 'residential', 'Via Federico Hermann', 0, 30, 1, 99.07475165307972).
-strada('w24909653', 'residential', 'Via Vincenzo Rogadeo', 0, 20, 1, 125.55330346224973).
+strada('w24909653', 'residential', 'Via Vincenzo Rogadeo', 0, 30, 1, 125.55330346224973).
 strada('w24909655', 'residential', 'Via Giovanni Jatta', 0, 30, 1, 283.0518957804479).
-strada('w24909820', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 40.32444434077397).
+strada('w24909820', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 40.32444434077397).
 strada('w24909850', 'residential', 'Via Spalato', 1, 20, 1, 203.61014652702).
-strada('w24909852', 'residential', 'Via Cattaro', 1, 30, 1, 210.04178553088983).
+strada('w24909852', 'residential', 'Via Cattaro', 1, 20, 1, 210.04178553088983).
 strada('w24909933', 'residential', 'Via Addis Abeba', 1, 20, 1, 214.28412853554104).
-strada('w24909950', 'residential', 'Via Istria', 1, 5, 1, 129.95243240756565).
+strada('w24909950', 'residential', 'Via Istria', 1, 20, 1, 129.95243240756565).
 strada('w24909965', 'residential', 'Via Arcivescovo Vaccaro', 1, 30, 1, 225.58890721580792).
 strada('w24909975', 'residential', 'Via NiccolÃ² Pisani', 1, 30, 1, 98.3170232235662).
-strada('w24909989', 'residential', 'Via Durazzo', 1, 20, 1, 126.16026525745855).
-strada('w24909992', 'residential', 'Via Libia', 1, 30, 1, 105.42179332548868).
-strada('w24909999', 'residential', 'Via Michelangelo Signorile', 1, 20, 1, 223.2394225984657).
+strada('w24909989', 'residential', 'Via Durazzo', 1, 30, 1, 126.16026525745855).
+strada('w24909992', 'residential', 'Via Libia', 1, 5, 1, 105.42179332548868).
+strada('w24909999', 'residential', 'Via Michelangelo Signorile', 1, 30, 1, 223.2394225984657).
 strada('w24910006', 'residential', 'Via Rodi', 1, 20, 1, 115.209579584155).
 strada('w24995602', 'unclassified', 'w24995602', 1, 30, 1, 85.04009302015135).
 strada('w24995603', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 54.64030257154333).
 strada('w24995604', 'secondary_link', 'w24995604', 1, 30, 1, 90.59841698624281).
-strada('w24995605', 'secondary', 'w24995605', 1, 30, 1, 46.42813447482948).
+strada('w24995605', 'secondary', 'w24995605', 1, 50, 1, 46.42813447482948).
 strada('w24995606', 'secondary_link', 'w24995606', 1, 30, 1, 84.78418525511682).
 strada('w24995607', 'secondary', 'Via Gabriele D Annunzio', 0, 50, 1, 604.7241881180138).
 strada('w24995608', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 2, 756.8995585786805).
 strada('w24998892', 'trunk_link', 'w24998892', 0, 40, 1, 312.2129292128721).
 strada('w25072229', 'trunk_link', 'w25072229', 1, 40, 1, 253.82467369282801).
-strada('w25563487', 'residential', 'Via Giuseppe Pisanelli', 1, 20, 1, 4.456186593124602).
+strada('w25563487', 'residential', 'Via Giuseppe Pisanelli', 1, 30, 1, 4.456186593124602).
 strada('w25563490', 'residential', 'Corso Benedetto Croce', 0, 30, 1, 208.1002264955804).
 strada('w25563512', 'residential', 'Via Andrea Angiulli', 1, 30, 1, 93.74968709582215).
-strada('w25563515', 'residential', 'Via Trento', 1, 20, 1, 319.3745667253944).
+strada('w25563515', 'residential', 'Via Trento', 1, 30, 1, 319.3745667253944).
 strada('w25563516', 'residential', 'Via Giuseppe de Nittis', 1, 20, 1, 132.16171949579).
 strada('w25563519', 'residential', 'Via Michele de Napoli', 1, 20, 1, 61.19943573210418).
-strada('w25563522', 'residential', 'Via Carlo Pisacane', 0, 20, 1, 166.11784576515623).
+strada('w25563522', 'residential', 'Via Carlo Pisacane', 0, 30, 1, 166.11784576515623).
 strada('w25563524', 'residential', 'Via Nizza', 0, 30, 1, 278.6022036558867).
-strada('w25563526', 'residential', 'Via Emanuele de Deo', 0, 30, 1, 283.05141326651244).
+strada('w25563526', 'residential', 'Via Emanuele de Deo', 0, 20, 1, 283.05141326651244).
 strada('w25563530', 'residential', 'Via dei Mille', 0, 30, 1, 177.18960023752035).
-strada('w25563701', 'service', 'w25563701', 0, 10, 1, 148.58232192736568).
+strada('w25563701', 'service', 'w25563701', 0, 20, 1, 148.58232192736568).
 strada('w25563710', 'residential', 'Via Domenico Cirillo', 1, 30, 1, 307.95527103908967).
 strada('w25563712', 'secondary', 'Via Francesco Lattanzio', 1, 50, 1, 521.0769995580166).
-strada('w25563715', 'residential', 'Via Sigismondo Castromediano', 1, 30, 1, 365.0834538189309).
-strada('w25563718', 'residential', 'Via Emanuele Mola', 0, 30, 1, 84.88058349062106).
+strada('w25563715', 'residential', 'Via Sigismondo Castromediano', 1, 20, 1, 365.0834538189309).
+strada('w25563718', 'residential', 'Via Emanuele Mola', 0, 20, 1, 84.88058349062106).
 strada('w25563739', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 38.902079852760295).
 strada('w25585741', 'residential', 'Via Francesco Muciaccia', 1, 30, 1, 21.43806288491799).
-strada('w25585743', 'residential', 'Via Giovanni Cozzoli', 1, 20, 1, 84.55745119377703).
-strada('w25585748', 'residential', 'Via Enrico Toti', 1, 30, 1, 218.29802497775313).
-strada('w25585764', 'secondary', 'Via Gaetano Postiglione', 0, 50, 2, 266.20520362219264).
+strada('w25585743', 'residential', 'Via Giovanni Cozzoli', 1, 30, 1, 84.55745119377703).
+strada('w25585748', 'residential', 'Via Enrico Toti', 1, 20, 1, 218.29802497775313).
+strada('w25585764', 'secondary', 'Via Gaetano Postiglione', 0, 30, 2, 266.20520362219264).
 strada('w25585785', 'service', 'w25585785', 0, 20, 1, 167.37395134137864).
 strada('w25585789', 'residential', 'Via Canonico Annibale Maria di Francia', 0, 30, 1, 156.67800353043756).
 strada('w25585799', 'residential', 'Via Celso Ulpiani', 1, 30, 1, 590.4324942007526).
 strada('w25585815', 'secondary', 'Via Giovanni Amendola', 1, 30, 2, 460.0014702269089).
 strada('w25585825', 'residential', 'Via Enrico Toti', 1, 30, 1, 99.91388180435435).
-strada('w25585832', 'residential', 'Via Edmondo De Amicis', 1, 20, 1, 125.9567868907239).
+strada('w25585832', 'residential', 'Via Edmondo De Amicis', 1, 30, 1, 125.9567868907239).
 strada('w25585833', 'residential', 'Via Giuseppe Zanardelli', 1, 30, 1, 592.9399824201003).
 strada('w25585842', 'residential', 'w25585842', 0, 30, 1, 45.06187368968449).
 strada('w25585848', 'service', 'w25585848', 0, 20, 1, 82.6070389929747).
-strada('w25585852', 'residential', 'Via Principessa Iolanda', 1, 30, 1, 114.5415725598421).
+strada('w25585852', 'residential', 'Via Principessa Iolanda', 1, 20, 1, 114.5415725598421).
 strada('w25585856', 'residential', 'Via Edmondo De Amicis', 0, 30, 1, 105.25427839991835).
 strada('w25585858', 'residential', 'Via Pasquale Fiore', 1, 20, 1, 40.55095941223593).
-strada('w25585861', 'residential', 'Via Guido De Ruggiero', 1, 20, 1, 228.95204142199617).
+strada('w25585861', 'residential', 'Via Guido De Ruggiero', 1, 30, 1, 228.95204142199617).
 strada('w25585883', 'residential', 'Via Luigi Galvani', 1, 30, 1, 51.065687636725684).
 strada('w25585902', 'unclassified', 'Via Luigi Pinto', 0, 30, 1, 100.69130215984798).
-strada('w25586000', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 677.4866500616769).
-strada('w25586007', 'residential', 'Via Gaetano Devitofrancesco', 1, 20, 1, 191.80390018133306).
+strada('w25586000', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 677.4866500616769).
+strada('w25586007', 'residential', 'Via Gaetano Devitofrancesco', 1, 30, 1, 191.80390018133306).
 strada('w25586010', 'residential', 'Via Albert Einstein', 1, 20, 1, 195.71328242248129).
 strada('w25586014', 'residential', 'Via Luigi Ricchioni', 0, 30, 1, 180.6829842025337).
 strada('w25586015', 'service', 'Traversa Giulio Petroni', 0, 20, 1, 104.9163624841485).
 strada('w25586022', 'service', 'Via Tenente Pilota Lucio Carri', 0, 20, 1, 194.04258046714898).
-strada('w25586037', 'residential', 'Via Donato Gargasole', 1, 20, 1, 103.6576170122229).
+strada('w25586037', 'residential', 'Via Donato Gargasole', 1, 30, 1, 103.6576170122229).
 strada('w25586063', 'residential', 'Via Umberto Zanotti Bianco', 0, 30, 1, 203.87838783848136).
 strada('w25586066', 'service', 'Strada Borrelli', 0, 20, 1, 67.05350113128023).
-strada('w25586080', 'residential', 'Via Michele Galiani', 1, 20, 1, 77.13498712331423).
-strada('w25586160', 'tertiary_link', 'w25586160', 1, 40, 1, 16.14090696253514).
+strada('w25586080', 'residential', 'Via Michele Galiani', 1, 30, 1, 77.13498712331423).
+strada('w25586160', 'tertiary_link', 'w25586160', 1, 50, 1, 16.14090696253514).
 strada('w25586166', 'residential', 'Via Vitantonio De Bellis', 0, 30, 1, 287.0871640679914).
-strada('w25586213', 'secondary', 'Via Giuseppe Bottalico', 1, 30, 1, 320.060953447708).
+strada('w25586213', 'secondary', 'Via Giuseppe Bottalico', 1, 50, 1, 320.060953447708).
 strada('w25586444', 'residential', 'w25586444', 0, 20, 1, 97.71829026141853).
-strada('w25586446', 'residential', 'w25586446', 0, 30, 1, 96.61396629558496).
-strada('w25586450', 'residential', 'w25586450', 0, 20, 1, 93.75368917118158).
+strada('w25586446', 'residential', 'w25586446', 0, 20, 1, 96.61396629558496).
+strada('w25586450', 'residential', 'w25586450', 0, 30, 1, 93.75368917118158).
 strada('w25621696', 'tertiary', 'Via della Resistenza', 1, 40, 1, 361.29712276128384).
 strada('w25621913', 'service', 'w25621913', 0, 20, 1, 34.676103981384195).
 strada('w25621916', 'service', 'w25621916', 0, 20, 1, 33.15362357415219).
 strada('w25621938', 'service', 'w25621938', 0, 20, 1, 135.06678318410798).
-strada('w25621941', 'service', 'w25621941', 0, 10, 1, 325.65657163442256).
-strada('w25622232', 'service', 'w25622232', 1, 20, 1, 130.75232597071917).
+strada('w25621941', 'service', 'w25621941', 0, 20, 1, 325.65657163442256).
+strada('w25622232', 'service', 'w25622232', 1, 10, 1, 130.75232597071917).
 strada('w25622656', 'service', 'w25622656', 0, 20, 1, 37.74914572436636).
 strada('w25622658', 'service', 'w25622658', 0, 20, 1, 94.10620884963517).
 strada('w25622662', 'service', 'w25622662', 0, 20, 1, 68.3492738169418).
 strada('w25632357', 'unclassified', 'Via Gaetano Salvemini', 1, 30, 1, 244.34773966617266).
 strada('w25632636', 'residential', 'Via Gaetano Salvemini', 1, 20, 1, 284.8432228650883).
-strada('w25632637', 'residential', 'Via Nicola Tridente', 0, 20, 1, 173.10755897867142).
+strada('w25632637', 'residential', 'Via Nicola Tridente', 0, 30, 1, 173.10755897867142).
 strada('w25632638', 'unclassified', 'w25632638', 0, 30, 1, 9.034293004076197).
 strada('w25633225', 'service', 'w25633225', 1, 20, 1, 58.389073018374425).
 strada('w25633468', 'primary', 'Via Adolfo Omodeo', 1, 50, 1, 229.5321678635829).
 strada('w25633497', 'unclassified', 'w25633497', 0, 30, 1, 112.07673765480875).
 strada('w25633744', 'residential', 'Vico Capurso', 0, 20, 1, 108.56951571170588).
-strada('w25633750', 'unclassified', 'Via Amendola', 0, 20, 1, 90.55989440414791).
+strada('w25633750', 'unclassified', 'Via Amendola', 0, 30, 1, 90.55989440414791).
 strada('w25633751', 'service', 'w25633751', 0, 20, 1, 170.92456722045364).
 strada('w25633755', 'service', 'w25633755', 0, 20, 1, 133.17669017190104).
 strada('w25633776', 'service', 'w25633776', 0, 20, 1, 203.04358888011882).
 strada('w25633801', 'service', 'w25633801', 0, 20, 1, 39.38249003679523).
 strada('w25633838', 'service', 'w25633838', 0, 20, 1, 42.27293951391985).
 strada('w25633859', 'service', 'w25633859', 0, 20, 1, 50.76410445015753).
-strada('w25633936', 'tertiary', 'Viale Giuseppe di Vittorio', 1, 40, 1, 219.34996492311933).
-strada('w25633955', 'tertiary', 'Viale UnitÃ  d Italia', 1, 30, 1, 91.21164748607335).
+strada('w25633936', 'tertiary', 'Viale Giuseppe di Vittorio', 1, 30, 1, 219.34996492311933).
+strada('w25633955', 'tertiary', 'Viale UnitÃ  d Italia', 1, 40, 1, 91.21164748607335).
 strada('w25633977', 'trunk_link', 'w25633977', 1, 40, 1, 128.6211888000372).
 strada('w25634025', 'primary_link', 'w25634025', 1, 40, 2, 108.23491157069958).
 strada('w25634029', 'primary_link', 'w25634029', 0, 40, 2, 44.85994898890545).
 strada('w25634032', 'service', 'w25634032', 0, 20, 1, 206.25460650315176).
-strada('w25634039', 'residential', 'w25634039', 0, 30, 1, 94.71021779416348).
+strada('w25634039', 'residential', 'w25634039', 0, 20, 1, 94.71021779416348).
 strada('w25634042', 'primary_link', 'w25634042', 0, 40, 1, 328.6185337715518).
 strada('w25634050', 'residential', 'Via Giustino Fortunato', 1, 30, 1, 215.75250421108186).
 strada('w25634052', 'residential', 'w25634052', 1, 20, 1, 154.52660360316665).
@@ -6621,16 +6621,16 @@ strada('w25634152', 'service', 'w25634152', 0, 20, 1, 123.29767558873841).
 strada('w25634153', 'residential', 'w25634153', 0, 30, 1, 141.39115781674957).
 strada('w25634181', 'residential', 'Via Gorizia', 1, 30, 1, 233.43011818868413).
 strada('w25634183', 'residential', 'Via Egnatia', 1, 30, 1, 109.15990672156845).
-strada('w25634217', 'residential', 'Molo San Nicola', 1, 20, 1, 249.03029464319138).
-strada('w25634281', 'residential', 'Via CorfÃ¹', 1, 30, 1, 133.5945058861208).
-strada('w25634282', 'residential', 'Via Egnatia', 1, 30, 1, 140.45219141199084).
-strada('w25634283', 'residential', 'Via Giacomo Matteotti', 1, 30, 1, 142.1371911593191).
-strada('w25634287', 'residential', 'Via Fratelli Rosselli', 1, 30, 1, 138.61843528798207).
+strada('w25634217', 'residential', 'Molo San Nicola', 1, 30, 1, 249.03029464319138).
+strada('w25634281', 'residential', 'Via CorfÃ¹', 1, 20, 1, 133.5945058861208).
+strada('w25634282', 'residential', 'Via Egnatia', 1, 20, 1, 140.45219141199084).
+strada('w25634283', 'residential', 'Via Giacomo Matteotti', 1, 20, 1, 142.1371911593191).
+strada('w25634287', 'residential', 'Via Fratelli Rosselli', 1, 20, 1, 138.61843528798207).
 strada('w25634333', 'service', 'w25634333', 0, 20, 1, 59.89694968676446).
-strada('w25634399', 'residential', 'Via Napoleone Colajanni', 0, 30, 1, 446.18358217225193).
+strada('w25634399', 'residential', 'Via Napoleone Colajanni', 0, 20, 1, 446.18358217225193).
 strada('w25634401', 'unclassified', 'Stradella Petrera', 1, 20, 1, 225.33484295136117).
-strada('w25634403', 'residential', 'Via Robert Schumann', 1, 30, 1, 272.35251785828785).
-strada('w25634431', 'primary', 'Via Adolfo Omodeo', 1, 30, 1, 371.80184510862983).
+strada('w25634403', 'residential', 'Via Robert Schumann', 1, 20, 1, 272.35251785828785).
+strada('w25634431', 'primary', 'Via Adolfo Omodeo', 1, 50, 1, 371.80184510862983).
 strada('w25634503', 'secondary', 'Via Caldarola', 0, 50, 1, 298.3745625936568).
 strada('w25634505', 'tertiary', 'w25634505', 1, 40, 1, 99.68251381353946).
 strada('w25634514', 'service', 'w25634514', 0, 20, 1, 125.00823821359457).
@@ -6640,18 +6640,18 @@ strada('w25634567', 'residential', 'Via Monfalcone', 0, 30, 1, 163.2197932741749
 strada('w25634568', 'residential', 'Via Carnia', 0, 30, 1, 209.85740040089112).
 strada('w25634580', 'residential', 'Via Pasubio', 1, 20, 1, 342.49597940526905).
 strada('w25634581', 'residential', 'Via Adige', 0, 20, 1, 168.1629308125788).
-strada('w25634595', 'residential', 'Via Nicola De Gemmis', 1, 30, 1, 393.11851745364197).
-strada('w25634597', 'residential', 'w25634597', 0, 20, 1, 93.60082231732241).
+strada('w25634595', 'residential', 'Via Nicola De Gemmis', 1, 20, 1, 393.11851745364197).
+strada('w25634597', 'residential', 'w25634597', 0, 30, 1, 93.60082231732241).
 strada('w25634605', 'residential', 'w25634605', 0, 30, 1, 95.33747084224078).
-strada('w25634637', 'tertiary', 'Viale Orazio Flacco', 1, 40, 1, 56.568850978229406).
+strada('w25634637', 'tertiary', 'Viale Orazio Flacco', 1, 30, 1, 56.568850978229406).
 strada('w25634642', 'residential', 'Via Leonardo Mastrandrea', 1, 20, 1, 179.4891599880666).
 strada('w25634648', 'residential', 'Via Leonardo Mastrandrea', 1, 30, 1, 122.27153349278979).
-strada('w25634650', 'residential', 'w25634650', 0, 30, 1, 124.61456605955662).
-strada('w25634719', 'residential', 'Via Guido De Ruggiero', 1, 20, 1, 145.3734164616665).
-strada('w25634721', 'residential', 'Via Gioacchino Toma', 1, 5, 1, 173.3794447911349).
-strada('w25634722', 'residential', 'Via Piave', 1, 20, 1, 350.88170023101486).
+strada('w25634650', 'residential', 'w25634650', 0, 20, 1, 124.61456605955662).
+strada('w25634719', 'residential', 'Via Guido De Ruggiero', 1, 30, 1, 145.3734164616665).
+strada('w25634721', 'residential', 'Via Gioacchino Toma', 1, 30, 1, 173.3794447911349).
+strada('w25634722', 'residential', 'Via Piave', 1, 5, 1, 350.88170023101486).
 strada('w25634723', 'residential', 'Via Angelico Tosti-Cardarelli', 0, 30, 1, 117.83404917460072).
-strada('w25634726', 'residential', 'Via Monte Grappa', 1, 30, 1, 515.7295429714658).
+strada('w25634726', 'residential', 'Via Monte Grappa', 1, 20, 1, 515.7295429714658).
 strada('w25634741', 'residential', 'Via Sabotino', 1, 20, 1, 365.57360664283533).
 strada('w25634742', 'residential', 'Via Andrea Matteo Acquaviva', 1, 30, 1, 50.94748938799517).
 strada('w25634744', 'residential', 'Via Maggiore Francesco Baracca', 1, 30, 1, 198.3267051156657).
@@ -6660,20 +6660,20 @@ strada('w25634772', 'residential', 'Via Vincenzo Bellini', 0, 30, 1, 246.3466961
 strada('w25634775', 'residential', 'Via NicolÃ² van Westerhout', 0, 30, 2, 338.6211628429477).
 strada('w25634779', 'residential', 'w25634779', 0, 30, 1, 1065.5310283311587).
 strada('w25634780', 'service', 'Viale Tirreno', 0, 20, 1, 194.6661940380333).
-strada('w25634784', 'service', 'Piazzale Roma', 1, 10, 1, 180.5627991339196).
+strada('w25634784', 'service', 'Piazzale Roma', 1, 20, 1, 180.5627991339196).
 strada('w25634786', 'service', 'Via Pisa', 0, 20, 1, 114.00332409789691).
 strada('w25634788', 'service', 'Viale Amalfi', 0, 20, 1, 133.5207878036848).
 strada('w25634789', 'service', 'Via Volga', 0, 20, 1, 70.68292724273672).
 strada('w25634790', 'service', 'Via Genova', 0, 20, 1, 110.59668737999543).
-strada('w25634791', 'service', 'Via Venezia', 0, 10, 1, 112.73964326726693).
+strada('w25634791', 'service', 'Via Venezia', 0, 20, 1, 112.73964326726693).
 strada('w25634792', 'service', 'Viale Danubio', 0, 20, 1, 73.99499357232374).
-strada('w25634804', 'service', 'Via Suez', 0, 5, 1, 70.40329337810697).
+strada('w25634804', 'service', 'Via Suez', 0, 20, 1, 70.40329337810697).
 strada('w25634805', 'service', 'Viale Bosforo', 0, 10, 1, 68.40947733982361).
-strada('w25634807', 'service', 'w25634807', 0, 10, 1, 40.62720868935193).
+strada('w25634807', 'service', 'w25634807', 0, 20, 1, 40.62720868935193).
 strada('w25634809', 'service', 'Viale Italo Oriente', 0, 20, 1, 79.33134042311018).
 strada('w25634810', 'service', 'Via Lepanto', 0, 20, 1, 230.5467638958777).
 strada('w25634811', 'tertiary', 'Via Adriatico', 0, 40, 2, 367.1165031087143).
-strada('w25654202', 'service', 'w25654202', 0, 10, 1, 67.05928616160092).
+strada('w25654202', 'service', 'w25654202', 0, 20, 1, 67.05928616160092).
 strada('w25654221', 'tertiary', 'Viale Quinto Ennio', 1, 40, 2, 529.7454952827694).
 strada('w25654257', 'service', 'w25654257', 0, 20, 1, 282.74649287894596).
 strada('w25654260', 'service', 'w25654260', 0, 20, 1, 350.60568527950954).
@@ -6683,98 +6683,98 @@ strada('w25654361', 'service', 'w25654361', 0, 20, 1, 198.35257139824074).
 strada('w25654582', 'residential', 'Via Giuseppe Saverio Poli', 1, 30, 1, 105.19511215517062).
 strada('w25654633', 'residential', 'w25654633', 0, 30, 1, 47.68862404550391).
 strada('w25654635', 'service', 'w25654635', 0, 20, 1, 183.13273261916964).
-strada('w25654636', 'service', 'w25654636', 0, 20, 1, 168.48110575854696).
+strada('w25654636', 'service', 'w25654636', 0, 5, 1, 168.48110575854696).
 strada('w25654649', 'service', 'w25654649', 0, 20, 1, 98.54526916775987).
-strada('w25654657', 'residential', 'w25654657', 0, 20, 1, 94.72384940419494).
+strada('w25654657', 'residential', 'w25654657', 0, 30, 1, 94.72384940419494).
 strada('w25654659', 'residential', 'w25654659', 0, 20, 1, 66.10270525969239).
-strada('w25654660', 'residential', 'w25654660', 0, 20, 1, 94.86755248958218).
+strada('w25654660', 'residential', 'w25654660', 0, 30, 1, 94.86755248958218).
 strada('w25654663', 'residential', 'Via Santo Mariano', 1, 20, 1, 358.85322116915063).
 strada('w25654667', 'residential', 'Via Orazio Comes', 1, 30, 1, 286.8923560106817).
 strada('w25654668', 'residential', 'Via Martino Cassano', 1, 30, 1, 101.21262681110328).
-strada('w25654670', 'residential', 'Via Benedetto Lorusso', 1, 30, 1, 200.42114312436746).
+strada('w25654670', 'residential', 'Via Benedetto Lorusso', 1, 20, 1, 200.42114312436746).
 strada('w25654671', 'residential', 'Via Monte Nevoso', 1, 30, 1, 186.1695198201866).
 strada('w25654672', 'residential', 'Via Giuseppe Pellegrini', 1, 30, 1, 172.71374018298738).
 strada('w25654677', 'residential', 'Via Isonzo', 1, 30, 1, 506.33651414833645).
 strada('w25654678', 'residential', 'Via Brennero', 0, 20, 1, 36.35714606814956).
-strada('w25654679', 'residential', 'Via Giuseppe Zuccaro', 1, 30, 1, 193.80841360487418).
-strada('w25654683', 'secondary', 'w25654683', 1, 30, 1, 28.583639800751378).
+strada('w25654679', 'residential', 'Via Giuseppe Zuccaro', 1, 20, 1, 193.80841360487418).
+strada('w25654683', 'secondary', 'w25654683', 1, 50, 1, 28.583639800751378).
 strada('w25654684', 'residential', 'Via Pietro Colletta', 1, 30, 1, 293.82018864446013).
 strada('w25654688', 'residential', 'w25654688', 0, 30, 1, 157.6430613259322).
 strada('w25654689', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 2, 155.22857434218952).
 strada('w25654692', 'unclassified', 'Via Picone', 0, 30, 1, 144.09630158651746).
 strada('w25654693', 'unclassified', 'Via Tommaso Storelli', 0, 30, 1, 121.43545895714328).
-strada('w25654694', 'service', 'w25654694', 0, 10, 1, 108.79186105556843).
+strada('w25654694', 'service', 'w25654694', 0, 20, 1, 108.79186105556843).
 strada('w25654696', 'residential', 'w25654696', 0, 30, 1, 78.14725382653047).
 strada('w25654697', 'residential', 'w25654697', 0, 30, 1, 31.847878702790794).
-strada('w25654698', 'residential', 'Via Ruggiero Bonghi', 0, 20, 1, 200.8445846772972).
+strada('w25654698', 'residential', 'Via Ruggiero Bonghi', 0, 30, 1, 200.8445846772972).
 strada('w25654729', 'tertiary', 'Largo 2 Giugno', 1, 40, 1, 18.665940749203088).
 strada('w25654817', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 1259.2263424424286).
 strada('w25654826', 'residential', 'Via Andrea Gabrieli', 1, 30, 1, 158.23896809591625).
-strada('w25654830', 'residential', 'Via Enrico Pessina', 1, 10, 1, 160.15691049578032).
+strada('w25654830', 'residential', 'Via Enrico Pessina', 1, 20, 1, 160.15691049578032).
 strada('w25654862', 'unclassified', 'w25654862', 0, 30, 1, 42.59863618568135).
 strada('w25654863', 'unclassified', 'Via Podgora', 1, 30, 1, 348.53562402434505).
 strada('w25654865', 'unclassified', 'Via Luca De Samuele Cagnazzi', 1, 30, 1, 360.8644111879714).
-strada('w25654869', 'residential', 'Via Monte San Michele', 1, 20, 1, 379.60458616068024).
-strada('w25654876', 'unclassified', 'w25654876', 0, 20, 1, 162.0268751659356).
+strada('w25654869', 'residential', 'Via Monte San Michele', 1, 30, 1, 379.60458616068024).
+strada('w25654876', 'unclassified', 'w25654876', 0, 30, 1, 162.0268751659356).
 strada('w25654897', 'primary', 'Via Stefano Jacini', 1, 50, 2, 156.03059149452736).
 strada('w25654899', 'unclassified', 'w25654899', 0, 30, 1, 76.04438264537005).
-strada('w25654904', 'residential', 'Via Carlo Maranelli', 0, 30, 1, 159.9207604190795).
+strada('w25654904', 'residential', 'Via Carlo Maranelli', 0, 20, 1, 159.9207604190795).
 strada('w25654915', 'unclassified', 'Via Giovanni Colella', 0, 30, 1, 450.35460248357504).
-strada('w25654922', 'residential', 'Via Premuda', 1, 30, 1, 81.25719781973147).
+strada('w25654922', 'residential', 'Via Premuda', 1, 20, 1, 81.25719781973147).
 strada('w25654928', 'service', 'w25654928', 0, 20, 1, 100.38463586251844).
 strada('w25654930', 'residential', 'Via Carlo Borsani', 1, 30, 1, 166.18043194445005).
-strada('w25654933', 'unclassified', 'w25654933', 0, 20, 1, 106.00429844682911).
+strada('w25654933', 'unclassified', 'w25654933', 0, 30, 1, 106.00429844682911).
 strada('w25654935', 'service', 'w25654935', 0, 20, 1, 30.50704966228417).
 strada('w25654937', 'service', 'w25654937', 0, 20, 1, 63.52238774797024).
 strada('w25654939', 'service', 'w25654939', 0, 20, 1, 185.18174768743543).
 strada('w25654951', 'service', 'w25654951', 0, 20, 1, 98.24695911538046).
 strada('w25654952', 'service', 'w25654952', 0, 20, 1, 99.35019412386848).
 strada('w25654953', 'service', 'w25654953', 0, 20, 1, 41.23873870043937).
-strada('w25654954', 'service', 'w25654954', 0, 10, 1, 38.59304281879146).
+strada('w25654954', 'service', 'w25654954', 0, 20, 1, 38.59304281879146).
 strada('w25654956', 'service', 'w25654956', 0, 20, 1, 41.0922800920211).
-strada('w25654957', 'unclassified', 'w25654957', 0, 30, 1, 98.50118021082206).
+strada('w25654957', 'unclassified', 'w25654957', 0, 20, 1, 98.50118021082206).
 strada('w25654958', 'unclassified', 'Via Effrem Datto', 0, 30, 1, 112.84347864344947).
 strada('w25654964', 'service', 'Largo 2 giugno', 0, 20, 1, 226.9780290719993).
-strada('w25654991', 'tertiary', 'Via Camillo Rosalba', 0, 40, 3, 139.3581395446165).
-strada('w25654994', 'residential', 'Via Papa Benedetto XIII', 0, 30, 1, 152.2834779512666).
-strada('w25654998', 'residential', 'Piazzetta dei Papi', 1, 20, 1, 54.19834139761482).
+strada('w25654991', 'tertiary', 'Via Camillo Rosalba', 0, 30, 3, 139.3581395446165).
+strada('w25654994', 'residential', 'Via Papa Benedetto XIII', 0, 20, 1, 152.2834779512666).
+strada('w25654998', 'residential', 'Piazzetta dei Papi', 1, 30, 1, 54.19834139761482).
 strada('w25655001', 'unclassified', 'Via Giovanni Modugno', 1, 30, 1, 203.84816757161713).
 strada('w25655018', 'unclassified', 'Via Bartolo Longo', 0, 30, 1, 120.64021212481066).
 strada('w25655024', 'residential', 'Via Papa Benedetto XIII', 0, 30, 1, 135.77843494310454).
-strada('w25655025', 'residential', 'w25655025', 0, 30, 1, 102.12615232924377).
-strada('w25655026', 'residential', 'w25655026', 0, 30, 1, 17.710836101946775).
+strada('w25655025', 'residential', 'w25655025', 0, 20, 1, 102.12615232924377).
+strada('w25655026', 'residential', 'w25655026', 0, 20, 1, 17.710836101946775).
 strada('w25655028', 'residential', 'Via Gennaro Guevara', 0, 30, 1, 153.30913093920887).
-strada('w25655033', 'residential', 'Via Saverio Lioce', 0, 30, 1, 669.314929580754).
+strada('w25655033', 'residential', 'Via Saverio Lioce', 0, 20, 1, 669.314929580754).
 strada('w25655035', 'unclassified', 'Via Niceforo', 1, 30, 1, 159.42592686230145).
 strada('w25655038', 'residential', 'Viale del Concilio Vaticano II', 1, 30, 1, 250.7577202293148).
 strada('w25655039', 'unclassified', 'Via Papa Paolo VI', 1, 30, 1, 158.1351074037766).
-strada('w25655052', 'residential', 'Via monsignor Enrico Nicodemo', 0, 5, 1, 197.8948051527023).
+strada('w25655052', 'residential', 'Via monsignor Enrico Nicodemo', 0, 30, 1, 197.8948051527023).
 strada('w25655053', 'residential', 'w25655053', 0, 30, 1, 57.58241191784767).
 strada('w25655054', 'residential', 'Via Niceforo', 0, 20, 1, 517.3477696786405).
-strada('w25655060', 'residential', 'Viale Quinto Orazio Flacco', 1, 30, 1, 184.4597311484615).
+strada('w25655060', 'residential', 'Viale Quinto Orazio Flacco', 1, 20, 1, 184.4597311484615).
 strada('w25655065', 'tertiary_link', 'w25655065', 0, 50, 1, 10.770405068189842).
 strada('w25655068', 'unclassified', 'Via Armando Favia', 1, 30, 1, 94.10724519598455).
 strada('w25748495', 'unclassified', 'w25748495', 0, 30, 1, 103.68206420186917).
 strada('w25748594', 'unclassified', 'w25748594', 0, 30, 1, 56.984577805389584).
 strada('w25748726', 'secondary', 'Viale Madre Teresa di Calcutta', 1, 50, 3, 719.3719636224339).
-strada('w25748740', 'unclassified', 'Via Che Guevara', 0, 20, 1, 93.5380777274788).
-strada('w25748750', 'residential', 'Via Robert Kennedy', 0, 30, 1, 95.05444128157367).
-strada('w25748757', 'residential', 'Via Giacomo Tauro', 0, 20, 1, 137.17576677689632).
+strada('w25748740', 'unclassified', 'Via Che Guevara', 0, 30, 1, 93.5380777274788).
+strada('w25748750', 'residential', 'Via Robert Kennedy', 0, 20, 1, 95.05444128157367).
+strada('w25748757', 'residential', 'Via Giacomo Tauro', 0, 30, 1, 137.17576677689632).
 strada('w25748793', 'unclassified', 'Via Martin Luther King', 0, 30, 2, 79.44944264328973).
 strada('w25748820', 'secondary', 'Viale Mohandas Gandhi', 1, 30, 1, 224.3311424314916).
 strada('w25748839', 'secondary', 'Viale Mohandas Gandhi', 0, 50, 4, 224.5257692856665).
 strada('w25748858', 'service', 'w25748858', 0, 20, 1, 53.34824921802205).
 strada('w25748905', 'service', 'w25748905', 0, 20, 1, 70.18510902884262).
 strada('w25748941', 'service', 'w25748941', 0, 20, 1, 67.62198884307755).
-strada('w25748948', 'unclassified', 'Via Jan Palach', 0, 30, 1, 103.45883973033767).
+strada('w25748948', 'unclassified', 'Via Jan Palach', 0, 20, 1, 103.45883973033767).
 strada('w25748962', 'unclassified', 'Via Giuseppe del Drago', 0, 30, 1, 119.76976128117944).
 strada('w25749210', 'service', 'w25749210', 0, 20, 1, 261.29708404100603).
-strada('w25756473', 'unclassified', 'w25756473', 0, 30, 1, 55.52722087074323).
+strada('w25756473', 'unclassified', 'w25756473', 0, 20, 1, 55.52722087074323).
 strada('w25756520', 'service', 'I Traversa Camillo Rosalba', 0, 20, 1, 178.97225266455843).
 strada('w25756821', 'tertiary', 'Viale Luigi De Laurentis', 1, 40, 1, 1111.3579769640294).
-strada('w25756829', 'residential', 'Via Luigi Luzzatti', 0, 20, 1, 106.04416706375973).
+strada('w25756829', 'residential', 'Via Luigi Luzzatti', 0, 30, 1, 106.04416706375973).
 strada('w25756833', 'residential', 'Via Giuseppe Pavoncelli', 1, 30, 2, 189.07221336941222).
-strada('w25756835', 'residential', 'Via Giuseppe Pavoncelli', 1, 20, 2, 192.4158139382984).
+strada('w25756835', 'residential', 'Via Giuseppe Pavoncelli', 1, 30, 2, 192.4158139382984).
 strada('w25756837', 'residential', 'Via Giuseppe Palmieri', 0, 20, 1, 287.7830897772376).
 strada('w25756846', 'unclassified', 'Via Giuseppe Pavoncelli', 0, 30, 1, 200.09116680943993).
 strada('w25756850', 'residential', 'Via Demetrio Marin', 0, 30, 1, 305.6702602455081).
@@ -6782,16 +6782,16 @@ strada('w25756859', 'unclassified', 'Via Gaetano Salvemini', 1, 30, 1, 154.69928
 strada('w25756861', 'service', 'Via Filippo Turati', 0, 20, 1, 122.61173531387878).
 strada('w25756870', 'residential', 'w25756870', 0, 30, 1, 262.12958363328977).
 strada('w25756875', 'unclassified', 'Via Conte Giusso', 0, 30, 1, 577.7159675836408).
-strada('w25817299', 'unclassified', 'w25817299', 0, 30, 1, 343.6866032564966).
+strada('w25817299', 'unclassified', 'w25817299', 0, 20, 1, 343.6866032564966).
 strada('w25817301', 'service', 'w25817301', 0, 20, 1, 205.0524375022406).
 strada('w25817312', 'track', 'w25817312', 0, 30, 1, 157.55330408591254).
 strada('w25817392', 'unclassified', 'Via Salvatore Matarrese', 1, 50, 1, 446.2425372334287).
 strada('w25817411', 'unclassified', 'w25817411', 1, 30, 1, 43.07431763385085).
 strada('w25817422', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 45.73282426570032).
-strada('w25817423', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 186.96818427407817).
-strada('w25817432', 'unclassified', 'Viale Nicola Dell Andro', 1, 20, 1, 29.556846293382794).
+strada('w25817423', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 186.96818427407817).
+strada('w25817432', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 29.556846293382794).
 strada('w25817447', 'unclassified', 'Viale Giuseppe Bartolo', 1, 30, 1, 116.84346921116678).
-strada('w25817554', 'unclassified', 'Via Cancello Rotto', 1, 30, 1, 304.3831756927967).
+strada('w25817554', 'unclassified', 'Via Cancello Rotto', 1, 20, 1, 304.3831756927967).
 strada('w25817657', 'unclassified', 'Via Giuseppe Petraglione', 1, 30, 1, 286.1846131095631).
 strada('w25817680', 'service', 'w25817680', 0, 20, 1, 216.17994051915224).
 strada('w25817735', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 354.0446930486182).
@@ -6799,14 +6799,14 @@ strada('w25817802', 'residential', 'Via Divisione Paracadutisti Folgore', 0, 20,
 strada('w25817813', 'unclassified', 'Strada Calvani', 1, 30, 1, 137.1331612174659).
 strada('w25817815', 'unclassified', 'Via Osvaldo Marzano', 0, 30, 1, 316.33901376815345).
 strada('w25817864', 'unclassified', 'Via Nicola Pende', 1, 30, 1, 238.6950678807495).
-strada('w25817868', 'residential', 'Via Alberotanza', 0, 20, 1, 767.5062670438125).
+strada('w25817868', 'residential', 'Via Alberotanza', 0, 30, 1, 767.5062670438125).
 strada('w25817954', 'unclassified', 'w25817954', 1, 30, 1, 139.04161706745703).
-strada('w25817999', 'unclassified', 'Viale Saverio Dioguardi', 1, 30, 1, 22.38539194424196).
+strada('w25817999', 'unclassified', 'Viale Saverio Dioguardi', 1, 20, 1, 22.38539194424196).
 strada('w25819014', 'unclassified', 'Piazzale Mater Ecclesiae', 1, 30, 1, 112.1190254392957).
 strada('w25819144', 'unclassified', 'w25819144', 1, 30, 1, 26.714637346707192).
 strada('w25819156', 'unclassified', 'w25819156', 1, 30, 1, 184.12293502035976).
 strada('w25819177', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 140.88506720398632).
-strada('w25819183', 'unclassified', 'Strada GiosuÃ¨ Carducci', 1, 20, 1, 349.89256996934546).
+strada('w25819183', 'unclassified', 'Strada GiosuÃ¨ Carducci', 1, 30, 1, 349.89256996934546).
 strada('w25819208', 'unclassified', 'w25819208', 1, 30, 1, 80.70273806726195).
 strada('w25819210', 'unclassified', 'w25819210', 1, 30, 1, 107.8218536067177).
 strada('w25819271', 'unclassified', 'w25819271', 0, 30, 2, 203.38120728092142).
@@ -6818,12 +6818,12 @@ strada('w25838210', 'unclassified', 'Via Salvatore Matarrese', 1, 30, 1, 163.535
 strada('w25838212', 'unclassified', 'w25838212', 0, 30, 1, 10.872207878280458).
 strada('w25838293', 'tertiary', 'w25838293', 1, 40, 1, 65.4634114915215).
 strada('w25838359', 'unclassified', 'w25838359', 0, 30, 1, 251.2279018975138).
-strada('w25838478', 'residential', 'Via Pietro Oreste', 1, 20, 1, 39.872815478619).
+strada('w25838478', 'residential', 'Via Pietro Oreste', 1, 30, 1, 39.872815478619).
 strada('w25972707', 'trunk_link', 'w25972707', 1, 40, 1, 42.09230520412814).
 strada('w25972771', 'trunk_link', 'w25972771', 1, 40, 1, 77.56114811816717).
-strada('w25973526', 'residential', 'Viale Grotta della Regina', 0, 20, 1, 320.1303089364279).
-strada('w25973568', 'residential', 'Via Luigi Marinelli Giovene', 0, 30, 1, 442.8810405936999).
-strada('w25973608', 'residential', 'Via Angelo Valle e Gianna Giglioli', 1, 20, 1, 282.45317970688274).
+strada('w25973526', 'residential', 'Viale Grotta della Regina', 0, 30, 1, 320.1303089364279).
+strada('w25973568', 'residential', 'Via Luigi Marinelli Giovene', 0, 20, 1, 442.8810405936999).
+strada('w25973608', 'residential', 'Via Angelo Valle e Gianna Giglioli', 1, 5, 1, 282.45317970688274).
 strada('w25974167', 'residential', 'Via Antonio Fenicia', 0, 30, 1, 326.01935357277887).
 strada('w25974176', 'unclassified', 'Via Raffaele Resta', 1, 30, 1, 382.8235860509907).
 strada('w25974180', 'residential', 'w25974180', 0, 30, 1, 103.8573089911869).
@@ -6831,50 +6831,50 @@ strada('w25974182', 'residential', 'Traversa I Via Morelli e Salvati', 0, 30, 1,
 strada('w25974196', 'residential', 'w25974196', 0, 30, 1, 128.53040671625754).
 strada('w25974225', 'unclassified', 'Via Lama Giotta', 0, 30, 1, 103.52736330184064).
 strada('w25974229', 'residential', 'via Dante Alighieri', 1, 30, 1, 56.66985385896991).
-strada('w25974231', 'residential', 'Via Roma', 1, 5, 1, 71.20162090718468).
+strada('w25974231', 'residential', 'Via Roma', 1, 30, 1, 71.20162090718468).
 strada('w25974243', 'residential', 'Via Monte Sei Busi', 1, 20, 1, 41.3776143633676).
-strada('w25974265', 'residential', 'Via Giuseppe Mazzini', 1, 20, 1, 240.70376924190188).
-strada('w25974278', 'residential', 'Via Nizza', 1, 5, 1, 143.61600987479238).
+strada('w25974265', 'residential', 'Via Giuseppe Mazzini', 1, 30, 1, 240.70376924190188).
+strada('w25974278', 'residential', 'Via Nizza', 1, 30, 1, 143.61600987479238).
 strada('w25974304', 'residential', 'Via Giacomo Leopardi', 0, 30, 1, 143.6890554332732).
 strada('w25974306', 'residential', 'Via Giuseppe Signorile', 0, 20, 1, 115.37140489978974).
-strada('w25974324', 'residential', 'w25974324', 0, 20, 1, 80.84008813106857).
-strada('w25974327', 'residential', 'Via Pacuvia Marco', 0, 30, 1, 61.71166324523029).
+strada('w25974324', 'residential', 'w25974324', 0, 30, 1, 80.84008813106857).
+strada('w25974327', 'residential', 'Via Pacuvia Marco', 0, 20, 1, 61.71166324523029).
 strada('w25974328', 'residential', 'Via Pitagora', 0, 30, 1, 156.59670428199084).
-strada('w25974344', 'residential', 'Traversa di Via Bari', 0, 5, 1, 146.3940533117239).
+strada('w25974344', 'residential', 'Traversa di Via Bari', 0, 20, 1, 146.3940533117239).
 strada('w25974596', 'tertiary', 'w25974596', 1, 40, 1, 33.40915654179419).
 strada('w25975076', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 43.333216729733294).
 strada('w25978077', 'unclassified', 'Via Virgilio', 0, 30, 1, 184.32250835821705).
 strada('w25978182', 'tertiary', 'Via Coppa di Bari', 1, 40, 1, 46.61243115014593).
 strada('w25978269', 'residential', 'Via Antonio Fenicia', 0, 30, 1, 302.741543738577).
 strada('w25978305', 'residential', 'w25978305', 0, 30, 1, 177.7201973130722).
-strada('w25978306', 'residential', 'w25978306', 0, 20, 1, 192.3428596989525).
+strada('w25978306', 'residential', 'w25978306', 0, 10, 1, 192.3428596989525).
 strada('w25980043', 'residential', 'Via De Pinedo', 1, 30, 1, 83.53800313414479).
-strada('w25980066', 'residential', 'Strada Porticello', 0, 20, 2, 247.33012681785493).
+strada('w25980066', 'residential', 'Strada Porticello', 0, 30, 2, 247.33012681785493).
 strada('w25980102', 'residential', 'Via Luigi Colonna', 1, 30, 1, 77.12462438765675).
-strada('w25980178', 'residential', 'Strada Porticello', 0, 20, 2, 229.14835895529757).
-strada('w25980193', 'tertiary', 'Via Scizze', 0, 30, 2, 172.4206141723381).
+strada('w25980178', 'residential', 'Strada Porticello', 0, 30, 2, 229.14835895529757).
+strada('w25980193', 'tertiary', 'Via Scizze', 0, 40, 2, 172.4206141723381).
 strada('w25980199', 'residential', 'Strada Porticello', 0, 30, 2, 43.60152284394665).
 strada('w25980254', 'residential', 'Strada Porticello', 0, 20, 2, 302.26999209775556).
 strada('w25980264', 'residential', 'Strada Porticello', 0, 30, 2, 223.61389808624045).
-strada('w25980284', 'residential', 'Strada Porticello', 0, 20, 2, 122.26728600486379).
+strada('w25980284', 'residential', 'Strada Porticello', 0, 30, 2, 122.26728600486379).
 strada('w25980287', 'residential', 'Seconda Traversa Strada detta della Marina', 0, 30, 2, 570.0377011923105).
-strada('w25980337', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 50.91148621424173).
-strada('w25980342', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 34.94496194891506).
+strada('w25980337', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 50.91148621424173).
+strada('w25980342', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 34.94496194891506).
 strada('w25980354', 'trunk_link', 'w25980354', 1, 40, 1, 46.95606299711072).
 strada('w25980355', 'trunk_link', 'w25980355', 1, 40, 1, 57.062889912094676).
-strada('w26001577', 'tertiary', 'Via Morelli e Salvati', 0, 30, 2, 502.66652487430605).
+strada('w26001577', 'tertiary', 'Via Morelli e Salvati', 0, 40, 2, 502.66652487430605).
 strada('w26024555', 'trunk_link', 'Via Bari', 1, 40, 1, 115.2347059737439).
-strada('w26085211', 'residential', 'Via Cristoforo Colombo', 1, 30, 1, 117.63775831397055).
-strada('w26085232', 'residential', 'Via San Nicola', 1, 20, 1, 96.80395541385226).
-strada('w26085233', 'residential', 'w26085233', 1, 5, 1, 45.81197193362555).
-strada('w26085253', 'residential', 'Via Istria', 1, 30, 1, 80.74431259493316).
+strada('w26085211', 'residential', 'Via Cristoforo Colombo', 1, 20, 1, 117.63775831397055).
+strada('w26085232', 'residential', 'Via San Nicola', 1, 30, 1, 96.80395541385226).
+strada('w26085233', 'residential', 'w26085233', 1, 20, 1, 45.81197193362555).
+strada('w26085253', 'residential', 'Via Istria', 1, 20, 1, 80.74431259493316).
 strada('w26085262', 'residential', 'Via Lama Giotta', 0, 30, 1, 155.17240933990783).
-strada('w27201913', 'residential', 'Via Andrea Costa', 0, 30, 1, 92.24556319239188).
+strada('w27201913', 'residential', 'Via Andrea Costa', 0, 20, 1, 92.24556319239188).
 strada('w27202316', 'residential', 'Via Nicola Bavaro', 1, 30, 1, 197.60887186622946).
-strada('w27237018', 'unclassified', 'Strada Vassallo', 1, 20, 1, 870.8993057220792).
+strada('w27237018', 'unclassified', 'Strada Vassallo', 1, 30, 1, 870.8993057220792).
 strada('w27237023', 'unclassified', 'Strada Vassallo', 1, 30, 1, 294.19100346307295).
 strada('w27237138', 'residential', 'w27237138', 0, 20, 1, 216.8012925067997).
-strada('w27237139', 'residential', 'w27237139', 0, 30, 1, 72.27647784614396).
+strada('w27237139', 'residential', 'w27237139', 0, 20, 1, 72.27647784614396).
 strada('w27237141', 'residential', 'w27237141', 0, 20, 1, 123.74622968016935).
 strada('w27237156', 'track', 'w27237156', 0, 30, 1, 404.8776985734718).
 strada('w27249383', 'unclassified', 'w27249383', 0, 30, 1, 56.769747456087835).
@@ -6882,46 +6882,46 @@ strada('w27249415', 'service', 'w27249415', 0, 20, 1, 266.91271216831706).
 strada('w27296327', 'trunk_link', 'w27296327', 1, 40, 1, 174.72982385459986).
 strada('w27296963', 'residential', 'Strada Porticello', 1, 30, 2, 94.01933455606886).
 strada('w27297432', 'trunk_link', 'w27297432', 1, 40, 1, 195.3363968504867).
-strada('w27297506', 'service', 'w27297506', 1, 20, 1, 170.77073945446102).
-strada('w27297556', 'service', 'w27297556', 1, 10, 1, 183.66994948287484).
+strada('w27297506', 'service', 'w27297506', 1, 10, 1, 170.77073945446102).
+strada('w27297556', 'service', 'w27297556', 1, 20, 1, 183.66994948287484).
 strada('w27376173', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 123.76050308354127).
 strada('w27376452', 'primary_link', 'Via Giovanni Gentile', 0, 80, 2, 17.352462599368295).
 strada('w27378274', 'trunk_link', 'w27378274', 1, 40, 1, 89.95945201175006).
 strada('w27378275', 'trunk_link', 'w27378275', 1, 40, 1, 257.55905151201637).
-strada('w27378276', 'residential', 'Via Arturo Toscanini', 0, 20, 1, 375.2196900159793).
-strada('w27523145', 'residential', 'Via Guido Dorso', 1, 30, 1, 272.1056861626039).
+strada('w27378276', 'residential', 'Via Arturo Toscanini', 0, 30, 1, 375.2196900159793).
+strada('w27523145', 'residential', 'Via Guido Dorso', 1, 20, 1, 272.1056861626039).
 strada('w27523152', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 78.07788122236077).
 strada('w27534029', 'secondary', 'Via Mario Pagano', 1, 30, 1, 270.7854949119435).
 strada('w27534046', 'service', 'w27534046', 1, 30, 1, 91.81298982811866).
 strada('w27534098', 'residential', 'I Traversa Brigata Regina', 0, 30, 1, 79.76065363513466).
 strada('w27534126', 'tertiary', 'Via Francesco Portoghese', 0, 40, 1, 567.3694226056882).
-strada('w27534134', 'tertiary', 'Viale Vittorio Emanuele Orlando', 1, 40, 1, 262.139053114656).
+strada('w27534134', 'tertiary', 'Viale Vittorio Emanuele Orlando', 1, 30, 1, 262.139053114656).
 strada('w27534136', 'residential', 'w27534136', 0, 20, 1, 81.3277197881903).
 strada('w27534349', 'residential', 'Via Giorgio Skanderbeg Castriota', 1, 30, 1, 323.4273450492638).
-strada('w27534355', 'residential', 'Via Mogadiscio', 1, 30, 1, 231.61113108522198).
-strada('w27534356', 'residential', 'Via Guglielmo Marconi', 1, 30, 1, 195.23020475383126).
-strada('w27534374', 'residential', 'Via Massaua', 0, 20, 1, 385.9484808183763).
+strada('w27534355', 'residential', 'Via Mogadiscio', 1, 20, 1, 231.61113108522198).
+strada('w27534356', 'residential', 'Via Guglielmo Marconi', 1, 20, 1, 195.23020475383126).
+strada('w27534374', 'residential', 'Via Massaua', 0, 30, 1, 385.9484808183763).
 strada('w27534386', 'residential', 'Via Tripoli', 1, 30, 1, 345.30497890359555).
-strada('w27534469', 'residential', 'Stradella Cipparoli', 0, 30, 1, 308.31322084136946).
-strada('w27534471', 'residential', 'Stradella Cipparoli', 0, 20, 1, 83.51162702635204).
+strada('w27534469', 'residential', 'Stradella Cipparoli', 0, 20, 1, 308.31322084136946).
+strada('w27534471', 'residential', 'Stradella Cipparoli', 0, 30, 1, 83.51162702635204).
 strada('w27534567', 'trunk_link', 'w27534567', 1, 40, 1, 65.917265723388).
-strada('w27534576', 'tertiary', 'w27534576', 1, 30, 1, 82.16206098308605).
-strada('w27534583', 'residential', 'Via Lorenzo Perosi', 1, 30, 1, 431.9476654980541).
+strada('w27534576', 'tertiary', 'w27534576', 1, 40, 1, 82.16206098308605).
+strada('w27534583', 'residential', 'Via Lorenzo Perosi', 1, 5, 1, 431.9476654980541).
 strada('w27534607', 'residential', 'Traversa 36 Lungomare IX Maggio', 1, 30, 1, 297.1624142653611).
 strada('w27534610', 'residential', 'Via Vincenzo Bellezza', 1, 30, 1, 448.6815039029063).
 strada('w27534611', 'residential', 'Strada Tomasicchio', 1, 20, 1, 167.57473813669807).
-strada('w27534619', 'residential', 'Via Domenico Cimarosa', 1, 30, 1, 413.3647646686704).
+strada('w27534619', 'residential', 'Via Domenico Cimarosa', 1, 20, 1, 413.3647646686704).
 strada('w27534620', 'unclassified', 'Via Vittorio Bodini', 0, 30, 1, 153.07094246619982).
 strada('w27534621', 'unclassified', 'Via Teodoro', 0, 30, 1, 152.80654567662066).
 strada('w27534622', 'residential', 'Via Riccardo Zandonai', 1, 30, 1, 273.40858178020426).
-strada('w27534632', 'residential', 'Via Claudio Monteverdi', 0, 20, 1, 115.38790511548005).
+strada('w27534632', 'residential', 'Via Claudio Monteverdi', 0, 30, 1, 115.38790511548005).
 strada('w27534698', 'residential', 'w27534698', 0, 20, 1, 146.00932471877218).
 strada('w27534703', 'residential', 'w27534703', 0, 30, 1, 39.17294660546669).
-strada('w27534704', 'residential', 'Via Semerari', 0, 20, 1, 116.1627286048898).
+strada('w27534704', 'residential', 'Via Semerari', 0, 30, 1, 116.1627286048898).
 strada('w27534750', 'unclassified', 'w27534750', 1, 30, 1, 15.859671682275362).
-strada('w27534756', 'residential', 'w27534756', 0, 20, 1, 148.24043495855577).
-strada('w27534765', 'residential', 'Via Pasquale Romito', 0, 5, 1, 245.26547859131642).
-strada('w27535269', 'tertiary', 'w27535269', 1, 30, 1, 58.426647933677096).
+strada('w27534756', 'residential', 'w27534756', 0, 30, 1, 148.24043495855577).
+strada('w27534765', 'residential', 'Via Pasquale Romito', 0, 20, 1, 245.26547859131642).
+strada('w27535269', 'tertiary', 'w27535269', 1, 40, 1, 58.426647933677096).
 strada('w27535274', 'trunk_link', 'w27535274', 1, 40, 1, 128.56591949274025).
 strada('w27535284', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 100.37446561992526).
 strada('w27535287', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 91.06687375842155).
@@ -6929,51 +6929,51 @@ strada('w27535288', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 170.042502
 strada('w27535300', 'tertiary', 'w27535300', 0, 40, 1, 232.65992022799077).
 strada('w27535302', 'trunk_link', 'w27535302', 1, 40, 1, 115.14024880645549).
 strada('w27535305', 'trunk_link', 'w27535305', 1, 40, 1, 217.4294472764013).
-strada('w27535526', 'secondary', 'Via Napoli', 1, 50, 1, 243.02605281938634).
+strada('w27535526', 'secondary', 'Via Napoli', 1, 30, 1, 243.02605281938634).
 strada('w27535544', 'service', 'w27535544', 0, 20, 1, 171.38362967210747).
 strada('w27535546', 'trunk_link', 'w27535546', 1, 40, 1, 56.98340364829552).
 strada('w27535585', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 164.52646615311681).
 strada('w27535603', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 1394.8691829908084).
 strada('w27535609', 'trunk', 'Tangenziale di Bari', 1, 90, 2, 107.93989929200313).
 strada('w27535688', 'secondary', 'Via Napoli', 0, 50, 1, 587.547025942115).
-strada('w27535805', 'unclassified', '1Â° Traversa Ottorino Respighi', 0, 30, 1, 66.894796748093).
+strada('w27535805', 'unclassified', '1Â° Traversa Ottorino Respighi', 0, 20, 1, 66.894796748093).
 strada('w27535841', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 787.5133377523297).
 strada('w27536239', 'track', 'w27536239', 0, 30, 1, 803.6558571520932).
 strada('w27674135', 'secondary', 'Corso Trieste', 1, 50, 1, 471.184829608302).
 strada('w27674602', 'trunk_link', 'w27674602', 1, 40, 1, 35.24821628705445).
-strada('w27674603', 'secondary', 'SP 60 dir. Triggiano', 1, 50, 1, 13.052481558607592).
-strada('w27703542', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 315.8907380912299).
+strada('w27674603', 'secondary', 'SP 60 dir. Triggiano', 1, 30, 1, 13.052481558607592).
+strada('w27703542', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 315.8907380912299).
 strada('w27703553', 'residential', 'Via Vaccarella', 1, 30, 1, 18.560478413344626).
-strada('w27810744', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 29.984636558339467).
+strada('w27810744', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 29.984636558339467).
 strada('w27810746', 'unclassified', 'Strada San Giorgio Martire', 1, 30, 1, 48.587995249560635).
 strada('w27810832', 'trunk', 'Via Bitritto', 1, 90, 2, 201.6529294917188).
 strada('w27893634', 'service', 'w27893634', 0, 10, 1, 3.276790853239518).
 strada('w27917541', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 32.333408938636076).
 strada('w27917550', 'residential', 'Via Bianchi Menotti', 0, 30, 1, 81.67638582620984).
 strada('w27917553', 'residential', 'Largo Ignazio Ciaia', 1, 20, 1, 70.81953910378078).
-strada('w27917556', 'residential', 'Largo Ignazio Ciaia', 1, 20, 1, 71.27285890186377).
+strada('w27917556', 'residential', 'Largo Ignazio Ciaia', 1, 30, 1, 71.27285890186377).
 strada('w28061376', 'service', 'w28061376', 1, 30, 4, 720.4579315849759).
 strada('w28061384', 'service', 'w28061384', 1, 30, 1, 27.997080441569068).
 strada('w28061387', 'service', 'w28061387', 1, 30, 1, 26.02302903737624).
-strada('w28061388', 'residential', 'Piazza Giuseppe Massari', 0, 20, 1, 187.57865749298634).
+strada('w28061388', 'residential', 'Piazza Giuseppe Massari', 0, 30, 1, 187.57865749298634).
 strada('w28061391', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 158.31734335856228).
 strada('w28061396', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 192.52512438363166).
 strada('w28082672', 'secondary_link', 'w28082672', 1, 40, 1, 100.93396284435266).
 strada('w28082673', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 89.24761046364956).
-strada('w28111040', 'unclassified', 'Strada vicinale Torre di Mizzo', 0, 20, 1, 298.7477501138688).
+strada('w28111040', 'unclassified', 'Strada vicinale Torre di Mizzo', 0, 30, 1, 298.7477501138688).
 strada('w28111105', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 87.72768394417838).
 strada('w28111171', 'trunk_link', 'w28111171', 1, 40, 1, 112.07338788278857).
 strada('w28158033', 'trunk_link', 'w28158033', 1, 40, 1, 94.01752518077262).
 strada('w28278208', 'service', 'w28278208', 1, 20, 1, 221.4565564997942).
 strada('w28278926', 'track', 'Strada Vicinale Chiusello', 0, 30, 1, 113.6869319558738).
 strada('w28278941', 'track', 'w28278941', 0, 30, 1, 1796.4096678374756).
-strada('w28279063', 'residential', 'Via Luigi Zuppetta', 1, 20, 1, 105.47936155396248).
-strada('w28279077', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 63.14503306320265).
+strada('w28279063', 'residential', 'Via Luigi Zuppetta', 1, 30, 1, 105.47936155396248).
+strada('w28279077', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 63.14503306320265).
 strada('w28279126', 'tertiary_link', 'w28279126', 1, 50, 1, 89.93515681713122).
 strada('w28279138', 'tertiary', 'Viale Luigi De Laurentis', 1, 40, 1, 559.3282986778198).
 strada('w28279168', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara', 1, 50, 2, 199.61768455283314).
-strada('w28279199', 'tertiary', 'Strada Torre Bella', 0, 40, 1, 11.257198256853563).
-strada('w28279215', 'secondary', 'w28279215', 1, 50, 1, 45.625417133845424).
+strada('w28279199', 'tertiary', 'Strada Torre Bella', 0, 30, 1, 11.257198256853563).
+strada('w28279215', 'secondary', 'w28279215', 1, 30, 1, 45.625417133845424).
 strada('w28279221', 'tertiary_link', 'w28279221', 1, 50, 1, 94.1286681148528).
 strada('w28279253', 'secondary', 'w28279253', 1, 50, 1, 229.05987401012226).
 strada('w28279262', 'secondary_link', 'Viale Nicola Vernola', 1, 30, 1, 378.80007315028223).
@@ -6986,15 +6986,15 @@ strada('w28293651', 'service', 'w28293651', 0, 20, 1, 38.84081955512188).
 strada('w28293652', 'service', 'w28293652', 0, 20, 1, 152.6217432609679).
 strada('w28293653', 'secondary', 'w28293653', 1, 50, 1, 44.236863230732496).
 strada('w28306232', 'residential', 'Via MacallÃ¨', 0, 30, 1, 70.49943562330384).
-strada('w28306374', 'tertiary', 'Via Dogali', 0, 30, 1, 97.81566993747205).
+strada('w28306374', 'tertiary', 'Via Dogali', 0, 40, 1, 97.81566993747205).
 strada('w28306457', 'residential', 'Via Tripoli', 1, 30, 1, 108.14166220697336).
 strada('w28306844', 'residential', 'Via XXIV Maggio', 0, 20, 1, 46.75134335953169).
-strada('w28306854', 'residential', 'Via Gaeta', 0, 30, 1, 51.584332126878806).
-strada('w28306954', 'residential', 'Via Vittorio Positano', 1, 20, 1, 232.92007700957336).
-strada('w28306962', 'residential', 'Via Fontana Nuova', 0, 20, 1, 64.20391407258849).
+strada('w28306854', 'residential', 'Via Gaeta', 0, 20, 1, 51.584332126878806).
+strada('w28306954', 'residential', 'Via Vittorio Positano', 1, 30, 1, 232.92007700957336).
+strada('w28306962', 'residential', 'Via Fontana Nuova', 0, 30, 1, 64.20391407258849).
 strada('w28306970', 'residential', 'Via dei Trulli', 0, 30, 1, 789.4211269949551).
-strada('w28416408', 'secondary', 'Via Giovanni Amendola', 1, 50, 2, 27.57763167179455).
-strada('w28416410', 'residential', 'Via Ottavio Tupputi', 0, 30, 1, 328.8409842932507).
+strada('w28416408', 'secondary', 'Via Giovanni Amendola', 1, 30, 2, 27.57763167179455).
+strada('w28416410', 'residential', 'Via Ottavio Tupputi', 0, 20, 1, 328.8409842932507).
 strada('w28487847', 'trunk_link', 'w28487847', 0, 40, 2, 61.3874524756183).
 strada('w28487848', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 85.60372420769752).
 strada('w28487851', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 47.17403696694651).
@@ -7010,19 +7010,19 @@ strada('w28510994', 'trunk_link', 'w28510994', 1, 40, 1, 21.200042536591305).
 strada('w28528519', 'unclassified', 'Via Conte Giusso', 1, 30, 2, 39.619812372624025).
 strada('w28684906', 'trunk_link', 'w28684906', 1, 40, 1, 145.70749449480212).
 strada('w28684907', 'primary', 'w28684907', 1, 90, 2, 44.01585845290685).
-strada('w28684909', 'primary', 'Via Bitritto', 1, 50, 1, 196.37203023273133).
-strada('w28685896', 'secondary', 'Strada Torrebella', 1, 30, 2, 342.4847354221235).
+strada('w28684909', 'primary', 'Via Bitritto', 1, 30, 1, 196.37203023273133).
+strada('w28685896', 'secondary', 'Strada Torrebella', 1, 50, 2, 342.4847354221235).
 strada('w28685919', 'primary', 'Strada Statale 96', 1, 60, 2, 1032.9322853497285).
 strada('w28693767', 'unclassified', 'Strada Comunale Torre Tresca', 0, 30, 1, 1750.7483364442837).
-strada('w28717584', 'service', 'w28717584', 0, 10, 1, 867.8886853609863).
+strada('w28717584', 'service', 'w28717584', 0, 20, 1, 867.8886853609863).
 strada('w28717588', 'service', 'w28717588', 0, 20, 1, 293.32102321535035).
 strada('w28717591', 'service', 'w28717591', 0, 20, 1, 305.12193251818314).
 strada('w28717595', 'service', 'w28717595', 0, 20, 1, 251.63252864398572).
-strada('w28717599', 'service', 'w28717599', 0, 10, 1, 50.671066537252464).
+strada('w28717599', 'service', 'w28717599', 0, 20, 1, 50.671066537252464).
 strada('w28717604', 'service', 'w28717604', 0, 20, 1, 39.091992238555235).
 strada('w28717607', 'service', 'w28717607', 0, 20, 1, 327.90836337401).
 strada('w28717610', 'service', 'w28717610', 0, 20, 1, 288.64156158888835).
-strada('w28717624', 'service', 'w28717624', 0, 10, 1, 253.8098606009944).
+strada('w28717624', 'service', 'w28717624', 0, 20, 1, 253.8098606009944).
 strada('w28717627', 'service', 'w28717627', 0, 20, 1, 218.66448499994448).
 strada('w28717630', 'service', 'w28717630', 0, 20, 1, 181.4006847591521).
 strada('w28717632', 'service', 'w28717632', 0, 20, 1, 140.3967759502441).
@@ -7032,7 +7032,7 @@ strada('w28717658', 'service', 'w28717658', 0, 20, 1, 28.567253404056373).
 strada('w28717665', 'service', 'w28717665', 0, 20, 1, 30.716517758326965).
 strada('w28717667', 'service', 'w28717667', 0, 20, 1, 29.395521850970024).
 strada('w28717670', 'service', 'w28717670', 0, 20, 1, 25.205933686720936).
-strada('w28717793', 'service', 'w28717793', 0, 20, 1, 60.00609714378047).
+strada('w28717793', 'service', 'w28717793', 0, 10, 1, 60.00609714378047).
 strada('w28717828', 'service', 'w28717828', 0, 20, 1, 435.9977789834564).
 strada('w28717834', 'service', 'w28717834', 0, 20, 1, 586.1514369497519).
 strada('w28717846', 'secondary', 'Via Floriano Ludwig', 0, 50, 1, 229.24006749583233).
@@ -7047,9 +7047,9 @@ strada('w28790795', 'tertiary', 'Strada Santa Caterina', 1, 50, 1, 81.2684246834
 strada('w28790797', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 78.97017922846982).
 strada('w28790798', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 105.94184952407443).
 strada('w28790799', 'tertiary', 'Strada Santa Caterina', 1, 50, 2, 314.8700192300854).
-strada('w28790800', 'unclassified', 'w28790800', 1, 30, 1, 99.63598888009454).
-strada('w28790801', 'tertiary', 'Strada Santa Caterina', 0, 40, 2, 307.85606534525124).
-strada('w28791147', 'residential', 'Viale Louis Pasteur', 1, 30, 1, 293.99590064065956).
+strada('w28790800', 'unclassified', 'w28790800', 1, 20, 1, 99.63598888009454).
+strada('w28790801', 'tertiary', 'Strada Santa Caterina', 0, 30, 2, 307.85606534525124).
+strada('w28791147', 'residential', 'Viale Louis Pasteur', 1, 20, 1, 293.99590064065956).
 strada('w28791151', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 2, 101.6028012636524).
 strada('w28791162', 'secondary', 'Strada San Giorgio Martire', 0, 30, 2, 55.039769810635356).
 strada('w28791561', 'secondary', 'Via Michele Cifarelli', 0, 50, 1, 571.1777959109496).
@@ -7066,7 +7066,7 @@ strada('w28792052', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 111.740476
 strada('w28792053', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 31.909753550893196).
 strada('w28792055', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 34.40822763493243).
 strada('w28792175', 'tertiary', 'Strada Complanare', 0, 40, 1, 64.20326309697514).
-strada('w28792176', 'tertiary', 'Strada Complanare', 0, 40, 1, 7.689624795577892).
+strada('w28792176', 'tertiary', 'Strada Complanare', 0, 30, 1, 7.689624795577892).
 strada('w28792608', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 27.1271120273747).
 strada('w28792609', 'demolished', 'Tangenziale di Bari', 1, 90, 3, 1122.5269750016964).
 strada('w28792610', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 290.9838989532627).
@@ -7074,7 +7074,7 @@ strada('w28792611', 'demolished', 'Tangenziale di Bari', 1, 90, 3, 1093.69249981
 strada('w28796821', 'tertiary', 'Strada Torre Tresca', 0, 40, 1, 164.91753615016336).
 strada('w28796829', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 20, 1, 33.17869405411495).
 strada('w28796830', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 30, 1, 1825.196334141913).
-strada('w28883664', 'secondary', 'Complanare Ovest', 1, 50, 1, 49.19989137386659).
+strada('w28883664', 'secondary', 'Complanare Ovest', 1, 10, 1, 49.19989137386659).
 strada('w28883666', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 50, 1, 102.01986786247457).
 strada('w28921256', 'trunk', 'w28921256', 1, 70, 2, 42.993894555068565).
 strada('w28921257', 'trunk', 'Via Bitritto', 1, 70, 2, 483.1841113261395).
@@ -7087,11 +7087,11 @@ strada('w28921528', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 433.108
 strada('w28921530', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 228.6029119295968).
 strada('w28921531', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 30.98584656721907).
 strada('w28921534', 'unclassified', 'w28921534', 1, 30, 1, 133.41042372242228).
-strada('w28921804', 'residential', 'Viale del Concilio Vaticano II', 1, 20, 1, 239.8048064464491).
+strada('w28921804', 'residential', 'Viale del Concilio Vaticano II', 1, 30, 1, 239.8048064464491).
 strada('w29086691', 'trunk_link', 'w29086691', 1, 40, 1, 97.86562032778778).
 strada('w29086694', 'tertiary', 'w29086694', 0, 40, 1, 10.298754754841873).
 strada('w29086695', 'trunk_link', 'w29086695', 0, 40, 1, 19.112352004359874).
-strada('w29086696', 'tertiary', 'w29086696', 0, 40, 1, 74.92814463549479).
+strada('w29086696', 'tertiary', 'w29086696', 0, 30, 1, 74.92814463549479).
 strada('w29086697', 'tertiary', 'w29086697', 0, 40, 1, 13.02025120285851).
 strada('w29087264', 'trunk_link', 'w29087264', 1, 40, 1, 751.7059620791938).
 strada('w29087265', 'trunk_link', 'w29087265', 1, 40, 1, 73.69567734886955).
@@ -7101,20 +7101,20 @@ strada('w29087270', 'trunk_link', 'w29087270', 1, 40, 1, 38.59516520195633).
 strada('w29087271', 'trunk_link', 'w29087271', 1, 40, 1, 97.9309445638067).
 strada('w29087505', 'trunk_link', 'w29087505', 1, 40, 1, 372.1431934197949).
 strada('w29091156', 'trunk_link', 'w29091156', 1, 40, 1, 289.897239141285).
-strada('w29091157', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 425.1266405537148).
-strada('w29091159', 'tertiary', 'w29091159', 1, 30, 1, 47.4561401902653).
+strada('w29091157', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 425.1266405537148).
+strada('w29091159', 'tertiary', 'w29091159', 1, 40, 1, 47.4561401902653).
 strada('w29091161', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 414.69643663638806).
-strada('w29091212', 'secondary', 'w29091212', 1, 30, 2, 128.29473972942733).
-strada('w29091214', 'secondary', 'w29091214', 1, 50, 2, 122.29405198958163).
+strada('w29091212', 'secondary', 'w29091212', 1, 50, 2, 128.29473972942733).
+strada('w29091214', 'secondary', 'w29091214', 1, 30, 2, 122.29405198958163).
 strada('w29091628', 'tertiary', 'Via Modugno', 0, 40, 2, 24.57844927795893).
 strada('w29091630', 'service', 'w29091630', 0, 20, 1, 16.931430390721005).
-strada('w29091801', 'tertiary', 'w29091801', 1, 40, 1, 29.037150283724145).
+strada('w29091801', 'tertiary', 'w29091801', 1, 30, 1, 29.037150283724145).
 strada('w29091802', 'tertiary', 'Via Modugno', 1, 40, 1, 50.55507766009309).
 strada('w29091806', 'tertiary', 'w29091806', 1, 40, 1, 31.113400994651904).
 strada('w29091807', 'tertiary', 'w29091807', 0, 40, 2, 81.94788763287069).
 strada('w29091808', 'tertiary', 'w29091808', 0, 40, 2, 203.89617276109908).
 strada('w29092300', 'tertiary', 'Via Murari', 1, 40, 1, 84.13786771578202).
-strada('w29092301', 'tertiary', 'Via Murari', 0, 40, 1, 372.2080505618851).
+strada('w29092301', 'tertiary', 'Via Murari', 0, 30, 1, 372.2080505618851).
 strada('w29092302', 'primary_link', 'w29092302', 1, 40, 1, 108.5366674261973).
 strada('w29092304', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 60.42465652195538).
 strada('w29092307', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 67.81526089065406).
@@ -7131,19 +7131,19 @@ strada('w29092369', 'trunk_link', 'w29092369', 0, 40, 2, 122.80648144036508).
 strada('w29092660', 'trunk_link', 'w29092660', 1, 40, 1, 150.15246665021343).
 strada('w29092661', 'trunk_link', 'w29092661', 0, 40, 1, 11.618020101845461).
 strada('w29092662', 'tertiary', 'Via Zippitelle', 0, 50, 1, 425.61277159958485).
-strada('w29092663', 'tertiary', 'w29092663', 0, 40, 1, 62.58722819723328).
+strada('w29092663', 'tertiary', 'w29092663', 0, 30, 1, 62.58722819723328).
 strada('w29093034', 'secondary', 'Viale Europa', 0, 50, 1, 454.97732952314357).
 strada('w29093035', 'secondary_link', 'w29093035', 1, 30, 1, 46.594783198964926).
 strada('w29093036', 'trunk_link', 'w29093036', 1, 40, 1, 78.9967961106249).
 strada('w29093037', 'secondary', 'Viale Europa', 0, 50, 1, 424.6950960926096).
-strada('w29093038', 'secondary', 'Viale Europa', 0, 50, 1, 495.93984398432053).
+strada('w29093038', 'secondary', 'Viale Europa', 0, 30, 1, 495.93984398432053).
 strada('w29093151', 'secondary', 'w29093151', 1, 50, 1, 37.834019247419185).
 strada('w29093154', 'tertiary', 'Via Floriano Ludwig', 0, 50, 1, 147.7217047744636).
 strada('w29093155', 'tertiary', 'w29093155', 1, 30, 1, 35.46388418256875).
-strada('w29093156', 'tertiary_link', 'w29093156', 1, 40, 1, 105.5256390289255).
+strada('w29093156', 'tertiary_link', 'w29093156', 1, 50, 1, 105.5256390289255).
 strada('w29139996', 'trunk_link', 'w29139996', 1, 40, 1, 78.58129454240034).
 strada('w29176650', 'trunk_link', 'w29176650', 1, 40, 1, 257.9980823207661).
-strada('w29187723', 'residential', 'Via San Francesco d Assisi', 0, 30, 1, 163.98420309518525).
+strada('w29187723', 'residential', 'Via San Francesco d Assisi', 0, 20, 1, 163.98420309518525).
 strada('w29191963', 'trunk_link', 'w29191963', 1, 40, 1, 122.42549339368239).
 strada('w29222894', 'trunk_link', 'w29222894', 1, 40, 1, 125.27672393717852).
 strada('w29222895', 'primary_link', 'w29222895', 1, 40, 1, 44.22389827554879).
@@ -7157,17 +7157,17 @@ strada('w29281819', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 
 strada('w29316708', 'secondary', 'Via Achille Grandi', 1, 50, 1, 152.7125699161777).
 strada('w29316802', 'residential', 'w29316802', 0, 30, 1, 46.15094989803192).
 strada('w29316823', 'residential', 'Corso Giuseppe Mazzini', 0, 30, 1, 339.30673079520005).
-strada('w29317549', 'residential', 'Via Luigi Milella', 1, 20, 1, 190.85431488261463).
+strada('w29317549', 'residential', 'Via Luigi Milella', 1, 30, 1, 190.85431488261463).
 strada('w29317557', 'residential', 'w29317557', 0, 30, 1, 96.13316765797092).
 strada('w29317593', 'residential', 'Via Mario Rossani', 1, 20, 1, 103.0823408675593).
-strada('w29317862', 'residential', 'Via Antonio Beatillo', 1, 30, 1, 153.86194567023125).
+strada('w29317862', 'residential', 'Via Antonio Beatillo', 1, 20, 1, 153.86194567023125).
 strada('w29338288', 'service', 'w29338288', 0, 20, 1, 1328.588221490876).
 strada('w29338290', 'track', 'w29338290', 0, 30, 1, 227.4254509077644).
 strada('w29340132', 'service', 'w29340132', 0, 20, 1, 62.055735664558014).
 strada('w29340148', 'service', 'w29340148', 0, 20, 1, 47.58076246629447).
-strada('w29340153', 'service', 'w29340153', 0, 10, 1, 50.81329076238215).
+strada('w29340153', 'service', 'w29340153', 0, 20, 1, 50.81329076238215).
 strada('w29340193', 'service', 'Viale Italo Oriente', 1, 20, 1, 260.03970169332865).
-strada('w29342192', 'service', 'w29342192', 0, 10, 1, 281.95884397033785).
+strada('w29342192', 'service', 'w29342192', 0, 20, 1, 281.95884397033785).
 strada('w29342193', 'service', 'w29342193', 0, 20, 1, 141.67653723445716).
 strada('w29342196', 'service', 'w29342196', 0, 20, 1, 135.9870485598931).
 strada('w29342198', 'service', 'w29342198', 0, 20, 1, 129.84313256538175).
@@ -7176,7 +7176,7 @@ strada('w29342202', 'service', 'w29342202', 0, 20, 1, 117.84845649348583).
 strada('w29342204', 'service', 'w29342204', 0, 20, 1, 112.04227117424426).
 strada('w29342228', 'service', 'w29342228', 0, 20, 1, 37.7172565057355).
 strada('w29342230', 'service', 'w29342230', 0, 20, 1, 164.47364934151364).
-strada('w29342232', 'service', 'w29342232', 0, 10, 1, 155.15483936343549).
+strada('w29342232', 'service', 'w29342232', 0, 20, 1, 155.15483936343549).
 strada('w29343112', 'trunk_link', 'w29343112', 1, 40, 1, 110.88018253339493).
 strada('w29362716', 'motorway_link', 'w29362716', 1, 40, 1, 527.8529850417577).
 strada('w29362749', 'motorway_link', 'w29362749', 1, 40, 1, 554.608487826836).
@@ -7187,95 +7187,95 @@ strada('w29925869', 'trunk_link', 'w29925869', 1, 40, 1, 34.48578290417904).
 strada('w29926074', 'trunk_link', 'w29926074', 1, 40, 1, 110.12490759751041).
 strada('w29926520', 'trunk_link', 'w29926520', 1, 40, 1, 213.17267672741858).
 strada('w29926932', 'trunk_link', 'w29926932', 1, 40, 1, 33.73890038378149).
-strada('w29927721', 'unclassified', 'Via Vincenzo Ranieri', 0, 20, 1, 579.3859644641634).
+strada('w29927721', 'unclassified', 'Via Vincenzo Ranieri', 0, 30, 1, 579.3859644641634).
 strada('w29927953', 'unclassified', 'w29927953', 0, 30, 1, 464.1683948789041).
-strada('w29927994', 'unclassified', 'w29927994', 0, 30, 1, 47.18325880726263).
+strada('w29927994', 'unclassified', 'w29927994', 0, 20, 1, 47.18325880726263).
 strada('w29928025', 'unclassified', 'w29928025', 0, 30, 1, 34.01638138206538).
 strada('w29928132', 'unclassified', 'Via Nicola dell Olio', 0, 30, 1, 272.11721026519893).
 strada('w29928191', 'unclassified', 'w29928191', 0, 30, 1, 164.63720397025403).
-strada('w29928958', 'unclassified', 'Via Nicola Massaro', 0, 30, 1, 781.322874283083).
+strada('w29928958', 'unclassified', 'Via Nicola Massaro', 0, 20, 1, 781.322874283083).
 strada('w29929292', 'unclassified', 'Via Vittorio Veneto in Palese', 1, 30, 1, 395.6030106363166).
 strada('w29929360', 'unclassified', 'w29929360', 0, 30, 1, 542.4589368634233).
 strada('w29929397', 'unclassified', 'w29929397', 0, 30, 1, 200.78793208418162).
 strada('w29929508', 'unclassified', 'w29929508', 0, 30, 1, 252.0464177689903).
 strada('w29929663', 'unclassified', 'w29929663', 0, 30, 1, 220.92300232791345).
 strada('w29929720', 'tertiary', 'Corso Umberto I', 0, 40, 1, 413.25514402011135).
-strada('w29929777', 'residential', 'Via Giuseppe Massari in Santo Spirito', 1, 20, 1, 301.0735304770307).
+strada('w29929777', 'residential', 'Via Giuseppe Massari in Santo Spirito', 1, 30, 1, 301.0735304770307).
 strada('w29929811', 'residential', 'Corso Giuseppe Garibaldi', 0, 30, 1, 230.65843984815103).
 strada('w29975372', 'tertiary', 'Via Napoli', 1, 40, 1, 667.7053894393683).
 strada('w29975377', 'residential', 'Via Domenico Nicolai', 1, 20, 1, 475.5950693883523).
 strada('w29975379', 'residential', 'Piazza Umberto Primo', 1, 30, 1, 139.93363559553845).
 strada('w29975382', 'residential', 'Via Scipione Crisanzio', 1, 30, 1, 378.95046113284).
-strada('w29975383', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 35.34026861031226).
-strada('w29975384', 'residential', 'Via Giuseppe Forges Davanzati', 1, 30, 1, 154.9906124766559).
-strada('w29975385', 'residential', 'Via Prospero Petroni', 0, 30, 1, 79.16021788930719).
-strada('w29975386', 'residential', 'Via Domenico Nicolai', 1, 30, 1, 945.5125740157919).
-strada('w29975387', 'residential', 'Via Michele Garruba', 1, 30, 1, 382.63083573424535).
-strada('w29975400', 'residential', 'Via Michele Mirenghi', 0, 30, 1, 284.8592515200558).
-strada('w29975444', 'residential', 'Via Generale de Bernardis', 0, 30, 1, 69.49066024691363).
-strada('w29975542', 'residential', 'Via Colonello de Cristoforis', 0, 5, 1, 158.25723020114924).
-strada('w29975543', 'residential', 'Corso della Carboneria', 0, 20, 1, 304.17065494531784).
-strada('w29976465', 'residential', 'Via Anita Garibaldi', 0, 20, 1, 215.61714253415965).
+strada('w29975383', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 35.34026861031226).
+strada('w29975384', 'residential', 'Via Giuseppe Forges Davanzati', 1, 20, 1, 154.9906124766559).
+strada('w29975385', 'residential', 'Via Prospero Petroni', 0, 20, 1, 79.16021788930719).
+strada('w29975386', 'residential', 'Via Domenico Nicolai', 1, 20, 1, 945.5125740157919).
+strada('w29975387', 'residential', 'Via Michele Garruba', 1, 5, 1, 382.63083573424535).
+strada('w29975400', 'residential', 'Via Michele Mirenghi', 0, 20, 1, 284.8592515200558).
+strada('w29975444', 'residential', 'Via Generale de Bernardis', 0, 20, 1, 69.49066024691363).
+strada('w29975542', 'residential', 'Via Colonello de Cristoforis', 0, 30, 1, 158.25723020114924).
+strada('w29975543', 'residential', 'Corso della Carboneria', 0, 30, 1, 304.17065494531784).
+strada('w29976465', 'residential', 'Via Anita Garibaldi', 0, 30, 1, 215.61714253415965).
 strada('w29976482', 'residential', 'Corso Giuseppe Mazzini', 1, 30, 1, 212.41379967826919).
 strada('w29976504', 'tertiary', 'w29976504', 1, 40, 1, 38.253223049591675).
-strada('w29976859', 'residential', 'Via Alessandro Manzoni', 1, 30, 1, 763.0026009115317).
+strada('w29976859', 'residential', 'Via Alessandro Manzoni', 1, 20, 1, 763.0026009115317).
 strada('w29976860', 'residential', 'Via Giambattista Bonazzi', 0, 30, 1, 156.3842341598721).
 strada('w29980613', 'residential', 'Corso Italia', 1, 30, 1, 498.9542972885417).
 strada('w29980616', 'tertiary', 'Via de Rossi', 1, 40, 1, 311.9094959766514).
-strada('w29980620', 'residential', 'Via Sagarriga Visconti', 1, 20, 1, 598.397071207899).
-strada('w29980621', 'tertiary', 'Via Quintino Sella', 1, 30, 1, 604.5192988560053).
+strada('w29980620', 'residential', 'Via Sagarriga Visconti', 1, 30, 1, 598.397071207899).
+strada('w29980621', 'tertiary', 'Via Quintino Sella', 1, 40, 1, 604.5192988560053).
 strada('w29980622', 'residential', 'Via Giuseppe Suppa', 1, 20, 1, 132.088343578489).
 strada('w29980623', 'residential', 'Via Giambattista Bonazzi', 1, 30, 1, 102.86085793968175).
-strada('w29980624', 'tertiary', 'Via Francesco Crispi', 1, 40, 1, 428.5691094386661).
+strada('w29980624', 'tertiary', 'Via Francesco Crispi', 1, 30, 1, 428.5691094386661).
 strada('w29980626', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 2, 95.01516063775026).
 strada('w29980630', 'residential', 'w29980630', 0, 20, 1, 23.414247891921416).
 strada('w29980631', 'tertiary', 'Via Dante Alighieri', 1, 30, 1, 666.4457640047165).
 strada('w29980634', 'residential', 'Via Principe Amedeo', 1, 30, 1, 291.31678359271814).
 strada('w29980635', 'residential', 'Via Barletta', 1, 20, 1, 54.93290895754822).
 strada('w29980636', 'residential', 'Via Altamura', 1, 30, 1, 55.180630637457064).
-strada('w29980637', 'residential', 'Via Principe Amedeo', 1, 20, 1, 468.8750493986325).
+strada('w29980637', 'residential', 'Via Principe Amedeo', 1, 30, 1, 468.8750493986325).
 strada('w29983499', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 187.57871253072713).
 strada('w29983500', 'residential', 'w29983500', 0, 30, 1, 28.197804433465716).
 strada('w29983502', 'residential', 'Via Pasquale Fiore', 1, 30, 1, 140.9381994291755).
 strada('w29983503', 'secondary', 'Via Paolo Lembo', 0, 50, 1, 213.48650415707382).
-strada('w29983508', 'secondary', 'Via Vito Nicola Di Tullio', 1, 50, 1, 158.42151123183612).
+strada('w29983508', 'secondary', 'Via Vito Nicola Di Tullio', 1, 30, 1, 158.42151123183612).
 strada('w29983509', 'residential', 'Via Michele de Napoli', 1, 30, 1, 265.8243022119168).
 strada('w29983510', 'residential', 'Via Maria Cristina di Savoia', 1, 30, 1, 291.30303096894977).
 strada('w29984218', 'residential', 'Via Raffaele Armenise', 0, 20, 1, 182.64399512395772).
-strada('w29984220', 'residential', 'Via Gioacchino Toma', 1, 20, 1, 247.18536971349948).
+strada('w29984220', 'residential', 'Via Gioacchino Toma', 1, 30, 1, 247.18536971349948).
 strada('w29986255', 'residential', 'Via Fratelli Giorgio e Michele de Vincentis', 1, 30, 1, 149.54092068562028).
 strada('w29986256', 'residential', 'Via Luciano Mele', 1, 20, 1, 79.74007947274133).
-strada('w29986257', 'residential', 'w29986257', 1, 20, 1, 129.91712676155387).
-strada('w29986258', 'residential', 'Via Gian Giuseppe Carulli', 0, 20, 1, 391.4480828193745).
-strada('w29986259', 'residential', 'Piazza Carlo Poerio', 0, 20, 1, 98.01041326509034).
+strada('w29986257', 'residential', 'w29986257', 1, 30, 1, 129.91712676155387).
+strada('w29986258', 'residential', 'Via Gian Giuseppe Carulli', 0, 30, 1, 391.4480828193745).
+strada('w29986259', 'residential', 'Piazza Carlo Poerio', 0, 10, 1, 98.01041326509034).
 strada('w29986261', 'residential', 'Via Ventiquattro Maggio', 1, 30, 1, 120.13317871056316).
 strada('w29986340', 'service', 'Vico Cettigne', 0, 20, 1, 31.568782021762438).
 strada('w29986457', 'residential', 'Via Ragusa', 1, 20, 1, 115.86056284689444).
 strada('w29986493', 'residential', 'Via Somalia', 0, 30, 1, 83.4811125371438).
-strada('w30002076', 'secondary', 'Viale della Repubblica', 1, 30, 1, 601.0386378489559).
+strada('w30002076', 'secondary', 'Viale della Repubblica', 1, 50, 1, 601.0386378489559).
 strada('w30002079', 'primary', 'Viale della Costituente', 1, 50, 1, 199.6313950491322).
-strada('w30002083', 'primary', 'Viale Don Luigi Sturzo', 1, 30, 1, 159.93476833817695).
-strada('w30002085', 'primary', 'Viale Don Luigi Sturzo', 1, 30, 1, 195.36376793521936).
+strada('w30002083', 'primary', 'Viale Don Luigi Sturzo', 1, 50, 1, 159.93476833817695).
+strada('w30002085', 'primary', 'Viale Don Luigi Sturzo', 1, 50, 1, 195.36376793521936).
 strada('w30002087', 'primary', 'Viale Domenico Cotugno', 1, 50, 2, 52.20102479724882).
 strada('w30002088', 'primary', 'Viale Papa Giovanni Ventitreesimo', 1, 50, 2, 646.1853028842114).
 strada('w30002091', 'residential', 'Viale del Concilio Vaticano II', 1, 30, 1, 297.78671466055744).
-strada('w30002092', 'residential', 'Viale del Concilio Vaticano II', 1, 20, 1, 298.43015225017643).
-strada('w30002093', 'primary', 'Viale Giuseppe di Vittorio', 1, 30, 1, 241.24813595857705).
-strada('w30002095', 'residential', 'Via Leonida Bissolati', 0, 20, 1, 294.4961917534441).
+strada('w30002092', 'residential', 'Viale del Concilio Vaticano II', 1, 30, 1, 298.43015225017643).
+strada('w30002093', 'primary', 'Viale Giuseppe di Vittorio', 1, 50, 1, 241.24813595857705).
+strada('w30002095', 'residential', 'Via Leonida Bissolati', 0, 30, 1, 294.4961917534441).
 strada('w30002098', 'secondary', 'Viale Antonio Meucci', 0, 50, 2, 187.6773711008809).
-strada('w30002100', 'residential', 'Via Angelo Bertolini', 1, 20, 1, 132.13974711116236).
+strada('w30002100', 'residential', 'Via Angelo Bertolini', 1, 30, 1, 132.13974711116236).
 strada('w30002101', 'residential', 'Via Giovanni Laterza', 0, 30, 1, 314.5872464857556).
-strada('w30002104', 'primary', 'w30002104', 1, 30, 1, 101.0289597207959).
+strada('w30002104', 'primary', 'w30002104', 1, 50, 1, 101.0289597207959).
 strada('w30002254', 'primary', 'Ponte Padre Pio', 1, 30, 1, 506.4409760598204).
 strada('w30002265', 'primary', 'Ponte Padre Pio', 1, 30, 1, 502.6075606707275).
 strada('w30002414', 'residential', 'Via Dieta di Bari', 1, 20, 1, 509.8694751416241).
-strada('w30002415', 'residential', 'Via Dieta di Bari', 1, 20, 1, 107.00413209573858).
-strada('w30002422', 'secondary', 'Piazza Luigi di Savoia', 0, 30, 1, 67.23343893547464).
-strada('w30008337', 'residential', 'Corte Lamberti', 0, 30, 1, 45.20037876946806).
+strada('w30002415', 'residential', 'Via Dieta di Bari', 1, 30, 1, 107.00413209573858).
+strada('w30002422', 'secondary', 'Piazza Luigi di Savoia', 0, 50, 1, 67.23343893547464).
+strada('w30008337', 'residential', 'Corte Lamberti', 0, 20, 1, 45.20037876946806).
 strada('w30009725', 'secondary', 'Corso Senatore Antonio De Tullio', 0, 50, 1, 397.78035846942333).
 strada('w30009726', 'secondary', 'Piazzale Cristoforo Colombo', 0, 50, 1, 149.88255228518523).
-strada('w30009727', 'secondary', 'Lungomare Imperatore Augusto', 0, 50, 2, 61.73015478247416).
-strada('w30009729', 'secondary', 'Lungomare Araldo di Crollalanza', 0, 30, 4, 320.08500484300686).
+strada('w30009727', 'secondary', 'Lungomare Imperatore Augusto', 0, 30, 2, 61.73015478247416).
+strada('w30009729', 'secondary', 'Lungomare Araldo di Crollalanza', 0, 50, 4, 320.08500484300686).
 strada('w30015201', 'residential', 'Piazza Federico Secondo di Svevia', 0, 30, 1, 27.15029806547729).
 strada('w30015234', 'residential', 'Via Benedetto Cairoli', 1, 30, 1, 78.17983800803047).
 strada('w30015239', 'residential', 'Piazza Giuseppe Massari', 1, 30, 1, 105.37366536058538).
@@ -7288,7 +7288,7 @@ strada('w30015898', 'trunk_link', 'w30015898', 1, 40, 1, 174.0475930105151).
 strada('w30015974', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 538.5065574470698).
 strada('w30015979', 'secondary', 'Lungomare Giambattista e Pietro Starita', 0, 50, 1, 240.56898328458317).
 strada('w30016109', 'residential', 'Via Pietro Ravanas', 1, 30, 1, 1054.2427171218778).
-strada('w30016353', 'residential', 'Corso Senatore Antonio De Tullio', 1, 30, 1, 52.38547943095556).
+strada('w30016353', 'residential', 'Corso Senatore Antonio De Tullio', 1, 20, 1, 52.38547943095556).
 strada('w30016388', 'trunk_link', 'w30016388', 1, 40, 1, 120.32536015632353).
 strada('w30016389', 'primary_link', 'w30016389', 1, 40, 1, 77.22047637234738).
 strada('w30016390', 'unclassified', 'w30016390', 1, 30, 1, 90.42820486438818).
@@ -7298,26 +7298,26 @@ strada('w30029557', 'residential', 'Via Caduti di Via Fani', 0, 20, 1, 75.707047
 strada('w30029558', 'residential', 'Via Alessandro Maria Calefati', 1, 30, 1, 220.52493666166274).
 strada('w30029559', 'residential', 'Via Alessandro Maria Calefati', 1, 30, 1, 751.3085268141551).
 strada('w30029561', 'residential', 'Via Abate Giacinto Gimma', 1, 30, 1, 289.5285336663417).
-strada('w30029562', 'residential', 'Via Abate Giacinto Gimma', 1, 30, 1, 751.8714791282492).
-strada('w30029564', 'residential', 'Via Vito Nicola de NicolÃ²', 1, 30, 1, 187.64470153521506).
-strada('w30029565', 'secondary', 'Viale UnitÃ  d Italia', 1, 30, 1, 520.0392303099987).
-strada('w30029568', 'secondary', 'Viale della Repubblica', 1, 30, 1, 604.1890721744292).
+strada('w30029562', 'residential', 'Via Abate Giacinto Gimma', 1, 20, 1, 751.8714791282492).
+strada('w30029564', 'residential', 'Via Vito Nicola de NicolÃ²', 1, 20, 1, 187.64470153521506).
+strada('w30029565', 'secondary', 'Viale UnitÃ  d Italia', 1, 50, 1, 520.0392303099987).
+strada('w30029568', 'secondary', 'Viale della Repubblica', 1, 50, 1, 604.1890721744292).
 strada('w30029569', 'secondary', 'Viale UnitÃ  d Italia', 1, 50, 2, 41.465266683855745).
-strada('w30029571', 'residential', 'Via Giuseppe Pisanelli', 0, 30, 1, 63.22870931414237).
+strada('w30029571', 'residential', 'Via Giuseppe Pisanelli', 0, 20, 1, 63.22870931414237).
 strada('w30029575', 'residential', 'Via Francesco Campione', 0, 50, 1, 381.80961247503575).
-strada('w30029577', 'residential', 'Via Padre Mario Labarbuta', 0, 20, 1, 163.75663298742316).
+strada('w30029577', 'residential', 'Via Padre Mario Labarbuta', 0, 30, 1, 163.75663298742316).
 strada('w30029578', 'service', 'w30029578', 0, 20, 1, 50.96809502236208).
-strada('w30029579', 'residential', 'Via Buccari', 1, 30, 1, 413.98565917655225).
+strada('w30029579', 'residential', 'Via Buccari', 1, 20, 1, 413.98565917655225).
 strada('w30029580', 'residential', 'Via Montello', 1, 20, 1, 167.71203219973486).
-strada('w30029581', 'residential', 'Via Manfredi Azzarita', 0, 20, 1, 164.36298773662372).
-strada('w30029583', 'residential', 'Via GiosuÃ¨ Carducci', 0, 10, 1, 11.474408583717317).
+strada('w30029581', 'residential', 'Via Manfredi Azzarita', 0, 30, 1, 164.36298773662372).
+strada('w30029583', 'residential', 'Via GiosuÃ¨ Carducci', 0, 5, 1, 11.474408583717317).
 strada('w30029584', 'residential', 'Via Gaetano Latilla', 1, 20, 1, 91.50832432702249).
 strada('w30029585', 'residential', 'Via Francesco Lombardi', 0, 30, 1, 70.99671253213506).
 strada('w30029586', 'residential', 'Via Melo da Bari', 1, 30, 1, 533.673740617173).
-strada('w30029772', 'secondary', 'Corso Cavour', 1, 50, 1, 66.45216877660243).
+strada('w30029772', 'secondary', 'Corso Cavour', 1, 30, 1, 66.45216877660243).
 strada('w30046801', 'trunk_link', 'w30046801', 1, 40, 1, 142.83486117395742).
 strada('w30047108', 'residential', 'Via Davide Lopez', 1, 30, 1, 229.95790973280972).
-strada('w30047113', 'residential', 'Via Francesco Curzio', 1, 20, 1, 61.418209893873126).
+strada('w30047113', 'residential', 'Via Francesco Curzio', 1, 30, 1, 61.418209893873126).
 strada('w30047125', 'residential', 'Via Francesco Rismondi', 0, 20, 1, 119.4886010940132).
 strada('w30047128', 'residential', 'Via Arcangelo Scacchi', 0, 20, 1, 243.6566794554579).
 strada('w30047187', 'residential', 'w30047187', 0, 30, 1, 89.40398880657258).
@@ -7325,32 +7325,32 @@ strada('w30047196', 'residential', 'Via Repubblica napoletana', 0, 30, 1, 217.12
 strada('w30047219', 'residential', 'Via Pasquale Paoli', 1, 30, 1, 184.92537556518687).
 strada('w30047238', 'residential', 'w30047238', 0, 30, 1, 116.07671004352316).
 strada('w30047246', 'residential', 'Via Eroi di Dogali', 0, 20, 1, 143.61628851236037).
-strada('w30047385', 'residential', 'Via Capitano Michele Milano', 0, 20, 1, 117.57356353924534).
+strada('w30047385', 'residential', 'Via Capitano Michele Milano', 0, 30, 1, 117.57356353924534).
 strada('w30047396', 'unclassified', 'Via Hrand Nazariantz', 1, 30, 1, 415.22103442158544).
-strada('w30047398', 'secondary', 'Via Tommaso Fiore', 1, 30, 1, 231.8829065888568).
+strada('w30047398', 'secondary', 'Via Tommaso Fiore', 1, 50, 1, 231.8829065888568).
 strada('w30047410', 'secondary', 'Via Achille Grandi', 1, 50, 1, 151.29952230032086).
-strada('w30047413', 'secondary', 'Via Tommaso Fiore', 1, 50, 1, 233.6029310295276).
-strada('w30047493', 'residential', 'Viale Petru Giovacchini', 1, 20, 1, 46.48592223400797).
-strada('w30048462', 'residential', 'Via Corsica', 0, 30, 1, 175.6159850191949).
+strada('w30047413', 'secondary', 'Via Tommaso Fiore', 1, 30, 1, 233.6029310295276).
+strada('w30047493', 'residential', 'Viale Petru Giovacchini', 1, 30, 1, 46.48592223400797).
+strada('w30048462', 'residential', 'Via Corsica', 0, 20, 1, 175.6159850191949).
 strada('w30048483', 'residential', 'Via del Faro', 1, 30, 1, 233.7257638720484).
-strada('w30048549', 'secondary', 'Via Paolo Pinto', 0, 50, 4, 204.4822082482342).
+strada('w30048549', 'secondary', 'Via Paolo Pinto', 0, 30, 4, 204.4822082482342).
 strada('w30048855', 'secondary', 'Via Umberto Giordano', 0, 50, 2, 304.47794707905257).
 strada('w30048966', 'secondary', 'Via Giuseppe Verdi', 0, 50, 2, 78.138740797536).
-strada('w30049009', 'secondary', 'Viale Saverio Mercadante', 1, 30, 3, 481.11912730644286).
+strada('w30049009', 'secondary', 'Viale Saverio Mercadante', 1, 50, 3, 481.11912730644286).
 strada('w30049038', 'residential', '1Â° Traversa Ottorino Respighi', 0, 30, 2, 224.27379981255228).
 strada('w30049154', 'residential', 'Viale Ottorino Respighi', 0, 30, 1, 306.8103946069263).
 strada('w30049220', 'residential', 'Via Vincenzo Corrado', 0, 20, 1, 334.9527874968644).
-strada('w30049509', 'secondary', 'Viale Mercadante', 1, 30, 1, 54.44557334449577).
-strada('w30064494', 'residential', 'Via Martiri d Avola', 1, 20, 1, 230.0316856540967).
+strada('w30049509', 'secondary', 'Viale Mercadante', 1, 50, 1, 54.44557334449577).
+strada('w30064494', 'residential', 'Via Martiri d Avola', 1, 30, 1, 230.0316856540967).
 strada('w30106478', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 20.424391125192667).
 strada('w30113392', 'residential', 'Via Nicola Costa', 0, 30, 1, 218.19727791500748).
 strada('w30113414', 'unclassified', 'Via Napoli', 0, 30, 1, 218.52710995672135).
 strada('w30113420', 'tertiary', 'w30113420', 1, 40, 1, 62.83477712742485).
-strada('w30113421', 'unclassified', 'Strada del Baraccone', 0, 30, 1, 277.3194005185642).
+strada('w30113421', 'unclassified', 'Strada del Baraccone', 0, 20, 1, 277.3194005185642).
 strada('w30113424', 'tertiary', 'w30113424', 0, 40, 1, 132.7265504556926).
 strada('w30113425', 'tertiary', 'w30113425', 0, 40, 1, 62.61536881434698).
-strada('w30113431', 'tertiary', 'w30113431', 0, 40, 1, 13.225965815383429).
-strada('w30113466', 'unclassified', 'w30113466', 0, 20, 1, 261.9411833686676).
+strada('w30113431', 'tertiary', 'w30113431', 0, 30, 1, 13.225965815383429).
+strada('w30113466', 'unclassified', 'w30113466', 0, 30, 1, 261.9411833686676).
 strada('w30113469', 'tertiary', 'w30113469', 0, 40, 1, 67.75364415868171).
 strada('w30113471', 'tertiary', 'w30113471', 0, 40, 1, 124.92285237079163).
 strada('w30113478', 'unclassified', 'Strada dello Speziale', 0, 30, 1, 89.85505217155827).
@@ -7358,15 +7358,15 @@ strada('w30113484', 'unclassified', 'Lungomare Ugo Lorusso', 0, 30, 2, 1419.4210
 strada('w30113508', 'trunk_link', 'w30113508', 1, 40, 1, 101.98157941311632).
 strada('w30113517', 'unclassified', 'Strada Pizzillo', 1, 20, 1, 541.328798058677).
 strada('w30113530', 'tertiary', 'Via Nazionale', 0, 50, 2, 289.64033004347954).
-strada('w30113535', 'unclassified', 'w30113535', 0, 30, 1, 89.40914687508938).
+strada('w30113535', 'unclassified', 'w30113535', 0, 20, 1, 89.40914687508938).
 strada('w30113543', 'unclassified', 'w30113543', 0, 30, 1, 152.33924955624974).
 strada('w30113572', 'unclassified', 'Via Nicola Cavaliere', 0, 30, 2, 333.9634492396177).
-strada('w30113600', 'unclassified', 'Via Pomponio Nenna', 0, 30, 1, 248.92155783669753).
+strada('w30113600', 'unclassified', 'Via Pomponio Nenna', 0, 20, 1, 248.92155783669753).
 strada('w30113601', 'unclassified', 'Via De Antiquis', 0, 30, 2, 275.4671536427361).
 strada('w30113617', 'unclassified', 'w30113617', 0, 30, 1, 318.8420373388142).
-strada('w30113631', 'unclassified', 'w30113631', 0, 30, 1, 184.53392874378454).
+strada('w30113631', 'unclassified', 'w30113631', 0, 20, 1, 184.53392874378454).
 strada('w30113635', 'unclassified', 'w30113635', 0, 30, 1, 82.99849035555957).
-strada('w30120284', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 21.129006497160432).
+strada('w30120284', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 21.129006497160432).
 strada('w30120295', 'trunk_link', 'w30120295', 1, 40, 1, 101.89746542047033).
 strada('w30120301', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 41.57670185075543).
 strada('w30120333', 'residential', 'Lungomare Duca degli Abruzzi', 1, 30, 1, 127.12381011567274).
@@ -7375,75 +7375,75 @@ strada('w30120463', 'tertiary', 'Via San Giorgio', 0, 40, 2, 407.33887836107334)
 strada('w30120515', 'tertiary', 'Via Bari', 0, 40, 1, 34.94032119687845).
 strada('w30120624', 'tertiary', 'w30120624', 1, 40, 1, 26.52900651350342).
 strada('w30120641', 'tertiary', 'Strada Complanare Ovest', 0, 40, 2, 472.31753209172757).
-strada('w30120644', 'unclassified', 'Via Scizzo', 1, 20, 1, 29.363352828451582).
+strada('w30120644', 'unclassified', 'Via Scizzo', 1, 30, 1, 29.363352828451582).
 strada('w30121271', 'residential', 'Via Giuseppe Garibaldi', 0, 30, 1, 48.545321712956444).
-strada('w30121358', 'residential', 'Via Martiri della Resistenza', 1, 30, 1, 336.62807655714244).
-strada('w30121362', 'residential', 'w30121362', 0, 20, 1, 52.986636576146694).
-strada('w30121377', 'residential', 'Via della Pace', 0, 30, 1, 109.47140154772546).
+strada('w30121358', 'residential', 'Via Martiri della Resistenza', 1, 20, 1, 336.62807655714244).
+strada('w30121362', 'residential', 'w30121362', 0, 10, 1, 52.986636576146694).
+strada('w30121377', 'residential', 'Via della Pace', 0, 20, 1, 109.47140154772546).
 strada('w30122030', 'residential', 'Via della Rosa Azzurra', 0, 30, 1, 181.65842544642638).
-strada('w30122039', 'residential', 'Strada La Penna', 0, 30, 2, 266.5233153931943).
+strada('w30122039', 'residential', 'Strada La Penna', 0, 20, 2, 266.5233153931943).
 strada('w30122092', 'residential', 'Strada Porticello', 0, 20, 2, 151.5659855202649).
 strada('w30133995', 'tertiary', 'Strada Complanare Est', 1, 40, 1, 139.24023421608382).
 strada('w30134114', 'tertiary', 'Strada Complanare Ovest', 0, 70, 1, 271.4894985754955).
 strada('w30150527', 'secondary', 'Strada Provinciale per Noicattaro', 0, 50, 1, 142.14517505910666).
 strada('w30150596', 'tertiary', 'w30150596', 0, 40, 1, 155.18211939020608).
 strada('w30150600', 'tertiary', 'w30150600', 0, 40, 1, 33.11679980875422).
-strada('w30150656', 'tertiary', 'w30150656', 0, 40, 1, 30.460162877535062).
+strada('w30150656', 'tertiary', 'w30150656', 0, 30, 1, 30.460162877535062).
 strada('w30150657', 'tertiary', 'Strada Complanare Ovest', 0, 70, 1, 2018.1294265498816).
 strada('w30150710', 'trunk_link', 'w30150710', 1, 40, 1, 79.46177895859228).
 strada('w30150827', 'trunk_link', 'w30150827', 1, 40, 1, 27.011032605941466).
-strada('w30150846', 'residential', 'Traversa I Virgilio', 0, 20, 1, 179.241032323289).
-strada('w30150852', 'residential', 'w30150852', 0, 20, 1, 46.98678664697439).
+strada('w30150846', 'residential', 'Traversa I Virgilio', 0, 30, 1, 179.241032323289).
+strada('w30150852', 'residential', 'w30150852', 0, 30, 1, 46.98678664697439).
 strada('w30150866', 'residential', 'w30150866', 0, 30, 1, 47.81941759243874).
 strada('w30151105', 'residential', 'Via Archita', 1, 20, 1, 43.95043454178691).
 strada('w30151149', 'residential', 'Via dei Pescatori', 1, 20, 1, 73.59943257741044).
 strada('w30151431', 'secondary', 'Strada Provinciale Valenzano - Bari', 0, 50, 4, 146.50959435150543).
-strada('w30164903', 'residential', 'w30164903', 1, 30, 1, 20.279007893178402).
+strada('w30164903', 'residential', 'w30164903', 1, 20, 1, 20.279007893178402).
 strada('w30165142', 'residential', 'w30165142', 0, 20, 1, 75.0314805423968).
 strada('w30165178', 'trunk_link', 'w30165178', 1, 40, 1, 35.27414048678595).
 strada('w30165196', 'trunk_link', 'w30165196', 1, 40, 1, 22.696990160585777).
 strada('w30166226', 'secondary', 'Via Dogali', 0, 50, 1, 149.75593643754522).
 strada('w30171910', 'residential', 'Prima Traversa Strada detta della Marina', 0, 30, 2, 562.4526549887158).
-strada('w30171916', 'residential', 'Prima Traversa Strada detta della Marina', 0, 30, 2, 178.22239456295847).
-strada('w30171971', 'residential', 'Strada Porticello', 0, 30, 2, 45.27083129793106).
-strada('w30171980', 'residential', 'w30171980', 0, 20, 1, 15.796658194500003).
+strada('w30171916', 'residential', 'Prima Traversa Strada detta della Marina', 0, 20, 2, 178.22239456295847).
+strada('w30171971', 'residential', 'Strada Porticello', 0, 20, 2, 45.27083129793106).
+strada('w30171980', 'residential', 'w30171980', 0, 30, 1, 15.796658194500003).
 strada('w30171992', 'residential', 'Strada Porticello', 0, 30, 2, 33.146351811788904).
 strada('w30172044', 'residential', 'Prima Traversa Strada detta della Marina', 0, 30, 2, 560.8963277339398).
-strada('w30172095', 'residential', 'w30172095', 0, 30, 1, 75.58909094964753).
-strada('w30172125', 'residential', 'Strada Porticello', 0, 30, 2, 217.91928156131877).
-strada('w30172131', 'residential', 'Strada Porticello', 0, 20, 2, 112.8985400503148).
+strada('w30172095', 'residential', 'w30172095', 0, 20, 1, 75.58909094964753).
+strada('w30172125', 'residential', 'Strada Porticello', 0, 20, 2, 217.91928156131877).
+strada('w30172131', 'residential', 'Strada Porticello', 0, 30, 2, 112.8985400503148).
 strada('w30172139', 'residential', 'Seconda Traversa Strada detta della Marina', 0, 30, 2, 658.0973716831745).
 strada('w30172215', 'residential', 'Via Detta della Marina Traversa NÂ° 32', 0, 30, 2, 529.5885631290331).
-strada('w30172238', 'residential', 'Traversa al numero 34 di Strada detta della Marina', 0, 20, 2, 636.4061414782625).
-strada('w30172246', 'residential', 'Strada Porticello', 0, 30, 2, 601.2222667737279).
+strada('w30172238', 'residential', 'Traversa al numero 34 di Strada detta della Marina', 0, 30, 2, 636.4061414782625).
+strada('w30172246', 'residential', 'Strada Porticello', 0, 20, 2, 601.2222667737279).
 strada('w30172306', 'residential', 'Strada Porticello', 0, 30, 2, 129.2429232317978).
 strada('w30172309', 'residential', 'w30172309', 0, 30, 1, 190.08451902638419).
-strada('w30172505', 'residential', 'Strada Porticello', 0, 20, 2, 620.9184109905589).
-strada('w30172583', 'residential', 'w30172583', 0, 30, 2, 445.34409974523714).
+strada('w30172505', 'residential', 'Strada Porticello', 0, 30, 2, 620.9184109905589).
+strada('w30172583', 'residential', 'w30172583', 0, 20, 2, 445.34409974523714).
 strada('w30172618', 'residential', 'w30172618', 0, 30, 2, 549.3978871043618).
-strada('w30172638', 'residential', 'Traversa al Numero 58 Strada detta della Marina', 0, 30, 2, 295.2256345467713).
+strada('w30172638', 'residential', 'Traversa al Numero 58 Strada detta della Marina', 0, 20, 2, 295.2256345467713).
 strada('w30172642', 'residential', 'w30172642', 0, 30, 2, 79.24499543358239).
 strada('w30172656', 'residential', 'w30172656', 0, 30, 2, 233.34080406634635).
-strada('w30172680', 'residential', 'w30172680', 0, 20, 2, 92.72560545201725).
+strada('w30172680', 'residential', 'w30172680', 0, 30, 2, 92.72560545201725).
 strada('w30172744', 'service', 'w30172744', 0, 20, 1, 223.12867966142142).
 strada('w30172754', 'residential', 'w30172754', 0, 30, 2, 753.8159001049224).
 strada('w30172761', 'residential', 'w30172761', 0, 30, 1, 95.74514452271045).
-strada('w30172814', 'residential', 'w30172814', 0, 30, 2, 338.7969599182465).
-strada('w30179729', 'unclassified', 'Via Martinez', 0, 20, 1, 874.2529403137919).
-strada('w30180409', 'residential', 'w30180409', 0, 30, 1, 175.45876793613365).
+strada('w30172814', 'residential', 'w30172814', 0, 20, 2, 338.7969599182465).
+strada('w30179729', 'unclassified', 'Via Martinez', 0, 30, 1, 874.2529403137919).
+strada('w30180409', 'residential', 'w30180409', 0, 20, 1, 175.45876793613365).
 strada('w30180453', 'residential', 'Strada Porticello', 0, 30, 2, 74.79362842272506).
 strada('w30180459', 'residential', 'w30180459', 0, 30, 2, 177.3923574941688).
-strada('w30180502', 'residential', 'w30180502', 0, 30, 2, 146.71513766037486).
-strada('w30180510', 'residential', 'w30180510', 0, 30, 2, 35.10712913511151).
-strada('w30180525', 'residential', 'w30180525', 0, 20, 2, 109.84590520011449).
+strada('w30180502', 'residential', 'w30180502', 0, 20, 2, 146.71513766037486).
+strada('w30180510', 'residential', 'w30180510', 0, 20, 2, 35.10712913511151).
+strada('w30180525', 'residential', 'w30180525', 0, 30, 2, 109.84590520011449).
 strada('w30180529', 'residential', 'Trav.al NÂ°80 di Strada detta della Marina', 0, 30, 2, 488.9129778385287).
 strada('w30180536', 'residential', 'w30180536', 0, 30, 1, 78.27613250414115).
 strada('w30180543', 'residential', 'w30180543', 0, 30, 2, 327.9890183785349).
 strada('w30180551', 'residential', 'w30180551', 0, 30, 2, 63.98234550861833).
-strada('w30180573', 'residential', 'w30180573', 0, 10, 2, 245.28373345624357).
+strada('w30180573', 'residential', 'w30180573', 0, 30, 2, 245.28373345624357).
 strada('w30180581', 'residential', 'w30180581', 0, 20, 2, 350.187829137166).
 strada('w30180589', 'residential', 'w30180589', 0, 30, 2, 107.30591843682134).
-strada('w30180614', 'residential', 'w30180614', 0, 20, 1, 124.73858964740553).
+strada('w30180614', 'residential', 'w30180614', 0, 30, 1, 124.73858964740553).
 strada('w30180618', 'residential', 'w30180618', 0, 20, 1, 115.55603236966559).
 strada('w30180627', 'residential', 'w30180627', 0, 20, 2, 306.62646631822463).
 strada('w30191173', 'unclassified', 'Strada dello Scamuso', 0, 30, 1, 591.4280911569351).
@@ -7453,27 +7453,27 @@ strada('w30191182', 'track', 'w30191182', 0, 30, 1, 185.3845880477433).
 strada('w30191207', 'track', 'w30191207', 0, 30, 1, 115.50468947215616).
 strada('w30191245', 'trunk_link', 'w30191245', 1, 40, 1, 31.726852796314414).
 strada('w30191278', 'trunk_link', 'w30191278', 1, 40, 1, 39.228539072169895).
-strada('w30191290', 'residential', 'Via Morelli e Silvati NÂ° 56', 0, 20, 1, 175.73492301653195).
+strada('w30191290', 'residential', 'Via Morelli e Silvati NÂ° 56', 0, 30, 1, 175.73492301653195).
 strada('w30191297', 'track', 'w30191297', 0, 30, 1, 194.29466629753406).
-strada('w30191300', 'residential', 'Via Morelli e Silvati NÂ° 54', 0, 30, 1, 208.9781350894707).
+strada('w30191300', 'residential', 'Via Morelli e Silvati NÂ° 54', 0, 20, 1, 208.9781350894707).
 strada('w30197947', 'unclassified', 'w30197947', 1, 30, 1, 35.562336515871536).
 strada('w30198173', 'unclassified', 'w30198173', 0, 30, 1, 204.98229113044007).
 strada('w30198388', 'unclassified', 'w30198388', 0, 30, 1, 2067.298137715499).
-strada('w30198426', 'unclassified', 'w30198426', 0, 30, 1, 114.85659562740682).
-strada('w30198430', 'unclassified', 'w30198430', 0, 20, 1, 206.12581536571167).
-strada('w30198448', 'unclassified', 'w30198448', 0, 30, 1, 75.39372852093793).
+strada('w30198426', 'unclassified', 'w30198426', 0, 20, 1, 114.85659562740682).
+strada('w30198430', 'unclassified', 'w30198430', 0, 30, 1, 206.12581536571167).
+strada('w30198448', 'unclassified', 'w30198448', 0, 20, 1, 75.39372852093793).
 strada('w30198457', 'residential', 'Via Macchie', 0, 20, 1, 286.1768888498943).
 strada('w30198473', 'tertiary', 'SP 210 Perimetrale Aeroporto di Palese', 0, 50, 2, 1303.9365278799146).
 strada('w30213261', 'residential', 'Via Antonio Fenicia', 0, 30, 1, 47.11919311805006).
-strada('w30215901', 'residential', 'w30215901', 0, 30, 1, 377.1321643394309).
+strada('w30215901', 'residential', 'w30215901', 0, 20, 1, 377.1321643394309).
 strada('w30215908', 'residential', 'w30215908', 0, 20, 1, 240.19669405881925).
-strada('w30216099', 'secondary', 'Via Michelangelo Interesse', 0, 30, 1, 94.19597994689457).
+strada('w30216099', 'secondary', 'Via Michelangelo Interesse', 0, 50, 1, 94.19597994689457).
 strada('w30217588', 'unclassified', 'w30217588', 0, 30, 1, 475.0198062175181).
 strada('w30217590', 'residential', 'Strada privata Giuseppe Fusco', 0, 30, 1, 322.20552539771296).
 strada('w30217596', 'unclassified', 'w30217596', 0, 20, 1, 112.94688163850148).
-strada('w30237960', 'tertiary', 'Piazza Umberto Primo', 1, 30, 1, 23.533347493325323).
-strada('w30246173', 'tertiary', 'Strada dello Schiamante', 1, 30, 1, 27.580448657718602).
-strada('w30246428', 'residential', 'Via Morelli e Silvati Traversa 48', 0, 30, 1, 258.6703753234995).
+strada('w30237960', 'tertiary', 'Piazza Umberto Primo', 1, 40, 1, 23.533347493325323).
+strada('w30246173', 'tertiary', 'Strada dello Schiamante', 1, 40, 1, 27.580448657718602).
+strada('w30246428', 'residential', 'Via Morelli e Silvati Traversa 48', 0, 20, 1, 258.6703753234995).
 strada('w30250633', 'trunk_link', 'w30250633', 1, 40, 1, 71.30355721155692).
 strada('w30250637', 'trunk_link', 'w30250637', 1, 40, 1, 72.07656475982213).
 strada('w30251113', 'trunk_link', 'w30251113', 1, 40, 1, 32.85798608502446).
@@ -7486,8 +7486,8 @@ strada('w30252173', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 22.87169251
 strada('w30252655', 'trunk_link', 'w30252655', 1, 40, 1, 22.132889901172554).
 strada('w30252657', 'trunk_link', 'w30252657', 1, 40, 1, 21.45355976336234).
 strada('w30252778', 'tertiary', 'Via San Giorgio', 1, 30, 1, 37.42934834611292).
-strada('w30252779', 'tertiary', 'w30252779', 0, 40, 1, 16.026054631447288).
-strada('w30253148', 'tertiary', 'Via Coppa di Bari', 1, 40, 1, 9.0450667819085).
+strada('w30252779', 'tertiary', 'w30252779', 0, 30, 1, 16.026054631447288).
+strada('w30253148', 'tertiary', 'Via Coppa di Bari', 1, 30, 1, 9.0450667819085).
 strada('w30276363', 'service', 'w30276363', 0, 20, 1, 507.0695935423183).
 strada('w30276370', 'service', 'w30276370', 0, 20, 1, 224.18234667781115).
 strada('w30276489', 'residential', 'Traversa Via Nazionale 3 bis', 0, 30, 1, 582.3692841192134).
@@ -7502,40 +7502,40 @@ strada('w30277330', 'residential', 'Via Caduti del 28 Luglio 1943', 1, 30, 1, 10
 strada('w30277417', 'secondary', 'Via Giovanni di Cagno Abbrescia', 0, 50, 1, 472.3691784718069).
 strada('w30277450', 'residential', 'Via Salapia', 0, 30, 1, 313.5737706587631).
 strada('w30277451', 'residential', 'Via dei Caduti Partigiani', 0, 20, 1, 348.3689544875584).
-strada('w30277460', 'residential', 'w30277460', 0, 20, 1, 113.68071684377728).
-strada('w30277464', 'residential', 'w30277464', 0, 20, 1, 94.23954740109163).
+strada('w30277460', 'residential', 'w30277460', 0, 30, 1, 113.68071684377728).
+strada('w30277464', 'residential', 'w30277464', 0, 30, 1, 94.23954740109163).
 strada('w30277465', 'residential', 'w30277465', 0, 20, 1, 94.36753076755194).
-strada('w30277466', 'residential', 'w30277466', 0, 20, 1, 94.61222759909673).
-strada('w30277468', 'residential', 'w30277468', 0, 20, 1, 94.07252046020713).
+strada('w30277466', 'residential', 'w30277466', 0, 30, 1, 94.61222759909673).
+strada('w30277468', 'residential', 'w30277468', 0, 30, 1, 94.07252046020713).
 strada('w30277477', 'residential', 'w30277477', 0, 30, 1, 89.50417910867425).
-strada('w30277506', 'residential', 'Via Eraclide', 0, 10, 1, 18.125559226965454).
-strada('w30277509', 'residential', 'Via Siponto', 0, 20, 1, 185.6729960785578).
+strada('w30277506', 'residential', 'Via Eraclide', 0, 20, 1, 18.125559226965454).
+strada('w30277509', 'residential', 'Via Siponto', 0, 30, 1, 185.6729960785578).
 strada('w30277510', 'residential', 'w30277510', 1, 20, 1, 129.29437893797515).
 strada('w30277590', 'trunk_link', 'w30277590', 1, 40, 1, 69.60590811003527).
 strada('w30277595', 'tertiary', 'w30277595', 0, 40, 1, 119.6503344994023).
 strada('w30277652', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 86.02567122490439).
 strada('w30277673', 'unclassified', 'Via Girolamo Nisio', 0, 30, 1, 264.7800771541685).
-strada('w30277679', 'residential', 'w30277679', 0, 5, 1, 100.77237897569483).
-strada('w30277682', 'residential', 'w30277682', 0, 30, 1, 71.77238997426053).
-strada('w30277684', 'residential', 'w30277684', 0, 10, 1, 111.91828697519978).
-strada('w30277688', 'unclassified', 'Strada Fontanelle', 0, 30, 1, 663.2637715200723).
+strada('w30277679', 'residential', 'w30277679', 0, 30, 1, 100.77237897569483).
+strada('w30277682', 'residential', 'w30277682', 0, 20, 1, 71.77238997426053).
+strada('w30277684', 'residential', 'w30277684', 0, 30, 1, 111.91828697519978).
+strada('w30277688', 'unclassified', 'Strada Fontanelle', 0, 20, 1, 663.2637715200723).
 strada('w30311529', 'trunk_link', 'w30311529', 1, 40, 1, 114.67407004862906).
 strada('w30311530', 'trunk_link', 'w30311530', 1, 40, 1, 122.60957257269133).
 strada('w30311531', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 136.36085634060632).
 strada('w30311535', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 127.6219391750727).
 strada('w30311536', 'trunk_link', 'Strada Statale Bari - Gioia del Colle', 1, 40, 1, 97.33435557397891).
 strada('w30311537', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 32.140217440755556).
-strada('w30311839', 'secondary', 'w30311839', 1, 50, 1, 34.23026114521714).
-strada('w30311840', 'secondary', 'w30311840', 1, 50, 1, 24.44586586010235).
+strada('w30311839', 'secondary', 'w30311839', 1, 30, 1, 34.23026114521714).
+strada('w30311840', 'secondary', 'w30311840', 1, 30, 1, 24.44586586010235).
 strada('w30311846', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 88.98405516717504).
 strada('w30311848', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 71.36760686051703).
 strada('w30311852', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 50.731631682783956).
 strada('w30312390', 'service', 'w30312390', 1, 20, 1, 72.88815084637586).
 strada('w30314119', 'trunk_link', 'w30314119', 0, 40, 2, 141.3072734999619).
-strada('w30314640', 'secondary', 'w30314640', 1, 50, 1, 29.54385023377968).
+strada('w30314640', 'secondary', 'w30314640', 1, 30, 1, 29.54385023377968).
 strada('w30314643', 'secondary', 'w30314643', 1, 50, 1, 49.27192545030231).
 strada('w30314783', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 90, 2, 1530.4424951974163).
-strada('w30316360', 'unclassified', 'Strada Crocifisso', 0, 20, 1, 1144.1019392661099).
+strada('w30316360', 'unclassified', 'Strada Crocifisso', 0, 30, 1, 1144.1019392661099).
 strada('w30316504', 'unclassified', 'Strada Scansano', 0, 30, 1, 784.957058620136).
 strada('w30342259', 'trunk_link', 'w30342259', 1, 40, 1, 64.04753051861613).
 strada('w30342277', 'trunk_link', 'w30342277', 1, 40, 1, 101.92039872026133).
@@ -7547,8 +7547,8 @@ strada('w30342460', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 96.6484090
 strada('w30342505', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 2016.2216004157265).
 strada('w30342538', 'trunk', 'Tangenziale di Bari', 1, 90, 2, 201.58030194442418).
 strada('w30397082', 'residential', 'Via Monte Grappa', 1, 30, 1, 144.62647407924894).
-strada('w30398199', 'residential', 'Via Fontana Nuova', 1, 30, 1, 288.03295688133676).
-strada('w30398540', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 51.04398459272965).
+strada('w30398199', 'residential', 'Via Fontana Nuova', 1, 20, 1, 288.03295688133676).
+strada('w30398540', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 51.04398459272965).
 strada('w30399370', 'unclassified', 'Via Coppa di Bari', 0, 30, 1, 165.15990095093832).
 strada('w30399480', 'trunk_link', 'w30399480', 1, 40, 1, 66.32262414883162).
 strada('w30399491', 'trunk_link', 'w30399491', 1, 40, 1, 37.11693239815503).
@@ -7573,33 +7573,33 @@ strada('w30499052', 'residential', 'Via Michele Quintavalle', 0, 30, 1, 345.2874
 strada('w30499338', 'residential', 'w30499338', 0, 30, 1, 76.49208414190608).
 strada('w30499354', 'residential', 'Via Ferdinando Palasciano', 0, 30, 2, 105.31524822604463).
 strada('w30499433', 'residential', 'Via Salvatore Quasimodo', 0, 30, 2, 341.39857501659975).
-strada('w30499479', 'unclassified', 'Via Raffaele Perna', 0, 20, 1, 226.5062487105237).
+strada('w30499479', 'unclassified', 'Via Raffaele Perna', 0, 30, 1, 226.5062487105237).
 strada('w30499544', 'residential', 'Strada Cannone', 0, 30, 1, 140.97818887517406).
-strada('w30499792', 'residential', 'Via Maldacea', 0, 20, 2, 71.35216885748804).
+strada('w30499792', 'residential', 'Via Maldacea', 0, 30, 2, 71.35216885748804).
 strada('w30500140', 'unclassified', 'w30500140', 0, 30, 1, 287.1379405339327).
 strada('w30500163', 'residential', 'Via Michele Troisi', 0, 30, 1, 21.5366543729225).
 strada('w30500374', 'unclassified', 'w30500374', 0, 30, 1, 75.83608360622438).
 strada('w30500431', 'unclassified', 'w30500431', 0, 30, 1, 134.2165163609399).
-strada('w30500574', 'residential', 'Via Tenente Cesare Suglia', 0, 20, 1, 317.2420656368593).
-strada('w30500584', 'residential', 'w30500584', 0, 20, 1, 72.16926363830959).
+strada('w30500574', 'residential', 'Via Tenente Cesare Suglia', 0, 30, 1, 317.2420656368593).
+strada('w30500584', 'residential', 'w30500584', 0, 30, 1, 72.16926363830959).
 strada('w30500618', 'residential', 'w30500618', 0, 20, 1, 137.69576895236912).
-strada('w30500657', 'unclassified', 'w30500657', 0, 20, 1, 77.22236418319918).
+strada('w30500657', 'unclassified', 'w30500657', 0, 30, 1, 77.22236418319918).
 strada('w30500677', 'unclassified', 'w30500677', 0, 30, 1, 50.84784547905959).
-strada('w30500692', 'residential', 'w30500692', 0, 20, 1, 67.89820420899612).
+strada('w30500692', 'residential', 'w30500692', 0, 30, 1, 67.89820420899612).
 strada('w30500782', 'service', 'w30500782', 1, 20, 1, 227.14769732531062).
 strada('w30500796', 'unclassified', 'w30500796', 0, 30, 1, 54.86700184192717).
-strada('w30500810', 'residential', 'w30500810', 0, 30, 1, 283.8924853240173).
-strada('w30500817', 'residential', 'Via Arturo Toscanini', 0, 20, 1, 96.69644178752799).
-strada('w30501041', 'residential', 'w30501041', 1, 20, 1, 619.1864066655379).
-strada('w30501262', 'residential', 'Via Paolo Aquilino', 0, 20, 1, 175.69332967696317).
+strada('w30500810', 'residential', 'w30500810', 0, 20, 1, 283.8924853240173).
+strada('w30500817', 'residential', 'Via Arturo Toscanini', 0, 30, 1, 96.69644178752799).
+strada('w30501041', 'residential', 'w30501041', 1, 30, 1, 619.1864066655379).
+strada('w30501262', 'residential', 'Via Paolo Aquilino', 0, 30, 1, 175.69332967696317).
 strada('w30501574', 'tertiary', 'w30501574', 0, 40, 1, 48.06971416161979).
-strada('w30501591', 'tertiary', 'w30501591', 1, 30, 1, 24.06770409805854).
-strada('w30501765', 'tertiary', 'w30501765', 0, 40, 1, 307.7778096828709).
-strada('w30501794', 'unclassified', 'Via Giuseppe Prezzolini', 0, 30, 1, 358.851089496626).
+strada('w30501591', 'tertiary', 'w30501591', 1, 40, 1, 24.06770409805854).
+strada('w30501765', 'tertiary', 'w30501765', 0, 30, 1, 307.7778096828709).
+strada('w30501794', 'unclassified', 'Via Giuseppe Prezzolini', 0, 20, 1, 358.851089496626).
 strada('w30502239', 'trunk_link', 'Via Caldarola', 1, 40, 1, 61.276369715347045).
 strada('w30502398', 'tertiary', 'Via Caldarola', 1, 40, 1, 300.4621256085507).
 strada('w30502451', 'tertiary', 'Via Caldarola', 1, 40, 1, 360.38424862898245).
-strada('w30502685', 'residential', 'Via Giorgio la Pira', 0, 20, 1, 459.17623460629835).
+strada('w30502685', 'residential', 'Via Giorgio la Pira', 0, 30, 1, 459.17623460629835).
 strada('w30502694', 'unclassified', 'Strada Pezze del Sole', 0, 30, 1, 1204.1803078003759).
 strada('w30503169', 'trunk_link', 'w30503169', 1, 40, 1, 207.42708642624322).
 strada('w30503238', 'trunk_link', 'w30503238', 1, 40, 1, 159.5466369516332).
@@ -7609,89 +7609,89 @@ strada('w30503304', 'unclassified', 'strada Rafraschieri', 0, 30, 1, 2190.562912
 strada('w30503320', 'service', 'w30503320', 0, 20, 1, 115.40760837746822).
 strada('w30503357', 'service', 'w30503357', 0, 20, 1, 298.8598256165747).
 strada('w30503406', 'unclassified', 'w30503406', 1, 30, 1, 44.8128988818014).
-strada('w30503626', 'residential', 'Viale Archimede', 0, 30, 1, 247.2400849745485).
-strada('w30503659', 'residential', 'Via Giustina Rocca', 0, 20, 1, 408.26859092051546).
-strada('w30503665', 'residential', 'Via Giustina Rocca', 0, 20, 1, 240.40361223843723).
-strada('w30503677', 'residential', 'w30503677', 0, 20, 1, 187.03896471440697).
+strada('w30503626', 'residential', 'Viale Archimede', 0, 20, 1, 247.2400849745485).
+strada('w30503659', 'residential', 'Via Giustina Rocca', 0, 30, 1, 408.26859092051546).
+strada('w30503665', 'residential', 'Via Giustina Rocca', 0, 30, 1, 240.40361223843723).
+strada('w30503677', 'residential', 'w30503677', 0, 30, 1, 187.03896471440697).
 strada('w30503685', 'residential', 'w30503685', 0, 30, 1, 162.0328657175724).
 strada('w30503744', 'residential', 'w30503744', 0, 30, 1, 100.72487734165604).
 strada('w30503761', 'residential', 'w30503761', 0, 30, 1, 70.2525728444169).
 strada('w30503777', 'residential', 'w30503777', 0, 30, 1, 99.30980900185988).
-strada('w30503804', 'residential', 'Via Guglielmo Appulo', 0, 30, 1, 392.58363408314506).
-strada('w30503855', 'residential', 'w30503855', 0, 20, 1, 304.0123134897788).
-strada('w30503881', 'residential', 'w30503881', 0, 20, 1, 292.249273103871).
+strada('w30503804', 'residential', 'Via Guglielmo Appulo', 0, 20, 1, 392.58363408314506).
+strada('w30503855', 'residential', 'w30503855', 0, 30, 1, 304.0123134897788).
+strada('w30503881', 'residential', 'w30503881', 0, 30, 1, 292.249273103871).
 strada('w30503898', 'residential', 'w30503898', 0, 30, 1, 183.41951503000172).
-strada('w30503997', 'residential', 'Via Martiri di Marzabotto', 0, 20, 1, 200.67487781889835).
+strada('w30503997', 'residential', 'Via Martiri di Marzabotto', 0, 30, 1, 200.67487781889835).
 strada('w30504069', 'residential', 'Via Giuseppe Papalia', 0, 30, 2, 437.5880241168579).
-strada('w30504096', 'residential', 'w30504096', 0, 20, 1, 106.97441185859532).
-strada('w30504107', 'residential', 'w30504107', 0, 20, 1, 139.19585503249377).
+strada('w30504096', 'residential', 'w30504096', 0, 30, 1, 106.97441185859532).
+strada('w30504107', 'residential', 'w30504107', 0, 30, 1, 139.19585503249377).
 strada('w30504258', 'residential', 'Via Pantaleo Carabellese', 0, 30, 1, 346.86163640606395).
-strada('w30504298', 'residential', 'Via Colonnello Lorenzo d Avanzo', 0, 30, 1, 366.9448916598686).
-strada('w30504548', 'residential', 'w30504548', 0, 30, 1, 112.9554738380689).
+strada('w30504298', 'residential', 'Via Colonnello Lorenzo d Avanzo', 0, 20, 1, 366.9448916598686).
+strada('w30504548', 'residential', 'w30504548', 0, 20, 1, 112.9554738380689).
 strada('w30504562', 'residential', 'w30504562', 0, 30, 1, 135.57141053132065).
 strada('w30504575', 'residential', 'Via Pantaleo Carabellese', 0, 20, 1, 108.24766899087575).
 strada('w30504589', 'residential', 'Via Francesco Pascazio', 0, 30, 1, 224.7082480130892).
 strada('w30504604', 'residential', 'w30504604', 0, 30, 1, 146.21505023776206).
 strada('w30504615', 'unclassified', 'Via Franco Colella', 1, 30, 1, 77.83498396757331).
-strada('w30504624', 'unclassified', 'Via Franco Colella', 1, 30, 1, 78.07518666127878).
-strada('w30505339', 'residential', 'Strada Zuccararo', 0, 20, 1, 565.1363085774277).
-strada('w30505385', 'primary', 'Viale Japigia', 0, 30, 2, 792.7876823921223).
-strada('w30505392', 'primary', 'Via Giovanni Gentile', 0, 30, 2, 124.01789434750596).
+strada('w30504624', 'unclassified', 'Via Franco Colella', 1, 20, 1, 78.07518666127878).
+strada('w30505339', 'residential', 'Strada Zuccararo', 0, 30, 1, 565.1363085774277).
+strada('w30505385', 'primary', 'Viale Japigia', 0, 50, 2, 792.7876823921223).
+strada('w30505392', 'primary', 'Via Giovanni Gentile', 0, 50, 2, 124.01789434750596).
 strada('w30505908', 'tertiary', 'Via Caldarola', 1, 40, 1, 100.13805059960032).
-strada('w30505929', 'tertiary', 'Via Caldarola', 1, 30, 1, 349.28133548002006).
+strada('w30505929', 'tertiary', 'Via Caldarola', 1, 40, 1, 349.28133548002006).
 strada('w30630459', 'tertiary', 'Via Caldarola', 1, 40, 1, 39.878071798112984).
-strada('w30630470', 'tertiary', 'Via Caldarola', 1, 40, 1, 35.660509563618895).
-strada('w30630608', 'residential', 'Via Peucetia', 0, 30, 1, 16.51331136653757).
-strada('w30630832', 'residential', 'Via Peucetia', 1, 20, 1, 66.24518721102099).
+strada('w30630470', 'tertiary', 'Via Caldarola', 1, 30, 1, 35.660509563618895).
+strada('w30630608', 'residential', 'Via Peucetia', 0, 20, 1, 16.51331136653757).
+strada('w30630832', 'residential', 'Via Peucetia', 1, 30, 1, 66.24518721102099).
 strada('w30631067', 'residential', 'Via Daunia', 0, 30, 1, 223.73863387726334).
 strada('w30631163', 'residential', 'Via Peucetia', 1, 30, 1, 321.2198372110527).
 strada('w30631241', 'residential', 'Via Peucetia', 1, 20, 1, 249.08826467644568).
 strada('w30631267', 'residential', 'Via Peucetia', 1, 30, 1, 489.4345736367322).
 strada('w30631361', 'residential', 'Via Divisione Acqui', 0, 30, 1, 558.6330383481327).
 strada('w30631459', 'residential', 'Parallela Peucetia', 1, 30, 1, 331.7049215956433).
-strada('w30631463', 'residential', 'w30631463', 0, 20, 1, 80.55100829360858).
-strada('w30631468', 'residential', 'w30631468', 0, 20, 1, 72.37685837590067).
+strada('w30631463', 'residential', 'w30631463', 0, 30, 1, 80.55100829360858).
+strada('w30631468', 'residential', 'w30631468', 0, 30, 1, 72.37685837590067).
 strada('w30631469', 'residential', 'w30631469', 0, 30, 1, 61.00929335417797).
-strada('w30631590', 'residential', 'Via Siponto', 0, 30, 1, 157.0361586241997).
-strada('w30631602', 'residential', 'w30631602', 0, 20, 1, 87.7239326287006).
-strada('w30631691', 'residential', 'w30631691', 1, 30, 1, 192.90767465398278).
-strada('w30631703', 'residential', 'w30631703', 1, 30, 1, 64.24402345643475).
-strada('w30631813', 'residential', 'w30631813', 0, 20, 1, 292.2975072294762).
+strada('w30631590', 'residential', 'Via Siponto', 0, 20, 1, 157.0361586241997).
+strada('w30631602', 'residential', 'w30631602', 0, 30, 1, 87.7239326287006).
+strada('w30631691', 'residential', 'w30631691', 1, 20, 1, 192.90767465398278).
+strada('w30631703', 'residential', 'w30631703', 1, 20, 1, 64.24402345643475).
+strada('w30631813', 'residential', 'w30631813', 0, 30, 1, 292.2975072294762).
 strada('w30631851', 'residential', 'w30631851', 0, 30, 1, 49.529069004027754).
-strada('w30632010', 'residential', 'Via Daunia', 0, 30, 1, 73.79030178671425).
+strada('w30632010', 'residential', 'Via Daunia', 0, 20, 1, 73.79030178671425).
 strada('w30632198', 'residential', 'Via Cavalieri di Vittorio Veneto', 0, 30, 1, 219.76827884554044).
-strada('w30632255', 'residential', 'Via Giuseppe Musci', 0, 20, 1, 69.30210849547294).
-strada('w30632260', 'residential', 'Via Salvo D acquisto', 0, 30, 1, 147.16361830461108).
+strada('w30632255', 'residential', 'Via Giuseppe Musci', 0, 30, 1, 69.30210849547294).
+strada('w30632260', 'residential', 'Via Salvo D acquisto', 0, 20, 1, 147.16361830461108).
 strada('w30632261', 'residential', 'Via Luigi Gurakuqi', 0, 20, 1, 228.4576658326818).
 strada('w30632379', 'residential', 'Via Maresciallo Vittorio Maggiore', 0, 30, 1, 128.90882709277057).
 strada('w30632389', 'residential', 'Via Santa Teresa', 1, 30, 1, 88.37642044929271).
-strada('w30632396', 'residential', 'Via Padre M. Kolbe', 1, 20, 1, 113.06018816469084).
-strada('w30632415', 'residential', 'w30632415', 0, 20, 1, 62.184861078366296).
-strada('w30632431', 'residential', 'Via delle Medaglie d Oro', 0, 30, 1, 199.71038109059072).
-strada('w30632444', 'residential', 'Via Liside', 0, 30, 1, 107.40788111135149).
-strada('w30632522', 'residential', 'w30632522', 0, 30, 1, 107.62136358153464).
-strada('w30632562', 'residential', 'Via Clinia', 0, 20, 1, 188.3065714736382).
-strada('w30632573', 'residential', 'Via Carolina Accolti Gil Salvati', 0, 30, 1, 109.5401866664759).
-strada('w30632746', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 20, 1, 73.24983438589643).
+strada('w30632396', 'residential', 'Via Padre M. Kolbe', 1, 30, 1, 113.06018816469084).
+strada('w30632415', 'residential', 'w30632415', 0, 30, 1, 62.184861078366296).
+strada('w30632431', 'residential', 'Via delle Medaglie d Oro', 0, 5, 1, 199.71038109059072).
+strada('w30632444', 'residential', 'Via Liside', 0, 20, 1, 107.40788111135149).
+strada('w30632522', 'residential', 'w30632522', 0, 20, 1, 107.62136358153464).
+strada('w30632562', 'residential', 'Via Clinia', 0, 30, 1, 188.3065714736382).
+strada('w30632573', 'residential', 'Via Carolina Accolti Gil Salvati', 0, 20, 1, 109.5401866664759).
+strada('w30632746', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 30, 1, 73.24983438589643).
 strada('w30632846', 'residential', 'Via Archita da Taranto', 0, 30, 1, 222.95854393054088).
 strada('w30632850', 'residential', 'Piazza San Francesco d Assisi', 0, 20, 1, 78.10266639405731).
 strada('w30632860', 'residential', 'Piazza San Francesco d Assisi', 0, 20, 1, 78.37662728249124).
-strada('w30632898', 'residential', 'Via Madre Clelia Merloni', 1, 20, 1, 454.71053049764527).
+strada('w30632898', 'residential', 'Via Madre Clelia Merloni', 1, 30, 1, 454.71053049764527).
 strada('w30632949', 'residential', 'Via Pitagora', 0, 30, 1, 222.74278455790693).
-strada('w30633049', 'secondary', 'Via Carabiniere Giovanni del Conte', 0, 50, 1, 123.6235486070545).
+strada('w30633049', 'secondary', 'Via Carabiniere Giovanni del Conte', 0, 30, 1, 123.6235486070545).
 strada('w30633059', 'unclassified', 'Via Masaniello', 0, 30, 1, 175.8606793680807).
 strada('w30633077', 'service', 'Strada Stoppelli', 1, 20, 1, 257.051614881219).
 strada('w30633309', 'secondary_link', 'w30633309', 1, 30, 1, 66.44492778619903).
-strada('w30633381', 'secondary', 'w30633381', 1, 50, 2, 4.684221301706637).
-strada('w30633410', 'secondary', 'Via Apulia', 1, 50, 1, 78.02487106650344).
+strada('w30633381', 'secondary', 'w30633381', 1, 30, 2, 4.684221301706637).
+strada('w30633410', 'secondary', 'Via Apulia', 1, 30, 1, 78.02487106650344).
 strada('w30633414', 'secondary', 'Ponte Giuseppe Garibaldi', 0, 30, 4, 240.72493428677438).
-strada('w30633416', 'secondary', 'Via Apulia', 1, 30, 1, 88.37872636416724).
+strada('w30633416', 'secondary', 'Via Apulia', 1, 50, 1, 88.37872636416724).
 strada('w30633553', 'residential', 'Via Ottavio Serena', 1, 30, 1, 133.69126419046722).
-strada('w30633565', 'residential', 'Via Fabio Filzi', 1, 30, 1, 128.94453600622933).
-strada('w30633570', 'residential', 'Via Canio Musacchio', 1, 20, 1, 124.20146113798717).
-strada('w30633580', 'residential', 'Via Pier Delfino Pesce', 1, 20, 1, 118.10708220496366).
-strada('w30633595', 'unclassified', 'Via Carlo Guarnieri', 1, 20, 1, 113.8262482183843).
-strada('w30633655', 'residential', 'Viale Imperatore Traiano', 0, 20, 1, 9.814989637048724).
+strada('w30633565', 'residential', 'Via Fabio Filzi', 1, 20, 1, 128.94453600622933).
+strada('w30633570', 'residential', 'Via Canio Musacchio', 1, 30, 1, 124.20146113798717).
+strada('w30633580', 'residential', 'Via Pier Delfino Pesce', 1, 30, 1, 118.10708220496366).
+strada('w30633595', 'unclassified', 'Via Carlo Guarnieri', 1, 30, 1, 113.8262482183843).
+strada('w30633655', 'residential', 'Viale Imperatore Traiano', 0, 30, 1, 9.814989637048724).
 strada('w30634021', 'residential', 'Via delle Forze Armate', 0, 30, 1, 273.38147964191256).
 strada('w30650960', 'service', 'w30650960', 0, 20, 1, 83.33484321244768).
 strada('w30650996', 'unclassified', 'w30650996', 0, 30, 1, 158.89206457252357).
@@ -7700,9 +7700,9 @@ strada('w30651489', 'primary', 'Via Giuseppe Fanelli', 0, 50, 1, 41.371113508984
 strada('w30651627', 'unclassified', 'w30651627', 0, 30, 1, 216.61307529890715).
 strada('w30651630', 'unclassified', 'w30651630', 0, 30, 1, 48.1428735548604).
 strada('w30651635', 'unclassified', 'w30651635', 0, 30, 1, 62.915820309552316).
-strada('w30652659', 'residential', 'Via Lorenzo D Agostino', 0, 20, 1, 139.64397139749062).
+strada('w30652659', 'residential', 'Via Lorenzo D Agostino', 0, 30, 1, 139.64397139749062).
 strada('w30652696', 'unclassified', 'Via Raffaele Bovio', 1, 30, 1, 405.31587518791184).
-strada('w30652831', 'residential', 'Via Pietro Leonida Laforgia', 0, 20, 1, 242.72459454370698).
+strada('w30652831', 'residential', 'Via Pietro Leonida Laforgia', 0, 30, 1, 242.72459454370698).
 strada('w30652840', 'residential', 'Via Junipero Serra', 0, 30, 1, 125.72045656660464).
 strada('w30652902', 'service', 'w30652902', 0, 20, 1, 469.31432288723886).
 strada('w30652956', 'unclassified', 'Via Gaetano Santomauro', 0, 30, 1, 141.56136095232654).
@@ -7711,7 +7711,7 @@ strada('w30652972', 'service', 'w30652972', 0, 20, 1, 100.73970101763203).
 strada('w30653141', 'unclassified', 'Via Cesare Diomede Fresa', 0, 30, 1, 132.01282537666418).
 strada('w30653154', 'service', 'w30653154', 0, 20, 1, 321.89059518485726).
 strada('w30653167', 'service', 'w30653167', 0, 20, 1, 264.862309174119).
-strada('w30653669', 'tertiary', 'Viale Papa Pio Dodicesimo', 0, 40, 2, 627.9442689629376).
+strada('w30653669', 'tertiary', 'Viale Papa Pio Dodicesimo', 0, 30, 2, 627.9442689629376).
 strada('w30653881', 'service', 'w30653881', 1, 20, 1, 200.9745198612232).
 strada('w30654184', 'residential', 'Via dei Mille', 1, 30, 1, 535.5178806648887).
 strada('w30654310', 'residential', 'Via Giuseppe Re David', 1, 30, 1, 580.2675425710596).
@@ -7719,21 +7719,21 @@ strada('w30654313', 'residential', 'Via Pietro Gobetti', 1, 30, 1, 116.648446472
 strada('w30655055', 'unclassified', 'Viale Giovanni Falcone e Paolo Borsellino', 1, 30, 1, 84.8181911329485).
 strada('w30655075', 'unclassified', 'Viale Giovanni Falcone e Paolo Borsellino', 1, 30, 1, 85.66213381074452).
 strada('w30655105', 'unclassified', 'Via Ugo La Malfa', 0, 30, 1, 214.23217672503324).
-strada('w30655159', 'unclassified', 'Via Osvaldo Marzano', 1, 20, 1, 135.33334596419607).
-strada('w30655239', 'tertiary', 'Via Giuseppe De Marinis', 0, 40, 1, 424.769748326483).
-strada('w30655265', 'unclassified', 'w30655265', 1, 20, 1, 27.60295984130678).
+strada('w30655159', 'unclassified', 'Via Osvaldo Marzano', 1, 30, 1, 135.33334596419607).
+strada('w30655239', 'tertiary', 'Via Giuseppe De Marinis', 0, 30, 1, 424.769748326483).
+strada('w30655265', 'unclassified', 'w30655265', 1, 30, 1, 27.60295984130678).
 strada('w30655267', 'unclassified', 'w30655267', 1, 30, 1, 31.342787092682364).
-strada('w30655419', 'unclassified', 'Saverio La Sorsa', 1, 20, 1, 276.4742846405841).
-strada('w30655432', 'residential', 'Strada Lonigro', 1, 20, 1, 261.9723571030496).
-strada('w30655445', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 432.6380047917569).
-strada('w30655511', 'unclassified', 'Via Rosario Berardi', 0, 30, 1, 129.70140651816018).
+strada('w30655419', 'unclassified', 'Saverio La Sorsa', 1, 30, 1, 276.4742846405841).
+strada('w30655432', 'residential', 'Strada Lonigro', 1, 30, 1, 261.9723571030496).
+strada('w30655445', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 432.6380047917569).
+strada('w30655511', 'unclassified', 'Via Rosario Berardi', 0, 20, 1, 129.70140651816018).
 strada('w30655513', 'unclassified', 'Via Grimoaldo degli Alfaraniti', 0, 30, 1, 118.33875936475309).
-strada('w30655744', 'tertiary', 'Viale Donato Menichella', 1, 30, 2, 131.2602486571618).
+strada('w30655744', 'tertiary', 'Viale Donato Menichella', 1, 40, 2, 131.2602486571618).
 strada('w30655757', 'secondary', 'Viale Donato Menichella', 1, 50, 1, 234.03805795759322).
-strada('w30655758', 'secondary', 'w30655758', 1, 30, 1, 89.49861781847612).
-strada('w30655765', 'secondary', 'Viale Donato Menichella', 1, 30, 2, 70.20269270942657).
+strada('w30655758', 'secondary', 'w30655758', 1, 50, 1, 89.49861781847612).
+strada('w30655765', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 70.20269270942657).
 strada('w30655770', 'secondary', 'w30655770', 1, 50, 1, 113.55293397235523).
-strada('w30655775', 'residential', 'Stradella Acquedotto', 1, 20, 1, 333.6721713862362).
+strada('w30655775', 'residential', 'Stradella Acquedotto', 1, 30, 1, 333.6721713862362).
 strada('w30671462', 'secondary', 'Viale Mohandas Gandhi', 1, 50, 1, 225.79148023724497).
 strada('w30671472', 'secondary', 'Viale Madre Teresa di Calcutta', 1, 50, 2, 698.9577175390614).
 strada('w30672338', 'secondary', 'Viale Madre Teresa di Calcutta', 0, 50, 4, 716.0703603167509).
@@ -7748,42 +7748,42 @@ strada('w30672821', 'secondary', 'Viale Giuseppe Tatarella', 1, 50, 2, 30.120062
 strada('w30672933', 'trunk_link', 'w30672933', 1, 40, 1, 317.1495793592674).
 strada('w30672950', 'secondary_link', 'Viale Giuseppe Tatarella', 1, 30, 1, 550.1454056878835).
 strada('w30672980', 'tertiary_link', 'w30672980', 1, 50, 1, 182.6241040508308).
-strada('w30672995', 'tertiary_link', 'w30672995', 1, 50, 1, 54.070012705487684).
+strada('w30672995', 'tertiary_link', 'w30672995', 1, 40, 1, 54.070012705487684).
 strada('w30673027', 'trunk_link', 'w30673027', 1, 40, 1, 290.03358555767454).
 strada('w30673048', 'trunk_link', 'w30673048', 1, 40, 1, 143.69809681202977).
 strada('w30673120', 'trunk_link', 'w30673120', 1, 40, 1, 308.00372808555085).
 strada('w30673188', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 42.26633604062356).
 strada('w30673189', 'tertiary', 'Via Camillo Rosalba', 0, 50, 2, 433.5501222709258).
-strada('w30673346', 'unclassified', 'w30673346', 1, 30, 1, 65.92653684458341).
+strada('w30673346', 'unclassified', 'w30673346', 1, 20, 1, 65.92653684458341).
 strada('w30673373', 'unclassified', 'w30673373', 1, 30, 1, 70.09431233435853).
 strada('w30673396', 'trunk_link', 'w30673396', 1, 40, 1, 231.1182421456996).
 strada('w30673414', 'trunk_link', 'w30673414', 1, 40, 1, 155.4593649977214).
 strada('w30673439', 'trunk_link', 'w30673439', 1, 40, 1, 163.75247081044898).
-strada('w30673467', 'tertiary', 'Via Generale Bonomo', 0, 30, 2, 64.93641233144827).
-strada('w30673486', 'residential', 'Via Mauro Amoruso', 1, 20, 1, 185.68118326711704).
+strada('w30673467', 'tertiary', 'Via Generale Bonomo', 0, 40, 2, 64.93641233144827).
+strada('w30673486', 'residential', 'Via Mauro Amoruso', 1, 30, 1, 185.68118326711704).
 strada('w30673626', 'unclassified', 'Via Robert Kennedy', 1, 30, 1, 132.99471213238527).
 strada('w30673862', 'unclassified', 'Via Robert Kennedy', 1, 30, 1, 326.4491396618144).
 strada('w30674186', 'unclassified', 'Via Santi Cirillo E Metodio', 1, 30, 1, 85.38367512480232).
-strada('w30674192', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 68.96318428873451).
+strada('w30674192', 'unclassified', 'Viale Nicola Dell Andro', 1, 20, 1, 68.96318428873451).
 strada('w30674315', 'unclassified', 'Via San Tommaso D Aquino', 1, 30, 1, 478.3572732068593).
-strada('w30674359', 'unclassified', 'Via San Tommaso D Aquino', 1, 20, 1, 526.2375549454043).
+strada('w30674359', 'unclassified', 'Via San Tommaso D Aquino', 1, 30, 1, 526.2375549454043).
 strada('w30674361', 'unclassified', 'w30674361', 1, 30, 1, 41.19793898526085).
 strada('w30674378', 'unclassified', 'w30674378', 1, 30, 1, 44.61412750761913).
 strada('w30674385', 'unclassified', 'Viale Saverio Dioguardi', 1, 30, 1, 107.50843144902656).
 strada('w30674435', 'secondary', 'Viale Saverio Dioguardi', 1, 50, 1, 118.77722680678696).
-strada('w30674845', 'unclassified', 'Via Don Luigi Guanella', 1, 20, 1, 119.22900334442465).
+strada('w30674845', 'unclassified', 'Via Don Luigi Guanella', 1, 30, 1, 119.22900334442465).
 strada('w30674862', 'unclassified', 'Via Don Luigi Guanella', 1, 20, 1, 23.176757353012974).
 strada('w30674905', 'unclassified', 'Via Papa Giovanni Paolo I', 1, 30, 1, 46.64842757724366).
-strada('w30674917', 'residential', 'Via Papa Giovanni Paolo I', 0, 20, 1, 16.77785447870053).
-strada('w30674937', 'unclassified', 'Via Papa Giovanni Paolo I', 1, 30, 1, 46.15558670585038).
+strada('w30674917', 'residential', 'Via Papa Giovanni Paolo I', 0, 30, 1, 16.77785447870053).
+strada('w30674937', 'unclassified', 'Via Papa Giovanni Paolo I', 1, 20, 1, 46.15558670585038).
 strada('w30674948', 'unclassified', 'w30674948', 0, 30, 1, 40.145466755189446).
-strada('w30675059', 'unclassified', 'Via Don Luigi Guanella', 1, 30, 1, 184.07626914265555).
+strada('w30675059', 'unclassified', 'Via Don Luigi Guanella', 1, 20, 1, 184.07626914265555).
 strada('w30675400', 'unclassified', 'Via Rodolfo Redi', 0, 30, 1, 128.6469553865373).
-strada('w30675402', 'unclassified', 'Via Rodolfo Redi', 1, 30, 1, 71.59592591263304).
-strada('w30675412', 'secondary', 'Viale Beato JosemarÃ­a EscrivÃ¡', 0, 30, 1, 93.01897763094632).
+strada('w30675402', 'unclassified', 'Via Rodolfo Redi', 1, 20, 1, 71.59592591263304).
+strada('w30675412', 'secondary', 'Viale Beato JosemarÃ­a EscrivÃ¡', 0, 50, 1, 93.01897763094632).
 strada('w30676398', 'residential', 'Via Ludovico Loquercio', 0, 30, 1, 278.19546760783794).
 strada('w30676401', 'residential', 'Via Bologna', 0, 20, 1, 267.22732337669476).
-strada('w30690500', 'unclassified', 'Via Vitantonio di Cagno', 0, 30, 1, 116.87193446756571).
+strada('w30690500', 'unclassified', 'Via Vitantonio di Cagno', 0, 20, 1, 116.87193446756571).
 strada('w30690501', 'unclassified', 'w30690501', 0, 30, 1, 30.604921225661315).
 strada('w30690502', 'unclassified', 'w30690502', 1, 30, 1, 107.28115816701349).
 strada('w30690503', 'unclassified', 'Stradella Cannaruto', 0, 30, 1, 41.57293511873093).
@@ -7791,11 +7791,11 @@ strada('w30690504', 'unclassified', 'Stradella del Caffe ', 1, 30, 1, 180.607907
 strada('w30690505', 'unclassified', 'w30690505', 0, 30, 1, 73.21453816004396).
 strada('w30690506', 'unclassified', 'Via Aurelio Carrante', 1, 30, 1, 233.12904832448908).
 strada('w30690507', 'unclassified', 'Via Aurelio Carrante', 1, 30, 1, 233.38371035307011).
-strada('w30690508', 'unclassified', 'Via Vitantonio di Cagno', 1, 30, 1, 521.653465482673).
-strada('w30690509', 'unclassified', 'Stradella del Caffe ', 1, 20, 1, 66.40794760123924).
+strada('w30690508', 'unclassified', 'Via Vitantonio di Cagno', 1, 20, 1, 521.653465482673).
+strada('w30690509', 'unclassified', 'Stradella del Caffe ', 1, 30, 1, 66.40794760123924).
 strada('w30690557', 'service', 'w30690557', 0, 20, 1, 16.50817878958517).
 strada('w30690558', 'residential', 'Stradella del Caffe ', 0, 30, 1, 60.23376326002321).
-strada('w30690562', 'residential', 'Stradella del Caffe ', 0, 20, 1, 39.277481828345024).
+strada('w30690562', 'residential', 'Stradella del Caffe ', 0, 30, 1, 39.277481828345024).
 strada('w30690563', 'residential', 'Stradella del Caffe ', 0, 30, 1, 114.27916037752321).
 strada('w30690568', 'service', 'w30690568', 1, 20, 1, 42.762439000466415).
 strada('w30691718', 'trunk_link', 'w30691718', 1, 40, 1, 320.91991405674435).
@@ -7807,50 +7807,50 @@ strada('w30691728', 'tertiary', 'w30691728', 0, 30, 1, 2.161837667875324).
 strada('w30691874', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 36.84959844402592).
 strada('w30691875', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 729.9963321639852).
 strada('w30691876', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 57.9779977714856).
-strada('w30691879', 'unclassified', 'w30691879', 0, 20, 1, 49.328394997064244).
+strada('w30691879', 'unclassified', 'w30691879', 0, 30, 1, 49.328394997064244).
 strada('w30691997', 'service', 'w30691997', 1, 20, 1, 335.7434444462826).
 strada('w30692109', 'unclassified', 'w30692109', 1, 30, 1, 85.52408154761596).
 strada('w30692415', 'unclassified', 'w30692415', 0, 30, 1, 66.97456978609009).
 strada('w30692416', 'unclassified', 'Via Modugno', 1, 30, 1, 209.27264734977217).
 strada('w30692509', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 69.81881290297525).
 strada('w30692511', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 17.871929328759325).
-strada('w30700001', 'residential', 'Via Papa Innocenzo XII', 1, 20, 1, 118.13037522484453).
+strada('w30700001', 'residential', 'Via Papa Innocenzo XII', 1, 30, 1, 118.13037522484453).
 strada('w30700040', 'residential', 'Via Cardinale Marcello Mimmi', 1, 30, 1, 238.4189248712431).
 strada('w30700425', 'residential', 'Via Papa Urbano VI', 0, 30, 1, 141.6937550811816).
 strada('w30700434', 'residential', 'Via Papa Urbano VI', 1, 30, 1, 161.38100905811922).
 strada('w30701540', 'unclassified', 'Via Effrem Datto', 0, 30, 1, 67.15296201839857).
-strada('w30701607', 'residential', 'Via Domenico Morea', 1, 20, 1, 285.6541963913302).
-strada('w30705586', 'residential', 'Via Giuseppe Pavoncelli', 1, 20, 1, 321.28788048691655).
+strada('w30701607', 'residential', 'Via Domenico Morea', 1, 30, 1, 285.6541963913302).
+strada('w30705586', 'residential', 'Via Giuseppe Pavoncelli', 1, 30, 1, 321.28788048691655).
 strada('w30705600', 'residential', 'w30705600', 0, 30, 1, 104.32670721243038).
 strada('w30705618', 'residential', 'Via Giulio Pastore', 1, 20, 1, 153.69475421120373).
 strada('w30705649', 'secondary', 'Via Alessandro Volta', 1, 50, 1, 111.74774373620545).
 strada('w30706015', 'residential', 'Via Raffaele Gorjux', 1, 30, 1, 65.10113988097578).
 strada('w30706585', 'residential', 'Via Giuseppe Maria Giovene', 1, 20, 1, 283.24433620033346).
 strada('w30706669', 'unclassified', 'Via Papa Bonifacio IX', 0, 30, 1, 122.27889558701521).
-strada('w30706677', 'residential', 'Via Antonio De Ferraris', 1, 10, 1, 456.51894663089814).
+strada('w30706677', 'residential', 'Via Antonio De Ferraris', 1, 30, 1, 456.51894663089814).
 strada('w30706691', 'residential', 'Via Giuseppe Saverio Poli', 1, 20, 1, 148.53201197436908).
-strada('w30706753', 'residential', 'Via Scipione l Africano', 0, 30, 1, 196.7926333609428).
-strada('w30706854', 'residential', 'Via Leonardo Mastrandrea', 1, 30, 1, 62.8682154770742).
+strada('w30706753', 'residential', 'Via Scipione l Africano', 0, 20, 1, 196.7926333609428).
+strada('w30706854', 'residential', 'Via Leonardo Mastrandrea', 1, 20, 1, 62.8682154770742).
 strada('w30706869', 'residential', 'w30706869', 0, 30, 1, 92.2388070503839).
 strada('w30706896', 'secondary', 'Via San Lorenzo', 1, 50, 1, 315.9325117540294).
 strada('w30706958', 'secondary', 'Via Paolo Lembo', 1, 50, 1, 196.530795242762).
-strada('w30706975', 'secondary', 'Via Paolo Lembo', 1, 30, 1, 206.82419008719535).
+strada('w30706975', 'secondary', 'Via Paolo Lembo', 1, 50, 1, 206.82419008719535).
 strada('w30707722', 'residential', 'Via Carlo Collodi', 1, 30, 1, 175.11426096495597).
-strada('w30707761', 'residential', 'Via Carlo Collodi', 0, 30, 1, 65.98275573762291).
+strada('w30707761', 'residential', 'Via Carlo Collodi', 0, 20, 1, 65.98275573762291).
 strada('w30707830', 'residential', 'w30707830', 1, 30, 1, 195.55578903212756).
-strada('w30707841', 'residential', 'Via Lecce', 1, 20, 1, 156.5102663748978).
+strada('w30707841', 'residential', 'Via Lecce', 1, 5, 1, 156.5102663748978).
 strada('w30707855', 'residential', 'Via Foggia', 1, 30, 1, 156.2037245768792).
-strada('w30707991', 'residential', 'Via Salvatore Pietrocola', 0, 30, 1, 7.664293019990281).
+strada('w30707991', 'residential', 'Via Salvatore Pietrocola', 0, 20, 1, 7.664293019990281).
 strada('w30708040', 'residential', 'Via Vittoriano Cimarrusti', 1, 30, 1, 147.08562820324002).
 strada('w30708042', 'residential', 'Via Salvatore Pietrocola', 1, 30, 1, 217.35702753825095).
-strada('w30708078', 'residential', 'w30708078', 0, 5, 1, 277.46825190123815).
+strada('w30708078', 'residential', 'w30708078', 0, 30, 1, 277.46825190123815).
 strada('w30708082', 'residential', 'w30708082', 0, 30, 1, 146.58836623572262).
-strada('w30708276', 'residential', 'Via Giuseppe Colapietro', 0, 20, 1, 170.98915383712).
-strada('w30708277', 'residential', 'Via Matera', 0, 30, 1, 68.45447189552121).
-strada('w30708292', 'residential', 'Via Potenza', 0, 20, 1, 99.81058316103847).
-strada('w30708394', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 168.83481614492297).
-strada('w30708570', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 202.28256820932546).
-strada('w30708716', 'service', 'w30708716', 0, 20, 1, 165.24362867957836).
+strada('w30708276', 'residential', 'Via Giuseppe Colapietro', 0, 30, 1, 170.98915383712).
+strada('w30708277', 'residential', 'Via Matera', 0, 20, 1, 68.45447189552121).
+strada('w30708292', 'residential', 'Via Potenza', 0, 30, 1, 99.81058316103847).
+strada('w30708394', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 168.83481614492297).
+strada('w30708570', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 202.28256820932546).
+strada('w30708716', 'service', 'w30708716', 0, 10, 1, 165.24362867957836).
 strada('w30708775', 'residential', 'Viale delle Murge', 0, 30, 1, 202.55317129600098).
 strada('w30708828', 'unclassified', 'Viale delle Murge', 1, 30, 1, 37.58910580854452).
 strada('w30708894', 'secondary', 'Viale Louis Pasteur', 1, 50, 2, 189.4000735214832).
@@ -7858,7 +7858,7 @@ strada('w30708914', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 104.09512121
 strada('w30708999', 'primary', 'Viale Domenico Cotugno', 0, 30, 2, 112.11842245340553).
 strada('w30709112', 'unclassified', 'Stradella Massimi', 0, 30, 1, 107.2404155235331).
 strada('w30709147', 'unclassified', 'Stradella Massimi', 0, 30, 1, 48.05701481013078).
-strada('w30709256', 'tertiary', 'Strada Torre Tresca', 0, 30, 1, 39.9610029092375).
+strada('w30709256', 'tertiary', 'Strada Torre Tresca', 0, 40, 1, 39.9610029092375).
 strada('w30711240', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 90, 2, 203.75275267659543).
 strada('w30711403', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 90, 2, 1549.6733006843583).
 strada('w30711405', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 90, 2, 204.30422218231138).
@@ -7872,7 +7872,7 @@ strada('w30729875', 'trunk_link', 'w30729875', 1, 40, 1, 297.51462299523644).
 strada('w30729933', 'trunk_link', 'w30729933', 1, 40, 1, 433.52998521190017).
 strada('w30729987', 'unclassified', 'w30729987', 0, 30, 1, 246.14804513549626).
 strada('w30730054', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 169.2880695730344).
-strada('w30730107', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 502.106404743929).
+strada('w30730107', 'secondary', 'Via Nicola Vernola', 1, 30, 1, 502.106404743929).
 strada('w30730231', 'trunk', 'Via Bitritto', 1, 90, 2, 51.834149992801144).
 strada('w30730236', 'trunk', 'w30730236', 1, 90, 2, 69.72218202034861).
 strada('w30731275', 'service', 'w30731275', 0, 20, 1, 4.356409421637431).
@@ -7884,18 +7884,18 @@ strada('w30731358', 'service', 'w30731358', 0, 20, 1, 182.68156441248604).
 strada('w30731359', 'service', 'w30731359', 0, 20, 1, 21.191369121313514).
 strada('w30731389', 'track', 'w30731389', 0, 30, 1, 72.29729674026146).
 strada('w30731431', 'service', 'w30731431', 0, 20, 1, 97.68783999477249).
-strada('w30731433', 'service', 'w30731433', 0, 20, 1, 223.63398837598228).
+strada('w30731433', 'service', 'w30731433', 0, 10, 1, 223.63398837598228).
 strada('w30731434', 'service', 'w30731434', 0, 20, 1, 209.62238354029304).
-strada('w30731436', 'service', 'w30731436', 0, 20, 1, 210.78645462387215).
+strada('w30731436', 'service', 'w30731436', 0, 10, 1, 210.78645462387215).
 strada('w30731438', 'service', 'w30731438', 1, 20, 1, 137.3662993386586).
 strada('w30731439', 'service', 'w30731439', 0, 20, 1, 212.89285873578842).
 strada('w30731444', 'service', 'w30731444', 1, 20, 1, 221.87133376594522).
 strada('w30731446', 'service', 'w30731446', 0, 20, 1, 157.2238503893905).
 strada('w30731452', 'service', 'w30731452', 0, 20, 1, 123.57079015651466).
 strada('w30731465', 'service', 'w30731465', 1, 20, 1, 216.9612793749132).
-strada('w30731474', 'service', 'w30731474', 1, 10, 1, 218.54368661978688).
+strada('w30731474', 'service', 'w30731474', 1, 20, 1, 218.54368661978688).
 strada('w30731476', 'service', 'w30731476', 1, 20, 1, 216.54811435021287).
-strada('w30731479', 'service', 'w30731479', 0, 20, 1, 32.21297115056065).
+strada('w30731479', 'service', 'w30731479', 0, 10, 1, 32.21297115056065).
 strada('w30731482', 'service', 'w30731482', 0, 20, 1, 27.609093214725007).
 strada('w30731484', 'service', 'w30731484', 1, 20, 1, 186.52700501125202).
 strada('w30731488', 'service', 'w30731488', 1, 20, 1, 189.2743019751395).
@@ -7906,7 +7906,7 @@ strada('w30731538', 'service', 'w30731538', 0, 20, 1, 21.393136425417683).
 strada('w30732580', 'trunk_link', 'w30732580', 1, 40, 1, 27.14820944871441).
 strada('w30732597', 'trunk_link', 'w30732597', 1, 40, 1, 285.5019865913904).
 strada('w30732673', 'unclassified', 'w30732673', 1, 30, 1, 40.79597228547705).
-strada('w30732674', 'secondary', 'w30732674', 1, 30, 1, 54.89128436505966).
+strada('w30732674', 'secondary', 'w30732674', 1, 50, 1, 54.89128436505966).
 strada('w30732680', 'trunk_link', 'w30732680', 1, 40, 1, 318.4275304502715).
 strada('w30732689', 'secondary_link', 'Viale Nicola Vernola', 1, 30, 1, 364.3322537405492).
 strada('w30752984', 'unclassified', 'w30752984', 0, 30, 1, 517.0942964304381).
@@ -7927,9 +7927,9 @@ strada('w30754145', 'secondary', 'Via Bitritto', 0, 50, 1, 66.3579574681538).
 strada('w30771181', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 98.77981687666366).
 strada('w30771198', 'secondary_link', 'w30771198', 0, 30, 1, 193.65407259186026).
 strada('w30771267', 'secondary_link', 'Modugno - Carbonara', 1, 30, 1, 91.53293733319836).
-strada('w30771296', 'unclassified', 'w30771296', 0, 30, 1, 182.31666526630553).
+strada('w30771296', 'unclassified', 'w30771296', 0, 20, 1, 182.31666526630553).
 strada('w30771329', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 753.8438102315729).
-strada('w30771498', 'unclassified', 'w30771498', 1, 20, 1, 65.69879373253112).
+strada('w30771498', 'unclassified', 'w30771498', 1, 30, 1, 65.69879373253112).
 strada('w30772753', 'tertiary', 'Strada Vicinale Fanelli', 0, 40, 1, 319.8807084577465).
 strada('w30806998', 'trunk_link', 'w30806998', 1, 40, 2, 170.016427062501).
 strada('w30807007', 'trunk_link', 'w30807007', 1, 40, 1, 164.6495274073276).
@@ -7940,7 +7940,7 @@ strada('w30807134', 'trunk_link', 'w30807134', 0, 40, 2, 55.58760065661962).
 strada('w30807135', 'trunk_link', 'w30807135', 1, 40, 1, 103.23326613440862).
 strada('w30807183', 'secondary_link', 'w30807183', 1, 40, 2, 110.16478185862003).
 strada('w30832668', 'tertiary', 'Via Caldarola', 1, 40, 1, 1245.4996817825067).
-strada('w30832967', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 2, 63.271001495315616).
+strada('w30832967', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 2, 63.271001495315616).
 strada('w30832977', 'secondary', 'Sottovia Luigi di Savoia', 0, 50, 1, 142.34167856267703).
 strada('w30836855', 'tertiary', 'Strada Santa Caterina', 1, 50, 2, 48.08349240751557).
 strada('w30836857', 'tertiary', 'Strada Santa Caterina', 1, 50, 2, 309.56482084552874).
@@ -7960,15 +7960,15 @@ strada('w30859245', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 437.847101
 strada('w30859256', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 1637.9919223864913).
 strada('w30878404', 'trunk_link', 'w30878404', 1, 40, 1, 31.970246066302387).
 strada('w30878428', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 70.22626148131738).
-strada('w30878649', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 80, 2, 209.6244450784609).
+strada('w30878649', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 209.6244450784609).
 strada('w30893823', 'secondary', 'Complanare Ovest', 1, 30, 1, 101.15810632152218).
 strada('w30894755', 'tertiary', 'Via Caldarola', 1, 40, 1, 459.3761757540413).
 strada('w30894769', 'tertiary', 'Via Caldarola', 1, 40, 1, 363.7115934033989).
 strada('w30894775', 'tertiary', 'Via Caldarola', 1, 40, 1, 461.42283124271796).
 strada('w30894782', 'tertiary', 'Via Caldarola', 1, 40, 1, 130.48583863371886).
 strada('w30900608', 'secondary_link', 'w30900608', 0, 30, 1, 46.62197484318346).
-strada('w30900935', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 168.42044288202786).
-strada('w30901495', 'tertiary', 'Via Umberto primo', 0, 40, 1, 582.4125130574257).
+strada('w30900935', 'secondary', 'Via Giuseppe Fanelli', 0, 30, 1, 168.42044288202786).
+strada('w30901495', 'tertiary', 'Via Umberto primo', 0, 30, 1, 582.4125130574257).
 strada('w30902756', 'tertiary', 'Via Vittorio Veneto in Ceglie', 0, 40, 1, 339.45643921894276).
 strada('w30926539', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 2288.2534372293794).
 strada('w30927669', 'trunk_link', 'w30927669', 1, 40, 1, 199.1342019416784).
@@ -7986,33 +7986,33 @@ strada('w31248673', 'residential', 'w31248673', 0, 30, 1, 300.5672832743334).
 strada('w31248699', 'service', 'w31248699', 0, 20, 1, 340.37032092616573).
 strada('w31248719', 'service', 'w31248719', 0, 20, 1, 843.4862030796427).
 strada('w31248755', 'unclassified', 'Strada Vicinale Caldarola', 0, 30, 1, 2376.048004842841).
-strada('w31248772', 'residential', 'w31248772', 0, 20, 1, 92.47919224941865).
+strada('w31248772', 'residential', 'w31248772', 0, 30, 1, 92.47919224941865).
 strada('w31248776', 'track', 'w31248776', 0, 30, 1, 322.77990553824253).
-strada('w31248795', 'residential', 'w31248795', 1, 30, 1, 368.5195554663372).
+strada('w31248795', 'residential', 'w31248795', 1, 20, 1, 368.5195554663372).
 strada('w31248796', 'unclassified', 'w31248796', 1, 30, 1, 306.4894070116154).
 strada('w31310252', 'unclassified', 'Via Padova', 1, 30, 1, 264.90122507758855).
 strada('w31310253', 'residential', 'Via Zara', 0, 20, 1, 199.1256018388733).
 strada('w31310256', 'tertiary', 'Via Ugo Foscolo', 1, 40, 1, 19.67449779302023).
-strada('w31310259', 'unclassified', 'Via Luigi Partipilo', 0, 30, 1, 253.00434631057706).
-strada('w31310260', 'residential', 'Via Ponte', 0, 20, 1, 895.5618102513644).
-strada('w31310265', 'residential', 'Via Venezia', 1, 20, 1, 568.8306420831883).
-strada('w31310268', 'residential', 'Via della Vela', 1, 20, 1, 337.1928862564254).
+strada('w31310259', 'unclassified', 'Via Luigi Partipilo', 0, 20, 1, 253.00434631057706).
+strada('w31310260', 'residential', 'Via Ponte', 0, 30, 1, 895.5618102513644).
+strada('w31310265', 'residential', 'Via Venezia', 1, 30, 1, 568.8306420831883).
+strada('w31310268', 'residential', 'Via della Vela', 1, 30, 1, 337.1928862564254).
 strada('w31310270', 'unclassified', 'w31310270', 0, 30, 1, 164.51732379538126).
 strada('w31310273', 'track', 'Strada Giardinelli', 0, 30, 1, 389.80469505233486).
-strada('w31310275', 'unclassified', 'Via Francesco Pepe', 1, 30, 1, 200.28963163961404).
-strada('w31310277', 'unclassified', 'w31310277', 1, 30, 1, 40.29099121236168).
+strada('w31310275', 'unclassified', 'Via Francesco Pepe', 1, 20, 1, 200.28963163961404).
+strada('w31310277', 'unclassified', 'w31310277', 1, 20, 1, 40.29099121236168).
 strada('w31310280', 'unclassified', 'Via Rosario Livatino', 0, 30, 1, 159.66824445022513).
-strada('w31310281', 'unclassified', 'w31310281', 1, 30, 1, 40.58100411156255).
+strada('w31310281', 'unclassified', 'w31310281', 1, 20, 1, 40.58100411156255).
 strada('w31310428', 'service', 'w31310428', 0, 20, 1, 241.74585803982413).
-strada('w31310429', 'unclassified', 'w31310429', 0, 20, 1, 217.57612531778656).
-strada('w31310431', 'residential', 'w31310431', 0, 20, 1, 228.9664480469264).
+strada('w31310429', 'unclassified', 'w31310429', 0, 30, 1, 217.57612531778656).
+strada('w31310431', 'residential', 'w31310431', 0, 30, 1, 228.9664480469264).
 strada('w31310433', 'unclassified', 'w31310433', 0, 30, 1, 436.54203534422976).
 strada('w31310434', 'unclassified', 'w31310434', 0, 30, 1, 385.4644355142556).
-strada('w31310435', 'unclassified', 'w31310435', 0, 20, 1, 227.1921303004659).
-strada('w31310439', 'unclassified', 'w31310439', 0, 30, 1, 327.68957605093124).
+strada('w31310435', 'unclassified', 'w31310435', 0, 30, 1, 227.1921303004659).
+strada('w31310439', 'unclassified', 'w31310439', 0, 20, 1, 327.68957605093124).
 strada('w31310440', 'unclassified', 'w31310440', 0, 30, 1, 144.1847484520883).
 strada('w31310441', 'unclassified', 'Via Giulio Petroni', 1, 30, 1, 860.4202581234111).
-strada('w31311003', 'tertiary', 'Via Sant Angelo', 0, 40, 1, 154.10683255900017).
+strada('w31311003', 'tertiary', 'Via Sant Angelo', 0, 30, 1, 154.10683255900017).
 strada('w31311004', 'tertiary', 'w31311004', 1, 40, 1, 260.8000663034934).
 strada('w31311005', 'residential', 'Via Trieste in Ceglie', 1, 30, 1, 450.3355506477802).
 strada('w31311006', 'residential', 'Via San Gaspare del Bufalo', 0, 30, 1, 199.38616444850473).
@@ -8032,25 +8032,25 @@ strada('w31311298', 'residential', 'Via Luigi Quaranta', 0, 50, 1, 138.032371751
 strada('w31311299', 'residential', 'Via Antonio De Curtis', 0, 50, 1, 249.98450781703968).
 strada('w31311300', 'residential', 'Via Fratelli De Filippo', 0, 30, 1, 124.37642017500757).
 strada('w31311303', 'unclassified', 'Via Rocco Dicillo', 0, 30, 2, 96.06721166851202).
-strada('w31311304', 'residential', 'Via Giuseppe Martino', 0, 20, 1, 130.17441390124702).
+strada('w31311304', 'residential', 'Via Giuseppe Martino', 0, 30, 1, 130.17441390124702).
 strada('w31311305', 'unclassified', 'Via Gorizia', 1, 30, 1, 282.1264405937718).
 strada('w31311306', 'residential', 'Via Angeloantonio Quaranta', 0, 20, 1, 248.40084380962338).
 strada('w31311307', 'residential', 'Via Ada Negri', 0, 30, 1, 390.2539619680693).
-strada('w31311308', 'secondary', 'Via Francesco Rubini', 0, 30, 1, 246.01090476425077).
+strada('w31311308', 'secondary', 'Via Francesco Rubini', 0, 50, 1, 246.01090476425077).
 strada('w31311761', 'tertiary', 'Via Francesco Crispi', 1, 40, 1, 202.98634656402936).
-strada('w31311762', 'residential', 'Via IV Novembre', 0, 20, 1, 67.3103116002841).
+strada('w31311762', 'residential', 'Via IV Novembre', 0, 30, 1, 67.3103116002841).
 strada('w31311764', 'unclassified', 'Strada Deserti', 0, 30, 1, 646.4828925602045).
 strada('w31311765', 'secondary_link', 'w31311765', 1, 30, 1, 58.90135708092765).
 strada('w31311766', 'unclassified', 'Strada Cisterna di Terra Rossa', 0, 30, 1, 199.93886999041408).
 strada('w31311767', 'unclassified', 'Strada Cisterna di Terra Rossa', 0, 30, 1, 313.948723293833).
-strada('w31311768', 'residential', 'Via Dante Alighieri', 0, 20, 1, 119.65267252613768).
+strada('w31311768', 'residential', 'Via Dante Alighieri', 0, 30, 1, 119.65267252613768).
 strada('w31311769', 'residential', 'Via XXIV Maggio', 0, 30, 1, 64.41143749603094).
 strada('w31311770', 'residential', 'Via Piave', 0, 30, 1, 296.28031881852155).
-strada('w31311771', 'residential', 'Via Tagliamento', 0, 30, 1, 229.89712457299186).
+strada('w31311771', 'residential', 'Via Tagliamento', 0, 20, 1, 229.89712457299186).
 strada('w31311772', 'residential', 'Via Edmondo De Amicis', 0, 20, 1, 126.86553748352382).
 strada('w31311773', 'residential', 'Via Francesco Petrarca', 0, 30, 1, 113.33901118122142).
-strada('w31311774', 'residential', 'Via Gorizia', 0, 30, 1, 65.71792816546869).
-strada('w31311775', 'residential', 'w31311775', 0, 5, 1, 65.46535776390836).
+strada('w31311774', 'residential', 'Via Gorizia', 0, 20, 1, 65.71792816546869).
+strada('w31311775', 'residential', 'w31311775', 0, 30, 1, 65.46535776390836).
 strada('w31311776', 'residential', 'Via Cormons', 0, 20, 1, 64.47869275755457).
 strada('w31311777', 'residential', 'Via Goffredo Mameli', 0, 30, 1, 64.70841275861075).
 strada('w31311778', 'residential', 'Via della Cava', 0, 30, 1, 133.45471924894343).
@@ -8058,10 +8058,10 @@ strada('w31311779', 'residential', 'Via Tiziano Vecellio', 0, 30, 1, 64.60169001
 strada('w31311780', 'residential', 'w31311780', 0, 30, 1, 193.96119500387087).
 strada('w31329895', 'residential', 'Via Martin Lutero', 0, 30, 1, 85.67616036317918).
 strada('w31340171', 'service', 'w31340171', 0, 20, 1, 328.44640439197997).
-strada('w31340172', 'service', 'w31340172', 0, 10, 1, 98.82495728996537).
+strada('w31340172', 'service', 'w31340172', 0, 20, 1, 98.82495728996537).
 strada('w31340173', 'unclassified', 'w31340173', 0, 30, 1, 49.268445273303534).
 strada('w31340174', 'unclassified', 'w31340174', 0, 30, 1, 129.5073618343984).
-strada('w31340175', 'unclassified', 'w31340175', 0, 30, 1, 172.34365082038855).
+strada('w31340175', 'unclassified', 'w31340175', 0, 20, 1, 172.34365082038855).
 strada('w31340176', 'residential', 'w31340176', 0, 20, 1, 114.83426872641513).
 strada('w31340178', 'residential', 'Via Generale Carlo Alberto Dalla Chiesa', 0, 30, 1, 102.81439458082336).
 strada('w31340179', 'residential', 'w31340179', 0, 20, 1, 218.89306644829605).
@@ -8075,38 +8075,38 @@ strada('w31340589', 'unclassified', 'w31340589', 0, 30, 1, 71.26258831860424).
 strada('w31340590', 'unclassified', 'w31340590', 0, 30, 1, 52.817283151821044).
 strada('w31340591', 'unclassified', 'w31340591', 0, 30, 1, 53.36992413489818).
 strada('w31340592', 'unclassified', 'w31340592', 0, 30, 1, 54.16385247938986).
-strada('w31340593', 'residential', 'Via Villafranca', 0, 30, 1, 206.36566913621436).
-strada('w31340594', 'unclassified', 'Via Ognissanti', 1, 20, 1, 183.52715135424768).
+strada('w31340593', 'residential', 'Via Villafranca', 0, 20, 1, 206.36566913621436).
+strada('w31340594', 'unclassified', 'Via Ognissanti', 1, 30, 1, 183.52715135424768).
 strada('w31340595', 'residential', 'Via Taranto', 0, 30, 1, 164.64916786009036).
 strada('w31340596', 'unclassified', 'Via Goito', 1, 30, 1, 191.64074252911703).
 strada('w31340597', 'unclassified', 'Via Firenze', 0, 30, 1, 148.8333169184476).
 strada('w31340598', 'residential', 'Via Antonio Cantore', 0, 30, 1, 116.53281533036522).
 strada('w31340976', 'residential', 'Via Nazario Sauro', 1, 20, 1, 218.02735438242465).
 strada('w31340977', 'residential', 'Via Cristoforo Colombo', 1, 30, 1, 216.06913907856836).
-strada('w31340979', 'residential', 'Via Raffaello', 1, 30, 1, 218.65390371798122).
+strada('w31340979', 'residential', 'Via Raffaello', 1, 20, 1, 218.65390371798122).
 strada('w31340980', 'residential', 'Via Piave', 1, 20, 1, 210.65131693025913).
-strada('w31340981', 'residential', 'Via Santa Lucia', 1, 20, 1, 171.99094362239214).
-strada('w31340983', 'residential', 'Via Genova', 1, 20, 1, 266.0930612318524).
-strada('w31340984', 'residential', 'Via Milano', 1, 30, 1, 136.51322431779994).
+strada('w31340981', 'residential', 'Via Santa Lucia', 1, 30, 1, 171.99094362239214).
+strada('w31340983', 'residential', 'Via Genova', 1, 30, 1, 266.0930612318524).
+strada('w31340984', 'residential', 'Via Milano', 1, 20, 1, 136.51322431779994).
 strada('w31340986', 'residential', 'Via Torino', 1, 30, 1, 68.6104532474076).
 strada('w31340988', 'residential', 'Via Montello', 1, 30, 1, 134.61490453078392).
 strada('w31340991', 'residential', 'Vico Randaccio', 1, 30, 1, 77.68688296432781).
 strada('w31340993', 'residential', 'Via Timavo', 1, 30, 1, 80.6608087271821).
 strada('w31340995', 'residential', 'Via Giovanni Pascoli', 1, 30, 1, 106.09828266488108).
 strada('w31340998', 'residential', 'Via Quarnaro', 1, 30, 1, 53.797342797934384).
-strada('w31341000', 'residential', 'Via Messina', 1, 30, 1, 196.24300843796993).
+strada('w31341000', 'residential', 'Via Messina', 1, 20, 1, 196.24300843796993).
 strada('w31341009', 'residential', 'Via Ospedalieri', 1, 30, 1, 53.65839767528777).
-strada('w31341013', 'residential', 'Via Speranza', 1, 20, 1, 171.5976535174019).
+strada('w31341013', 'residential', 'Via Speranza', 1, 30, 1, 171.5976535174019).
 strada('w31341015', 'residential', 'Via Giovanni Randaccio', 1, 30, 1, 416.6356012089178).
 strada('w31341602', 'unclassified', 'Vico Guglielmo Oberdan', 0, 30, 1, 167.86997663100206).
 strada('w31341604', 'unclassified', 'Via Luigi Cadorna', 0, 30, 1, 203.6392854999565).
-strada('w31341605', 'unclassified', 'Via Maggiore Baracca', 0, 20, 1, 95.68956745933556).
+strada('w31341605', 'unclassified', 'Via Maggiore Baracca', 0, 30, 1, 95.68956745933556).
 strada('w31341606', 'unclassified', 'Via Guglielmo Oberdan', 0, 30, 1, 107.42952706792192).
 strada('w31341608', 'residential', 'Via Cesare Battisti', 0, 30, 1, 200.50337299411544).
-strada('w31341609', 'residential', 'Via Bonifacio', 1, 20, 1, 472.39926287375295).
+strada('w31341609', 'residential', 'Via Bonifacio', 1, 30, 1, 472.39926287375295).
 strada('w31341610', 'unclassified', 'Via Cavour', 0, 30, 1, 146.293512130451).
-strada('w31341611', 'residential', 'Via Marsala', 0, 30, 1, 86.6154783817158).
-strada('w31341612', 'residential', 'Via Bainsizza', 0, 30, 1, 152.25455142199223).
+strada('w31341611', 'residential', 'Via Marsala', 0, 20, 1, 86.6154783817158).
+strada('w31341612', 'residential', 'Via Bainsizza', 0, 5, 1, 152.25455142199223).
 strada('w31341613', 'residential', 'Via Carlo Alberto', 0, 30, 1, 133.05774339500164).
 strada('w31341614', 'residential', 'Via Filippo Fusco', 0, 30, 1, 363.4319445193946).
 strada('w31341615', 'residential', 'w31341615', 0, 20, 1, 80.7463095071046).
@@ -8115,43 +8115,43 @@ strada('w31341617', 'residential', 'Via Montesanto', 1, 30, 1, 55.3039416322474)
 strada('w31341618', 'unclassified', 'w31341618', 0, 30, 1, 50.57038707990711).
 strada('w31341620', 'unclassified', 'w31341620', 0, 30, 1, 66.9277519163733).
 strada('w31341621', 'residential', 'Via Palermo', 0, 20, 1, 143.171307306003).
-strada('w31341623', 'residential', 'Via Marsala', 0, 30, 1, 143.26043128724768).
-strada('w31341625', 'residential', 'Via San Pasquale', 0, 20, 1, 111.64517039639406).
+strada('w31341623', 'residential', 'Via Marsala', 0, 20, 1, 143.26043128724768).
+strada('w31341625', 'residential', 'Via San Pasquale', 0, 30, 1, 111.64517039639406).
 strada('w31341626', 'residential', 'Via Benedetto Cairoli', 1, 30, 1, 116.74065147489623).
 strada('w31341627', 'residential', 'Via Foggia', 0, 30, 1, 112.00713672363936).
 strada('w31341628', 'residential', 'w31341628', 0, 20, 1, 115.95272115332565).
-strada('w31341629', 'residential', 'Via Carlo del Prete', 1, 20, 1, 112.88708926635945).
+strada('w31341629', 'residential', 'Via Carlo del Prete', 1, 30, 1, 112.88708926635945).
 strada('w31341630', 'unclassified', 'Via Principessa Iolanda', 1, 30, 1, 312.7089216311673).
 strada('w31341631', 'residential', 'Via Carlo Cafiero', 0, 30, 1, 115.72203921450813).
 strada('w31341632', 'unclassified', 'Via San Marco', 0, 30, 1, 101.7926851516351).
-strada('w31341633', 'residential', 'Via Gaetano Briganti', 0, 30, 1, 102.33803395042784).
-strada('w31341634', 'residential', 'w31341634', 0, 5, 1, 96.29102534659128).
+strada('w31341633', 'residential', 'Via Gaetano Briganti', 0, 20, 1, 102.33803395042784).
+strada('w31341634', 'residential', 'w31341634', 0, 30, 1, 96.29102534659128).
 strada('w31341636', 'unclassified', 'w31341636', 0, 30, 1, 84.57642985689638).
 strada('w31341637', 'residential', 'Via Regina Elena', 1, 30, 1, 124.01300860473748).
 strada('w31341638', 'residential', 'Via San Filippo', 1, 30, 1, 76.951264461324).
-strada('w31341639', 'unclassified', 'w31341639', 0, 30, 1, 146.52304980188592).
-strada('w31341640', 'residential', 'Via Isonzo', 1, 20, 1, 103.79442321893956).
-strada('w31341641', 'unclassified', 'Via delle Lamie', 0, 30, 1, 204.26271376410227).
+strada('w31341639', 'unclassified', 'w31341639', 0, 20, 1, 146.52304980188592).
+strada('w31341640', 'residential', 'Via Isonzo', 1, 30, 1, 103.79442321893956).
+strada('w31341641', 'unclassified', 'Via delle Lamie', 0, 20, 1, 204.26271376410227).
 strada('w31355794', 'residential', 'Via Roma', 1, 30, 1, 238.56348671986257).
 strada('w31355796', 'residential', 'Via Vincenzo Gioberti', 0, 20, 1, 129.98597261811784).
-strada('w31355798', 'residential', 'Via Stoppato', 0, 30, 1, 113.29327683672065).
+strada('w31355798', 'residential', 'Via Stoppato', 0, 20, 1, 113.29327683672065).
 strada('w31355801', 'residential', 'Via Cremona', 0, 30, 1, 183.71609520147808).
-strada('w31355803', 'residential', 'Via Brescia', 0, 30, 1, 147.743577954098).
+strada('w31355803', 'residential', 'Via Brescia', 0, 20, 1, 147.743577954098).
 strada('w31355805', 'residential', 'Via della Concordia', 0, 20, 1, 69.1214654593415).
 strada('w31355807', 'residential', 'Via Michelangelo', 0, 30, 1, 160.34624519329745).
 strada('w31355808', 'residential', 'Via Calatafimi', 0, 20, 1, 120.65762881922225).
-strada('w31355809', 'residential', 'Via Gaeta', 0, 5, 1, 52.03366324411695).
-strada('w31355810', 'residential', 'Via Volturno', 0, 20, 1, 48.783466351202804).
+strada('w31355809', 'residential', 'Via Gaeta', 0, 30, 1, 52.03366324411695).
+strada('w31355810', 'residential', 'Via Volturno', 0, 30, 1, 48.783466351202804).
 strada('w31355812', 'unclassified', 'w31355812', 0, 30, 1, 109.53788629762894).
 strada('w31355813', 'unclassified', 'w31355813', 0, 30, 1, 93.41953783711617).
 strada('w31355816', 'unclassified', 'Via Napoli', 1, 30, 1, 210.62168891586725).
-strada('w31355820', 'residential', 'Via Crocifisso', 1, 20, 1, 95.80686656116345).
+strada('w31355820', 'residential', 'Via Crocifisso', 1, 30, 1, 95.80686656116345).
 strada('w31355823', 'unclassified', 'w31355823', 0, 30, 1, 58.01269479477354).
 strada('w31355825', 'unclassified', 'Via Monte Grappa', 1, 30, 1, 119.10115358324784).
-strada('w31355826', 'unclassified', 'Via Calabria', 0, 30, 1, 120.42334201115149).
-strada('w31355827', 'unclassified', 'Via Giuseppe Verdi', 1, 30, 1, 196.7773673717149).
-strada('w31355828', 'unclassified', 'Via Giuseppe Verdi', 0, 30, 1, 162.34813136201024).
-strada('w31355829', 'residential', 'Via Lugano', 0, 30, 1, 83.14406647623572).
+strada('w31355826', 'unclassified', 'Via Calabria', 0, 20, 1, 120.42334201115149).
+strada('w31355827', 'unclassified', 'Via Giuseppe Verdi', 1, 20, 1, 196.7773673717149).
+strada('w31355828', 'unclassified', 'Via Giuseppe Verdi', 0, 20, 1, 162.34813136201024).
+strada('w31355829', 'residential', 'Via Lugano', 0, 20, 1, 83.14406647623572).
 strada('w31355830', 'unclassified', 'Via Carlo Goldoni', 0, 30, 1, 99.49168796155435).
 strada('w31355832', 'unclassified', 'w31355832', 0, 30, 1, 71.82325342645166).
 strada('w31355957', 'residential', 'Via San Procopio', 0, 30, 1, 63.54957550790861).
@@ -8182,93 +8182,93 @@ strada('w31576671', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 45.615109036209795
 strada('w31576672', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 1130.5706125966751).
 strada('w31576673', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 44.04051821327842).
 strada('w31576674', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 781.6354949647917).
-strada('w31578889', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 30.962997933410215).
+strada('w31578889', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 30.962997933410215).
 strada('w31578891', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 25.884540045635845).
-strada('w31578893', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 109.20358564159825).
-strada('w31578894', 'secondary', 'Strada San Giorgio Martire', 0, 50, 2, 20.95170564295517).
-strada('w31578895', 'secondary', 'Strada vicinale San Giorgio Martire', 0, 30, 2, 247.79352276008336).
-strada('w31578896', 'residential', 'Via Salvatore Pietrocola', 0, 20, 1, 38.79373454473273).
+strada('w31578893', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 109.20358564159825).
+strada('w31578894', 'secondary', 'Strada San Giorgio Martire', 0, 30, 2, 20.95170564295517).
+strada('w31578895', 'secondary', 'Strada vicinale San Giorgio Martire', 0, 50, 2, 247.79352276008336).
+strada('w31578896', 'residential', 'Via Salvatore Pietrocola', 0, 30, 1, 38.79373454473273).
 strada('w31579982', 'unclassified', 'w31579982', 1, 30, 1, 29.269950238719574).
-strada('w31579983', 'service', 'w31579983', 0, 10, 1, 23.26927882220555).
+strada('w31579983', 'service', 'w31579983', 0, 20, 1, 23.26927882220555).
 strada('w31579984', 'service', 'w31579984', 0, 20, 1, 33.81238760549619).
 strada('w31579985', 'service', 'w31579985', 0, 20, 1, 45.19783454658627).
-strada('w31579987', 'unclassified', 'Via Rosario Livatino', 0, 20, 1, 243.9867329705302).
+strada('w31579987', 'unclassified', 'Via Rosario Livatino', 0, 30, 1, 243.9867329705302).
 strada('w31579988', 'trunk_link', 'w31579988', 1, 40, 1, 55.84231752277396).
 strada('w31579989', 'trunk_link', 'w31579989', 1, 40, 1, 19.81236935634396).
 strada('w31579990', 'trunk_link', 'w31579990', 0, 40, 1, 90.58897480049455).
 strada('w31579992', 'trunk_link', 'w31579992', 1, 40, 1, 60.09926327073396).
-strada('w31715929', 'unclassified', 'Via Pionieri del Commercio Barese', 1, 30, 1, 260.5511230660842).
+strada('w31715929', 'unclassified', 'Via Pionieri del Commercio Barese', 1, 20, 1, 260.5511230660842).
 strada('w31715935', 'unclassified', 'Via delle Camelie', 1, 30, 1, 21.83507363046298).
 strada('w31715968', 'unclassified', 'Via Gaetano Ferorelli', 0, 30, 1, 295.87645452842537).
 strada('w31715978', 'unclassified', 'Via Fratelli Philips', 0, 30, 1, 1070.9715054040546).
-strada('w31716006', 'tertiary', 'Viale Francesco de Blasio', 1, 30, 2, 293.75233079946634).
-strada('w31767036', 'tertiary', 'Via degli Iris', 0, 30, 1, 993.6969164407428).
+strada('w31716006', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 293.75233079946634).
+strada('w31767036', 'tertiary', 'Via degli Iris', 0, 40, 1, 993.6969164407428).
 strada('w31767075', 'unclassified', 'w31767075', 0, 30, 1, 1406.3904783699973).
 strada('w31767084', 'track', 'w31767084', 0, 30, 1, 599.1921564991578).
-strada('w31779087', 'tertiary', 'Via Ospedale di Venere', 1, 30, 1, 495.96875513336715).
-strada('w31779089', 'tertiary', 'Via Giovanni De Candia', 0, 30, 1, 222.22929706463032).
+strada('w31779087', 'tertiary', 'Via Ospedale di Venere', 1, 40, 1, 495.96875513336715).
+strada('w31779089', 'tertiary', 'Via Giovanni De Candia', 0, 40, 1, 222.22929706463032).
 strada('w31779090', 'residential', 'Via Moncalieri', 1, 30, 1, 150.53870152331694).
-strada('w31779092', 'unclassified', 'Strada Vela', 0, 30, 1, 918.1779436223546).
-strada('w31785088', 'residential', 'Via Sergio Pansini', 1, 20, 1, 272.95711700615954).
+strada('w31779092', 'unclassified', 'Strada Vela', 0, 20, 1, 918.1779436223546).
+strada('w31785088', 'residential', 'Via Sergio Pansini', 1, 30, 1, 272.95711700615954).
 strada('w31785223', 'unclassified', 'w31785223', 1, 30, 1, 29.746188460581415).
-strada('w31785293', 'residential', 'w31785293', 0, 20, 1, 153.05532037807035).
+strada('w31785293', 'residential', 'w31785293', 0, 30, 1, 153.05532037807035).
 strada('w31785294', 'residential', 'w31785294', 0, 30, 1, 158.39890923608885).
 strada('w31785443', 'track', 'w31785443', 0, 30, 1, 895.4012112516575).
 strada('w31785486', 'service', 'w31785486', 0, 20, 1, 53.780557661317346).
-strada('w31785501', 'unclassified', 'w31785501', 0, 30, 1, 248.12383084976292).
+strada('w31785501', 'unclassified', 'w31785501', 0, 20, 1, 248.12383084976292).
 strada('w31785505', 'unclassified', 'w31785505', 0, 30, 1, 109.76124796821601).
 strada('w31785507', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 88.81636422644573).
 strada('w31785510', 'unclassified', 'w31785510', 0, 30, 1, 116.35864720665707).
 strada('w31785513', 'unclassified', 'w31785513', 0, 30, 1, 92.11061693734683).
-strada('w31785518', 'unclassified', 'Via Luigi Ranieri', 0, 20, 1, 232.66253883484717).
+strada('w31785518', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 232.66253883484717).
 strada('w31785520', 'service', 'Via Luigi Ranieri', 0, 20, 1, 8.462614522316201).
 strada('w31785524', 'service', 'w31785524', 0, 20, 1, 14.132822364640152).
 strada('w31799585', 'service', 'w31799585', 0, 20, 1, 19.356764425333207).
-strada('w31951057', 'residential', 'w31951057', 0, 30, 1, 49.5339074691124).
+strada('w31951057', 'residential', 'w31951057', 0, 20, 1, 49.5339074691124).
 strada('w31951125', 'residential', 'w31951125', 0, 30, 1, 160.2633800022595).
 strada('w31951127', 'residential', 'w31951127', 0, 20, 1, 140.79335697474832).
-strada('w31951131', 'residential', 'w31951131', 0, 30, 1, 142.96229982563335).
+strada('w31951131', 'residential', 'w31951131', 0, 20, 1, 142.96229982563335).
 strada('w31951133', 'residential', 'w31951133', 0, 20, 1, 52.68609137176957).
 strada('w31951166', 'service', 'w31951166', 0, 20, 1, 39.05904010136714).
 strada('w31951173', 'residential', 'Corso Alcide De Gasperi', 0, 20, 1, 212.7175075590451).
 strada('w32005887', 'service', 'w32005887', 0, 20, 1, 142.83597718915524).
 strada('w32076687', 'service', 'Seconda Strada Borrelli', 1, 20, 1, 144.9442989258391).
 strada('w32335708', 'residential', 'Via Franco Sorrentino', 1, 30, 1, 250.60289496943045).
-strada('w32469497', 'residential', 'Via Pacifico Mazzoni', 0, 30, 1, 499.0889449098903).
-strada('w32469543', 'residential', 'Via Gaetano Granieri', 0, 20, 1, 490.0430722539829).
+strada('w32469497', 'residential', 'Via Pacifico Mazzoni', 0, 20, 1, 499.0889449098903).
+strada('w32469543', 'residential', 'Via Gaetano Granieri', 0, 30, 1, 490.0430722539829).
 strada('w32469557', 'unclassified', 'Via Giuseppe De Ribera', 1, 30, 1, 317.84174045273335).
 strada('w32469570', 'unclassified', 'w32469570', 1, 30, 1, 128.01119139867563).
 strada('w32469576', 'residential', 'Via Gennaro Maria Monti', 0, 20, 1, 380.74301016746483).
 strada('w32469592', 'residential', 'Via Nicola Leotta', 0, 20, 1, 210.98645209251643).
-strada('w32469603', 'unclassified', 'w32469603', 0, 20, 1, 68.14116301014764).
-strada('w32469632', 'residential', 'Via Giovanni Candura', 0, 20, 1, 212.54875901789097).
-strada('w32469709', 'residential', 'Via Vincenzo Bonomo', 0, 30, 1, 554.167327347352).
-strada('w32469713', 'residential', 'Via De Benedictis', 0, 30, 1, 216.27967834629948).
+strada('w32469603', 'unclassified', 'w32469603', 0, 30, 1, 68.14116301014764).
+strada('w32469632', 'residential', 'Via Giovanni Candura', 0, 30, 1, 212.54875901789097).
+strada('w32469709', 'residential', 'Via Vincenzo Bonomo', 0, 20, 1, 554.167327347352).
+strada('w32469713', 'residential', 'Via De Benedictis', 0, 20, 1, 216.27967834629948).
 strada('w32469715', 'residential', 'Via V. Lonero', 0, 20, 1, 184.666201213413).
 strada('w32469721', 'residential', 'Via Arturo Atti', 0, 30, 1, 226.60510398856044).
 strada('w32526035', 'residential', 'Via Giacomino Pugliese', 0, 30, 1, 227.7823954339193).
 strada('w32526051', 'residential', 'Via Cozzoli', 0, 30, 1, 214.82595309803594).
-strada('w32526055', 'residential', 'Via Andrea Miglionico', 0, 20, 1, 283.89624720762095).
+strada('w32526055', 'residential', 'Via Andrea Miglionico', 0, 30, 1, 283.89624720762095).
 strada('w32526058', 'residential', 'Via Saverio Altamura', 0, 30, 1, 353.91253602323945).
 strada('w32526061', 'residential', 'Via Beethoven', 0, 30, 1, 162.3083354998941).
-strada('w32526062', 'residential', 'Via Stella', 0, 30, 1, 80.04203756755986).
-strada('w32526065', 'unclassified', 'w32526065', 1, 20, 1, 18.317099405395396).
+strada('w32526062', 'residential', 'Via Stella', 0, 20, 1, 80.04203756755986).
+strada('w32526065', 'unclassified', 'w32526065', 1, 30, 1, 18.317099405395396).
 strada('w32526066', 'residential', 'Via Marche', 0, 50, 1, 381.3061838093615).
 strada('w32526071', 'residential', 'Via Veneto', 0, 30, 1, 278.12274846883366).
 strada('w32526074', 'residential', 'Viale Lazio', 0, 50, 1, 253.74534402777095).
 strada('w32526078', 'residential', 'Via Emilia Romagna', 0, 20, 1, 155.5537427962489).
 strada('w32526080', 'residential', 'Via Abruzzi', 0, 30, 1, 270.82224116881804).
-strada('w32526082', 'residential', 'Via Molise', 0, 30, 1, 234.23523480485778).
+strada('w32526082', 'residential', 'Via Molise', 0, 20, 1, 234.23523480485778).
 strada('w32526092', 'residential', 'Viale Puglia', 1, 50, 1, 256.6936484266016).
 strada('w32526100', 'residential', 'Viale Puglia', 1, 30, 1, 169.34011266808216).
 strada('w32942091', 'residential', 'Via Sicilia', 1, 50, 1, 487.69519596407605).
-strada('w32942093', 'residential', 'Via Perugia', 0, 5, 1, 174.15778021404876).
-strada('w32942098', 'residential', 'Via Taranto', 0, 20, 1, 270.1706383002807).
+strada('w32942093', 'residential', 'Via Perugia', 0, 20, 1, 174.15778021404876).
+strada('w32942098', 'residential', 'Via Taranto', 0, 30, 1, 270.1706383002807).
 strada('w32942113', 'residential', 'Via Alfredo Violante', 0, 20, 1, 197.01723036805697).
 strada('w32942115', 'tertiary', 'Via Scardicchio', 0, 40, 1, 192.420436155608).
 strada('w32942153', 'residential', 'Via Alessandria', 0, 30, 1, 139.75813589616612).
-strada('w32942157', 'residential', 'Via Novara', 0, 20, 1, 102.01906942133571).
-strada('w32942162', 'residential', 'Via Val D Aosta', 0, 20, 1, 131.70894986232895).
+strada('w32942157', 'residential', 'Via Novara', 0, 30, 1, 102.01906942133571).
+strada('w32942162', 'residential', 'Via Val D Aosta', 0, 30, 1, 131.70894986232895).
 strada('w32942165', 'residential', 'Via Mantova', 0, 30, 1, 109.92163997240363).
 strada('w32942174', 'residential', 'Via Toscana', 0, 50, 1, 230.62026176392067).
 strada('w32942178', 'residential', 'Via Latina', 0, 50, 1, 116.35527913945903).
@@ -8276,21 +8276,21 @@ strada('w32942321', 'residential', 'Via Novara', 0, 30, 1, 150.54378885333387).
 strada('w32942339', 'residential', 'Via Lombardia', 0, 30, 1, 272.4733107844747).
 strada('w32942351', 'unclassified', 'w32942351', 0, 30, 1, 85.38916800202314).
 strada('w32942365', 'residential', 'Via Toscana', 0, 50, 1, 120.76038687539099).
-strada('w32942549', 'tertiary', 'w32942549', 1, 30, 1, 280.2997683578926).
+strada('w32942549', 'tertiary', 'w32942549', 1, 40, 1, 280.2997683578926).
 strada('w32942554', 'tertiary', 'w32942554', 0, 40, 1, 297.52672131789916).
-strada('w32942590', 'residential', 'Via Gaetano Fiore', 0, 30, 1, 202.69408519129732).
+strada('w32942590', 'residential', 'Via Gaetano Fiore', 0, 5, 1, 202.69408519129732).
 strada('w32942594', 'unclassified', 'w32942594', 0, 30, 1, 107.78112654103914).
 strada('w32942596', 'unclassified', 'w32942596', 0, 30, 1, 65.17646849343797).
-strada('w32942605', 'residential', 'w32942605', 0, 30, 1, 167.3235338811258).
+strada('w32942605', 'residential', 'w32942605', 0, 20, 1, 167.3235338811258).
 strada('w32942637', 'residential', 'Via Barisano Da Trani', 0, 30, 1, 629.5168119514726).
 strada('w32942639', 'residential', 'Via Cifariello', 0, 30, 1, 216.8199498989741).
 strada('w32942649', 'residential', 'Piazza Giuseppe Romita', 0, 50, 1, 325.4242767379836).
 strada('w32942662', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 718.9211841117897).
-strada('w32942665', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 407.150123683767).
+strada('w32942665', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 407.150123683767).
 strada('w32942668', 'residential', 'Viale delle Regioni', 1, 30, 1, 238.05305721987742).
 strada('w32942672', 'residential', 'Via Agrigento', 0, 30, 1, 99.01048922110391).
 strada('w32942673', 'residential', 'Via Basilicata', 0, 30, 1, 193.14523445507243).
-strada('w32942691', 'residential', 'Via Brindisi', 0, 20, 1, 246.3298773509289).
+strada('w32942691', 'residential', 'Via Brindisi', 0, 30, 1, 246.3298773509289).
 strada('w32942696', 'residential', 'Via Cosenza', 0, 50, 1, 115.03178731388464).
 strada('w32942697', 'residential', 'Via Catanzaro', 0, 50, 1, 154.18305315009044).
 strada('w32942700', 'residential', 'Via Cagliari', 0, 50, 1, 97.46296956522293).
@@ -8303,17 +8303,17 @@ strada('w33053203', 'unclassified', 'w33053203', 1, 30, 1, 120.46089614587532).
 strada('w33053237', 'unclassified', 'w33053237', 1, 30, 1, 108.14272603276719).
 strada('w33053472', 'residential', 'Via Francesco Paolo Troccoli', 0, 20, 2, 271.0709734727809).
 strada('w33053489', 'unclassified', 'w33053489', 0, 30, 1, 199.871430534335).
-strada('w33053507', 'unclassified', 'w33053507', 0, 30, 1, 315.66949032758157).
+strada('w33053507', 'unclassified', 'w33053507', 0, 20, 1, 315.66949032758157).
 strada('w33053525', 'unclassified', 'w33053525', 0, 30, 2, 193.52629837231268).
 strada('w33053538', 'unclassified', 'w33053538', 1, 30, 1, 174.22446518490034).
 strada('w33053553', 'unclassified', 'w33053553', 1, 30, 1, 174.82829528946405).
 strada('w33053587', 'residential', 'Francesco Paolo Troccoli C', 0, 30, 2, 377.38794708937786).
-strada('w33053642', 'unclassified', 'w33053642', 0, 20, 1, 145.53787939944064).
+strada('w33053642', 'unclassified', 'w33053642', 0, 30, 1, 145.53787939944064).
 strada('w33053670', 'unclassified', 'w33053670', 0, 30, 2, 90.66286106345939).
 strada('w33053729', 'residential', 'Francesco Paolo Troccoli D', 0, 30, 2, 211.29198270972458).
 strada('w33053752', 'residential', 'Francesco Paolo Troccoli B', 0, 20, 2, 152.85887121184095).
 strada('w33053813', 'unclassified', 'w33053813', 0, 30, 1, 173.3392561714782).
-strada('w33053869', 'unclassified', 'w33053869', 0, 30, 1, 108.5324321876163).
+strada('w33053869', 'unclassified', 'w33053869', 0, 20, 1, 108.5324321876163).
 strada('w33053903', 'unclassified', 'w33053903', 0, 30, 1, 170.06086079435522).
 strada('w33053931', 'unclassified', 'w33053931', 0, 30, 1, 58.57809897906908).
 strada('w33053940', 'unclassified', 'w33053940', 0, 30, 1, 98.09048283993037).
@@ -8326,39 +8326,39 @@ strada('w33054205', 'unclassified', 'w33054205', 1, 30, 1, 485.0311814360886).
 strada('w33054227', 'unclassified', 'Via Don Carlo Gnocchi', 0, 30, 2, 478.50435357905803).
 strada('w33054276', 'tertiary', 'Via Nicola Cacudi', 0, 40, 1, 469.58202140994484).
 strada('w33054397', 'unclassified', 'w33054397', 0, 30, 1, 401.37378688466424).
-strada('w33054399', 'unclassified', 'w33054399', 0, 20, 1, 156.75874825303737).
-strada('w33054517', 'unclassified', 'Strada Castelluccio', 0, 30, 1, 138.2251421110676).
+strada('w33054399', 'unclassified', 'w33054399', 0, 30, 1, 156.75874825303737).
+strada('w33054517', 'unclassified', 'Strada Castelluccio', 0, 20, 1, 138.2251421110676).
 strada('w33203433', 'trunk_link', 'w33203433', 0, 40, 1, 4.496959102895288).
 strada('w33203435', 'motorway_link', 'Autostrada A14 Adriatica', 0, 40, 2, 44.1782432451618).
 strada('w33203436', 'motorway_link', 'Autostrada A14 Adriatica', 0, 40, 2, 303.86301245334937).
-strada('w33204236', 'secondary', 'w33204236', 0, 30, 2, 307.08279593399567).
+strada('w33204236', 'secondary', 'w33204236', 0, 50, 2, 307.08279593399567).
 strada('w33537446', 'unclassified', 'Via Umberto Oriolo', 1, 30, 1, 184.92046492313386).
 strada('w33537456', 'unclassified', 'Via Achille de Pascale', 0, 30, 1, 204.46933552670438).
 strada('w33537462', 'residential', 'Via Giuseppe Lembo', 0, 30, 1, 238.6665271147932).
-strada('w33831686', 'residential', 'Via Daniele Petrera', 1, 30, 1, 267.6579440167088).
+strada('w33831686', 'residential', 'Via Daniele Petrera', 1, 20, 1, 267.6579440167088).
 strada('w33831687', 'residential', 'Via Pasubio', 0, 30, 1, 232.30944450676864).
-strada('w33831688', 'residential', 'Stradella del Caffe ', 0, 20, 1, 17.23127389245998).
+strada('w33831688', 'residential', 'Stradella del Caffe ', 0, 30, 1, 17.23127389245998).
 strada('w33831689', 'unclassified', 'Via Rodolfo Redi', 1, 30, 1, 88.99682434562631).
 strada('w33837409', 'residential', 'Via Domenico Mandragora', 0, 30, 1, 209.76937602688918).
 strada('w34547612', 'unclassified', 'w34547612', 0, 30, 1, 364.7367050163026).
 strada('w34549331', 'residential', 'w34549331', 0, 30, 1, 194.65604758734608).
 strada('w34549928', 'service', 'w34549928', 0, 20, 1, 690.3000261129926).
 strada('w34549936', 'tertiary_link', 'w34549936', 1, 50, 1, 65.27442192591654).
-strada('w34550135', 'residential', 'w34550135', 1, 20, 1, 294.36079186506475).
+strada('w34550135', 'residential', 'w34550135', 1, 30, 1, 294.36079186506475).
 strada('w34550141', 'residential', 'w34550141', 0, 30, 1, 178.50129552966717).
 strada('w34550150', 'unclassified', 'w34550150', 0, 30, 1, 292.143956172567).
 strada('w34550154', 'unclassified', 'w34550154', 0, 30, 1, 66.63539024833312).
 strada('w34550158', 'unclassified', 'w34550158', 0, 30, 1, 159.7578031201671).
-strada('w34573144', 'residential', 'Via Prospero Petroni', 1, 20, 1, 76.39204076891686).
-strada('w34586843', 'unclassified', 'Via del Rispetto', 0, 30, 1, 256.921460991472).
+strada('w34573144', 'residential', 'Via Prospero Petroni', 1, 30, 1, 76.39204076891686).
+strada('w34586843', 'unclassified', 'Via del Rispetto', 0, 20, 1, 256.921460991472).
 strada('w34586863', 'unclassified', 'w34586863', 0, 30, 1, 39.561436397283195).
-strada('w34586924', 'unclassified', 'Via Nicholas Green', 0, 20, 2, 434.71699981110555).
+strada('w34586924', 'unclassified', 'Via Nicholas Green', 0, 30, 2, 434.71699981110555).
 strada('w34654723', 'unclassified', 'w34654723', 0, 30, 1, 231.29092850681243).
-strada('w34654850', 'unclassified', 'Via Edoardo De Filippo', 0, 20, 1, 338.0681226879866).
+strada('w34654850', 'unclassified', 'Via Edoardo De Filippo', 0, 30, 1, 338.0681226879866).
 strada('w35085733', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 63.04899234039226).
 strada('w35086123', 'residential', 'Via Antonio Fenicia', 0, 30, 1, 277.95636776909447).
 strada('w35086124', 'tertiary', 'Strada Complanare Est', 0, 70, 2, 1851.0619994103613).
-strada('w35086126', 'residential', 'Via Principi di Piemonte', 1, 20, 1, 68.54449426901809).
+strada('w35086126', 'residential', 'Via Principi di Piemonte', 1, 30, 1, 68.54449426901809).
 strada('w35086156', 'unclassified', 'w35086156', 1, 30, 1, 19.15778561145865).
 strada('w35140311', 'track', 'w35140311', 0, 30, 1, 65.84030094098851).
 strada('w35162427', 'motorway', 'Autostrada Adriatica', 1, 130, 2, 888.9343762196165).
@@ -8398,25 +8398,25 @@ strada('w35883720', 'secondary', 'w35883720', 1, 50, 1, 30.838709898841998).
 strada('w36253010', 'residential', 'w36253010', 0, 30, 1, 41.02703284223825).
 strada('w36328681', 'residential', 'w36328681', 0, 30, 1, 201.62523462101115).
 strada('w36328685', 'residential', 'w36328685', 0, 20, 1, 284.2176132917041).
-strada('w37579444', 'unclassified', 'w37579444', 0, 30, 1, 82.75258231927963).
-strada('w37579445', 'unclassified', 'w37579445', 0, 20, 1, 89.39922124680778).
-strada('w37581943', 'tertiary', 'w37581943', 1, 30, 1, 39.75167890923024).
+strada('w37579444', 'unclassified', 'w37579444', 0, 20, 1, 82.75258231927963).
+strada('w37579445', 'unclassified', 'w37579445', 0, 30, 1, 89.39922124680778).
+strada('w37581943', 'tertiary', 'w37581943', 1, 40, 1, 39.75167890923024).
 strada('w37700879', 'service', 'w37700879', 0, 20, 1, 58.094002891082944).
 strada('w37700880', 'service', 'w37700880', 0, 20, 1, 57.59958840090848).
 strada('w37700881', 'service', 'w37700881', 0, 20, 1, 34.07847394145325).
-strada('w37700883', 'residential', 'w37700883', 1, 20, 1, 82.39595835434704).
-strada('w37700884', 'residential', 'Stradella Calvani', 0, 20, 1, 62.792539831625895).
+strada('w37700883', 'residential', 'w37700883', 1, 30, 1, 82.39595835434704).
+strada('w37700884', 'residential', 'Stradella Calvani', 0, 30, 1, 62.792539831625895).
 strada('w37700885', 'service', 'w37700885', 1, 20, 1, 76.36557990506131).
 strada('w37702427', 'service', 'w37702427', 0, 20, 1, 578.45442319556).
 strada('w37890006', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 66.81421377441313).
-strada('w38353094', 'service', 'w38353094', 0, 20, 1, 178.6703642734234).
-strada('w38353095', 'service', 'w38353095', 1, 10, 1, 140.01209349285193).
+strada('w38353094', 'service', 'w38353094', 0, 10, 1, 178.6703642734234).
+strada('w38353095', 'service', 'w38353095', 1, 20, 1, 140.01209349285193).
 strada('w38353097', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 69.73476206816576).
 strada('w38353098', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 221.26907661207792).
 strada('w39225604', 'trunk_link', 'w39225604', 1, 40, 1, 65.01903259591118).
 strada('w39225907', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 0, 40, 1, 181.15446103170964).
 strada('w39231706', 'unclassified', 'w39231706', 1, 30, 1, 33.58012415338271).
-strada('w39231708', 'secondary', 'w39231708', 1, 50, 1, 180.81661758492598).
+strada('w39231708', 'secondary', 'w39231708', 1, 30, 1, 180.81661758492598).
 strada('w39231709', 'unclassified', 'w39231709', 1, 30, 1, 254.5082793611039).
 strada('w39231712', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 31.977942718874882).
 strada('w39411263', 'secondary_link', 'w39411263', 0, 30, 1, 47.17563371861704).
@@ -8429,9 +8429,9 @@ strada('w40224422', 'tertiary', 'Via Coppa di Bari', 1, 40, 1, 30.69989202841381
 strada('w42306726', 'secondary', 'Via Bitritto', 0, 30, 1, 100.86348126003446).
 strada('w42306727', 'secondary', 'Via Francesco Crispi', 0, 50, 1, 43.35960745363847).
 strada('w42306728', 'tertiary', 'Via Francesco Crispi', 0, 40, 1, 153.34477006006492).
-strada('w42388817', 'unclassified', 'w42388817', 1, 20, 1, 46.40935244677314).
+strada('w42388817', 'unclassified', 'w42388817', 1, 30, 1, 46.40935244677314).
 strada('w42389183', 'unclassified', 'Via Emanuele Melisurgo', 1, 30, 1, 311.94210339149413).
-strada('w42389184', 'service', 'w42389184', 0, 20, 1, 225.0512362118468).
+strada('w42389184', 'service', 'w42389184', 0, 10, 1, 225.0512362118468).
 strada('w42389185', 'unclassified', 'Via Murari', 0, 40, 2, 126.4194874843428).
 strada('w42389187', 'unclassified', 'Via Murari', 1, 40, 1, 49.10564500648364).
 strada('w42389577', 'primary_link', 'w42389577', 1, 40, 1, 79.80723204926987).
@@ -8443,7 +8443,7 @@ strada('w42389582', 'primary_link', 'w42389582', 1, 40, 1, 43.96131379049893).
 strada('w42389583', 'primary_link', 'w42389583', 1, 40, 1, 119.85113847999253).
 strada('w42389584', 'primary_link', 'w42389584', 1, 40, 1, 72.40145460480721).
 strada('w44182149', 'tertiary', 'w44182149', 0, 40, 1, 78.91923674794111).
-strada('w44182150', 'tertiary', 'w44182150', 0, 30, 1, 31.144958808388132).
+strada('w44182150', 'tertiary', 'w44182150', 0, 40, 1, 31.144958808388132).
 strada('w44503537', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 58.96027578199293).
 strada('w44503538', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 87.71497311488174).
 strada('w44890479', 'unclassified', 'w44890479', 0, 30, 1, 22.595476688030452).
@@ -8451,19 +8451,19 @@ strada('w44890480', 'unclassified', 'Vico Terzo Lepore', 0, 30, 1, 391.220208993
 strada('w44890481', 'tertiary', 'w44890481', 0, 40, 1, 27.39257439959381).
 strada('w44890482', 'tertiary', 'w44890482', 0, 40, 1, 95.54807811493887).
 strada('w44894215', 'secondary', 'Viale Louis Pasteur', 1, 50, 1, 242.12412858332087).
-strada('w44894221', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 120.9908430851022).
-strada('w44894223', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 45.41909102984923).
+strada('w44894221', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 120.9908430851022).
+strada('w44894223', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 45.41909102984923).
 strada('w44894225', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 195.74182400945264).
-strada('w44894227', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 165.33090597464584).
+strada('w44894227', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 165.33090597464584).
 strada('w44894229', 'tertiary', 'Sottovia Quintino Sella', 0, 40, 2, 185.63523932071467).
 strada('w44900751', 'unclassified', 'w44900751', 1, 30, 1, 193.78586517453462).
-strada('w44900752', 'unclassified', 'Viale Enzo Ferrari', 1, 20, 1, 654.9038918873906).
+strada('w44900752', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 654.9038918873906).
 strada('w44900753', 'unclassified', 'w44900753', 1, 30, 1, 158.93964855770287).
-strada('w44900755', 'unclassified', 'Arrivi', 1, 20, 1, 201.3448949225449).
-strada('w44900757', 'unclassified', 'Partenze', 1, 20, 1, 226.67272598865983).
+strada('w44900755', 'unclassified', 'Arrivi', 1, 30, 1, 201.3448949225449).
+strada('w44900757', 'unclassified', 'Partenze', 1, 30, 1, 226.67272598865983).
 strada('w44900760', 'service', 'w44900760', 1, 20, 1, 33.09828682336749).
 strada('w44900761', 'service', 'w44900761', 1, 20, 1, 32.433891784957396).
-strada('w44900762', 'service', 'w44900762', 0, 20, 1, 157.41527015956208).
+strada('w44900762', 'service', 'w44900762', 0, 10, 1, 157.41527015956208).
 strada('w44900764', 'unclassified', 'w44900764', 1, 30, 1, 11.674873253703305).
 strada('w44900765', 'unclassified', 'Arrivi', 1, 30, 1, 177.7976258734683).
 strada('w45193806', 'residential', 'Via Benedetto Petrone', 0, 20, 1, 25.468745908066502).
@@ -8484,15 +8484,15 @@ strada('w45883941', 'unclassified', 'Viale Giuseppe Degennaro', 0, 20, 1, 97.217
 strada('w45883942', 'unclassified', 'Viale Giuseppe Degennaro', 1, 30, 1, 119.18787275667256).
 strada('w45883943', 'unclassified', 'Strada del Tesoro', 0, 30, 1, 228.389269713467).
 strada('w45883944', 'secondary', 'w45883944', 1, 30, 1, 69.78028453794509).
-strada('w46332553', 'residential', 'Via Amendola', 0, 20, 1, 2.288779106716188).
-strada('w47015672', 'unclassified', 'traversa IV Via Napoli in Santo Spirito', 0, 30, 1, 324.88315971252746).
+strada('w46332553', 'residential', 'Via Amendola', 0, 30, 1, 2.288779106716188).
+strada('w47015672', 'unclassified', 'traversa IV Via Napoli in Santo Spirito', 0, 20, 1, 324.88315971252746).
 strada('w47016490', 'service', 'w47016490', 0, 20, 1, 128.52257004149266).
 strada('w47016491', 'service', 'w47016491', 0, 20, 1, 135.9173966762922).
 strada('w47016492', 'service', 'w47016492', 0, 20, 1, 149.914440437755).
 strada('w47016494', 'service', 'w47016494', 0, 20, 1, 122.76021086363043).
-strada('w47016496', 'service', 'w47016496', 0, 20, 1, 112.23509297355875).
+strada('w47016496', 'service', 'w47016496', 0, 10, 1, 112.23509297355875).
 strada('w48174800', 'tertiary', 'w48174800', 1, 40, 1, 51.279755182341695).
-strada('w48174808', 'secondary', 'w48174808', 1, 30, 1, 20.462119033098894).
+strada('w48174808', 'secondary', 'w48174808', 1, 50, 1, 20.462119033098894).
 strada('w48174823', 'unclassified', 'Viale Giuseppe Bartolo', 1, 30, 1, 10.257187106065885).
 strada('w48174825', 'unclassified', 'w48174825', 1, 20, 1, 10.652147814790911).
 strada('w48174834', 'unclassified', 'w48174834', 1, 30, 1, 44.52877872252056).
@@ -8501,34 +8501,34 @@ strada('w48174845', 'unclassified', 'w48174845', 0, 30, 1, 62.23587194926593).
 strada('w48174847', 'unclassified', 'w48174847', 1, 30, 1, 29.176179984714118).
 strada('w48180337', 'track', 'w48180337', 0, 30, 1, 37.35828955657639).
 strada('w48180338', 'track', 'w48180338', 0, 30, 1, 201.17781059328058).
-strada('w48180339', 'unclassified', 'Stradella Don Ciccio', 0, 30, 1, 389.15609181485627).
+strada('w48180339', 'unclassified', 'Stradella Don Ciccio', 0, 20, 1, 389.15609181485627).
 strada('w48180340', 'unclassified', 'Via Giuseppe Damascelli', 0, 30, 1, 119.36839525921826).
-strada('w48180342', 'tertiary', 'Via Giulio Petroni', 1, 30, 1, 124.92664900422339).
+strada('w48180342', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 124.92664900422339).
 strada('w48180343', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 534.3727523810151).
-strada('w48180344', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 1, 50, 1, 208.51467252128296).
+strada('w48180344', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 1, 30, 1, 208.51467252128296).
 strada('w48180351', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 16.98268468076033).
 strada('w48180356', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 43.35697808481794).
 strada('w48180360', 'track', 'w48180360', 0, 30, 1, 318.68278101766015).
 strada('w48180361', 'track', 'w48180361', 0, 30, 1, 115.11920705017666).
 strada('w48180362', 'track', 'w48180362', 0, 30, 1, 29.523797069163454).
 strada('w48180364', 'service', 'w48180364', 0, 20, 1, 85.24931203634014).
-strada('w48180366', 'service', 'w48180366', 0, 10, 1, 36.88369145518629).
+strada('w48180366', 'service', 'w48180366', 0, 20, 1, 36.88369145518629).
 strada('w48180373', 'track', 'w48180373', 0, 30, 1, 324.51937465884055).
 strada('w48180374', 'track', 'w48180374', 0, 30, 1, 233.25121413304646).
 strada('w48180381', 'track', 'w48180381', 0, 30, 1, 121.26056946932151).
 strada('w48180388', 'service', 'w48180388', 0, 20, 1, 15.821568227382897).
-strada('w48180389', 'service', 'w48180389', 0, 20, 1, 15.140017614728178).
+strada('w48180389', 'service', 'w48180389', 0, 10, 1, 15.140017614728178).
 strada('w48180393', 'service', 'w48180393', 0, 20, 1, 43.08817498398786).
-strada('w48180415', 'service', 'w48180415', 0, 10, 1, 79.40913248603194).
+strada('w48180415', 'service', 'w48180415', 0, 20, 1, 79.40913248603194).
 strada('w48180440', 'secondary', 'w48180440', 1, 30, 1, 45.454671559017626).
-strada('w48397933', 'service', 'w48397933', 1, 10, 1, 27.054221201803337).
+strada('w48397933', 'service', 'w48397933', 1, 20, 1, 27.054221201803337).
 strada('w48397937', 'service', 'w48397937', 0, 20, 1, 58.96766719158048).
 strada('w48397945', 'service', 'w48397945', 1, 20, 1, 40.00355511929232).
 strada('w48397946', 'service', 'w48397946', 0, 20, 1, 24.87552978164543).
 strada('w48397947', 'service', 'w48397947', 0, 20, 1, 73.52539670992283).
-strada('w48397948', 'service', 'w48397948', 0, 20, 1, 199.54376938922087).
-strada('w48397956', 'service', 'w48397956', 1, 20, 1, 111.03510701802438).
-strada('w48503537', 'secondary', 'Corso Trieste', 1, 30, 1, 444.45341636638994).
+strada('w48397948', 'service', 'w48397948', 0, 10, 1, 199.54376938922087).
+strada('w48397956', 'service', 'w48397956', 1, 10, 1, 111.03510701802438).
+strada('w48503537', 'secondary', 'Corso Trieste', 1, 50, 1, 444.45341636638994).
 strada('w48503538', 'service', 'w48503538', 0, 20, 1, 189.5259665666554).
 strada('w48503540', 'service', 'w48503540', 0, 20, 1, 327.1639211146947).
 strada('w48503541', 'service', 'w48503541', 0, 20, 1, 207.1900718659989).
@@ -8536,20 +8536,20 @@ strada('w48503545', 'service', 'w48503545', 0, 20, 1, 37.001774329305604).
 strada('w48503548', 'service', 'w48503548', 0, 20, 1, 16.985291658086496).
 strada('w48559286', 'unclassified', 'w48559286', 0, 20, 1, 94.89806213365706).
 strada('w48560799', 'residential', 'Via Valona', 1, 30, 1, 287.5782273947566).
-strada('w48560803', 'residential', 'w48560803', 0, 10, 1, 102.83904763191279).
-strada('w48563881', 'residential', 'Piazza Umberto Primo', 1, 30, 1, 139.65772097464955).
+strada('w48560803', 'residential', 'w48560803', 0, 20, 1, 102.83904763191279).
+strada('w48563881', 'residential', 'Piazza Umberto Primo', 1, 5, 1, 139.65772097464955).
 strada('w48563882', 'residential', 'Piazza Umberto Primo', 1, 20, 1, 166.08297897988894).
-strada('w48563884', 'residential', 'Piazza Umberto Primo', 1, 30, 1, 167.42836746987766).
-strada('w48563888', 'secondary', 'Viale Saverio Dioguardi', 1, 50, 1, 128.02928086822712).
-strada('w48563889', 'unclassified', 'Viale Saverio Dioguardi', 0, 30, 1, 56.0073003286391).
-strada('w48563890', 'unclassified', 'Viale Saverio Dioguardi', 0, 20, 1, 59.0766631569126).
+strada('w48563884', 'residential', 'Piazza Umberto Primo', 1, 20, 1, 167.42836746987766).
+strada('w48563888', 'secondary', 'Viale Saverio Dioguardi', 1, 30, 1, 128.02928086822712).
+strada('w48563889', 'unclassified', 'Viale Saverio Dioguardi', 0, 20, 1, 56.0073003286391).
+strada('w48563890', 'unclassified', 'Viale Saverio Dioguardi', 0, 30, 1, 59.0766631569126).
 strada('w48563892', 'unclassified', 'w48563892', 1, 30, 1, 40.995979763519365).
 strada('w48563893', 'unclassified', 'w48563893', 0, 30, 2, 146.28641573054222).
-strada('w48563895', 'tertiary', 'Largo Abbazia Santa Scolastica', 1, 40, 2, 174.14588424441772).
+strada('w48563895', 'tertiary', 'Largo Abbazia Santa Scolastica', 1, 30, 2, 174.14588424441772).
 strada('w48563896', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 15.376823681356818).
 strada('w48563898', 'track', 'w48563898', 0, 30, 1, 106.45176824383137).
-strada('w48563902', 'unclassified', 'w48563902', 1, 20, 1, 110.93727564489905).
-strada('w48563903', 'residential', 'w48563903', 1, 30, 1, 49.09477842240206).
+strada('w48563902', 'unclassified', 'w48563902', 1, 30, 1, 110.93727564489905).
+strada('w48563903', 'residential', 'w48563903', 1, 20, 1, 49.09477842240206).
 strada('w48563904', 'residential', 'w48563904', 1, 20, 1, 8.79161389659615).
 strada('w48659802', 'residential', 'w48659802', 0, 30, 1, 86.39171988023526).
 strada('w48871219', 'residential', 'Piazza della LibertÃ ', 0, 20, 1, 9.22374673609132).
@@ -8557,19 +8557,19 @@ strada('w48874520', 'tertiary', 'Via Camillo Rosalba', 0, 50, 1, 44.490929891820
 strada('w48874522', 'trunk_link', 'w48874522', 1, 40, 1, 98.72552062733021).
 strada('w48874523', 'secondary_link', 'w48874523', 1, 30, 1, 118.08584415390166).
 strada('w48874524', 'residential', 'w48874524', 0, 30, 1, 189.4375249474114).
-strada('w48874527', 'residential', 'Via Papa Giovanni Paolo I', 0, 30, 1, 134.59634169077555).
+strada('w48874527', 'residential', 'Via Papa Giovanni Paolo I', 0, 20, 1, 134.59634169077555).
 strada('w48874529', 'unclassified', 'Stradella Cannaruto', 0, 30, 1, 47.59762756335192).
 strada('w48874530', 'track', 'w48874530', 0, 30, 1, 93.44104571906155).
-strada('w48874531', 'residential', 'Via Pietro Nenni', 1, 30, 1, 277.9410557014352).
+strada('w48874531', 'residential', 'Via Pietro Nenni', 1, 20, 1, 277.9410557014352).
 strada('w48874532', 'tertiary', 'Via Michele Mitolo', 0, 40, 1, 130.4192865163257).
-strada('w48874535', 'residential', 'Via Giovan Battista Trevisani', 1, 30, 1, 149.23842732781767).
-strada('w49015712', 'residential', 'w49015712', 1, 30, 1, 44.9729546850475).
+strada('w48874535', 'residential', 'Via Giovan Battista Trevisani', 1, 20, 1, 149.23842732781767).
+strada('w49015712', 'residential', 'w49015712', 1, 20, 1, 44.9729546850475).
 strada('w49015713', 'residential', 'w49015713', 1, 30, 1, 48.382978236314806).
 strada('w49023753', 'secondary_link', 'w49023753', 1, 30, 1, 112.19266428248868).
 strada('w49023755', 'residential', 'Via Timavo', 1, 20, 1, 119.49441761112013).
-strada('w49023756', 'residential', 'w49023756', 0, 30, 1, 132.6834847281605).
+strada('w49023756', 'residential', 'w49023756', 0, 20, 1, 132.6834847281605).
 strada('w49063453', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 100.1289414836183).
-strada('w49063454', 'tertiary', 'Strada Santa Caterina', 0, 40, 1, 285.81996655228295).
+strada('w49063454', 'tertiary', 'Strada Santa Caterina', 0, 30, 1, 285.81996655228295).
 strada('w49063460', 'secondary_link', 'w49063460', 1, 30, 1, 14.441408561691665).
 strada('w49063461', 'tertiary', 'Strada Torrebella', 0, 50, 1, 348.3665902018114).
 strada('w49063463', 'tertiary', 'Strada Canestrelle', 0, 40, 1, 186.38356043142724).
@@ -8578,13 +8578,13 @@ strada('w49063465', 'unclassified', 'w49063465', 1, 30, 1, 57.94156785768908).
 strada('w49063468', 'tertiary', 'Strada Torrebella', 0, 40, 1, 200.65381510149734).
 strada('w49063470', 'secondary_link', 'Strada Torrebella', 1, 30, 1, 43.14119373375654).
 strada('w49185316', 'service', 'w49185316', 0, 20, 1, 116.92139951667508).
-strada('w49195709', 'residential', 'Via Timavo', 1, 30, 1, 267.2113038717327).
-strada('w49195711', 'residential', '1Â° Privata De Angelis', 0, 30, 1, 63.854982475970836).
+strada('w49195709', 'residential', 'Via Timavo', 1, 20, 1, 267.2113038717327).
+strada('w49195711', 'residential', '1Â° Privata De Angelis', 0, 20, 1, 63.854982475970836).
 strada('w49195712', 'service', 'w49195712', 0, 20, 1, 31.741059793437486).
 strada('w49197451', 'secondary', 'Via Francesco Crispi', 1, 50, 1, 294.11609706985655).
-strada('w49197452', 'unclassified', 'w49197452', 1, 30, 1, 43.76726293435043).
+strada('w49197452', 'unclassified', 'w49197452', 1, 20, 1, 43.76726293435043).
 strada('w49197454', 'secondary_link', 'Viale Europa', 1, 30, 1, 31.362148491967318).
-strada('w49197456', 'secondary', 'Via Francesco Crispi', 0, 30, 2, 73.59021309211934).
+strada('w49197456', 'secondary', 'Via Francesco Crispi', 0, 50, 2, 73.59021309211934).
 strada('w49199258', 'secondary_link', 'w49199258', 1, 30, 1, 67.6121281132201).
 strada('w49199264', 'service', 'w49199264', 0, 20, 1, 66.84772020173611).
 strada('w49199265', 'service', 'w49199265', 1, 20, 1, 20.843679892714245).
@@ -8594,9 +8594,9 @@ strada('w49199269', 'service', 'w49199269', 0, 20, 1, 52.71343393313817).
 strada('w49199280', 'service', 'w49199280', 0, 20, 1, 151.24446840909997).
 strada('w49205173', 'service', 'w49205173', 0, 20, 1, 21.518082467820474).
 strada('w49205176', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 60.929445982274025).
-strada('w49208259', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 291.1558303849754).
+strada('w49208259', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 291.1558303849754).
 strada('w49209082', 'service', 'w49209082', 1, 20, 1, 43.336725347843036).
-strada('w49209087', 'residential', 'Via Gioacchino Murat', 1, 30, 1, 508.8040541854622).
+strada('w49209087', 'residential', 'Via Gioacchino Murat', 1, 20, 1, 508.8040541854622).
 strada('w49209094', 'residential', 'Molo San Nicola', 0, 30, 1, 85.19804512475943).
 strada('w49766447', 'service', 'w49766447', 1, 20, 1, 103.37210969424537).
 strada('w49766455', 'track', 'w49766455', 0, 30, 1, 343.5928641153526).
@@ -8617,25 +8617,25 @@ strada('w49772664', 'service', 'w49772664', 0, 20, 1, 39.20095690503825).
 strada('w49772665', 'service', 'w49772665', 0, 20, 1, 24.376608689426188).
 strada('w49772667', 'service', 'w49772667', 0, 20, 1, 219.7350952634315).
 strada('w49772669', 'service', 'w49772669', 0, 20, 1, 46.6498088645625).
-strada('w49772670', 'service', 'w49772670', 0, 20, 1, 27.59836770719342).
+strada('w49772670', 'service', 'w49772670', 0, 10, 1, 27.59836770719342).
 strada('w49772671', 'service', 'w49772671', 0, 20, 1, 169.83203220418014).
 strada('w49772672', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 171.6431747984856).
 strada('w49772673', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 54.04502024146005).
 strada('w49772674', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 54.90934118449962).
-strada('w49772677', 'service', 'w49772677', 0, 10, 1, 531.7056712537832).
+strada('w49772677', 'service', 'w49772677', 0, 20, 1, 531.7056712537832).
 strada('w49772678', 'service', 'w49772678', 0, 20, 1, 196.09247201050684).
-strada('w49810913', 'primary', 'Via Stefano Jacini', 1, 50, 1, 301.7872745509184).
+strada('w49810913', 'primary', 'Via Stefano Jacini', 1, 30, 1, 301.7872745509184).
 strada('w49810914', 'service', 'w49810914', 1, 20, 1, 90.42295197939853).
 strada('w49811430', 'tertiary', 'w49811430', 1, 40, 1, 51.415425559714095).
 strada('w49811431', 'residential', 'Strada San Nicola', 0, 30, 1, 8.460855705029877).
-strada('w49811432', 'residential', 'w49811432', 0, 30, 1, 89.2216740529506).
-strada('w49811483', 'unclassified', 'Viale Santa Rita', 1, 30, 1, 538.3972000514643).
+strada('w49811432', 'residential', 'w49811432', 0, 20, 1, 89.2216740529506).
+strada('w49811483', 'unclassified', 'Viale Santa Rita', 1, 20, 1, 538.3972000514643).
 strada('w49811487', 'service', 'w49811487', 0, 20, 1, 77.54332059596463).
 strada('w49911348', 'tertiary', 'Via Michele Mitolo', 1, 40, 1, 508.90724763623047).
 strada('w49989232', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 65.64620751001935).
-strada('w49989233', 'service', 'w49989233', 0, 10, 1, 19.09310731424074).
+strada('w49989233', 'service', 'w49989233', 0, 20, 1, 19.09310731424074).
 strada('w49989234', 'service', 'w49989234', 1, 20, 1, 114.1423609321549).
-strada('w50077954', 'residential', 'Via Angelo Bassi', 0, 5, 1, 171.02225692208037).
+strada('w50077954', 'residential', 'Via Angelo Bassi', 0, 30, 1, 171.02225692208037).
 strada('w50077955', 'service', 'w50077955', 1, 20, 1, 51.06782964243079).
 strada('w50077956', 'service', 'w50077956', 1, 20, 1, 44.60302883746657).
 strada('w50079219', 'trunk_link', 'w50079219', 1, 40, 1, 133.97433043577402).
@@ -8646,17 +8646,17 @@ strada('w50079223', 'unclassified', 'w50079223', 1, 30, 1, 463.1807754941757).
 strada('w50079224', 'unclassified', 'w50079224', 1, 30, 1, 376.16347244468477).
 strada('w50079225', 'unclassified', 'w50079225', 1, 30, 1, 54.39356319915249).
 strada('w50079226', 'unclassified', 'w50079226', 1, 30, 1, 269.57298566919496).
-strada('w50079227', 'unclassified', 'w50079227', 1, 30, 1, 810.0909349257792).
+strada('w50079227', 'unclassified', 'w50079227', 1, 20, 1, 810.0909349257792).
 strada('w50079228', 'trunk_link', 'w50079228', 0, 40, 1, 32.957224872119006).
 strada('w50079230', 'tertiary', 'w50079230', 1, 40, 1, 32.60086463985336).
 strada('w50079231', 'unclassified', 'w50079231', 0, 30, 1, 310.7563411207177).
 strada('w50079232', 'unclassified', 'w50079232', 1, 30, 1, 43.0501194525315).
 strada('w50079233', 'unclassified', 'w50079233', 1, 30, 1, 408.08687829181116).
 strada('w50079234', 'unclassified', 'w50079234', 1, 30, 1, 26.054153646514848).
-strada('w50079239', 'tertiary', 'Viale Francesco de Blasio', 1, 30, 2, 274.0658311390462).
+strada('w50079239', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 274.0658311390462).
 strada('w50079240', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 771.0080600767184).
 strada('w50079241', 'service', 'w50079241', 1, 20, 1, 199.7168637866911).
-strada('w50079242', 'service', 'w50079242', 0, 10, 1, 248.7866982177531).
+strada('w50079242', 'service', 'w50079242', 0, 20, 1, 248.7866982177531).
 strada('w50082625', 'service', 'Via Rosario Livatino', 1, 20, 1, 163.2290905211595).
 strada('w50082639', 'unclassified', 'w50082639', 1, 30, 1, 42.553398620937614).
 strada('w50082718', 'track', 'w50082718', 0, 30, 1, 66.1315444469303).
@@ -8666,78 +8666,78 @@ strada('w50082829', 'tertiary', 'w50082829', 0, 50, 1, 52.40196740834806).
 strada('w50082911', 'tertiary', 'Sottovia Quintino Sella', 1, 40, 1, 31.42729546004309).
 strada('w50308669', 'unclassified', 'Largo 2 Giugno', 1, 30, 1, 58.76078306564172).
 strada('w50309445', 'secondary', 'Piazza Luigi di Savoia', 1, 50, 1, 25.342354594535863).
-strada('w50317003', 'service', 'w50317003', 0, 10, 1, 247.32455808297348).
+strada('w50317003', 'service', 'w50317003', 0, 20, 1, 247.32455808297348).
 strada('w50317004', 'service', 'w50317004', 0, 20, 1, 129.8227585176519).
-strada('w50317005', 'service', 'w50317005', 1, 10, 1, 65.32906862532955).
-strada('w50317007', 'secondary', 'Via Brigata Regina', 1, 50, 1, 84.74512864040875).
+strada('w50317005', 'service', 'w50317005', 1, 20, 1, 65.32906862532955).
+strada('w50317007', 'secondary', 'Via Brigata Regina', 1, 30, 1, 84.74512864040875).
 strada('w50317008', 'secondary', 'Via Brigata Regina', 1, 50, 1, 81.01653059382905).
-strada('w50317015', 'residential', 'Corso Giuseppe Mazzini', 1, 30, 1, 218.48567124044348).
+strada('w50317015', 'residential', 'Corso Giuseppe Mazzini', 1, 20, 1, 218.48567124044348).
 strada('w50319917', 'service', 'w50319917', 1, 20, 1, 41.39891000224536).
-strada('w50319918', 'tertiary', 'Via Giulio Petroni', 1, 30, 1, 355.41712572179017).
+strada('w50319918', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 355.41712572179017).
 strada('w50319919', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 696.2364926975104).
-strada('w50319927', 'secondary', 'Via Giuseppe Solarino', 1, 50, 3, 105.32494174112347).
+strada('w50319927', 'secondary', 'Via Giuseppe Solarino', 1, 30, 3, 105.32494174112347).
 strada('w50319964', 'service', 'w50319964', 1, 20, 1, 36.34641189885786).
 strada('w50320737', 'unclassified', 'Largo Don Franco Ricci', 1, 30, 1, 110.63839975457815).
-strada('w50321766', 'service', 'Piazza Aldo Moro', 1, 20, 1, 119.25097119147422).
+strada('w50321766', 'service', 'Piazza Aldo Moro', 1, 10, 1, 119.25097119147422).
 strada('w50322583', 'unclassified', 'w50322583', 1, 30, 1, 28.9454624759596).
 strada('w50326732', 'service', 'w50326732', 1, 20, 1, 69.8898276096577).
-strada('w50326735', 'service', 'w50326735', 0, 20, 1, 165.77805317983496).
-strada('w50367867', 'unclassified', 'Viale Nicola Dell Andro', 1, 20, 1, 11.978560086178023).
+strada('w50326735', 'service', 'w50326735', 0, 10, 1, 165.77805317983496).
+strada('w50367867', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 11.978560086178023).
 strada('w50367869', 'unclassified', 'Viale Saverio Dioguardi', 1, 30, 1, 88.507550259947).
 strada('w50367887', 'service', 'w50367887', 0, 20, 1, 28.09290459263794).
 strada('w50367888', 'unclassified', 'Via Generale Carlo Alberto Dalla Chiesa', 0, 30, 1, 285.8150779469365).
-strada('w50367895', 'service', 'w50367895', 0, 5, 1, 66.31293087592567).
+strada('w50367895', 'service', 'w50367895', 0, 20, 1, 66.31293087592567).
 strada('w50367897', 'service', 'w50367897', 0, 20, 1, 29.538027555469053).
 strada('w50367898', 'service', 'w50367898', 0, 20, 1, 28.06111076755501).
-strada('w50367907', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 50, 1, 667.9082116367955).
-strada('w50367914', 'tertiary', 'w50367914', 1, 40, 1, 62.755021425659145).
+strada('w50367907', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 10, 1, 667.9082116367955).
+strada('w50367914', 'tertiary', 'w50367914', 1, 30, 1, 62.755021425659145).
 strada('w50367915', 'service', 'w50367915', 1, 20, 1, 98.75888357349484).
 strada('w50367917', 'service', 'w50367917', 1, 20, 1, 33.048213117895955).
 strada('w50370678', 'service', 'w50370678', 1, 20, 1, 124.72833507712691).
 strada('w50370679', 'unclassified', 'w50370679', 1, 30, 1, 6.039436599198473).
 strada('w50370685', 'residential', 'w50370685', 0, 30, 1, 147.89839055272745).
 strada('w50370692', 'service', 'w50370692', 1, 20, 1, 35.244136673436344).
-strada('w50370694', 'residential', 'Via Antonio Lucarelli', 0, 20, 1, 116.37667316007037).
+strada('w50370694', 'residential', 'Via Antonio Lucarelli', 0, 30, 1, 116.37667316007037).
 strada('w50370699', 'unclassified', 'w50370699', 1, 30, 1, 41.048195497515124).
-strada('w50370703', 'residential', 'w50370703', 1, 30, 1, 415.879660411224).
+strada('w50370703', 'residential', 'w50370703', 1, 20, 1, 415.879660411224).
 strada('w50370704', 'service', 'w50370704', 1, 20, 1, 23.030789248460685).
 strada('w50372580', 'service', 'w50372580', 0, 20, 1, 27.442047572071345).
-strada('w50372581', 'service', 'w50372581', 0, 10, 1, 148.52175390809992).
+strada('w50372581', 'service', 'w50372581', 0, 20, 1, 148.52175390809992).
 strada('w50372583', 'track', 'Strada Chiurlia', 0, 30, 1, 579.9381852446642).
 strada('w50372584', 'track', 'w50372584', 0, 30, 1, 192.0320867691003).
-strada('w50372586', 'unclassified', 'w50372586', 0, 20, 1, 201.37210560574692).
-strada('w50372592', 'unclassified', 'w50372592', 0, 30, 1, 811.2244972040919).
+strada('w50372586', 'unclassified', 'w50372586', 0, 30, 1, 201.37210560574692).
+strada('w50372592', 'unclassified', 'w50372592', 0, 20, 1, 811.2244972040919).
 strada('w50372595', 'track', 'w50372595', 0, 30, 1, 177.5768693445221).
 strada('w50375398', 'residential', 'Via Rocco Dicillo', 0, 20, 1, 81.74584290676259).
 strada('w50375400', 'track', 'w50375400', 0, 30, 1, 81.20541464446953).
 strada('w50835373', 'service', 'w50835373', 0, 20, 1, 136.4527514405025).
-strada('w50835374', 'residential', 'w50835374', 1, 20, 1, 27.659046762009964).
+strada('w50835374', 'residential', 'w50835374', 1, 30, 1, 27.659046762009964).
 strada('w50835382', 'service', 'w50835382', 0, 20, 1, 50.72094597794012).
 strada('w50835383', 'service', 'Via Avvocato Onofrio Lattanzio', 0, 20, 1, 144.6049875140279).
 strada('w50835384', 'service', 'w50835384', 0, 20, 1, 17.13712529613759).
-strada('w50835386', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 180.5756221748573).
-strada('w50835387', 'secondary', 'w50835387', 1, 30, 1, 60.511498701210414).
-strada('w50835388', 'secondary', 'w50835388', 1, 30, 1, 114.83942900013686).
+strada('w50835386', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 180.5756221748573).
+strada('w50835387', 'secondary', 'w50835387', 1, 50, 1, 60.511498701210414).
+strada('w50835388', 'secondary', 'w50835388', 1, 50, 1, 114.83942900013686).
 strada('w50835389', 'service', 'w50835389', 0, 20, 1, 54.06921479659265).
 strada('w50835390', 'service', 'w50835390', 1, 20, 1, 141.56132080129356).
 strada('w50839934', 'service', 'w50839934', 0, 20, 1, 22.567210460717142).
 strada('w50839935', 'service', 'w50839935', 0, 20, 1, 53.044434053445585).
 strada('w50840612', 'service', 'w50840612', 0, 20, 1, 43.614931488175195).
 strada('w50840614', 'service', 'w50840614', 0, 20, 1, 17.554597608500544).
-strada('w51034167', 'unclassified', 'Via Mauro Amoruso', 0, 30, 1, 249.2075723815758).
+strada('w51034167', 'unclassified', 'Via Mauro Amoruso', 0, 20, 1, 249.2075723815758).
 strada('w51034168', 'residential', 'w51034168', 0, 30, 1, 154.3194298783439).
-strada('w51034169', 'tertiary_link', 'w51034169', 1, 50, 1, 157.77204562605718).
-strada('w51034170', 'tertiary_link', 'w51034170', 1, 40, 1, 81.85393660055323).
-strada('w51034171', 'tertiary_link', 'w51034171', 0, 50, 1, 96.41180525687071).
+strada('w51034169', 'tertiary_link', 'w51034169', 1, 40, 1, 157.77204562605718).
+strada('w51034170', 'tertiary_link', 'w51034170', 1, 50, 1, 81.85393660055323).
+strada('w51034171', 'tertiary_link', 'w51034171', 0, 40, 1, 96.41180525687071).
 strada('w51035150', 'unclassified', 'w51035150', 0, 30, 1, 39.40440410881728).
-strada('w51035153', 'service', 'w51035153', 1, 10, 1, 48.132048069072866).
+strada('w51035153', 'service', 'w51035153', 1, 20, 1, 48.132048069072866).
 strada('w51035155', 'service', 'w51035155', 0, 20, 1, 43.30099092273045).
 strada('w51035156', 'service', 'w51035156', 0, 20, 1, 26.66195160140022).
-strada('w51035565', 'service', 'Q8', 0, 20, 1, 111.8815883887516).
+strada('w51035565', 'service', 'Q8', 0, 10, 1, 111.8815883887516).
 strada('w51035573', 'service', 'Q8', 0, 20, 1, 52.31645659363079).
-strada('w51035579', 'service', 'Q8', 0, 10, 1, 25.782888882439387).
-strada('w51140784', 'secondary', 'w51140784', 0, 50, 1, 15.043157744366923).
-strada('w51140785', 'secondary', 'w51140785', 0, 30, 1, 12.163583397841894).
+strada('w51035579', 'service', 'Q8', 0, 20, 1, 25.782888882439387).
+strada('w51140784', 'secondary', 'w51140784', 0, 30, 1, 15.043157744366923).
+strada('w51140785', 'secondary', 'w51140785', 0, 50, 1, 12.163583397841894).
 strada('w51140786', 'secondary', 'w51140786', 0, 30, 1, 15.447947392524197).
 strada('w51141670', 'service', 'w51141670', 0, 20, 1, 13.142263447425846).
 strada('w51167039', 'service', 'w51167039', 0, 20, 1, 32.27955317196896).
@@ -8745,34 +8745,34 @@ strada('w51167044', 'service', 'w51167044', 0, 20, 1, 36.83705076042099).
 strada('w51167338', 'unclassified', 'Via Geremia D Erasmo', 0, 30, 1, 378.89265863275386).
 strada('w51167529', 'tertiary', 'Prolungamento Via Camillo Rosalba', 0, 50, 2, 445.6780299226686).
 strada('w51167608', 'residential', 'Via Rocco Dicillo', 1, 50, 1, 30.697597652136842).
-strada('w51167620', 'residential', 'Contrada Ferrigni', 0, 20, 1, 272.45827557928425).
+strada('w51167620', 'residential', 'Contrada Ferrigni', 0, 30, 1, 272.45827557928425).
 strada('w51167624', 'residential', 'Contrada Ferrigni', 1, 20, 1, 81.39087519551816).
 strada('w51167638', 'residential', 'Via Roccaporena', 0, 30, 1, 310.7678053252336).
 strada('w51167719', 'tertiary', 'Via Ospedale di Venere', 1, 40, 1, 275.5777735790082).
 strada('w51167723', 'tertiary', 'Via Ospedale di Venere', 0, 50, 1, 182.15678107146115).
-strada('w51167727', 'residential', 'Via Vaccarella', 1, 30, 1, 289.86664839111194).
+strada('w51167727', 'residential', 'Via Vaccarella', 1, 20, 1, 289.86664839111194).
 strada('w51558454', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 74.6680652262275).
 strada('w51570992', 'unclassified', 'Via Rodolfo Redi', 1, 30, 1, 94.88380894222642).
 strada('w52041093', 'service', 'w52041093', 0, 20, 1, 25.509449247026314).
 strada('w52041094', 'service', 'w52041094', 0, 20, 1, 18.279961408224434).
-strada('w52041321', 'unclassified', 'Strada Santa Caterina', 0, 30, 1, 267.35776376435666).
+strada('w52041321', 'unclassified', 'Strada Santa Caterina', 0, 20, 1, 267.35776376435666).
 strada('w52041323', 'unclassified', 'Via Nicola Ruffo', 0, 30, 2, 348.58763938267083).
 strada('w52042627', 'service', 'w52042627', 1, 20, 1, 321.67412358344814).
 strada('w52042628', 'unclassified', 'w52042628', 1, 30, 1, 15.053234356582985).
 strada('w52042629', 'service', 'w52042629', 1, 20, 1, 107.58659928364378).
 strada('w52042630', 'service', 'w52042630', 1, 20, 1, 78.68341958851948).
 strada('w52042631', 'service', 'w52042631', 1, 20, 1, 56.43259806819865).
-strada('w52042632', 'service', 'w52042632', 1, 5, 1, 388.31035135184777).
+strada('w52042632', 'service', 'w52042632', 1, 20, 1, 388.31035135184777).
 strada('w52042633', 'service', 'w52042633', 0, 20, 2, 356.0820783740733).
 strada('w52042637', 'unclassified', 'Viale Caduti di Nassiriya', 0, 30, 1, 384.8035647190302).
 strada('w52042638', 'service', 'w52042638', 1, 20, 1, 129.40320527187268).
 strada('w52042639', 'unclassified', 'Viale Caduti di Nannsiriya', 1, 30, 1, 32.273053117434756).
 strada('w52042640', 'unclassified', 'Viale Caduti di Nannsiriya', 1, 30, 1, 24.738354903418536).
-strada('w52042641', 'unclassified', 'Via Vincenzo Sassanelli', 0, 20, 1, 356.0220012119106).
+strada('w52042641', 'unclassified', 'Via Vincenzo Sassanelli', 0, 30, 1, 356.0220012119106).
 strada('w52128306', 'trunk_link', 'w52128306', 1, 40, 1, 442.6458207835716).
 strada('w52128308', 'trunk_link', 'w52128308', 0, 40, 1, 228.32434480427287).
 strada('w52570166', 'tertiary', 'Strada Complanare Ovest', 0, 70, 1, 1285.511766141111).
-strada('w53100661', 'secondary', 'Via Gabriele D Annunzio', 0, 30, 2, 111.53368529447933).
+strada('w53100661', 'secondary', 'Via Gabriele D Annunzio', 0, 50, 2, 111.53368529447933).
 strada('w53100665', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 302.1367211072952).
 strada('w53100666', 'service', 'w53100666', 0, 20, 1, 337.75475097969365).
 strada('w53100674', 'service', 'w53100674', 0, 20, 1, 317.48579975614746).
@@ -8783,77 +8783,77 @@ strada('w53100867', 'trunk_link', 'w53100867', 1, 40, 1, 44.36195666488611).
 strada('w53100868', 'trunk_link', 'w53100868', 1, 40, 1, 183.0806048191175).
 strada('w53100870', 'trunk_link', 'w53100870', 1, 40, 1, 47.06380689180812).
 strada('w53101055', 'trunk_link', 'w53101055', 1, 40, 1, 105.90671092042484).
-strada('w53101056', 'tertiary_link', 'w53101056', 1, 50, 1, 61.58115369398713).
+strada('w53101056', 'tertiary_link', 'w53101056', 1, 40, 1, 61.58115369398713).
 strada('w53104899', 'service', 'w53104899', 0, 20, 1, 73.93696255120962).
 strada('w53104900', 'service', 'w53104900', 0, 20, 1, 13.081386638422769).
 strada('w53104910', 'service', 'Strada Santa Candida', 0, 20, 1, 89.13370044530349).
 strada('w53104911', 'service', 'w53104911', 0, 20, 1, 56.204646240587934).
 strada('w53104912', 'service', 'w53104912', 0, 20, 1, 52.075269589672175).
-strada('w53515047', 'unclassified', 'w53515047', 0, 30, 1, 615.3919630160168).
-strada('w53515473', 'tertiary', 'w53515473', 1, 30, 1, 68.77653246042804).
+strada('w53515047', 'unclassified', 'w53515047', 0, 20, 1, 615.3919630160168).
+strada('w53515473', 'tertiary', 'w53515473', 1, 40, 1, 68.77653246042804).
 strada('w53535815', 'residential', 'Via Pollaioli', 0, 20, 1, 150.4550423966071).
-strada('w53535816', 'tertiary', 'Via Renato Dell Andro', 1, 40, 1, 291.4103167908105).
+strada('w53535816', 'tertiary', 'Via Renato Dell Andro', 1, 30, 1, 291.4103167908105).
 strada('w53536452', 'unclassified', 'Viale delle Murge', 0, 30, 1, 221.9383741909464).
-strada('w53536453', 'secondary', 'Viale Louis Pasteur', 1, 50, 1, 225.5660015397891).
+strada('w53536453', 'secondary', 'Viale Louis Pasteur', 1, 30, 1, 225.5660015397891).
 strada('w53537351', 'service', 'w53537351', 1, 20, 1, 183.9523471693744).
 strada('w55285495', 'secondary_link', 'Via Gabriele D Annunzio', 1, 30, 2, 66.66781410641865).
-strada('w55285501', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 2, 64.76852229455862).
-strada('w55974659', 'service', 'w55974659', 0, 20, 1, 205.0467866427456).
-strada('w55974660', 'service', 'w55974660', 0, 20, 1, 120.04763206987063).
+strada('w55285501', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 2, 64.76852229455862).
+strada('w55974659', 'service', 'w55974659', 0, 10, 1, 205.0467866427456).
+strada('w55974660', 'service', 'w55974660', 0, 10, 1, 120.04763206987063).
 strada('w55974661', 'track', 'Strada rurale del torrente Balice', 0, 30, 1, 1514.8327450588247).
-strada('w55995910', 'service', 'w55995910', 0, 20, 1, 38.981979615070365).
-strada('w55997604', 'residential', 'Largo Ignazio Ciaia', 1, 30, 1, 76.05176107755597).
+strada('w55995910', 'service', 'w55995910', 0, 10, 1, 38.981979615070365).
+strada('w55997604', 'residential', 'Largo Ignazio Ciaia', 1, 20, 1, 76.05176107755597).
 strada('w61577440', 'service', 'w61577440', 0, 20, 1, 157.4176027665291).
 strada('w61577448', 'unclassified', 'w61577448', 1, 30, 1, 127.92487202449716).
 strada('w61577456', 'unclassified', 'Via Municipio', 0, 30, 1, 91.81447408484826).
-strada('w61577458', 'unclassified', 'w61577458', 0, 30, 1, 76.6977571217746).
+strada('w61577458', 'unclassified', 'w61577458', 0, 20, 1, 76.6977571217746).
 strada('w61577463', 'unclassified', 'Via Pietro Verri', 0, 30, 1, 58.738567525878125).
 strada('w62231898', 'residential', 'Strada Donadonisi', 0, 50, 2, 52.940283463547836).
 strada('w64276507', 'tertiary', 'Via Camillo Rosalba', 0, 50, 1, 236.65310179626144).
-strada('w67028691', 'residential', 'Viale Imperatore Traiano', 1, 20, 1, 410.04618464559877).
-strada('w67029075', 'residential', 'Via Goffredo Mameli', 1, 10, 1, 228.74843092532933).
+strada('w67028691', 'residential', 'Viale Imperatore Traiano', 1, 30, 1, 410.04618464559877).
+strada('w67029075', 'residential', 'Via Goffredo Mameli', 1, 20, 1, 228.74843092532933).
 strada('w67031512', 'residential', 'Via Messapia', 0, 20, 1, 52.82735701373209).
-strada('w67034077', 'residential', 'w67034077', 1, 30, 1, 120.8083963110394).
-strada('w67034079', 'residential', 'w67034079', 1, 10, 1, 117.72840355945178).
+strada('w67034077', 'residential', 'w67034077', 1, 20, 1, 120.8083963110394).
+strada('w67034079', 'residential', 'w67034079', 1, 30, 1, 117.72840355945178).
 strada('w67304753', 'residential', 'Via Dieta di Bari', 1, 30, 1, 95.2804253689913).
-strada('w67304754', 'residential', 'Via Dieta di Bari', 1, 30, 1, 135.78226134624072).
+strada('w67304754', 'residential', 'Via Dieta di Bari', 1, 20, 1, 135.78226134624072).
 strada('w67549202', 'residential', 'Via Dieta di Bari', 1, 30, 1, 163.36279573667076).
-strada('w67549203', 'residential', 'Via Dieta di Bari', 1, 20, 1, 19.826337577385452).
-strada('w67549493', 'residential', 'Corso Cavour', 1, 20, 1, 167.72450714520573).
+strada('w67549203', 'residential', 'Via Dieta di Bari', 1, 30, 1, 19.826337577385452).
+strada('w67549493', 'residential', 'Corso Cavour', 1, 30, 1, 167.72450714520573).
 strada('w67549494', 'secondary', 'Ponte Venti Settembre', 1, 30, 2, 333.86701062526777).
 strada('w68555525', 'residential', 'Piazza Giuseppe Massari', 1, 30, 1, 151.3046202987405).
 strada('w68555527', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 1, 38.861289484591396).
 strada('w68558005', 'secondary', 'Corso Trieste', 1, 30, 1, 502.52803120143534).
-strada('w68558008', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 2, 99.59537883184628).
+strada('w68558008', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 2, 99.59537883184628).
 strada('w68558009', 'secondary', 'Lungomare Nazario Sauro', 0, 50, 4, 927.1886031091318).
-strada('w68558013', 'secondary', 'Corso Trieste', 1, 30, 1, 888.7000204285353).
-strada('w68563024', 'secondary', 'Viale UnitÃ  d Italia', 1, 50, 2, 399.5375061801844).
-strada('w68563028', 'secondary', 'Sottovia Luigi di Savoia', 0, 50, 1, 14.238914278886401).
+strada('w68558013', 'secondary', 'Corso Trieste', 1, 50, 1, 888.7000204285353).
+strada('w68563024', 'secondary', 'Viale UnitÃ  d Italia', 1, 30, 2, 399.5375061801844).
+strada('w68563028', 'secondary', 'Sottovia Luigi di Savoia', 0, 30, 1, 14.238914278886401).
 strada('w68563030', 'residential', 'Via Gian Giuseppe Carulli', 0, 30, 1, 107.93887038365641).
 strada('w68563032', 'tertiary', 'Sottovia Luigi di Savoia', 1, 40, 1, 75.4426242862877).
 strada('w68563040', 'secondary', 'Sottovia Luigi di Savoia', 1, 30, 1, 83.17909575365505).
 strada('w68563043', 'secondary', 'Corso Cavour', 1, 50, 1, 345.9656160796375).
-strada('w68563049', 'residential', 'Via Salvatore Cognetti', 1, 20, 1, 193.79652371729352).
-strada('w68563052', 'secondary', 'Corso Cavour', 1, 30, 1, 42.23657896963213).
-strada('w68563056', 'secondary', 'Corso Cavour', 1, 50, 1, 231.39615439724534).
+strada('w68563049', 'residential', 'Via Salvatore Cognetti', 1, 30, 1, 193.79652371729352).
+strada('w68563052', 'secondary', 'Corso Cavour', 1, 50, 1, 42.23657896963213).
+strada('w68563056', 'secondary', 'Corso Cavour', 1, 30, 1, 231.39615439724534).
 strada('w68573892', 'residential', 'Via Andrea da Bari', 1, 30, 1, 144.88528011054487).
 strada('w68573893', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 1, 157.98550819405602).
-strada('w68576716', 'residential', 'Via Principe Amedeo', 1, 20, 1, 283.9125317202746).
+strada('w68576716', 'residential', 'Via Principe Amedeo', 1, 30, 1, 283.9125317202746).
 strada('w68576717', 'tertiary', 'Corso Italia', 1, 40, 1, 271.73106714411534).
 strada('w68576718', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 40, 1, 168.96480592178327).
 strada('w68576719', 'tertiary', 'Via de Rossi', 1, 40, 1, 364.60424078902025).
-strada('w68576720', 'residential', 'Via NiccolÃ² Piccinni', 1, 20, 1, 241.2963551684503).
-strada('w68576721', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 2, 88.95516737119729).
-strada('w68576723', 'residential', 'Via Benedetto Cairoli', 1, 30, 1, 438.84382426226955).
+strada('w68576720', 'residential', 'Via NiccolÃ² Piccinni', 1, 30, 1, 241.2963551684503).
+strada('w68576721', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 2, 88.95516737119729).
+strada('w68576723', 'residential', 'Via Benedetto Cairoli', 1, 20, 1, 438.84382426226955).
 strada('w68576724', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 24.851969510056687).
 strada('w68576725', 'residential', 'Via NiccolÃ² Piccinni', 1, 30, 1, 138.0350206764452).
-strada('w69131924', 'residential', 'Largo Nicola Nitti Valentini', 1, 20, 1, 52.346997867286326).
+strada('w69131924', 'residential', 'Largo Nicola Nitti Valentini', 1, 30, 1, 52.346997867286326).
 strada('w69131927', 'residential', 'w69131927', 1, 30, 1, 29.013394192789946).
 strada('w69135105', 'residential', 'Via Martiri d Otranto', 1, 30, 1, 81.92091923039978).
-strada('w69135107', 'residential', 'Via Indipendenza', 1, 20, 1, 285.6585447873112).
-strada('w69135968', 'residential', 'Via Martiri d Otranto', 1, 30, 1, 123.72513326536819).
-strada('w69142602', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 30, 1, 40.32937709221907).
-strada('w69142606', 'secondary', 'Via Brigata Regina', 0, 50, 2, 342.98243884212167).
+strada('w69135107', 'residential', 'Via Indipendenza', 1, 30, 1, 285.6585447873112).
+strada('w69135968', 'residential', 'Via Martiri d Otranto', 1, 20, 1, 123.72513326536819).
+strada('w69142602', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 40, 1, 40.32937709221907).
+strada('w69142606', 'secondary', 'Via Brigata Regina', 0, 30, 2, 342.98243884212167).
 strada('w69142609', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 40, 1, 36.54362449469315).
 strada('w69142613', 'secondary', 'Corso Cavour', 1, 30, 1, 219.50929238732272).
 strada('w69142617', 'residential', 'Corso Giuseppe Mazzini', 1, 30, 1, 76.9073449623832).
@@ -8868,34 +8868,34 @@ strada('w69306704', 'tertiary', 'Via Nazionale', 0, 50, 2, 405.35317817596496).
 strada('w69306705', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 29.86978800645448).
 strada('w69306706', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 30, 1, 82.28429737784627).
 strada('w69306707', 'tertiary', 'Via Napoli in Santo Spirito', 0, 40, 1, 399.9847829874139).
-strada('w69306708', 'unclassified', 'Via Duca d Aosta', 1, 30, 1, 311.16509772008277).
-strada('w69306709', 'residential', 'Corso Umberto I', 0, 20, 1, 135.69870056777535).
-strada('w69306710', 'unclassified', 'Via Vittorio Veneto in Palese', 0, 30, 1, 220.88691989848775).
+strada('w69306708', 'unclassified', 'Via Duca d Aosta', 1, 20, 1, 311.16509772008277).
+strada('w69306709', 'residential', 'Corso Umberto I', 0, 30, 1, 135.69870056777535).
+strada('w69306710', 'unclassified', 'Via Vittorio Veneto in Palese', 0, 20, 1, 220.88691989848775).
 strada('w69306712', 'tertiary', 'Via Napoli in Santo Spirito', 0, 40, 2, 1304.6685594033663).
 strada('w69306714', 'residential', 'Largo Cristoforo Colombo', 1, 50, 2, 112.38065997474311).
-strada('w69306715', 'residential', 'w69306715', 0, 30, 1, 128.37165939960386).
+strada('w69306715', 'residential', 'w69306715', 0, 20, 1, 128.37165939960386).
 strada('w69306716', 'unclassified', 'w69306716', 0, 30, 1, 497.6997633750058).
 strada('w69306717', 'secondary', 'Strada Provinciale 91', 0, 60, 3, 101.40798998193775).
-strada('w69306718', 'tertiary', 'w69306718', 0, 30, 1, 84.2397913524671).
-strada('w69306719', 'unclassified', 'Via Capitaneo', 0, 20, 1, 262.0861683833746).
+strada('w69306718', 'tertiary', 'w69306718', 0, 40, 1, 84.2397913524671).
+strada('w69306719', 'unclassified', 'Via Capitaneo', 0, 30, 1, 262.0861683833746).
 strada('w69306720', 'tertiary', 'Via Napoli in Santo Spirito', 0, 40, 2, 1021.5647555327431).
-strada('w69306721', 'tertiary', 'Via Nazionale', 0, 30, 2, 248.16905031646684).
+strada('w69306721', 'tertiary', 'Via Nazionale', 0, 40, 2, 248.16905031646684).
 strada('w69306722', 'tertiary', 'Via Nazionale', 0, 50, 2, 105.95470291849458).
 strada('w69306723', 'unclassified', 'Via Tenente Leonardo Ranieri', 0, 30, 1, 307.66258695597423).
 strada('w69306724', 'residential', 'Via Udine', 1, 30, 1, 211.96226900943287).
-strada('w69306725', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 30, 1, 126.4154360737555).
+strada('w69306725', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 20, 1, 126.4154360737555).
 strada('w69306726', 'unclassified', 'Via Armando Diaz', 1, 30, 1, 272.17383255493684).
-strada('w69306727', 'unclassified', 'Lungomare Cristoforo Colombo', 0, 30, 1, 1333.906042253779).
+strada('w69306727', 'unclassified', 'Lungomare Cristoforo Colombo', 0, 20, 1, 1333.906042253779).
 strada('w69306728', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 90.09041000198698).
 strada('w69306731', 'residential', 'Lungomare Cristoforo Colombo', 1, 30, 1, 40.83185305273195).
 strada('w69306732', 'unclassified', 'Viale Gino Priolo', 0, 30, 1, 347.6727401918135).
 strada('w70164707', 'unclassified', 'w70164707', 1, 30, 1, 80.63898469160223).
 strada('w70164712', 'unclassified', 'w70164712', 0, 30, 1, 78.50631750698358).
-strada('w71135072', 'primary', 'Via Magna Grecia', 1, 50, 1, 206.77479226581926).
-strada('w71135073', 'primary', 'Via Magna Grecia', 1, 30, 1, 346.11498348983264).
+strada('w71135072', 'primary', 'Via Magna Grecia', 1, 30, 1, 206.77479226581926).
+strada('w71135073', 'primary', 'Via Magna Grecia', 1, 50, 1, 346.11498348983264).
 strada('w71135074', 'primary', 'Via Magna Grecia', 1, 50, 1, 204.61563652526783).
 strada('w71135075', 'secondary', 'Via Peucetia', 1, 30, 1, 475.2135310161137).
-strada('w71406479', 'residential', 'Via Michele Galiani', 1, 20, 1, 39.99270717704247).
+strada('w71406479', 'residential', 'Via Michele Galiani', 1, 30, 1, 39.99270717704247).
 strada('w71406481', 'unclassified', 'w71406481', 1, 30, 1, 9.413529435887302).
 strada('w71406483', 'residential', 'Via Giuseppe Re David', 0, 20, 1, 125.95830810812444).
 strada('w71406484', 'residential', 'Via Giuseppe Capaldi', 1, 30, 1, 113.86270988374888).
@@ -8906,10 +8906,10 @@ strada('w73041602', 'service', 'w73041602', 0, 10, 1, 96.5151017605418).
 strada('w73095210', 'residential', 'Viale Imperatore Traiano', 1, 20, 1, 57.07135809663546).
 strada('w73216878', 'unclassified', 'w73216878', 1, 30, 1, 106.04719585061146).
 strada('w73216881', 'residential', 'w73216881', 1, 30, 1, 91.09746220552839).
-strada('w73216883', 'unclassified', 'w73216883', 1, 20, 1, 78.25289471682328).
+strada('w73216883', 'unclassified', 'w73216883', 1, 30, 1, 78.25289471682328).
 strada('w73216884', 'residential', 'w73216884', 1, 30, 1, 88.07083750543872).
 strada('w73216888', 'tertiary_link', 'SP 210 Perimetrale Aeroporto di Palese', 1, 50, 1, 169.71735735722257).
-strada('w73216893', 'residential', 'w73216893', 1, 20, 1, 91.35212487467636).
+strada('w73216893', 'residential', 'w73216893', 1, 30, 1, 91.35212487467636).
 strada('w73216900', 'unclassified', 'Via Amedeo di Savoia', 1, 30, 1, 146.8172470150124).
 strada('w73216909', 'unclassified', 'w73216909', 0, 30, 1, 307.0873065997695).
 strada('w77115407', 'residential', 'Via Peucetia', 1, 30, 1, 459.3616614143556).
@@ -8928,10 +8928,10 @@ strada('w79812442', 'service', 'w79812442', 1, 20, 1, 9.166978363048194).
 strada('w79812443', 'service', 'w79812443', 0, 20, 1, 103.02107298360812).
 strada('w79812606', 'tertiary_link', 'w79812606', 1, 40, 1, 37.30795741293006).
 strada('w80011261', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 786.642524644988).
-strada('w80011263', 'unclassified', 'Strada vicinale Torre di Mizzo', 0, 30, 1, 45.252102200532406).
+strada('w80011263', 'unclassified', 'Strada vicinale Torre di Mizzo', 0, 20, 1, 45.252102200532406).
 strada('w80011265', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 42.027337958088324).
-strada('w80011266', 'service', 'w80011266', 1, 10, 1, 146.91542281689968).
-strada('w80011267', 'tertiary', 'w80011267', 0, 30, 1, 130.30146177784437).
+strada('w80011266', 'service', 'w80011266', 1, 20, 1, 146.91542281689968).
+strada('w80011267', 'tertiary', 'w80011267', 0, 40, 1, 130.30146177784437).
 strada('w80011270', 'secondary_link', 'w80011270', 1, 30, 1, 47.938791293020316).
 strada('w80011271', 'service', 'w80011271', 1, 20, 1, 220.2191883139779).
 strada('w80011274', 'service', 'w80011274', 1, 20, 1, 90.71012956257096).
@@ -8940,7 +8940,7 @@ strada('w80011282', 'unclassified', 'Via Luigi Colonna', 0, 30, 1, 369.264314009
 strada('w80011288', 'trunk', 'Tangenziale di Bari', 1, 90, 2, 204.01986569727939).
 strada('w80011289', 'residential', 'Via Antonio Fenicia', 0, 30, 1, 36.65693706379093).
 strada('w80011295', 'trunk_link', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 40, 1, 253.2537674849844).
-strada('w80011296', 'secondary', 'Complanare Ovest', 1, 50, 1, 1063.7959419945341).
+strada('w80011296', 'secondary', 'Complanare Ovest', 1, 30, 1, 1063.7959419945341).
 strada('w80011302', 'tertiary', 'w80011302', 1, 40, 1, 35.12501991811783).
 strada('w80011304', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 332.04343193813025).
 strada('w80011310', 'service', 'w80011310', 0, 20, 1, 96.59796577776905).
@@ -8953,31 +8953,31 @@ strada('w80023252', 'unclassified', 'Via Nazionale', 0, 30, 1, 312.8770534570631
 strada('w80023253', 'unclassified', 'w80023253', 1, 30, 1, 112.0049484707616).
 strada('w80023255', 'tertiary', 'Via Napoli', 1, 40, 1, 27.981012692235666).
 strada('w80023258', 'residential', 'Via Macchie', 1, 30, 1, 23.023656525197907).
-strada('w80023259', 'unclassified', 'Via Napoli', 1, 30, 1, 13.997170053638511).
+strada('w80023259', 'unclassified', 'Via Napoli', 1, 20, 1, 13.997170053638511).
 strada('w80023263', 'residential', 'Via Macchie', 1, 20, 1, 41.36768562993012).
-strada('w80023264', 'service', 'w80023264', 0, 10, 1, 43.4757938592831).
+strada('w80023264', 'service', 'w80023264', 0, 20, 1, 43.4757938592831).
 strada('w80023266', 'residential', 'w80023266', 0, 30, 1, 70.08528300680598).
 strada('w80023267', 'trunk_link', 'w80023267', 1, 40, 1, 45.75666932520317).
 strada('w80023270', 'trunk_link', 'w80023270', 1, 40, 1, 81.56922040028601).
 strada('w80023271', 'trunk_link', 'w80023271', 1, 40, 1, 61.22449937888323).
 strada('w80035459', 'residential', 'Via Francesco Cilea', 1, 30, 1, 60.53462621666512).
-strada('w80035464', 'residential', 'Via Don Cesare Franco', 0, 30, 2, 214.6459672762391).
-strada('w80035471', 'unclassified', 'w80035471', 0, 20, 1, 47.414150670461154).
+strada('w80035464', 'residential', 'Via Don Cesare Franco', 0, 20, 2, 214.6459672762391).
+strada('w80035471', 'unclassified', 'w80035471', 0, 30, 1, 47.414150670461154).
 strada('w80035474', 'unclassified', 'w80035474', 0, 30, 1, 129.6155193664961).
-strada('w80035482', 'residential', 'w80035482', 0, 20, 1, 90.78528908818399).
+strada('w80035482', 'residential', 'w80035482', 0, 30, 1, 90.78528908818399).
 strada('w80035489', 'residential', 'w80035489', 0, 20, 1, 69.72610350530978).
-strada('w80035493', 'residential', 'w80035493', 0, 30, 1, 228.85762111520944).
-strada('w80035509', 'residential', 'w80035509', 0, 30, 1, 74.80214761161974).
+strada('w80035493', 'residential', 'w80035493', 0, 20, 1, 228.85762111520944).
+strada('w80035509', 'residential', 'w80035509', 0, 20, 1, 74.80214761161974).
 strada('w80035512', 'track', 'w80035512', 0, 30, 1, 63.91138837154407).
 strada('w80035514', 'track', 'w80035514', 0, 30, 1, 81.40991444981347).
-strada('w80035518', 'unclassified', 'w80035518', 0, 30, 1, 74.8889224464956).
+strada('w80035518', 'unclassified', 'w80035518', 0, 20, 1, 74.8889224464956).
 strada('w80035544', 'unclassified', 'w80035544', 0, 30, 1, 72.08284284316092).
 strada('w80035561', 'unclassified', 'w80035561', 0, 30, 1, 531.4681173113507).
 strada('w80037214', 'residential', 'Via Arcangelo Nicola Maione', 1, 30, 1, 88.7837400815719).
 strada('w80037215', 'residential', 'Via Nazionale', 0, 30, 1, 527.8423344680209).
-strada('w80037217', 'residential', 'Via Nazionale', 1, 20, 1, 34.36316978130107).
+strada('w80037217', 'residential', 'Via Nazionale', 1, 30, 1, 34.36316978130107).
 strada('w80038016', 'residential', 'w80038016', 0, 20, 1, 87.32023199865174).
-strada('w80038021', 'residential', 'w80038021', 0, 20, 1, 56.25360087691224).
+strada('w80038021', 'residential', 'w80038021', 0, 30, 1, 56.25360087691224).
 strada('w80038025', 'service', 'w80038025', 0, 20, 1, 136.43267181255834).
 strada('w80038027', 'residential', 'w80038027', 0, 30, 1, 86.27016643961355).
 strada('w80051678', 'service', 'w80051678', 1, 20, 1, 160.53014183072335).
@@ -8987,34 +8987,34 @@ strada('w80317988', 'service', 'w80317988', 0, 20, 1, 169.3983653601947).
 strada('w80317989', 'residential', 'w80317989', 0, 20, 1, 88.48010494126491).
 strada('w80317990', 'unclassified', 'w80317990', 0, 30, 1, 394.716758193648).
 strada('w80317991', 'residential', 'Via Salvatore Tramonte', 0, 30, 1, 97.50061386422273).
-strada('w80317992', 'unclassified', 'w80317992', 0, 30, 1, 522.5792574264889).
+strada('w80317992', 'unclassified', 'w80317992', 0, 20, 1, 522.5792574264889).
 strada('w80317993', 'residential', 'w80317993', 0, 30, 1, 105.39830247177564).
 strada('w80317994', 'residential', 'w80317994', 0, 30, 1, 100.42313181128442).
 strada('w80317995', 'residential', 'w80317995', 0, 30, 1, 85.82805978800064).
-strada('w80317996', 'residential', 'w80317996', 0, 20, 1, 71.4445288281714).
+strada('w80317996', 'residential', 'w80317996', 0, 30, 1, 71.4445288281714).
 strada('w80317997', 'residential', 'w80317997', 0, 30, 2, 320.3011868998202).
 strada('w80317998', 'tertiary', 'w80317998', 0, 30, 1, 288.893643737353).
 strada('w80318016', 'unclassified', 'w80318016', 1, 30, 1, 100.55989507245512).
-strada('w80318017', 'unclassified', 'w80318017', 1, 30, 1, 101.19775174253716).
+strada('w80318017', 'unclassified', 'w80318017', 1, 20, 1, 101.19775174253716).
 strada('w80379203', 'unclassified', 'w80379203', 0, 30, 1, 361.7400044643609).
-strada('w80379205', 'unclassified', 'w80379205', 0, 20, 1, 82.1108677888276).
+strada('w80379205', 'unclassified', 'w80379205', 0, 30, 1, 82.1108677888276).
 strada('w80379207', 'unclassified', 'w80379207', 1, 30, 1, 29.410353445789355).
-strada('w80379210', 'unclassified', 'w80379210', 0, 20, 1, 118.60779498610484).
-strada('w80379216', 'residential', 'w80379216', 0, 20, 1, 255.07594941735914).
+strada('w80379210', 'unclassified', 'w80379210', 0, 30, 1, 118.60779498610484).
+strada('w80379216', 'residential', 'w80379216', 0, 30, 1, 255.07594941735914).
 strada('w80379218', 'residential', 'w80379218', 0, 30, 1, 255.52289862885758).
-strada('w80380360', 'residential', 'w80380360', 1, 20, 1, 73.0292714584861).
+strada('w80380360', 'residential', 'w80380360', 1, 30, 1, 73.0292714584861).
 strada('w80384213', 'unclassified', 'w80384213', 1, 30, 1, 151.1235412048951).
 strada('w80384225', 'unclassified', 'w80384225', 1, 30, 1, 33.80275676253859).
-strada('w80384229', 'unclassified', 'w80384229', 1, 20, 1, 39.3625095207772).
+strada('w80384229', 'unclassified', 'w80384229', 1, 30, 1, 39.3625095207772).
 strada('w80384241', 'unclassified', 'w80384241', 1, 30, 1, 53.920555298111665).
 strada('w80384289', 'unclassified', 'w80384289', 0, 20, 1, 482.2331666896795).
-strada('w80386418', 'unclassified', 'w80386418', 1, 20, 1, 51.46691523847649).
+strada('w80386418', 'unclassified', 'w80386418', 1, 30, 1, 51.46691523847649).
 strada('w80386422', 'unclassified', 'w80386422', 1, 30, 1, 48.763385885422586).
 strada('w80386425', 'unclassified', 'w80386425', 1, 30, 1, 79.39185261080945).
-strada('w80386426', 'unclassified', 'w80386426', 1, 30, 1, 71.6156463309431).
+strada('w80386426', 'unclassified', 'w80386426', 1, 20, 1, 71.6156463309431).
 strada('w80386429', 'unclassified', 'w80386429', 0, 30, 1, 129.10697111179553).
-strada('w80397111', 'unclassified', 'w80397111', 0, 20, 1, 179.455289094423).
-strada('w80397112', 'unclassified', 'Viale Luigi Corigliano', 1, 20, 1, 87.08212265533602).
+strada('w80397111', 'unclassified', 'w80397111', 0, 30, 1, 179.455289094423).
+strada('w80397112', 'unclassified', 'Viale Luigi Corigliano', 1, 30, 1, 87.08212265533602).
 strada('w80397113', 'unclassified', 'w80397113', 1, 30, 1, 130.41623574166942).
 strada('w80397114', 'unclassified', 'w80397114', 1, 30, 1, 21.88003530618559).
 strada('w80547067', 'primary_link', 'w80547067', 1, 40, 1, 173.89696740480687).
@@ -9033,35 +9033,35 @@ strada('w80676656', 'unclassified', 'w80676656', 0, 30, 1, 218.3737276503738).
 strada('w80800726', 'residential', 'Stradella Cangiano', 0, 30, 1, 167.59973575663315).
 strada('w80800727', 'residential', 'w80800727', 0, 30, 1, 97.775484518767).
 strada('w83210779', 'primary', 'Via Magna Grecia', 1, 50, 1, 12.519203091240023).
-strada('w84739361', 'service', 'w84739361', 0, 20, 1, 112.71274370643343).
+strada('w84739361', 'service', 'w84739361', 0, 10, 1, 112.71274370643343).
 strada('w84739366', 'service', 'w84739366', 1, 20, 1, 5.482461760616437).
 strada('w84739367', 'service', 'w84739367', 1, 20, 1, 110.44441585898261).
 strada('w84739370', 'service', 'w84739370', 0, 20, 1, 12.230573136908948).
 strada('w84739371', 'service', 'w84739371', 1, 20, 1, 33.77594167854039).
-strada('w86371392', 'tertiary_link', 'Strada Donadonisi', 1, 50, 1, 31.01733786164795).
-strada('w86371393', 'residential', 'Via Macchie', 0, 30, 1, 178.7132095293586).
+strada('w86371392', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 31.01733786164795).
+strada('w86371393', 'residential', 'Via Macchie', 0, 20, 1, 178.7132095293586).
 strada('w87263703', 'service', 'w87263703', 0, 20, 1, 108.14137971348795).
 strada('w87263704', 'secondary', 'w87263704', 0, 50, 2, 251.86290553306117).
-strada('w87263705', 'secondary', 'Via Brigata Regina', 0, 50, 2, 159.03094016371705).
+strada('w87263705', 'secondary', 'Via Brigata Regina', 0, 30, 2, 159.03094016371705).
 strada('w87270541', 'residential', 'Via Arcidiacono Giovanni', 1, 30, 1, 160.7304152796847).
-strada('w87270543', 'residential', 'Via Papa Innocenzo XII', 0, 30, 1, 405.1794106210938).
+strada('w87270543', 'residential', 'Via Papa Innocenzo XII', 0, 20, 1, 405.1794106210938).
 strada('w87270546', 'residential', 'Via Niceforo', 0, 30, 1, 79.52541949615905).
 strada('w89757382', 'residential', 'Via Francesco Muciaccia', 1, 30, 1, 156.42773597668858).
 strada('w91277860', 'residential', 'Via Fratelli De Filippo', 0, 50, 2, 309.32847541710817).
 strada('w91277869', 'tertiary', 'Via Camillo Rosalba', 0, 50, 1, 155.60348247969102).
 strada('w91278906', 'service', 'w91278906', 0, 20, 1, 69.76855734144112).
-strada('w91278907', 'service', 'w91278907', 1, 10, 1, 38.884553779981374).
+strada('w91278907', 'service', 'w91278907', 1, 20, 1, 38.884553779981374).
 strada('w91278908', 'service', 'w91278908', 0, 20, 1, 17.191806578562073).
 strada('w91280718', 'service', 'w91280718', 1, 20, 1, 25.61911232746249).
 strada('w91280719', 'service', 'w91280719', 0, 20, 1, 16.85384149013489).
 strada('w91280721', 'service', 'w91280721', 0, 20, 1, 85.46286606522244).
 strada('w91280723', 'service', 'Pronto Soccorso - First Aid', 0, 20, 1, 68.69631797822525).
-strada('w91280732', 'service', 'w91280732', 0, 10, 1, 246.65330773099546).
+strada('w91280732', 'service', 'w91280732', 0, 20, 1, 246.65330773099546).
 strada('w92431531', 'service', 'w92431531', 1, 20, 1, 86.93348395689303).
-strada('w92431536', 'service', 'w92431536', 0, 20, 1, 46.69734852297786).
+strada('w92431536', 'service', 'w92431536', 0, 10, 1, 46.69734852297786).
 strada('w92431549', 'service', 'w92431549', 1, 20, 1, 38.26285251645647).
 strada('w92431551', 'service', 'w92431551', 1, 20, 1, 46.534404404572676).
-strada('w92431560', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 38.97929060131636).
+strada('w92431560', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 38.97929060131636).
 strada('w92431568', 'service', 'w92431568', 0, 20, 1, 211.27914115552386).
 strada('w92431570', 'service', 'w92431570', 0, 20, 1, 20.529679896769014).
 strada('w92431572', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 39.08584885546637).
@@ -9072,7 +9072,7 @@ strada('w92431581', 'unclassified', 'w92431581', 1, 30, 1, 6.895346559680491).
 strada('w92438511', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 121.82143377201325).
 strada('w92438514', 'tertiary', 'Via Camillo Rosalba', 0, 50, 2, 30.880259427766514).
 strada('w92438518', 'primary', 'Sottovia Santa Fara', 0, 50, 2, 188.1082601379801).
-strada('w92438525', 'primary', 'Via Generale Nicola Bellomo', 0, 50, 2, 74.95452366619351).
+strada('w92438525', 'primary', 'Via Generale Nicola Bellomo', 0, 30, 2, 74.95452366619351).
 strada('w92440441', 'track', 'Strada Chiurlia', 0, 30, 1, 518.886083755335).
 strada('w92440446', 'track', 'Strada Chiurlia', 0, 30, 1, 29.61992230257535).
 strada('w92440447', 'secondary_link', 'w92440447', 1, 30, 1, 27.44894226763492).
@@ -9082,10 +9082,10 @@ strada('w92464830', 'service', 'w92464830', 0, 10, 1, 24.224015414846665).
 strada('w92464841', 'service', 'w92464841', 0, 20, 1, 22.0332281673082).
 strada('w92464850', 'service', 'w92464850', 0, 20, 1, 20.67122825424638).
 strada('w92464855', 'service', 'w92464855', 0, 10, 1, 119.53570309365756).
-strada('w93283068', 'service', 'w93283068', 0, 10, 1, 44.211504700327936).
+strada('w93283068', 'service', 'w93283068', 0, 20, 1, 44.211504700327936).
 strada('w93283069', 'unclassified', 'Via Don Luigi Guanella', 1, 30, 1, 33.71099688101047).
 strada('w93283072', 'service', 'w93283072', 0, 20, 1, 45.37182652243264).
-strada('w93284080', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 129.95243524828766).
+strada('w93284080', 'secondary', 'Viale Donato Menichella', 1, 30, 2, 129.95243524828766).
 strada('w93284084', 'service', 'w93284084', 0, 20, 1, 27.855550709233967).
 strada('w93284085', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 455.6536229845351).
 strada('w93284086', 'service', 'w93284086', 0, 20, 1, 22.91257378804943).
@@ -9097,7 +9097,7 @@ strada('w93676470', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 183.302794
 strada('w93676473', 'service', 'w93676473', 1, 20, 1, 19.4164787563698).
 strada('w93676474', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 180.69965989076414).
 strada('w93676475', 'tertiary', 'Via Gabriele D Annunzio', 0, 40, 1, 104.81389427619084).
-strada('w93676476', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 22.032293689168863).
+strada('w93676476', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 22.032293689168863).
 strada('w93678142', 'unclassified', 'Via Nicola Ruffo', 1, 30, 1, 13.389138063200132).
 strada('w93678145', 'service', 'w93678145', 0, 20, 1, 104.55020068266296).
 strada('w93678146', 'unclassified', 'Via Vincenzo Aulisio', 1, 30, 1, 658.1750935992172).
@@ -9106,58 +9106,58 @@ strada('w93678150', 'unclassified', 'Via Nicola Ruffo', 1, 30, 1, 327.4618631363
 strada('w93678151', 'service', 'w93678151', 0, 20, 1, 114.43780489093875).
 strada('w93678152', 'unclassified', 'Via Nicola Ruffo', 1, 30, 1, 341.7998541449914).
 strada('w93678154', 'unclassified', 'w93678154', 0, 20, 1, 16.519196776064543).
-strada('w93678165', 'unclassified', 'w93678165', 1, 20, 1, 33.8962459987528).
+strada('w93678165', 'unclassified', 'w93678165', 1, 30, 1, 33.8962459987528).
 strada('w93679030', 'service', 'w93679030', 1, 20, 1, 58.51580808039802).
 strada('w93679031', 'service', 'w93679031', 0, 20, 1, 29.911651611778616).
-strada('w93679033', 'service', 'w93679033', 0, 10, 1, 26.348903517792433).
+strada('w93679033', 'service', 'w93679033', 0, 20, 1, 26.348903517792433).
 strada('w93814017', 'unclassified', 'w93814017', 1, 30, 1, 31.43147588780947).
-strada('w93814018', 'service', 'w93814018', 0, 10, 1, 169.4348003475367).
+strada('w93814018', 'service', 'w93814018', 0, 20, 1, 169.4348003475367).
 strada('w93814019', 'service', 'w93814019', 0, 20, 1, 95.78623090422634).
-strada('w95210704', 'residential', 'Via Giacobelli', 0, 30, 1, 267.25124601955343).
+strada('w95210704', 'residential', 'Via Giacobelli', 0, 20, 1, 267.25124601955343).
 strada('w95210706', 'unclassified', 'Via Raffaele Perrone', 0, 30, 1, 101.84853396589972).
-strada('w95210707', 'service', 'w95210707', 1, 10, 1, 90.31416128087966).
+strada('w95210707', 'service', 'w95210707', 1, 20, 1, 90.31416128087966).
 strada('w95210708', 'tertiary', 'Via Giuseppe Capriati', 1, 40, 2, 371.75416498660735).
-strada('w95210709', 'tertiary', 'w95210709', 1, 40, 1, 30.130243186040428).
+strada('w95210709', 'tertiary', 'w95210709', 1, 30, 1, 30.130243186040428).
 strada('w95210710', 'tertiary', 'w95210710', 1, 40, 1, 45.43040598612955).
-strada('w95210711', 'tertiary', 'w95210711', 1, 40, 1, 28.000401157536604).
+strada('w95210711', 'tertiary', 'w95210711', 1, 30, 1, 28.000401157536604).
 strada('w95210712', 'tertiary', 'w95210712', 1, 40, 1, 14.15974149240863).
-strada('w95210713', 'tertiary', 'w95210713', 1, 30, 1, 59.53769695166192).
-strada('w95236759', 'unclassified', 'Viale Santa Rita', 1, 30, 1, 235.92120370829946).
+strada('w95210713', 'tertiary', 'w95210713', 1, 40, 1, 59.53769695166192).
+strada('w95236759', 'unclassified', 'Viale Santa Rita', 1, 20, 1, 235.92120370829946).
 strada('w95236760', 'service', 'w95236760', 0, 20, 1, 59.13206531704662).
 strada('w95236761', 'service', 'w95236761', 0, 20, 1, 77.08970148051307).
 strada('w95236765', 'service', 'w95236765', 0, 20, 1, 138.68622393636366).
 strada('w95236766', 'service', 'w95236766', 0, 20, 1, 16.85582871097248).
-strada('w95236769', 'residential', 'Via Mauro Buonvino', 0, 30, 1, 165.33516532845053).
+strada('w95236769', 'residential', 'Via Mauro Buonvino', 0, 10, 1, 165.33516532845053).
 strada('w95236772', 'track', 'w95236772', 0, 30, 1, 43.7600136796146).
 strada('w95236780', 'unclassified', 'Via Vincenzo Zaccaria', 1, 30, 1, 186.70201868939628).
 strada('w95236783', 'unclassified', 'Strada da Ceglie a Modugno', 0, 30, 1, 658.1270659359343).
-strada('w95236786', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 241.75191520253458).
+strada('w95236786', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 241.75191520253458).
 strada('w95236788', 'service', 'w95236788', 0, 20, 1, 130.19149765354214).
 strada('w95236793', 'residential', 'Via Virgilio Chini', 0, 30, 1, 134.57195437552306).
 strada('w95236795', 'secondary', 'Strada Torrebella', 1, 50, 2, 351.9262427033689).
 strada('w95236801', 'service', 'w95236801', 0, 20, 1, 80.8104352544614).
-strada('w95536447', 'residential', 'w95536447', 0, 20, 1, 54.79328352496339).
-strada('w95536448', 'residential', 'w95536448', 1, 30, 1, 76.0215070313749).
+strada('w95536447', 'residential', 'w95536447', 0, 30, 1, 54.79328352496339).
+strada('w95536448', 'residential', 'w95536448', 1, 20, 1, 76.0215070313749).
 strada('w95536449', 'service', 'w95536449', 1, 20, 1, 32.162654200128614).
 strada('w95536450', 'service', 'w95536450', 0, 20, 1, 27.950876701558563).
 strada('w95536451', 'service', 'w95536451', 0, 20, 1, 83.15580002305595).
 strada('w95536452', 'residential', 'Via Edoardo Orabona', 0, 50, 2, 225.75306580423882).
-strada('w95536453', 'unclassified', 'w95536453', 1, 30, 1, 21.591109772294114).
-strada('w95536454', 'residential', 'w95536454', 0, 30, 1, 39.78106961371907).
+strada('w95536453', 'unclassified', 'w95536453', 1, 20, 1, 21.591109772294114).
+strada('w95536454', 'residential', 'w95536454', 0, 20, 1, 39.78106961371907).
 strada('w95536455', 'service', 'w95536455', 1, 20, 1, 141.0690559550247).
 strada('w95536456', 'residential', 'w95536456', 0, 30, 1, 18.798130284479367).
 strada('w95536457', 'unclassified', 'Via Gaetano Salvemini', 1, 30, 1, 215.7822784229925).
 strada('w95536458', 'unclassified', 'Via Raffaele Bovio', 1, 30, 1, 14.582106979405296).
 strada('w95536459', 'unclassified', 'Via Raffaele Bovio', 1, 30, 1, 401.2531347756367).
-strada('w95536460', 'residential', 'w95536460', 0, 30, 1, 33.485033424939886).
+strada('w95536460', 'residential', 'w95536460', 0, 20, 1, 33.485033424939886).
 strada('w95625728', 'unclassified', 'Via Costruttori di Pace', reversible, 20, 1, 95.01928807114861).
-strada('w95625733', 'residential', 'Via Costruttori di Pace', 0, 10, 1, 113.89932779391295).
-strada('w95625734', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 27.58228576834084).
+strada('w95625733', 'residential', 'Via Costruttori di Pace', 0, 30, 1, 113.89932779391295).
+strada('w95625734', 'unclassified', 'Via Luigi Ranieri', 0, 20, 1, 27.58228576834084).
 strada('w95625737', 'service', 'w95625737', 0, 20, 1, 57.91943774353769).
 strada('w95625739', 'service', 'Via Luigi Ranieri', 1, 20, 1, 71.86746716309953).
-strada('w95625741', 'unclassified', 'w95625741', 1, 20, 1, 45.33808068593944).
+strada('w95625741', 'unclassified', 'w95625741', 1, 30, 1, 45.33808068593944).
 strada('w95625743', 'unclassified', 'Via Costruttori di Pace', 0, 30, 1, 83.39521849224121).
-strada('w95625744', 'unclassified', 'w95625744', 1, 30, 1, 41.3169415001728).
+strada('w95625744', 'unclassified', 'w95625744', 1, 20, 1, 41.3169415001728).
 strada('w95625747', 'service', 'w95625747', 0, 20, 1, 31.62076556765684).
 strada('w95625749', 'track', 'w95625749', 0, 30, 1, 175.44777427700552).
 strada('w95627164', 'residential', 'w95627164', 0, 20, 1, 68.5441640127038).
@@ -9186,22 +9186,22 @@ strada('w96606439', 'tertiary', 'Viale Orazio Flacco', 1, 50, 1, 60.303834700690
 strada('w96606440', 'service', 'w96606440', 1, 20, 1, 20.374765287010952).
 strada('w96606441', 'tertiary', 'Viale Quinto Orazio Flacco', 0, 30, 2, 545.5575215348327).
 strada('w96606442', 'unclassified', 'Viale Santa Rita', 1, 30, 1, 538.4849663745337).
-strada('w96606443', 'service', 'w96606443', 1, 10, 1, 27.864387621053424).
+strada('w96606443', 'service', 'w96606443', 1, 20, 1, 27.864387621053424).
 strada('w96606444', 'residential', 'Via Scipione l Africano', 1, 30, 1, 33.09304981047049).
-strada('w96606445', 'residential', 'w96606445', 1, 30, 1, 175.81974661559045).
+strada('w96606445', 'residential', 'w96606445', 1, 20, 1, 175.81974661559045).
 strada('w96606448', 'service', 'Piazza Giulio Cesare', 1, 20, 2, 115.63030283349713).
 strada('w96606451', 'tertiary_link', 'w96606451', 1, 40, 1, 20.645872720623515).
 strada('w96606454', 'tertiary', 'Viale Antonio Salandra', 1, 50, 1, 66.55855609831404).
-strada('w96606456', 'residential', 'w96606456', 1, 30, 1, 189.6459755877317).
-strada('w96606459', 'service', 'w96606459', 1, 20, 1, 29.057832333232632).
+strada('w96606456', 'residential', 'w96606456', 1, 20, 1, 189.6459755877317).
+strada('w96606459', 'service', 'w96606459', 1, 10, 1, 29.057832333232632).
 strada('w96606463', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 312.1762557866755).
-strada('w96606465', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 34.25830054488741).
+strada('w96606465', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 34.25830054488741).
 strada('w96606468', 'unclassified', 'w96606468', 1, 30, 1, 25.29239401685048).
 strada('w96606469', 'service', 'w96606469', 1, 20, 1, 27.656511713682185).
-strada('w96606476', 'unclassified', 'w96606476', 0, 20, 1, 9.79233069875185).
+strada('w96606476', 'unclassified', 'w96606476', 0, 30, 1, 9.79233069875185).
 strada('w96606479', 'residential', 'Via Scipione l Africano', 1, 30, 1, 32.3641221354415).
-strada('w96606480', 'secondary', 'w96606480', 0, 50, 1, 13.101516474859372).
-strada('w96606484', 'residential', 'w96606484', 0, 20, 1, 10.962174167705555).
+strada('w96606480', 'secondary', 'w96606480', 0, 30, 1, 13.101516474859372).
+strada('w96606484', 'residential', 'w96606484', 0, 5, 1, 10.962174167705555).
 strada('w100123469', 'tertiary', 'Via Vittorio Veneto', 0, 50, 1, 681.8362246402661).
 strada('w100123480', 'unclassified', 'Via Romita', 0, 30, 1, 154.1737246931317).
 strada('w100123482', 'unclassified', 'Via Domenico Di Venere', 0, 30, 1, 216.01102866626107).
@@ -9211,38 +9211,38 @@ strada('w100126153', 'secondary', 'Via Bruno Buozzi', 0, 50, 2, 151.993807563599
 strada('w100133108', 'service', 'w100133108', 0, 20, 1, 21.759884832946266).
 strada('w100133109', 'service', 'w100133109', 0, 20, 1, 184.5306694456385).
 strada('w100133110', 'service', 'w100133110', 0, 20, 1, 36.47310044083651).
-strada('w100133111', 'service', 'w100133111', 1, 10, 1, 60.17936984923749).
+strada('w100133111', 'service', 'w100133111', 1, 20, 1, 60.17936984923749).
 strada('w100133112', 'service', 'w100133112', 0, 20, 1, 59.27895608955771).
-strada('w100133114', 'residential', 'Via Scipione Crisanzio', 1, 20, 1, 81.16754879250796).
+strada('w100133114', 'residential', 'Via Scipione Crisanzio', 1, 30, 1, 81.16754879250796).
 strada('w100133116', 'service', 'w100133116', 1, 20, 1, 57.87732715482244).
-strada('w101269229', 'tertiary', 'Via Camillo Rosalba', 1, 40, 1, 332.09716104006037).
-strada('w101269230', 'unclassified', 'Largo Abbazia Santa Scolastica', 1, 20, 1, 175.85871809292445).
+strada('w101269229', 'tertiary', 'Via Camillo Rosalba', 1, 30, 1, 332.09716104006037).
+strada('w101269230', 'unclassified', 'Largo Abbazia Santa Scolastica', 1, 30, 1, 175.85871809292445).
 strada('w101269912', 'service', 'w101269912', 0, 20, 1, 54.150914979204934).
-strada('w101270626', 'unclassified', 'Via Quarto', 1, 20, 1, 176.49161414425353).
-strada('w101271087', 'service', 'w101271087', 1, 10, 1, 71.17210083584031).
+strada('w101270626', 'unclassified', 'Via Quarto', 1, 30, 1, 176.49161414425353).
+strada('w101271087', 'service', 'w101271087', 1, 20, 1, 71.17210083584031).
 strada('w101285963', 'service', 'w101285963', 0, 20, 1, 45.043573608216334).
 strada('w101285964', 'service', 'w101285964', 1, 20, 1, 47.76900082025071).
 strada('w101285965', 'service', 'w101285965', 0, 20, 1, 6.874543797325092).
-strada('w101285967', 'residential', 'Via Giovanni Modugno', 0, 30, 1, 179.4034976337663).
+strada('w101285967', 'residential', 'Via Giovanni Modugno', 0, 20, 1, 179.4034976337663).
 strada('w101285975', 'primary_link', 'w101285975', 0, 40, 1, 17.52807565364877).
 strada('w101509161', 'service', 'w101509161', 1, 20, 1, 58.222911681557164).
 strada('w101509163', 'unclassified', 'w101509163', 0, 30, 1, 18.562581246707353).
 strada('w101509165', 'unclassified', 'w101509165', 0, 30, 1, 107.63943561019126).
 strada('w101509169', 'service', 'w101509169', 0, 20, 1, 33.293110210998606).
 strada('w101510617', 'unclassified', 'Viale Giovanni Falcone e Paolo Borsellino', 0, 30, 2, 436.59584453733476).
-strada('w101510621', 'unclassified', 'Viale Giovanni Falcone e Paolo Borsellino', 1, 20, 1, 86.48364402627534).
+strada('w101510621', 'unclassified', 'Viale Giovanni Falcone e Paolo Borsellino', 1, 30, 1, 86.48364402627534).
 strada('w102834719', 'trunk_link', 'w102834719', 1, 40, 1, 40.337043727076875).
 strada('w103264084', 'residential', 'Stradella Barone', 0, 30, 1, 186.67569275440604).
 strada('w103268359', 'service', 'w103268359', 0, 20, 1, 116.70240301890239).
-strada('w103484172', 'tertiary_link', 'Via Antonio Lucarelli', 0, 40, 1, 11.232351284077764).
+strada('w103484172', 'tertiary_link', 'Via Antonio Lucarelli', 0, 50, 1, 11.232351284077764).
 strada('w103484177', 'service', 'w103484177', 0, 20, 1, 250.98813617965686).
-strada('w103484181', 'tertiary_link', 'Via Antonio Lucarelli', 0, 50, 1, 9.4399462285018).
-strada('w103484182', 'residential', 'w103484182', 1, 20, 1, 45.046041890281785).
+strada('w103484181', 'tertiary_link', 'Via Antonio Lucarelli', 0, 40, 1, 9.4399462285018).
+strada('w103484182', 'residential', 'w103484182', 1, 30, 1, 45.046041890281785).
 strada('w103484184', 'service', 'Via Papa Giovanni Paolo I', 0, 20, 1, 24.93226517979406).
 strada('w103484185', 'unclassified', 'w103484185', 1, 30, 1, 200.26737891406245).
 strada('w103484187', 'service', 'Via Papa Giovanni Paolo I', 0, 20, 1, 61.16196176122408).
 strada('w103484189', 'service', 'w103484189', 0, 20, 1, 35.018854934522494).
-strada('w103484191', 'unclassified', 'w103484191', 1, 30, 1, 34.31176966215715).
+strada('w103484191', 'unclassified', 'w103484191', 1, 20, 1, 34.31176966215715).
 strada('w103821623', 'unclassified', 'Via Vecchia Bari', 0, 30, 1, 860.349574671775).
 strada('w103825447', 'secondary', 'Complanare Est', 0, 30, 1, 47.45692715274256).
 strada('w104143934', 'track', 'w104143934', 0, 30, 1, 145.5734320431926).
@@ -9271,27 +9271,27 @@ strada('w106494200', 'service', 'w106494200', 0, 20, 1, 34.52583513823481).
 strada('w106638127', 'residential', 'w106638127', 1, 30, 1, 165.92517402970705).
 strada('w106638128', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 178.8208363814113).
 strada('w106638130', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 291.5941488632486).
-strada('w106638131', 'unclassified', 'w106638131', 0, 20, 1, 359.9913262272373).
-strada('w106638135', 'residential', 'Via Macchie', 0, 20, 1, 651.1950993576835).
+strada('w106638131', 'unclassified', 'w106638131', 0, 30, 1, 359.9913262272373).
+strada('w106638135', 'residential', 'Via Macchie', 0, 30, 1, 651.1950993576835).
 strada('w106638136', 'trunk_link', 'w106638136', 1, 40, 1, 26.595089761045596).
 strada('w106638138', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 167.857852856983).
 strada('w106638140', 'unclassified', 'w106638140', 0, 30, 1, 86.67717806901415).
 strada('w106638141', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 306.6039498016952).
 strada('w106638143', 'trunk_link', 'SS 16 Raccordo Aeroporto', 1, 50, 1, 307.2447329306206).
 strada('w106638144', 'service', 'Taxi', 1, 20, 1, 263.75749110608024).
-strada('w107418807', 'residential', 'Via Savoia', 1, 30, 1, 119.9524520535291).
-strada('w107418808', 'residential', 'Via Giosafatte Altieri', 0, 20, 1, 143.6041603043579).
+strada('w107418807', 'residential', 'Via Savoia', 1, 20, 1, 119.9524520535291).
+strada('w107418808', 'residential', 'Via Giosafatte Altieri', 0, 30, 1, 143.6041603043579).
 strada('w107433849', 'residential', 'Via Trani in Santo Spirito', 0, 30, 1, 127.83622951785597).
-strada('w107580308', 'residential', 'Via Taranto in Santo Spirito', 1, 20, 1, 223.80365725587842).
+strada('w107580308', 'residential', 'Via Taranto in Santo Spirito', 1, 30, 1, 223.80365725587842).
 strada('w107580309', 'residential', 'Via Firenze in Santo Spirito', 1, 20, 1, 123.30353494241656).
 strada('w107583428', 'residential', 'Via Fratelli Mannarino', 0, 30, 2, 440.51807695049615).
 strada('w107583429', 'residential', 'Vico Dandolo', 0, 20, 1, 112.93536562798734).
-strada('w107583430', 'residential', 'Via Foggia in Santo Spirito', 0, 20, 1, 138.2593719893338).
+strada('w107583430', 'residential', 'Via Foggia in Santo Spirito', 0, 30, 1, 138.2593719893338).
 strada('w107583431', 'residential', 'Via Fiume in Santo Spirito', 1, 30, 1, 268.1628348888662).
 strada('w107583432', 'residential', 'Via Zara in Santo Spirito', 0, 30, 1, 149.19654172216522).
-strada('w108099350', 'residential', 'Via Principessa Maria', 0, 20, 1, 187.45569311621648).
-strada('w108099351', 'residential', 'Via Principessa Giovanna', 0, 30, 1, 214.95414643198777).
-strada('w108235353', 'residential', 'Via Lecce in Santo Spirito', 0, 30, 1, 132.97680142311177).
+strada('w108099350', 'residential', 'Via Principessa Maria', 0, 30, 1, 187.45569311621648).
+strada('w108099351', 'residential', 'Via Principessa Giovanna', 0, 5, 1, 214.95414643198777).
+strada('w108235353', 'residential', 'Via Lecce in Santo Spirito', 0, 5, 1, 132.97680142311177).
 strada('w108455930', 'service', 'w108455930', 1, 20, 1, 35.041657426758604).
 strada('w108455932', 'service', 'w108455932', 1, 20, 1, 45.237333858642174).
 strada('w108455935', 'service', 'w108455935', 0, 20, 1, 133.18039753472192).
@@ -9299,12 +9299,12 @@ strada('w108455937', 'service', 'w108455937', 0, 20, 1, 29.79603394638771).
 strada('w108455941', 'service', 'w108455941', 0, 20, 1, 29.363791587517532).
 strada('w108455943', 'service', 'w108455943', 1, 20, 1, 73.63923242419605).
 strada('w108455945', 'service', 'w108455945', 0, 20, 1, 60.38352518413363).
-strada('w108455957', 'service', 'Lavaggio', 1, 10, 1, 70.4947788037355).
+strada('w108455957', 'service', 'Lavaggio', 1, 20, 1, 70.4947788037355).
 strada('w108455959', 'service', 'Peugeot - Martino', 0, 20, 1, 51.21845323198632).
 strada('w108455961', 'service', 'Angiulli', 0, 20, 1, 97.47340106668).
 strada('w108455966', 'service', 'w108455966', 1, 20, 1, 51.23244935313513).
 strada('w108634758', 'unclassified', 'Via Enrico Pappacena', 1, 30, 1, 151.87456085996354).
-strada('w108634762', 'residential', 'Via Giuseppe Posca', 0, 20, 1, 213.71281772694044).
+strada('w108634762', 'residential', 'Via Giuseppe Posca', 0, 30, 1, 213.71281772694044).
 strada('w108634763', 'unclassified', 'Via Enrico Pappacena', 1, 30, 1, 79.45354364648668).
 strada('w108634764', 'service', 'w108634764', 1, 20, 1, 78.23910711009341).
 strada('w108634766', 'service', 'w108634766', 0, 20, 1, 104.22827647243261).
@@ -9341,41 +9341,41 @@ strada('w110540742', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 14.63822730
 strada('w110540746', 'track', 'w110540746', 0, 30, 1, 234.4451655129379).
 strada('w110540747', 'service', 'w110540747', 0, 20, 1, 296.50548487504966).
 strada('w110540748', 'service', 'w110540748', 0, 20, 1, 49.88196080262654).
-strada('w110544860', 'service', 'w110544860', 0, 10, 1, 132.62579338383404).
-strada('w110544871', 'service', 'w110544871', 0, 10, 1, 103.09536981268896).
+strada('w110544860', 'service', 'w110544860', 0, 20, 1, 132.62579338383404).
+strada('w110544871', 'service', 'w110544871', 0, 20, 1, 103.09536981268896).
 strada('w110544876', 'service', 'w110544876', 0, 20, 1, 153.32453034826128).
 strada('w110544878', 'service', 'w110544878', 0, 20, 1, 76.62085470157253).
 strada('w110544879', 'service', 'w110544879', 0, 20, 1, 11.289096690178512).
-strada('w110544884', 'residential', 'w110544884', 0, 20, 1, 34.57927606218712).
+strada('w110544884', 'residential', 'w110544884', 0, 30, 1, 34.57927606218712).
 strada('w110544885', 'residential', 'w110544885', 0, 20, 1, 78.83287794549776).
 strada('w110549880', 'service', 'w110549880', 1, 20, 1, 58.35505057644352).
 strada('w110549886', 'unclassified', 'Via Gaetano Salvemini', 0, 30, 1, 32.845800331806124).
 strada('w110550855', 'primary', 'Via Adolfo Omodeo', 1, 50, 1, 370.86140476719316).
-strada('w110551627', 'residential', 'Via Pasquale Fiore', 1, 20, 1, 39.28876208502421).
-strada('w111795856', 'service', 'w111795856', 0, 10, 1, 127.36707764580632).
+strada('w110551627', 'residential', 'Via Pasquale Fiore', 1, 30, 1, 39.28876208502421).
+strada('w111795856', 'service', 'w111795856', 0, 20, 1, 127.36707764580632).
 strada('w111795857', 'service', 'McDrive', 1, 20, 1, 74.32332135252344).
 strada('w111795858', 'unclassified', 'w111795858', 1, 30, 1, 33.63945437595629).
-strada('w111795859', 'secondary', 'Complanare Est', 0, 50, 1, 158.72495901770304).
+strada('w111795859', 'secondary', 'Complanare Est', 0, 30, 1, 158.72495901770304).
 strada('w111795862', 'service', 'w111795862', 1, 20, 1, 49.26271475633247).
-strada('w111795863', 'service', 'w111795863', 0, 20, 1, 142.52150063500267).
-strada('w111795865', 'secondary', 'Complanare Est', 0, 50, 1, 23.536928813089432).
+strada('w111795863', 'service', 'w111795863', 0, 10, 1, 142.52150063500267).
+strada('w111795865', 'secondary', 'Complanare Est', 0, 30, 1, 23.536928813089432).
 strada('w111797675', 'unclassified', 'w111797675', 0, 30, 1, 53.513054007941626).
 strada('w111797676', 'service', 'w111797676', 1, 20, 1, 71.60626684996166).
-strada('w111797677', 'service', 'w111797677', 0, 10, 1, 29.27446314832082).
-strada('w111797678', 'residential', 'Via Natale Loiacono', 0, 30, 1, 134.86205296549596).
+strada('w111797677', 'service', 'w111797677', 0, 20, 1, 29.27446314832082).
+strada('w111797678', 'residential', 'Via Natale Loiacono', 0, 20, 1, 134.86205296549596).
 strada('w111797680', 'service', 'w111797680', 0, 20, 1, 61.72944718968215).
-strada('w111797683', 'unclassified', 'w111797683', 0, 30, 1, 114.10254343659963).
+strada('w111797683', 'unclassified', 'w111797683', 0, 20, 1, 114.10254343659963).
 strada('w111797684', 'service', 'w111797684', 1, 20, 1, 195.56860456143323).
 strada('w111797685', 'service', 'w111797685', 0, 20, 1, 67.37624838419734).
 strada('w111797689', 'track', 'w111797689', 0, 30, 1, 642.0245763283463).
-strada('w111797693', 'service', 'w111797693', 0, 10, 1, 28.164798121032376).
+strada('w111797693', 'service', 'w111797693', 0, 20, 1, 28.164798121032376).
 strada('w111797697', 'service', 'w111797697', 0, 20, 1, 26.747793496404963).
 strada('w112471226', 'service', 'w112471226', 1, 20, 1, 34.184770672976036).
 strada('w112471227', 'unclassified', 'Via Gaetano Donizetti', 0, 30, 1, 118.45039410877739).
 strada('w112471228', 'residential', 'Strada Santa Candida', 0, 30, 1, 287.43194340458354).
 strada('w112471229', 'service', 'w112471229', 1, 20, 1, 58.801196236261774).
-strada('w112471230', 'residential', 'Via Michele Garruba', 0, 30, 1, 45.22411919687039).
-strada('w112471231', 'service', 'w112471231', 0, 20, 1, 77.88739174940991).
+strada('w112471230', 'residential', 'Via Michele Garruba', 0, 5, 1, 45.22411919687039).
+strada('w112471231', 'service', 'w112471231', 0, 10, 1, 77.88739174940991).
 strada('w112471232', 'unclassified', 'II Traversa Vittorio Veneto', 0, 30, 1, 76.98115950039498).
 strada('w112471233', 'residential', 'Vico Crocifisso', 0, 20, 1, 92.04019649836607).
 strada('w112471234', 'unclassified', 'Traversa Principessa Iolanda', 0, 30, 1, 80.91055094842172).
@@ -9385,29 +9385,29 @@ strada('w112471238', 'unclassified', 'Via Mafalda', 0, 20, 1, 97.1665896736041).
 strada('w112471239', 'service', 'w112471239', 1, 20, 1, 63.64308972448224).
 strada('w113970429', 'service', 'w113970429', 1, 20, 1, 160.93506348720976).
 strada('w113970431', 'unclassified', 'w113970431', 0, 30, 1, 14.93562487498452).
-strada('w113970433', 'service', 'w113970433', 0, 10, 1, 125.95224803707156).
+strada('w113970433', 'service', 'w113970433', 0, 20, 1, 125.95224803707156).
 strada('w113970436', 'unclassified', 'w113970436', 0, 30, 1, 15.131040064924052).
 strada('w113970437', 'service', 'w113970437', 0, 20, 1, 23.613691420241075).
 strada('w113970438', 'unclassified', 'w113970438', 0, 30, 1, 25.658066511506743).
-strada('w113970440', 'unclassified', 'w113970440', 1, 30, 1, 69.56672323504203).
+strada('w113970440', 'unclassified', 'w113970440', 1, 20, 1, 69.56672323504203).
 strada('w113970442', 'service', 'w113970442', 1, 20, 1, 41.300662151283305).
 strada('w113970443', 'service', 'w113970443', 0, 20, 1, 7.219330372987576).
-strada('w113970444', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 52.18963514549154).
+strada('w113970444', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 52.18963514549154).
 strada('w113970445', 'unclassified', 'w113970445', 0, 30, 1, 12.463228460967015).
 strada('w113970446', 'unclassified', 'w113970446', 0, 30, 1, 25.204355306690157).
 strada('w113970447', 'unclassified', 'w113970447', 0, 30, 1, 42.14225401104601).
 strada('w113970448', 'unclassified', 'Via Mario Giannini', 0, 30, 1, 367.8444994029732).
-strada('w113970449', 'unclassified', 'w113970449', 1, 20, 1, 27.02886167378116).
+strada('w113970449', 'unclassified', 'w113970449', 1, 30, 1, 27.02886167378116).
 strada('w113970450', 'unclassified', 'Via Ignazio Lojacono', 0, 30, 1, 220.15922844457504).
-strada('w113970451', 'service', 'w113970451', 0, 20, 1, 84.70256219567531).
+strada('w113970451', 'service', 'w113970451', 0, 5, 1, 84.70256219567531).
 strada('w113970454', 'unclassified', 'Via Mario Adamo', 0, 30, 1, 132.11311577041423).
 strada('w113970455', 'unclassified', 'w113970455', 0, 30, 1, 82.04115697028651).
-strada('w113970457', 'service', 'w113970457', 0, 20, 1, 96.92025469046133).
+strada('w113970457', 'service', 'w113970457', 0, 10, 1, 96.92025469046133).
 strada('w113970458', 'service', 'w113970458', 0, 20, 1, 79.2115048243381).
 strada('w113970460', 'service', 'w113970460', 0, 20, 1, 231.15244323223743).
-strada('w113970463', 'service', 'w113970463', 0, 5, 1, 34.353233129381444).
+strada('w113970463', 'service', 'w113970463', 0, 20, 1, 34.353233129381444).
 strada('w113970465', 'service', 'w113970465', 0, 20, 1, 90.12899160396051).
-strada('w114953445', 'service', 'Anas', 0, 10, 1, 33.70455538041489).
+strada('w114953445', 'service', 'Anas', 0, 20, 1, 33.70455538041489).
 strada('w114953448', 'unclassified', 'w114953448', 1, 30, 1, 30.38943259710925).
 strada('w114953453', 'unclassified', 'Viale Giuseppe Bartolo', 0, 30, 2, 193.2813200029827).
 strada('w114953457', 'trunk_link', 'w114953457', 1, 40, 1, 149.90440923454833).
@@ -9418,14 +9418,14 @@ strada('w114953472', 'unclassified', 'w114953472', 1, 30, 1, 11.903449710106546)
 strada('w114957085', 'unclassified', 'w114957085', 0, 30, 1, 338.05303445783).
 strada('w114957086', 'unclassified', 'w114957086', 1, 30, 1, 30.70249353903278).
 strada('w114957087', 'tertiary', 'Strada San Giorgio Martire', 1, 40, 1, 16.33839087247786).
-strada('w114957089', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 1, 18.102871890772498).
-strada('w114957090', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 1, 42.20163354974561).
+strada('w114957089', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 1, 18.102871890772498).
+strada('w114957090', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 1, 42.20163354974561).
 strada('w114957091', 'tertiary', 'w114957091', 0, 40, 1, 50.25642222048059).
 strada('w114957092', 'secondary', 'Via Giuseppe Sangiorgi', 1, 10, 1, 41.7083378519046).
 strada('w114962614', 'residential', 'Via Giambattista Nitto De Rossi', 0, 20, 1, 167.06228699099543).
 strada('w114962615', 'unclassified', 'Via Giovanni Laricchia', 0, 30, 1, 195.74836043546208).
-strada('w114962616', 'unclassified', 'w114962616', 0, 20, 1, 65.71203397173498).
-strada('w114962617', 'unclassified', 'w114962617', 0, 20, 1, 50.60888083026939).
+strada('w114962616', 'unclassified', 'w114962616', 0, 30, 1, 65.71203397173498).
+strada('w114962617', 'unclassified', 'w114962617', 0, 30, 1, 50.60888083026939).
 strada('w114962618', 'service', 'Agip', 1, 20, 1, 181.90133192522137).
 strada('w114962621', 'service', 'w114962621', 1, 20, 1, 93.75638334679495).
 strada('w114962626', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 25.114028071959773).
@@ -9440,35 +9440,35 @@ strada('w118876847', 'service', 'Piazzale Vittorio Emanuele III', 0, 20, 1, 85.1
 strada('w122078816', 'service', 'w122078816', 1, 20, 1, 109.18997988865118).
 strada('w122078817', 'residential', 'w122078817', 0, 20, 1, 15.772515243308312).
 strada('w122078818', 'tertiary', 'Via Caldarola', 1, 40, 1, 439.10448355040245).
-strada('w122078820', 'residential', 'Via Peucetia', 1, 30, 1, 481.18666588440107).
+strada('w122078820', 'residential', 'Via Peucetia', 1, 20, 1, 481.18666588440107).
 strada('w122078821', 'tertiary', 'Via Caldarola', 1, 40, 1, 95.9292585856368).
-strada('w122078822', 'tertiary', 'Via Caldarola', 0, 40, 4, 533.1133861890183).
-strada('w122078824', 'service', 'w122078824', 0, 10, 1, 88.83725666530587).
+strada('w122078822', 'tertiary', 'Via Caldarola', 0, 30, 4, 533.1133861890183).
+strada('w122078824', 'service', 'w122078824', 0, 20, 1, 88.83725666530587).
 strada('w122078825', 'service', 'w122078825', 1, 20, 1, 284.47428706583815).
 strada('w122078826', 'service', 'w122078826', 0, 20, 1, 142.07702887363098).
 strada('w122078827', 'tertiary', 'Via Caldarola', 1, 40, 1, 100.00926654511076).
 strada('w122078828', 'service', 'w122078828', 0, 20, 1, 72.34077062714144).
 strada('w122078829', 'service', 'w122078829', 0, 20, 1, 12.326415224566459).
-strada('w122078831', 'tertiary', 'w122078831', 1, 40, 1, 23.25725247518426).
-strada('w122078833', 'residential', 'w122078833', 0, 30, 1, 100.94471150929105).
-strada('w122078835', 'residential', 'w122078835', 1, 20, 1, 131.24915301360758).
+strada('w122078831', 'tertiary', 'w122078831', 1, 30, 1, 23.25725247518426).
+strada('w122078833', 'residential', 'w122078833', 0, 20, 1, 100.94471150929105).
+strada('w122078835', 'residential', 'w122078835', 1, 30, 1, 131.24915301360758).
 strada('w122078836', 'service', 'w122078836', 0, 20, 1, 61.94835517958195).
 strada('w122078837', 'primary_link', 'w122078837', 1, 40, 1, 29.77355514731001).
-strada('w122078838', 'service', 'w122078838', 0, 20, 1, 260.8857724601963).
-strada('w122078839', 'service', 'w122078839', 1, 20, 1, 63.40950635314316).
+strada('w122078838', 'service', 'w122078838', 0, 10, 1, 260.8857724601963).
+strada('w122078839', 'service', 'w122078839', 1, 10, 1, 63.40950635314316).
 strada('w122078840', 'tertiary', 'Via Caldarola', 1, 40, 1, 32.932588484285425).
 strada('w122078842', 'residential', 'w122078842', 1, 30, 1, 19.853507958814642).
-strada('w122078843', 'service', 'w122078843', 0, 10, 1, 96.624718959078).
+strada('w122078843', 'service', 'w122078843', 0, 20, 1, 96.624718959078).
 strada('w122078845', 'service', 'w122078845', 0, 20, 1, 215.28177408616597).
 strada('w122079631', 'tertiary', 'Via Caldarola', 1, 40, 1, 98.83218600303232).
-strada('w122545159', 'unclassified', 'w122545159', 1, 20, 1, 54.107434002541396).
+strada('w122545159', 'unclassified', 'w122545159', 1, 30, 1, 54.107434002541396).
 strada('w122545160', 'unclassified', 'w122545160', 1, 30, 1, 61.749587803507126).
 strada('w122545161', 'service', 'w122545161', 0, 20, 1, 18.894182000032263).
 strada('w122545162', 'service', 'w122545162', 1, 20, 1, 416.99097465558145).
 strada('w122545163', 'unclassified', 'w122545163', 1, 30, 1, 35.40662872931307).
 strada('w122545164', 'service', 'w122545164', 1, 20, 1, 19.91829544834788).
-strada('w122545165', 'unclassified', 'w122545165', 1, 30, 1, 16.010078911449533).
-strada('w122545166', 'service', 'w122545166', 0, 20, 1, 19.069970141161264).
+strada('w122545165', 'unclassified', 'w122545165', 1, 20, 1, 16.010078911449533).
+strada('w122545166', 'service', 'w122545166', 0, 10, 1, 19.069970141161264).
 strada('w122545167', 'service', 'w122545167', 1, 20, 1, 37.42665050825757).
 strada('w122545169', 'unclassified', 'w122545169', 1, 30, 1, 16.36854004155456).
 strada('w122548815', 'service', 'Park & Ride - Pane e Pomodoro', 1, 20, 1, 401.7495405027455).
@@ -9491,24 +9491,24 @@ strada('w124066583', 'secondary_link', 'w124066583', 1, 30, 1, 25.05324050523881
 strada('w124066584', 'secondary_link', 'Strada Santa Caterina', 1, 30, 1, 22.621385363454664).
 strada('w124066586', 'unclassified', 'w124066586', 1, 30, 1, 23.359617151045047).
 strada('w124066587', 'secondary_link', 'w124066587', 1, 30, 1, 17.117292334554712).
-strada('w124907304', 'secondary', 'Corso Senatore Antonio De Tullio', 0, 50, 2, 221.1528036845798).
-strada('w124954496', 'residential', 'Strada Sagges', 0, 30, 1, 16.657213668097505).
+strada('w124907304', 'secondary', 'Corso Senatore Antonio De Tullio', 0, 30, 2, 221.1528036845798).
+strada('w124954496', 'residential', 'Strada Sagges', 0, 20, 1, 16.657213668097505).
 strada('w124954500', 'residential', 'Strada Lamberti', 0, 20, 1, 53.82011561576104).
 strada('w124954502', 'residential', 'Via CalÃ² Carducci Jacopo', 0, 30, 1, 33.5357894182529).
-strada('w124954503', 'residential', 'Strada Santa Teresa dei maschi', 0, 20, 1, 58.57741363917363).
-strada('w124954504', 'residential', 'Strada Sagges', 1, 30, 1, 36.381915083406334).
-strada('w124954695', 'residential', 'Strada San Bartolomeo', 1, 30, 1, 101.1300311826175).
-strada('w124954696', 'residential', 'Strada San Benedetto', 1, 30, 1, 47.72280594802856).
+strada('w124954503', 'residential', 'Strada Santa Teresa dei maschi', 0, 30, 1, 58.57741363917363).
+strada('w124954504', 'residential', 'Strada Sagges', 1, 20, 1, 36.381915083406334).
+strada('w124954695', 'residential', 'Strada San Bartolomeo', 1, 10, 1, 101.1300311826175).
+strada('w124954696', 'residential', 'Strada San Benedetto', 1, 20, 1, 47.72280594802856).
 strada('w124954698', 'residential', 'Vico San Benedetto', 1, 30, 1, 26.513626799259328).
-strada('w125040022', 'residential', 'Strada della Torretta', 1, 20, 1, 37.449443708265534).
+strada('w125040022', 'residential', 'Strada della Torretta', 1, 30, 1, 37.449443708265534).
 strada('w125040030', 'residential', 'Strada della Torretta', 1, 30, 1, 41.27849782562849).
-strada('w125161611', 'residential', 'Vico Corsioli', 0, 20, 1, 33.54280087936876).
+strada('w125161611', 'residential', 'Vico Corsioli', 0, 30, 1, 33.54280087936876).
 strada('w125161612', 'residential', 'Via Filippo Corridoni', 0, 30, 1, 25.127482815362974).
 strada('w127664357', 'tertiary', 'Via Scardicchio', 1, 40, 1, 29.550120735335405).
-strada('w127664358', 'residential', 'w127664358', 0, 20, 1, 218.77882971110552).
+strada('w127664358', 'residential', 'w127664358', 0, 30, 1, 218.77882971110552).
 strada('w127664359', 'unclassified', 'w127664359', 1, 30, 1, 42.56343084765492).
 strada('w127664360', 'unclassified', 'w127664360', 1, 30, 1, 129.95965453792456).
-strada('w127664361', 'residential', 'w127664361', 0, 30, 1, 75.41592492258015).
+strada('w127664361', 'residential', 'w127664361', 0, 20, 1, 75.41592492258015).
 strada('w127664362', 'unclassified', 'w127664362', 1, 30, 1, 85.5011270302162).
 strada('w127664363', 'unclassified', 'w127664363', 1, 30, 1, 32.65791575361713).
 strada('w127664364', 'unclassified', 'w127664364', 1, 30, 1, 34.96268752595001).
@@ -9516,8 +9516,8 @@ strada('w127664365', 'unclassified', 'w127664365', 1, 30, 1, 289.39362567536233)
 strada('w127664366', 'unclassified', 'w127664366', 1, 30, 1, 99.34489981373817).
 strada('w127664367', 'unclassified', 'w127664367', 0, 30, 1, 376.3523927122694).
 strada('w127664368', 'residential', 'w127664368', 0, 30, 1, 373.4393759318496).
-strada('w127664369', 'unclassified', 'w127664369', 0, 20, 1, 129.00074877554368).
-strada('w127664370', 'tertiary', 'w127664370', 1, 30, 1, 36.293712571081066).
+strada('w127664369', 'unclassified', 'w127664369', 0, 30, 1, 129.00074877554368).
+strada('w127664370', 'tertiary', 'w127664370', 1, 40, 1, 36.293712571081066).
 strada('w127664371', 'unclassified', 'w127664371', 1, 30, 1, 107.08320291337202).
 strada('w127664373', 'tertiary', 'w127664373', 1, 40, 1, 32.03973504391813).
 strada('w127664374', 'residential', 'w127664374', 0, 30, 1, 198.2582779715334).
@@ -9530,63 +9530,63 @@ strada('w127664382', 'tertiary', 'w127664382', 1, 40, 1, 29.21408817076175).
 strada('w127664383', 'tertiary', 'w127664383', 1, 40, 1, 26.455516140273495).
 strada('w127664384', 'unclassified', 'Viale Enrico Dalfino', 0, 20, 1, 59.193851937903375).
 strada('w127664385', 'unclassified', 'w127664385', 0, 30, 1, 118.77194305009164).
-strada('w127664386', 'tertiary', 'Via Scardicchio', 1, 30, 1, 24.42989630298461).
+strada('w127664386', 'tertiary', 'Via Scardicchio', 1, 40, 1, 24.42989630298461).
 strada('w127664387', 'residential', 'w127664387', 0, 30, 1, 78.31224550074097).
 strada('w127668753', 'unclassified', 'w127668753', 1, 30, 1, 87.516456210667).
-strada('w127668756', 'service', 'w127668756', 1, 20, 1, 15.516106406807847).
+strada('w127668756', 'service', 'w127668756', 1, 10, 1, 15.516106406807847).
 strada('w127668757', 'service', 'w127668757', 1, 20, 1, 286.1132663405625).
 strada('w127668758', 'unclassified', 'w127668758', 1, 30, 1, 29.50263097941359).
 strada('w127668763', 'service', 'w127668763', 0, 20, 1, 7.195502173592626).
 strada('w127668764', 'service', 'w127668764', 0, 20, 1, 19.3186692616126).
 strada('w127668767', 'unclassified', 'w127668767', 0, 30, 1, 68.18858581643379).
 strada('w127668768', 'service', 'w127668768', 1, 20, 1, 204.05028720153803).
-strada('w127668772', 'unclassified', 'w127668772', 1, 30, 1, 106.65654325769212).
+strada('w127668772', 'unclassified', 'w127668772', 1, 20, 1, 106.65654325769212).
 strada('w127668773', 'unclassified', 'w127668773', 1, 30, 1, 58.28114010413293).
-strada('w127668775', 'unclassified', 'w127668775', 1, 20, 1, 29.90538994998057).
-strada('w127668776', 'service', 'w127668776', 1, 10, 1, 193.36749879278335).
+strada('w127668775', 'unclassified', 'w127668775', 1, 30, 1, 29.90538994998057).
+strada('w127668776', 'service', 'w127668776', 1, 20, 1, 193.36749879278335).
 strada('w127668782', 'unclassified', 'w127668782', 1, 30, 1, 78.01292546478638).
 strada('w127668783', 'service', 'w127668783', 1, 20, 1, 101.73598869521425).
 strada('w127668787', 'unclassified', 'w127668787', 1, 30, 1, 29.813517946143087).
 strada('w127668792', 'service', 'w127668792', 1, 20, 1, 276.51348687925474).
 strada('w127668793', 'unclassified', 'w127668793', 1, 30, 1, 28.325871527446676).
 strada('w127668795', 'service', 'Corsia Mezzi di Soccorso', 1, 20, 1, 90.1686860342815).
-strada('w127668796', 'residential', 'Piazzetta Stefano Fumarulo', 0, 10, 1, 150.65985596897738).
+strada('w127668796', 'residential', 'Piazzetta Stefano Fumarulo', 0, 30, 1, 150.65985596897738).
 strada('w127668797', 'service', 'w127668797', 0, 20, 1, 63.26008059663294).
-strada('w127668800', 'service', 'w127668800', 0, 20, 1, 61.886128070518566).
+strada('w127668800', 'service', 'w127668800', 0, 10, 1, 61.886128070518566).
 strada('w127668802', 'service', 'w127668802', 1, 20, 1, 15.859281960349929).
-strada('w127668804', 'service', 'w127668804', 0, 10, 1, 293.247112931487).
-strada('w127669585', 'service', 'w127669585', 0, 20, 1, 156.23205564765314).
-strada('w127669586', 'secondary', 'Viale Europa', 1, 50, 2, 55.58617264638984).
+strada('w127668804', 'service', 'w127668804', 0, 20, 1, 293.247112931487).
+strada('w127669585', 'service', 'w127669585', 0, 10, 1, 156.23205564765314).
+strada('w127669586', 'secondary', 'Viale Europa', 1, 30, 2, 55.58617264638984).
 strada('w127669587', 'secondary', 'Viale Europa', 0, 50, 2, 959.2174145696802).
-strada('w127669592', 'secondary', 'Via Gabriele D Annunzio', 0, 30, 2, 48.96757852129805).
-strada('w127669593', 'secondary', 'Viale Europa', 1, 30, 2, 59.13565307161848).
-strada('w128057691', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 8.064349286234437).
-strada('w128077123', 'residential', 'Largo Maurelli', 1, 30, 1, 21.171500999954844).
-strada('w128077130', 'residential', 'Vico Maurelli', 1, 30, 1, 12.384247783854828).
+strada('w127669592', 'secondary', 'Via Gabriele D Annunzio', 0, 50, 2, 48.96757852129805).
+strada('w127669593', 'secondary', 'Viale Europa', 1, 50, 2, 59.13565307161848).
+strada('w128057691', 'residential', 'Strada Santa Teresa dei maschi', 1, 20, 1, 8.064349286234437).
+strada('w128077123', 'residential', 'Largo Maurelli', 1, 20, 1, 21.171500999954844).
+strada('w128077130', 'residential', 'Vico Maurelli', 1, 20, 1, 12.384247783854828).
 strada('w128216271', 'service', 'w128216271', 0, 20, 1, 59.07335311403538).
 strada('w128216272', 'service', 'w128216272', 1, 10, 1, 30.14555521944455).
-strada('w128216274', 'service', 'w128216274', 1, 20, 1, 57.323879745884895).
+strada('w128216274', 'service', 'w128216274', 1, 10, 1, 57.323879745884895).
 strada('w128216275', 'service', 'w128216275', 1, 20, 1, 151.78833348406312).
-strada('w128216280', 'service', 'w128216280', 1, 20, 1, 88.92534423113855).
-strada('w128216282', 'service', 'w128216282', 1, 20, 1, 37.93155966868122).
-strada('w128617365', 'residential', 'Via Giuseppe Posca', 1, 30, 1, 299.47551192005847).
-strada('w128617366', 'residential', 'w128617366', 1, 10, 1, 39.72903921571534).
+strada('w128216280', 'service', 'w128216280', 1, 10, 1, 88.92534423113855).
+strada('w128216282', 'service', 'w128216282', 1, 10, 1, 37.93155966868122).
+strada('w128617365', 'residential', 'Via Giuseppe Posca', 1, 20, 1, 299.47551192005847).
+strada('w128617366', 'residential', 'w128617366', 1, 30, 1, 39.72903921571534).
 strada('w128617367', 'service', 'w128617367', 0, 20, 1, 95.62733378727714).
 strada('w128617369', 'service', 'w128617369', 0, 20, 1, 54.542355819164946).
 strada('w128617371', 'residential', 'Via Giuseppe Posca', 0, 20, 1, 45.89213916973965).
-strada('w128617374', 'service', 'w128617374', 0, 20, 1, 18.57892719008735).
+strada('w128617374', 'service', 'w128617374', 0, 10, 1, 18.57892719008735).
 strada('w128617376', 'service', 'w128617376', 0, 20, 1, 111.82908938446732).
-strada('w128619666', 'service', 'w128619666', 0, 20, 1, 15.124614673864713).
-strada('w128619680', 'service', 'w128619680', 0, 20, 1, 79.27570089212087).
-strada('w128619687', 'service', 'w128619687', 0, 10, 1, 9.172121463009152).
+strada('w128619666', 'service', 'w128619666', 0, 10, 1, 15.124614673864713).
+strada('w128619680', 'service', 'w128619680', 0, 10, 1, 79.27570089212087).
+strada('w128619687', 'service', 'w128619687', 0, 20, 1, 9.172121463009152).
 strada('w129120189', 'track', 'w129120189', 0, 30, 1, 83.51924534036625).
 strada('w129120192', 'track', 'w129120192', 0, 30, 1, 124.06241937747649).
 strada('w129120193', 'service', 'w129120193', 1, 20, 1, 50.24642909138785).
 strada('w129120196', 'unclassified', 'w129120196', 0, 50, 1, 15.965184290950127).
-strada('w129120198', 'service', 'w129120198', 0, 20, 1, 29.109576353127984).
+strada('w129120198', 'service', 'w129120198', 0, 10, 1, 29.109576353127984).
 strada('w129120200', 'service', 'w129120200', 0, 20, 1, 37.96482767455099).
 strada('w129120201', 'track', 'w129120201', 0, 30, 1, 127.56264217038789).
-strada('w129123071', 'service', 'w129123071', 1, 10, 1, 64.63173598053162).
+strada('w129123071', 'service', 'w129123071', 1, 20, 1, 64.63173598053162).
 strada('w129123074', 'service', 'w129123074', 1, 20, 1, 22.19478021717687).
 strada('w129123075', 'residential', 'w129123075', 1, 30, 1, 12.092600547027429).
 strada('w129123076', 'service', 'w129123076', 1, 20, 1, 48.93127189839535).
@@ -9612,13 +9612,13 @@ strada('w129127809', 'unclassified', 'w129127809', 0, 30, 1, 161.88528121392514)
 strada('w129127811', 'residential', 'w129127811', 1, 20, 1, 38.90766444144801).
 strada('w129127817', 'service', 'w129127817', 0, 20, 1, 62.97806819635521).
 strada('w129127818', 'unclassified', 'w129127818', 0, 30, 1, 65.26560803105697).
-strada('w129440413', 'residential', 'Strada Porto Nuovo', 0, 20, 1, 146.64466966231382).
+strada('w129440413', 'residential', 'Strada Porto Nuovo', 0, 30, 1, 146.64466966231382).
 strada('w130074399', 'service', 'w130074399', 0, 20, 1, 65.52448232041267).
 strada('w130074404', 'service', 'w130074404', 0, 20, 1, 18.5010737440056).
 strada('w130074406', 'service', 'w130074406', 0, 20, 1, 112.90844629612516).
 strada('w130074408', 'service', 'w130074408', 1, 20, 1, 53.65281834999985).
 strada('w130074415', 'service', 'w130074415', 0, 20, 1, 81.64323758320475).
-strada('w130074417', 'service', 'w130074417', 0, 20, 1, 36.79470281085625).
+strada('w130074417', 'service', 'w130074417', 0, 10, 1, 36.79470281085625).
 strada('w130074425', 'service', 'w130074425', 0, 20, 1, 114.4306739592736).
 strada('w130175110', 'service', 'Viale Italo Oriente', 1, 20, 1, 273.7477899789002).
 strada('w130520526', 'service', 'w130520526', 1, 20, 1, 172.09135701576525).
@@ -9628,13 +9628,13 @@ strada('w130520531', 'service', 'w130520531', 0, 20, 1, 65.37590582295039).
 strada('w130520533', 'residential', 'Via Pietro Oreste', 1, 30, 1, 24.541856579845795).
 strada('w130520538', 'service', 'w130520538', 0, 20, 1, 79.79135731913728).
 strada('w130520539', 'service', 'w130520539', 1, 20, 1, 241.40173726983483).
-strada('w130520540', 'residential', 'Via Pietro Oreste', 0, 30, 1, 289.4008211043171).
+strada('w130520540', 'residential', 'Via Pietro Oreste', 0, 20, 1, 289.4008211043171).
 strada('w130520541', 'service', 'w130520541', 1, 20, 1, 97.72030736871798).
 strada('w130520546', 'service', 'w130520546', 1, 20, 1, 272.7684028380206).
 strada('w130522839', 'service', 'w130522839', 0, 20, 1, 20.94356315269964).
 strada('w130522842', 'service', 'w130522842', 0, 20, 1, 170.25170088176174).
 strada('w130522843', 'service', 'w130522843', 0, 20, 1, 18.49341095649563).
-strada('w130551898', 'residential', 'w130551898', 0, 30, 1, 36.399674273845974).
+strada('w130551898', 'residential', 'w130551898', 0, 20, 1, 36.399674273845974).
 strada('w130551900', 'service', 'w130551900', 0, 20, 1, 106.11667340448057).
 strada('w130551901', 'service', 'w130551901', 0, 20, 1, 147.70971400698204).
 strada('w130551902', 'service', 'w130551902', 0, 20, 1, 226.69475463782024).
@@ -9643,24 +9643,24 @@ strada('w130557830', 'residential', 'w130557830', 0, 30, 1, 115.86644478924245).
 strada('w130557835', 'residential', 'Strada San Girolamo', 0, 30, 2, 1091.7477264919296).
 strada('w130557842', 'residential', 'w130557842', 1, 30, 1, 45.80918078315865).
 strada('w130557843', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 27.92428708881744).
-strada('w130557845', 'residential', 'Lungomare 9 Maggio', 0, 20, 2, 96.10309044668784).
-strada('w130557850', 'residential', 'Viale Ottorino Respighi', 0, 20, 1, 130.8649067144701).
+strada('w130557845', 'residential', 'Lungomare 9 Maggio', 0, 30, 2, 96.10309044668784).
+strada('w130557850', 'residential', 'Viale Ottorino Respighi', 0, 30, 1, 130.8649067144701).
 strada('w130557852', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 16.627809009371468).
-strada('w130557854', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 74.41844171813727).
+strada('w130557854', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 74.41844171813727).
 strada('w130557857', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 47.23510199100205).
-strada('w130557860', 'residential', 'Via Francesco Casavola', 0, 20, 1, 154.96867183004633).
-strada('w130557861', 'residential', 'Via Francesco Casavola', 1, 30, 1, 32.96549326065634).
+strada('w130557860', 'residential', 'Via Francesco Casavola', 0, 30, 1, 154.96867183004633).
+strada('w130557861', 'residential', 'Via Francesco Casavola', 1, 20, 1, 32.96549326065634).
 strada('w130557862', 'residential', 'Viale Ottorino Respighi', 0, 30, 1, 332.9811848676609).
-strada('w130557863', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 59.72893030349607).
+strada('w130557863', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 59.72893030349607).
 strada('w130557865', 'residential', 'Via Francesco Casavola', 1, 30, 1, 31.992803348024577).
 strada('w130559620', 'residential', 'w130559620', 0, 20, 1, 38.47766185410176).
 strada('w130559622', 'service', 'w130559622', 1, 20, 1, 230.00803718901898).
 strada('w130559631', 'service', 'w130559631', 1, 20, 1, 72.97492696430088).
-strada('w130559632', 'tertiary', 'w130559632', 1, 30, 1, 72.0184926967834).
-strada('w130559636', 'tertiary', 'w130559636', 1, 30, 1, 72.14897081337043).
+strada('w130559632', 'tertiary', 'w130559632', 1, 40, 1, 72.0184926967834).
+strada('w130559636', 'tertiary', 'w130559636', 1, 40, 1, 72.14897081337043).
 strada('w130559638', 'tertiary', 'w130559638', 1, 40, 1, 51.072097419918066).
-strada('w130559640', 'residential', 'w130559640', 0, 30, 1, 278.4694888579974).
-strada('w130559644', 'residential', 'Via Vito De Fano', 0, 20, 1, 130.5753851996398).
+strada('w130559640', 'residential', 'w130559640', 0, 20, 1, 278.4694888579974).
+strada('w130559644', 'residential', 'Via Vito De Fano', 0, 30, 1, 130.5753851996398).
 strada('w130559646', 'unclassified', 'Via Raffaele Viviani', 1, 20, 1, 97.20825184901112).
 strada('w130559650', 'service', 'w130559650', 0, 20, 1, 40.58646306605691).
 strada('w130574775', 'trunk_link', 'w130574775', 1, 40, 1, 61.764462395149984).
@@ -9672,11 +9672,11 @@ strada('w130574785', 'trunk_link', 'w130574785', 1, 40, 1, 130.6730930063079).
 strada('w130574786', 'service', 'w130574786', 0, 20, 1, 151.16309876948623).
 strada('w130574787', 'track', 'w130574787', 0, 30, 1, 34.549665620711124).
 strada('w130574788', 'service', 'w130574788', 0, 20, 1, 437.7522007160596).
-strada('w130574792', 'residential', 'Via Martin Lutero', 0, 20, 2, 220.07476042053452).
+strada('w130574792', 'residential', 'Via Martin Lutero', 0, 30, 2, 220.07476042053452).
 strada('w130574793', 'unclassified', 'Via Murari', 1, 40, 1, 52.243163124575574).
 strada('w130574794', 'residential', 'Via Saverio Damiani', 0, 30, 2, 184.8690399486535).
 strada('w130574796', 'unclassified', 'w130574796', 0, 30, 1, 5.202381477647823).
-strada('w130574797', 'primary', 'Strada Statale 96', 0, 30, 2, 38.350618364636276).
+strada('w130574797', 'primary', 'Strada Statale 96', 0, 50, 2, 38.350618364636276).
 strada('w130574798', 'unclassified', 'Via Murari', 1, 40, 1, 33.117478737238756).
 strada('w130574799', 'service', 'w130574799', 0, 20, 1, 104.6861129040884).
 strada('w130574800', 'trunk_link', 'w130574800', 1, 40, 1, 101.24542849970152).
@@ -9684,20 +9684,20 @@ strada('w130574801', 'tertiary', 'w130574801', 1, 40, 1, 51.883045481790695).
 strada('w130574806', 'service', 'w130574806', 0, 20, 1, 100.59441779544824).
 strada('w130574809', 'tertiary', 'Via Murari', 1, 40, 1, 84.7537568234762).
 strada('w130574810', 'unclassified', 'Via Murari', 1, 40, 1, 38.786431937542645).
-strada('w130574811', 'secondary', 'Via Napoli', 1, 30, 1, 131.29281859499645).
+strada('w130574811', 'secondary', 'Via Napoli', 1, 50, 1, 131.29281859499645).
 strada('w130574816', 'unclassified', 'w130574816', 0, 30, 1, 97.75005825153389).
-strada('w130574817', 'service', 'w130574817', 0, 10, 1, 47.74750355427157).
-strada('w130574818', 'unclassified', 'Via F. Zippitelli', 0, 20, 1, 1532.6275880319806).
+strada('w130574817', 'service', 'w130574817', 0, 20, 1, 47.74750355427157).
+strada('w130574818', 'unclassified', 'Via F. Zippitelli', 0, 30, 1, 1532.6275880319806).
 strada('w130574821', 'tertiary', 'w130574821', 1, 40, 1, 25.156398491708497).
-strada('w130574822', 'residential', 'Via Martin Lutero', 0, 20, 1, 50.84440141052791).
+strada('w130574822', 'residential', 'Via Martin Lutero', 0, 10, 1, 50.84440141052791).
 strada('w130574823', 'trunk_link', 'w130574823', 1, 40, 1, 76.50969359263621).
 strada('w130574825', 'track', 'w130574825', 0, 30, 1, 223.93657648948243).
 strada('w130574826', 'unclassified', 'Via Guglielmo Lindemann', 0, 30, 1, 43.51074137560674).
 strada('w130574827', 'unclassified', 'Via Murari', 1, 40, 1, 32.53857587210542).
-strada('w130574829', 'unclassified', 'w130574829', 1, 20, 1, 27.16083616631095).
-strada('w130574831', 'residential', 'Via Martin Lutero', 1, 20, 1, 39.814921199809525).
+strada('w130574829', 'unclassified', 'w130574829', 1, 30, 1, 27.16083616631095).
+strada('w130574831', 'residential', 'Via Martin Lutero', 1, 30, 1, 39.814921199809525).
 strada('w130574832', 'unclassified', 'w130574832', 0, 30, 1, 14.479306599207572).
-strada('w130574834', 'unclassified', 'Viale Amedeo Lovri', 1, 30, 1, 925.6999097195111).
+strada('w130574834', 'unclassified', 'Viale Amedeo Lovri', 1, 20, 1, 925.6999097195111).
 strada('w130574835', 'service', 'w130574835', 1, 20, 1, 76.18790868586102).
 strada('w130574840', 'tertiary', 'w130574840', 1, 40, 1, 25.399477857864873).
 strada('w130574843', 'secondary', 'Via Napoli', 1, 50, 1, 131.62896454320614).
@@ -9708,26 +9708,26 @@ strada('w130574851', 'residential', 'Via Saverio Damiani', 0, 20, 2, 66.50416599
 strada('w130574853', 'service', 'w130574853', 1, 20, 1, 86.85564800329226).
 strada('w130574854', 'trunk_link', 'w130574854', 1, 40, 1, 72.78324477282409).
 strada('w130574855', 'unclassified', 'Via Murari', 1, 40, 1, 97.56495812907089).
-strada('w130574858', 'tertiary', 'Viale Francesco de Blasio', 1, 30, 2, 671.914250920648).
+strada('w130574858', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 671.914250920648).
 strada('w130574859', 'service', 'Lavaggio', 1, 20, 1, 76.24316387155501).
 strada('w130574861', 'tertiary', 'w130574861', 1, 40, 1, 23.389531093765363).
-strada('w130574864', 'service', 'w130574864', 0, 10, 1, 48.43468380849731).
+strada('w130574864', 'service', 'w130574864', 0, 20, 1, 48.43468380849731).
 strada('w130574868', 'residential', 'Strada Messenape', 1, 30, 1, 583.2584105079756).
 strada('w130574874', 'track', 'w130574874', 0, 30, 1, 45.00467134929733).
 strada('w130575712', 'tertiary', 'Strada Santa Caterina', 0, 40, 2, 984.9577584003646).
-strada('w130575713', 'unclassified', 'w130575713', 1, 30, 1, 50.48078046658024).
+strada('w130575713', 'unclassified', 'w130575713', 1, 20, 1, 50.48078046658024).
 strada('w130575716', 'unclassified', 'w130575716', 1, 30, 1, 41.98646337588663).
 strada('w130575720', 'service', 'w130575720', 0, 20, 1, 121.79032027680257).
 strada('w130575721', 'service', 'w130575721', 1, 20, 1, 109.7496301799471).
 strada('w130575722', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 33.17537318105466).
-strada('w130575723', 'unclassified', 'Strada San Giorgio Martire', 1, 30, 1, 41.333086153824674).
-strada('w130672038', 'residential', 'w130672038', 0, 30, 1, 37.17493875475079).
+strada('w130575723', 'unclassified', 'Strada San Giorgio Martire', 1, 20, 1, 41.333086153824674).
+strada('w130672038', 'residential', 'w130672038', 0, 20, 1, 37.17493875475079).
 strada('w130700759', 'residential', 'w130700759', 0, 30, 1, 62.27888005743211).
 strada('w130700762', 'residential', 'w130700762', 0, 20, 1, 9.209438085999594).
 strada('w130705328', 'unclassified', 'w130705328', 1, 30, 1, 2470.5849537083513).
 strada('w130705329', 'service', 'w130705329', 1, 30, 1, 211.83688473499583).
 strada('w130705331', 'unclassified', 'w130705331', 0, 30, 1, 70.27159666956291).
-strada('w130705334', 'service', 'w130705334', 1, 5, 1, 240.03794147680478).
+strada('w130705334', 'service', 'w130705334', 1, 20, 1, 240.03794147680478).
 strada('w130705335', 'service', 'w130705335', 0, 20, 1, 92.83024613869466).
 strada('w130705339', 'service', 'w130705339', 0, 20, 1, 43.47761015082726).
 strada('w130705342', 'service', 'w130705342', 0, 20, 1, 79.48645417649469).
@@ -9736,12 +9736,12 @@ strada('w130705346', 'service', 'w130705346', 0, 10, 1, 29.16639021484471).
 strada('w130705347', 'service', 'w130705347', 1, 20, 1, 32.97347547365127).
 strada('w130738801', 'service', 'Viale Mediterraneo', 0, 20, 1, 202.3787921305081).
 strada('w130738807', 'service', 'w130738807', 0, 20, 1, 71.64046901602134).
-strada('w130738808', 'service', 'Viale Ionio', 0, 20, 1, 202.87451107449243).
+strada('w130738808', 'service', 'Viale Ionio', 0, 10, 1, 202.87451107449243).
 strada('w130738823', 'service', 'Via Adriatico', 0, 20, 1, 196.32230438235163).
 strada('w130745008', 'track', 'w130745008', 0, 30, 1, 62.337970597927495).
-strada('w130745010', 'service', 'w130745010', 0, 20, 1, 30.085843696807174).
+strada('w130745010', 'service', 'w130745010', 0, 5, 1, 30.085843696807174).
 strada('w130745011', 'service', 'w130745011', 0, 20, 1, 88.34121576788868).
-strada('w130745013', 'service', 'w130745013', 0, 20, 1, 42.11880073736369).
+strada('w130745013', 'service', 'w130745013', 0, 5, 1, 42.11880073736369).
 strada('w130745015', 'service', 'w130745015', 0, 20, 1, 112.44358608940573).
 strada('w130745016', 'service', 'w130745016', 0, 20, 1, 23.468822226497558).
 strada('w130745017', 'service', 'w130745017', 0, 20, 1, 104.71929634026863).
@@ -9749,39 +9749,39 @@ strada('w130745019', 'service', 'w130745019', 1, 20, 1, 62.34809489422076).
 strada('w130745020', 'unclassified', 'w130745020', 1, 30, 1, 31.93093687372769).
 strada('w130745022', 'service', 'w130745022', 0, 20, 1, 67.05492570790425).
 strada('w130745024', 'track', 'w130745024', 0, 30, 1, 50.22923877485478).
-strada('w130745025', 'service', 'w130745025', 0, 20, 1, 29.967060334599783).
+strada('w130745025', 'service', 'w130745025', 0, 10, 1, 29.967060334599783).
 strada('w130745027', 'service', 'w130745027', 0, 20, 1, 30.972023342175245).
 strada('w130745029', 'service', 'w130745029', 0, 20, 1, 51.17372267026635).
-strada('w130745031', 'service', 'w130745031', 0, 10, 1, 251.40374363767822).
-strada('w130745032', 'service', 'w130745032', 0, 10, 1, 75.76487288502489).
+strada('w130745031', 'service', 'w130745031', 0, 20, 1, 251.40374363767822).
+strada('w130745032', 'service', 'w130745032', 0, 20, 1, 75.76487288502489).
 strada('w130745034', 'service', 'w130745034', 0, 20, 1, 15.529257084527611).
 strada('w131039497', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 38.08195035364258).
-strada('w131039498', 'secondary', 'Via Abate Eustasio', 0, 30, 2, 127.96167925750676).
-strada('w131480905', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 53.65843885487785).
-strada('w131480906', 'unclassified', 'w131480906', 1, 30, 1, 26.238543193567565).
+strada('w131039498', 'secondary', 'Via Abate Eustasio', 0, 50, 2, 127.96167925750676).
+strada('w131480905', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 53.65843885487785).
+strada('w131480906', 'unclassified', 'w131480906', 1, 20, 1, 26.238543193567565).
 strada('w131480907', 'trunk_link', 'w131480907', 1, 40, 1, 232.56250039389892).
-strada('w131480909', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 228.8343521356678).
+strada('w131480909', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 228.8343521356678).
 strada('w131480911', 'trunk_link', 'w131480911', 1, 40, 1, 26.676787549010626).
 strada('w131480912', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 282.97503841451964).
 strada('w131480915', 'track', 'w131480915', 0, 30, 1, 732.2150856671587).
 strada('w131480916', 'unclassified', 'w131480916', 0, 30, 1, 25.784303613079484).
 strada('w131480918', 'track', 'w131480918', 0, 30, 1, 131.57638082677076).
 strada('w131480921', 'service', 'w131480921', 0, 20, 1, 3.531996662607068).
-strada('w131480923', 'secondary', 'Via Nicola Vernola', 1, 30, 1, 500.4173432952791).
+strada('w131480923', 'secondary', 'Via Nicola Vernola', 1, 50, 1, 500.4173432952791).
 strada('w131480924', 'unclassified', 'w131480924', 1, 30, 1, 32.251435398479714).
 strada('w131480925', 'unclassified', 'w131480925', 1, 30, 1, 32.598742122079926).
 strada('w131480928', 'tertiary', 'Strada Canestrelle', 1, 40, 1, 20.899700192460863).
 strada('w131480929', 'track', 'w131480929', 0, 30, 1, 329.98798180653864).
 strada('w131480930', 'unclassified', 'w131480930', 1, 30, 1, 12.967128580959468).
-strada('w131480931', 'unclassified', 'w131480931', 0, 20, 1, 18.035745767255786).
+strada('w131480931', 'unclassified', 'w131480931', 0, 30, 1, 18.035745767255786).
 strada('w131480932', 'service', 'w131480932', 0, 20, 1, 29.597579254197925).
 strada('w131480933', 'service', 'Via Bitritto', 0, 20, 1, 42.97550893294577).
 strada('w131480940', 'service', 'w131480940', 0, 20, 1, 22.03632605536357).
 strada('w131480943', 'residential', 'w131480943', 0, 30, 1, 331.6564706080878).
-strada('w131480946', 'unclassified', 'w131480946', 1, 20, 1, 25.166972288012705).
+strada('w131480946', 'unclassified', 'w131480946', 1, 30, 1, 25.166972288012705).
 strada('w131480948', 'service', 'w131480948', 0, 30, 1, 22.7054872799682).
 strada('w131480949', 'unclassified', 'w131480949', 1, 30, 1, 34.14016111684722).
-strada('w131480952', 'unclassified', 'w131480952', 0, 30, 1, 581.9933312334342).
+strada('w131480952', 'unclassified', 'w131480952', 0, 20, 1, 581.9933312334342).
 strada('w131480954', 'service', 'w131480954', 0, 20, 1, 774.1969250670907).
 strada('w131480957', 'tertiary', 'Via Floriano Ludwig', 1, 40, 1, 16.516235786067167).
 strada('w131480958', 'residential', 'w131480958', 0, 30, 1, 268.8502232961667).
@@ -9792,25 +9792,25 @@ strada('w131480973', 'unclassified', 'w131480973', 0, 30, 1, 3.861273421343145).
 strada('w131480975', 'unclassified', 'w131480975', 1, 30, 1, 34.26187993172239).
 strada('w131480978', 'tertiary', 'Via Floriano Ludwig', 1, 40, 1, 19.38402482415076).
 strada('w131480981', 'residential', 'w131480981', 0, 30, 1, 69.998823611393).
-strada('w131480983', 'unclassified', 'w131480983', 0, 30, 1, 341.6581363142752).
+strada('w131480983', 'unclassified', 'w131480983', 0, 20, 1, 341.6581363142752).
 strada('w131480985', 'secondary', 'w131480985', 1, 50, 1, 43.23101178744834).
 strada('w131480988', 'track', 'w131480988', 0, 30, 1, 395.2765291449852).
 strada('w131480990', 'service', 'w131480990', 1, 20, 1, 42.11866170898064).
-strada('w131480994', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 49.79910133905329).
-strada('w131480995', 'residential', 'w131480995', 0, 30, 1, 525.5615768463381).
+strada('w131480994', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 49.79910133905329).
+strada('w131480995', 'residential', 'w131480995', 0, 20, 1, 525.5615768463381).
 strada('w131480996', 'trunk_link', 'w131480996', 1, 40, 1, 15.700173624459255).
 strada('w131480998', 'service', 'w131480998', 1, 20, 1, 54.82087561602494).
 strada('w131484162', 'service', 'Via degli Abeti', 0, 20, 1, 1.790170787404947).
 strada('w131484163', 'service', 'w131484163', 1, 20, 1, 71.01329415560558).
-strada('w131484166', 'service', 'w131484166', 0, 20, 1, 83.92163507420044).
+strada('w131484166', 'service', 'w131484166', 0, 10, 1, 83.92163507420044).
 strada('w131484167', 'service', 'w131484167', 1, 20, 1, 108.31757985641903).
 strada('w131484169', 'service', 'w131484169', 0, 20, 1, 101.27323365738826).
 strada('w131484170', 'service', 'w131484170', 1, 20, 1, 106.11432215249388).
-strada('w131484173', 'service', 'w131484173', 1, 20, 1, 105.00517322044023).
+strada('w131484173', 'service', 'w131484173', 1, 5, 1, 105.00517322044023).
 strada('w131484177', 'service', 'w131484177', 1, 20, 1, 210.54698266161827).
-strada('w131484178', 'service', 'w131484178', 1, 10, 1, 129.73137332997254).
+strada('w131484178', 'service', 'w131484178', 1, 20, 1, 129.73137332997254).
 strada('w131484180', 'service', 'w131484180', 1, 10, 1, 112.82134513329123).
-strada('w131484181', 'service', 'w131484181', 0, 10, 1, 6.860213095105142).
+strada('w131484181', 'service', 'w131484181', 0, 20, 1, 6.860213095105142).
 strada('w131484183', 'service', 'w131484183', 1, 20, 1, 113.75137644438432).
 strada('w131484184', 'service', 'w131484184', 0, 20, 1, 64.29926886597056).
 strada('w131486292', 'service', 'Stradella Triggiani', 0, 20, 1, 309.7993752628577).
@@ -9824,39 +9824,39 @@ strada('w131486300', 'service', 'w131486300', 0, 20, 1, 44.40080761467695).
 strada('w131486301', 'service', 'w131486301', 0, 20, 1, 17.106296163987345).
 strada('w131486303', 'service', 'w131486303', 0, 20, 1, 384.5660729958295).
 strada('w131486304', 'service', 'w131486304', 0, 20, 1, 162.06275616270943).
-strada('w131486305', 'service', 'w131486305', 0, 10, 1, 121.3155306315982).
+strada('w131486305', 'service', 'w131486305', 0, 20, 1, 121.3155306315982).
 strada('w131486306', 'service', 'w131486306', 0, 20, 1, 137.05584838251633).
 strada('w131486310', 'service', 'w131486310', 0, 20, 1, 132.86526705832287).
 strada('w131486311', 'service', 'w131486311', 0, 20, 1, 16.70494495913952).
-strada('w131492717', 'tertiary', 'w131492717', 1, 40, 1, 24.392822123068957).
+strada('w131492717', 'tertiary', 'w131492717', 1, 30, 1, 24.392822123068957).
 strada('w131492718', 'secondary_link', 'w131492718', 1, 30, 1, 54.255721250569515).
 strada('w131492719', 'service', 'w131492719', 0, 20, 1, 32.74867896727079).
 strada('w131492720', 'secondary_link', 'w131492720', 1, 30, 1, 85.44564034759424).
 strada('w131492721', 'secondary', 'w131492721', 1, 50, 1, 1108.1930287074183).
 strada('w131492722', 'tertiary', 'w131492722', 1, 40, 1, 20.859715309442418).
-strada('w131492723', 'residential', 'w131492723', 0, 20, 1, 73.71356933343962).
+strada('w131492723', 'residential', 'w131492723', 0, 30, 1, 73.71356933343962).
 strada('w131492724', 'track', 'w131492724', 0, 30, 1, 140.31638769761912).
-strada('w131492725', 'residential', 'w131492725', 0, 20, 1, 45.59293920026791).
+strada('w131492725', 'residential', 'w131492725', 0, 30, 1, 45.59293920026791).
 strada('w131492726', 'service', 'w131492726', 0, 20, 1, 9.628295209234626).
-strada('w131492727', 'residential', 'w131492727', 0, 5, 1, 82.73297236841405).
-strada('w131492728', 'residential', 'w131492728', 0, 20, 1, 404.50796178782423).
+strada('w131492727', 'residential', 'w131492727', 0, 30, 1, 82.73297236841405).
+strada('w131492728', 'residential', 'w131492728', 0, 30, 1, 404.50796178782423).
 strada('w131492729', 'service', 'w131492729', 0, 20, 1, 73.57587298308847).
 strada('w131663575', 'service', 'w131663575', 0, 10, 1, 140.68347945110014).
-strada('w131745575', 'service', 'w131745575', 0, 20, 1, 22.227175456983012).
+strada('w131745575', 'service', 'w131745575', 0, 10, 1, 22.227175456983012).
 strada('w131745579', 'service', 'Ex Cava Di Maso', 0, 20, 1, 24.454521426292352).
 strada('w131745580', 'service', 'Ex Cava Di Maso', 0, 20, 1, 426.2132064769249).
-strada('w131745588', 'residential', 'Via Vaccarella', 1, 20, 1, 23.985520176411367).
-strada('w131745590', 'unclassified', 'Via Gaetano Marchitelli', 0, 30, 1, 30.629943605803142).
+strada('w131745588', 'residential', 'Via Vaccarella', 1, 30, 1, 23.985520176411367).
+strada('w131745590', 'unclassified', 'Via Gaetano Marchitelli', 0, 20, 1, 30.629943605803142).
 strada('w131745593', 'service', 'w131745593', 0, 20, 1, 23.059667908196747).
 strada('w131745594', 'service', 'Punto Gomme', 0, 20, 1, 13.601877517174287).
 strada('w131745600', 'residential', 'Via dello Scoglio', 0, 30, 1, 166.73601070456496).
 strada('w131745606', 'service', 'w131745606', 0, 20, 1, 37.09948230275573).
-strada('w131745614', 'residential', 'w131745614', 0, 30, 1, 134.9804137178641).
+strada('w131745614', 'residential', 'w131745614', 0, 20, 1, 134.9804137178641).
 strada('w131745616', 'service', 'w131745616', 1, 20, 1, 80.3611211883988).
 strada('w131745620', 'residential', 'Via Vaccarella', 1, 30, 1, 25.91099289211415).
 strada('w131745621', 'unclassified', 'Via San Gaspare del Bufalo', 1, 30, 1, 38.7876835490458).
 strada('w131745626', 'service', 'w131745626', 0, 20, 1, 15.25562263256116).
-strada('w131745630', 'residential', 'w131745630', 0, 20, 1, 9.314144687443353).
+strada('w131745630', 'residential', 'w131745630', 0, 30, 1, 9.314144687443353).
 strada('w131745631', 'service', 'w131745631', 0, 20, 1, 31.479584344453905).
 strada('w131745647', 'unclassified', 'Via San Gaspare del Bufalo', 1, 30, 1, 37.93055086027535).
 strada('w131746465', 'track', 'w131746465', 0, 30, 1, 223.77919041219877).
@@ -9867,13 +9867,13 @@ strada('w131748143', 'service', 'w131748143', 0, 20, 1, 88.13137991471011).
 strada('w131748144', 'secondary_link', 'w131748144', 1, 30, 1, 59.57056975340768).
 strada('w131748145', 'track', 'w131748145', 0, 30, 1, 358.19928076301386).
 strada('w131748146', 'secondary_link', 'w131748146', 1, 40, 1, 58.70380824569816).
-strada('w131748148', 'tertiary_link', 'Strada Torrebella', 1, 40, 1, 15.486761704010586).
+strada('w131748148', 'tertiary_link', 'Strada Torrebella', 1, 50, 1, 15.486761704010586).
 strada('w131748149', 'trunk_link', 'w131748149', 1, 40, 1, 164.1994844706255).
 strada('w131748150', 'secondary_link', 'w131748150', 1, 30, 1, 11.098759684056743).
 strada('w131748151', 'tertiary_link', 'Strada Torrebella', 1, 40, 1, 14.30107674881219).
 strada('w131748152', 'track', 'w131748152', 0, 30, 1, 13.33170675211037).
 strada('w131749702', 'tertiary_link', 'w131749702', 1, 50, 1, 109.85671686479395).
-strada('w131749704', 'tertiary_link', 'w131749704', 1, 40, 1, 72.29242109825695).
+strada('w131749704', 'tertiary_link', 'w131749704', 1, 50, 1, 72.29242109825695).
 strada('w131749706', 'tertiary_link', 'w131749706', 1, 40, 1, 116.64059502761977).
 strada('w131749707', 'unclassified', 'w131749707', 1, 30, 1, 28.37892400055854).
 strada('w131750844', 'unclassified', 'Via Don Luigi Guanella', 1, 30, 1, 258.04793692209495).
@@ -9887,7 +9887,7 @@ strada('w131752094', 'service', 'w131752094', 0, 20, 1, 94.55307894270908).
 strada('w131752095', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 224.63654725443257).
 strada('w131752096', 'unclassified', 'Viale Saverio Dioguardi', 1, 30, 1, 20.723880867530227).
 strada('w131752097', 'unclassified', 'Viale Saverio Dioguardi', 0, 30, 1, 140.1571026454502).
-strada('w131752098', 'unclassified', 'Viale Nicola Dell Andro', 1, 20, 1, 13.413031836517927).
+strada('w131752098', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 13.413031836517927).
 strada('w131752100', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 92.41752148956364).
 strada('w131752102', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 13.077274893876597).
 strada('w131754400', 'service', 'w131754400', 0, 20, 1, 12.904621458317404).
@@ -9904,12 +9904,12 @@ strada('w131757248', 'track', 'w131757248', 0, 30, 1, 1385.3974445336564).
 strada('w132089649', 'track', 'w132089649', 0, 30, 1, 50.97477340687232).
 strada('w132089650', 'track', 'w132089650', 0, 30, 1, 636.4576987500689).
 strada('w132089651', 'service', 'w132089651', 0, 20, 1, 171.15621639878805).
-strada('w132089652', 'service', 'w132089652', 0, 10, 1, 735.0485362618962).
+strada('w132089652', 'service', 'w132089652', 0, 20, 1, 735.0485362618962).
 strada('w132089653', 'track', 'w132089653', 0, 30, 1, 26.477578278742243).
 strada('w132089654', 'unclassified', 'Strada vecchia Bitritto Ceglie', 0, 30, 1, 889.5395411882254).
 strada('w132089657', 'track', 'w132089657', 0, 30, 1, 107.67859683747685).
 strada('w132089659', 'track', 'Via Francesco Crispi', 0, 30, 1, 395.8070436412336).
-strada('w132089660', 'tertiary', 'w132089660', 1, 40, 1, 56.32055627672682).
+strada('w132089660', 'tertiary', 'w132089660', 1, 30, 1, 56.32055627672682).
 strada('w132089662', 'track', 'w132089662', 0, 30, 1, 86.3746024798018).
 strada('w132089663', 'tertiary', 'Via Monsignor Jolando Nuzzi', 0, 40, 1, 228.26649446338806).
 strada('w132089664', 'service', 'Strada Lama Gattullo', 0, 20, 1, 54.23469446224325).
@@ -9917,7 +9917,7 @@ strada('w132089665', 'service', 'w132089665', 0, 20, 1, 133.19788696747744).
 strada('w132089667', 'track', 'w132089667', 0, 30, 1, 126.16397034023069).
 strada('w132089669', 'unclassified', 'Strada Lama Gattullo', 0, 30, 1, 80.36483237053099).
 strada('w132089673', 'track', 'Strada del Votano', 0, 30, 1, 39.9032688590256).
-strada('w132089674', 'service', 'w132089674', 0, 20, 1, 121.11070465126042).
+strada('w132089674', 'service', 'w132089674', 0, 5, 1, 121.11070465126042).
 strada('w132089675', 'track', 'w132089675', 0, 30, 1, 30.805677733356696).
 strada('w132089676', 'unclassified', 'Strada Lama Gattullo', 0, 30, 1, 8.274424089829965).
 strada('w132089677', 'unclassified', 'w132089677', 0, 30, 1, 62.78939796364486).
@@ -9928,7 +9928,7 @@ strada('w132089692', 'unclassified', 'Via Vincenzo Zaccaria', 1, 30, 1, 186.7924
 strada('w132089695', 'service', 'w132089695', 0, 20, 1, 331.9679597019166).
 strada('w132089696', 'service', 'w132089696', 0, 20, 1, 447.7397061281983).
 strada('w132089697', 'track', 'w132089697', 0, 30, 1, 11.405471772070328).
-strada('w132089699', 'tertiary', 'w132089699', 1, 30, 1, 22.216472353777576).
+strada('w132089699', 'tertiary', 'w132089699', 1, 40, 1, 22.216472353777576).
 strada('w132089700', 'track', 'w132089700', 0, 30, 1, 115.81262917266494).
 strada('w132089703', 'track', 'w132089703', 0, 30, 1, 11.063926257843498).
 strada('w132089704', 'track', 'w132089704', 0, 30, 1, 20.475325821763242).
@@ -9951,29 +9951,29 @@ strada('w132381376', 'track', 'w132381376', 0, 30, 1, 195.2741745971372).
 strada('w132381378', 'track', 'w132381378', 0, 30, 1, 324.89499188742906).
 strada('w132381386', 'unclassified', 'w132381386', 0, 30, 1, 384.3639810924809).
 strada('w132382016', 'track', 'w132382016', 0, 30, 1, 174.28760303143417).
-strada('w132408550', 'residential', 'w132408550', 0, 30, 1, 1107.8836279458615).
+strada('w132408550', 'residential', 'w132408550', 0, 20, 1, 1107.8836279458615).
 strada('w132525678', 'residential', 'Via Renato Scionti', 0, 30, 2, 239.00375072716244).
 strada('w132525681', 'service', 'w132525681', 0, 20, 1, 55.89210669506214).
 strada('w132525682', 'service', 'w132525682', 0, 20, 1, 4.612035184070635).
-strada('w132525683', 'service', 'w132525683', 0, 10, 1, 48.32873551981656).
+strada('w132525683', 'service', 'w132525683', 0, 20, 1, 48.32873551981656).
 strada('w132525684', 'service', 'w132525684', 0, 20, 1, 47.51567306826381).
 strada('w132526139', 'service', 'w132526139', 1, 20, 1, 29.516382828975782).
 strada('w132526140', 'service', 'w132526140', 1, 20, 1, 29.320479268618257).
 strada('w132526141', 'service', 'w132526141', 1, 20, 1, 30.410264033692844).
-strada('w132526143', 'secondary', 'Via Giuseppe Verdi', 1, 50, 1, 85.33797070562483).
+strada('w132526143', 'secondary', 'Via Giuseppe Verdi', 1, 30, 1, 85.33797070562483).
 strada('w132526144', 'service', 'w132526144', 1, 20, 1, 35.600802447199676).
-strada('w132526146', 'service', 'w132526146', 0, 20, 1, 71.39765575465708).
-strada('w132526147', 'service', 'w132526147', 1, 20, 1, 30.579595694681426).
+strada('w132526146', 'service', 'w132526146', 0, 10, 1, 71.39765575465708).
+strada('w132526147', 'service', 'w132526147', 1, 5, 1, 30.579595694681426).
 strada('w132526150', 'secondary', 'Via di Maratona', 1, 50, 1, 53.80181574393217).
 strada('w132702751', 'service', 'w132702751', 0, 20, 1, 64.15455558218403).
 strada('w132702755', 'service', 'w132702755', 0, 20, 1, 6.946721224228464).
 strada('w132702757', 'service', 'w132702757', 0, 20, 1, 230.95427085718475).
-strada('w132714033', 'residential', 'w132714033', 0, 30, 1, 59.468070805316614).
+strada('w132714033', 'residential', 'w132714033', 0, 20, 1, 59.468070805316614).
 strada('w132714034', 'service', 'w132714034', 0, 20, 1, 68.83221968918382).
 strada('w132714037', 'service', 'w132714037', 0, 20, 1, 54.095943816070545).
-strada('w132714039', 'residential', 'w132714039', 0, 20, 1, 37.12535699982921).
+strada('w132714039', 'residential', 'w132714039', 0, 30, 1, 37.12535699982921).
 strada('w132714040', 'secondary_link', 'Via Francesco Crispi', 1, 30, 1, 23.49454612530617).
-strada('w132714042', 'residential', 'w132714042', 0, 20, 1, 146.41362277340892).
+strada('w132714042', 'residential', 'w132714042', 0, 30, 1, 146.41362277340892).
 strada('w132714044', 'service', 'w132714044', 1, 20, 1, 50.07622393582992).
 strada('w132714047', 'service', 'w132714047', 1, 20, 1, 98.06492909660119).
 strada('w132714052', 'service', 'w132714052', 0, 20, 1, 120.56647953697579).
@@ -9982,91 +9982,91 @@ strada('w132714055', 'service', 'w132714055', 1, 20, 1, 66.98900877153862).
 strada('w132714057', 'service', 'w132714057', 1, 20, 1, 32.64605563534656).
 strada('w132714058', 'residential', 'Via Francesco Curzio', 1, 20, 1, 256.4570102894472).
 strada('w132714060', 'track', 'w132714060', 0, 30, 1, 47.84656040057297).
-strada('w132714062', 'residential', 'w132714062', 0, 20, 1, 55.58322720784112).
+strada('w132714062', 'residential', 'w132714062', 0, 30, 1, 55.58322720784112).
 strada('w132714064', 'service', 'w132714064', 0, 20, 1, 66.91008790054794).
-strada('w132714066', 'residential', 'w132714066', 0, 5, 1, 37.347993581500226).
-strada('w132714067', 'service', 'w132714067', 0, 20, 1, 48.804142945606976).
+strada('w132714066', 'residential', 'w132714066', 0, 30, 1, 37.347993581500226).
+strada('w132714067', 'service', 'w132714067', 0, 10, 1, 48.804142945606976).
 strada('w132714068', 'service', 'w132714068', 1, 20, 1, 89.99939313619535).
 strada('w132714069', 'service', 'w132714069', 1, 20, 1, 61.10103537181674).
-strada('w132714071', 'residential', 'w132714071', 0, 30, 1, 84.89685425066452).
+strada('w132714071', 'residential', 'w132714071', 0, 20, 1, 84.89685425066452).
 strada('w132714074', 'residential', 'w132714074', 0, 30, 1, 110.61671788937073).
 strada('w132714075', 'residential', 'w132714075', 0, 30, 1, 59.474929543493325).
 strada('w132714078', 'residential', 'Via Pola', 0, 30, 2, 159.8364049595948).
-strada('w132714080', 'residential', 'w132714080', 0, 30, 1, 161.8645440895229).
-strada('w132714083', 'residential', 'w132714083', 0, 20, 1, 24.720676738973893).
-strada('w132717746', 'unclassified', 'w132717746', 0, 20, 1, 331.246739626022).
+strada('w132714080', 'residential', 'w132714080', 0, 20, 1, 161.8645440895229).
+strada('w132714083', 'residential', 'w132714083', 0, 30, 1, 24.720676738973893).
+strada('w132717746', 'unclassified', 'w132717746', 0, 30, 1, 331.246739626022).
 strada('w132717748', 'unclassified', 'w132717748', 1, 30, 1, 14.673989598628937).
 strada('w132717749', 'secondary', 'Strada vicinale del tesoro', 0, 50, 1, 21.32418923095078).
 strada('w132717751', 'secondary_link', 'Viale Europa', 1, 50, 1, 134.52008030365297).
 strada('w132717753', 'unclassified', 'w132717753', 0, 30, 1, 149.2419062199634).
 strada('w132717755', 'service', 'w132717755', 0, 20, 1, 62.93469737451106).
-strada('w132717756', 'secondary', 'w132717756', 1, 30, 1, 27.709293322333444).
+strada('w132717756', 'secondary', 'w132717756', 1, 50, 1, 27.709293322333444).
 strada('w132717757', 'secondary', 'w132717757', 1, 30, 1, 31.988182254726194).
 strada('w132717758', 'unclassified', 'w132717758', 0, 30, 1, 723.3673007688024).
 strada('w132717759', 'secondary', 'w132717759', 1, 30, 1, 21.917875473427152).
-strada('w132717760', 'unclassified', 'w132717760', 1, 30, 1, 23.013440696757385).
+strada('w132717760', 'unclassified', 'w132717760', 1, 20, 1, 23.013440696757385).
 strada('w132717761', 'service', 'w132717761', 1, 20, 1, 127.84991235965053).
 strada('w132717765', 'unclassified', 'w132717765', 0, 30, 1, 73.07797024536276).
 strada('w132717766', 'unclassified', 'w132717766', 0, 30, 1, 193.4581149904674).
 strada('w132717767', 'unclassified', 'w132717767', 1, 30, 1, 28.93972706939834).
 strada('w132717772', 'unclassified', 'w132717772', 1, 30, 1, 24.702892556661894).
-strada('w132725568', 'unclassified', 'w132725568', 1, 30, 1, 25.832119503186778).
-strada('w132725569', 'secondary', 'Viale Europa', 0, 30, 1, 83.98671523894721).
+strada('w132725568', 'unclassified', 'w132725568', 1, 20, 1, 25.832119503186778).
+strada('w132725569', 'secondary', 'Viale Europa', 0, 50, 1, 83.98671523894721).
 strada('w132725570', 'residential', 'Via Boccasile', 0, 30, 1, 152.38063678382693).
 strada('w132725571', 'unclassified', 'w132725571', 1, 30, 1, 15.367649709741325).
 strada('w132725572', 'tertiary', 'w132725572', 1, 40, 1, 114.47199845446939).
-strada('w132725573', 'unclassified', 'w132725573', 1, 20, 1, 97.68142711168451).
-strada('w132725574', 'tertiary', 'Via Saverio Milella', 0, 30, 2, 717.1151410863054).
+strada('w132725573', 'unclassified', 'w132725573', 1, 30, 1, 97.68142711168451).
+strada('w132725574', 'tertiary', 'Via Saverio Milella', 0, 40, 2, 717.1151410863054).
 strada('w132725576', 'tertiary', 'w132725576', 1, 40, 1, 73.86199153593392).
 strada('w132725577', 'secondary', 'Viale Europa', 0, 50, 1, 566.1655428084703).
-strada('w132725578', 'unclassified', 'w132725578', 1, 20, 1, 46.693631464621006).
+strada('w132725578', 'unclassified', 'w132725578', 1, 30, 1, 46.693631464621006).
 strada('w132725579', 'unclassified', 'w132725579', 0, 20, 1, 30.035709043589858).
 strada('w132725580', 'residential', 'Via Trani', 0, 20, 1, 104.08854634234979).
 strada('w132725581', 'unclassified', 'w132725581', 0, 30, 2, 191.59349376743376).
-strada('w132725582', 'service', 'w132725582', 1, 10, 1, 223.20820067158576).
-strada('w132725584', 'unclassified', 'w132725584', 1, 20, 1, 66.15769953847371).
+strada('w132725582', 'service', 'w132725582', 1, 20, 1, 223.20820067158576).
+strada('w132725584', 'unclassified', 'w132725584', 1, 30, 1, 66.15769953847371).
 strada('w132725585', 'unclassified', 'w132725585', 1, 30, 1, 24.1563304161577).
-strada('w132725586', 'unclassified', 'w132725586', 1, 20, 1, 48.48129020902432).
+strada('w132725586', 'unclassified', 'w132725586', 1, 30, 1, 48.48129020902432).
 strada('w132725587', 'residential', 'Via Pascali', 0, 20, 1, 73.61438952131306).
 strada('w132725588', 'unclassified', 'w132725588', 1, 30, 1, 26.10506024877549).
-strada('w132725589', 'residential', 'Via Trani', 0, 30, 1, 173.16963376763837).
-strada('w132725590', 'tertiary', 'w132725590', 1, 30, 1, 86.96105475819384).
+strada('w132725589', 'residential', 'Via Trani', 0, 20, 1, 173.16963376763837).
+strada('w132725590', 'tertiary', 'w132725590', 1, 40, 1, 86.96105475819384).
 strada('w132725591', 'tertiary', 'Via Saverio Milella', 1, 40, 1, 62.859188734422276).
-strada('w132725593', 'unclassified', 'w132725593', 0, 20, 1, 105.45854822978856).
+strada('w132725593', 'unclassified', 'w132725593', 0, 30, 1, 105.45854822978856).
 strada('w132725594', 'unclassified', 'w132725594', 1, 30, 1, 24.72860065918094).
 strada('w132725596', 'service', 'w132725596', 1, 20, 1, 22.304335909046426).
 strada('w132725597', 'tertiary', 'w132725597', 1, 40, 1, 84.20401006959237).
 strada('w132725598', 'service', 'w132725598', 1, 20, 1, 18.539985605128525).
 strada('w132725599', 'unclassified', 'w132725599', 0, 30, 1, 265.7729112743201).
-strada('w132725600', 'residential', 'Via Gennaro Maria Monti', 0, 20, 1, 181.58390336152604).
+strada('w132725600', 'residential', 'Via Gennaro Maria Monti', 0, 30, 1, 181.58390336152604).
 strada('w132725601', 'unclassified', 'w132725601', 1, 30, 1, 24.677445723697844).
 strada('w132725602', 'tertiary', 'Viale Maestri del Lavoro', 1, 40, 1, 415.24658577693697).
 strada('w132725603', 'residential', 'w132725603', 0, 30, 1, 388.6985527702112).
 strada('w132725606', 'unclassified', 'w132725606', 1, 30, 1, 22.567089647168924).
 strada('w132725607', 'unclassified', 'w132725607', 1, 30, 1, 275.12939416279306).
 strada('w132725610', 'service', 'w132725610', 0, 20, 1, 55.750258916263945).
-strada('w132725612', 'tertiary', 'Viale Maestri del Lavoro', 1, 40, 1, 400.5746799238577).
+strada('w132725612', 'tertiary', 'Viale Maestri del Lavoro', 1, 30, 1, 400.5746799238577).
 strada('w132725613', 'tertiary', 'w132725613', 1, 40, 1, 106.77173783095141).
-strada('w132725615', 'residential', 'Via Metaponto', 0, 20, 1, 175.29899276428208).
-strada('w132725616', 'residential', 'Via Salvatore Tramonte', 0, 30, 1, 341.9823544935113).
+strada('w132725615', 'residential', 'Via Metaponto', 0, 30, 1, 175.29899276428208).
+strada('w132725616', 'residential', 'Via Salvatore Tramonte', 0, 20, 1, 341.9823544935113).
 strada('w132725617', 'tertiary', 'Via Saverio Milella', 1, 40, 1, 59.46362411545931).
-strada('w132725618', 'tertiary', 'Viale Maestri del Lavoro', 1, 40, 1, 618.4830767576642).
-strada('w132725619', 'tertiary', 'Viale Maestri del Lavoro', 1, 30, 1, 605.3876251862999).
-strada('w132725621', 'service', 'w132725621', 1, 10, 1, 56.90079099561765).
+strada('w132725618', 'tertiary', 'Viale Maestri del Lavoro', 1, 30, 1, 618.4830767576642).
+strada('w132725619', 'tertiary', 'Viale Maestri del Lavoro', 1, 40, 1, 605.3876251862999).
+strada('w132725621', 'service', 'w132725621', 1, 20, 1, 56.90079099561765).
 strada('w132725622', 'residential', 'Via Metaponto', 0, 30, 1, 44.98019510342744).
-strada('w132725623', 'unclassified', 'w132725623', 1, 20, 1, 21.06737170112104).
+strada('w132725623', 'unclassified', 'w132725623', 1, 30, 1, 21.06737170112104).
 strada('w132725625', 'tertiary', 'w132725625', 0, 40, 1, 73.02891636953575).
 strada('w132725626', 'unclassified', 'w132725626', 1, 30, 1, 19.189665822422413).
 strada('w132725629', 'unclassified', 'w132725629', 1, 30, 1, 22.785203925217992).
 strada('w132725630', 'unclassified', 'w132725630', 1, 30, 1, 28.146542462858754).
 strada('w132725632', 'unclassified', 'Viale Giuseppe Degennaro', 0, 30, 1, 820.88420966002).
 strada('w132725633', 'unclassified', 'w132725633', 0, 30, 1, 217.06525044955183).
-strada('w132725634', 'unclassified', 'w132725634', 1, 20, 1, 811.0341510040757).
+strada('w132725634', 'unclassified', 'w132725634', 1, 30, 1, 811.0341510040757).
 strada('w133751409', 'service', 'w133751409', 0, 20, 1, 13.762584508912234).
-strada('w133751413', 'residential', 'w133751413', 0, 5, 1, 98.21968866248847).
-strada('w133751419', 'service', 'w133751419', 1, 20, 1, 194.40729961797936).
+strada('w133751413', 'residential', 'w133751413', 0, 30, 1, 98.21968866248847).
+strada('w133751419', 'service', 'w133751419', 1, 10, 1, 194.40729961797936).
 strada('w133751425', 'service', 'w133751425', 0, 20, 1, 30.457404005139853).
-strada('w133751429', 'service', 'w133751429', 1, 10, 1, 40.08171064748808).
+strada('w133751429', 'service', 'w133751429', 1, 20, 1, 40.08171064748808).
 strada('w133751434', 'residential', 'Via Giuseppe Pavoncelli', 1, 30, 2, 22.216825074308737).
 strada('w133751445', 'residential', 'w133751445', 0, 30, 1, 52.383738674368644).
 strada('w133751450', 'service', 'w133751450', 0, 20, 1, 116.76617127342571).
@@ -10076,74 +10076,74 @@ strada('w133751466', 'service', 'w133751466', 1, 20, 1, 148.88503387813867).
 strada('w133757780', 'service', 'Strada Stoppelli', 1, 20, 1, 251.946533111853).
 strada('w133757781', 'secondary', 'Via Apulia', 1, 50, 1, 28.744468999683573).
 strada('w133757782', 'service', 'w133757782', 1, 10, 1, 67.72951620272224).
-strada('w133757785', 'secondary', 'w133757785', 1, 50, 1, 45.97381217584607).
+strada('w133757785', 'secondary', 'w133757785', 1, 30, 1, 45.97381217584607).
 strada('w133757786', 'residential', 'w133757786', 0, 20, 1, 55.47564505413519).
 strada('w133757791', 'service', 'w133757791', 0, 20, 1, 107.7950675194782).
-strada('w133757792', 'residential', 'w133757792', 1, 20, 1, 109.95127399691889).
+strada('w133757792', 'residential', 'w133757792', 1, 30, 1, 109.95127399691889).
 strada('w133757793', 'service', 'w133757793', 1, 20, 1, 80.96643190391258).
-strada('w133757794', 'unclassified', 'w133757794', 1, 30, 1, 23.780510799100476).
+strada('w133757794', 'unclassified', 'w133757794', 1, 20, 1, 23.780510799100476).
 strada('w133757797', 'unclassified', 'Via Aristosseno', 1, 30, 1, 100.77496391297426).
 strada('w133757801', 'service', 'w133757801', 1, 20, 1, 207.61899891778285).
 strada('w133757805', 'service', 'w133757805', 0, 20, 1, 214.78464853083614).
 strada('w133757808', 'service', 'Strada Stoppelli', 1, 20, 1, 23.764266107568343).
-strada('w133757810', 'secondary', 'w133757810', 1, 50, 2, 102.97496244927258).
+strada('w133757810', 'secondary', 'w133757810', 1, 30, 2, 102.97496244927258).
 strada('w133757813', 'tertiary', 'w133757813', 1, 40, 1, 9.613085984897504).
 strada('w133757815', 'residential', 'Via Divisione Acqui', 1, 30, 1, 77.0623578134298).
-strada('w133757818', 'unclassified', 'w133757818', 1, 30, 1, 18.323198711070834).
+strada('w133757818', 'unclassified', 'w133757818', 1, 20, 1, 18.323198711070834).
 strada('w133757822', 'service', 'w133757822', 1, 20, 1, 183.01907803515283).
-strada('w133757827', 'unclassified', 'w133757827', 0, 30, 1, 20.698124061127288).
+strada('w133757827', 'unclassified', 'w133757827', 0, 20, 1, 20.698124061127288).
 strada('w133757828', 'unclassified', 'Via Aristosseno', 1, 30, 1, 103.82383810445438).
 strada('w133757843', 'service', 'w133757843', 1, 20, 1, 241.69048525993733).
 strada('w133761502', 'primary_link', 'w133761502', 1, 40, 1, 16.066910199701603).
 strada('w133761505', 'residential', 'w133761505', 0, 30, 1, 41.66485926123862).
 strada('w133762088', 'service', 'w133762088', 1, 20, 1, 60.962141358726825).
-strada('w134683607', 'service', 'Molo Sant Antonio', 0, 20, 1, 334.07723464392666).
+strada('w134683607', 'service', 'Molo Sant Antonio', 0, 10, 1, 334.07723464392666).
 strada('w134683612', 'service', 'Molo Sant Antonio', 0, 20, 1, 175.69741697343693).
 strada('w134773383', 'service', 'w134773383', 0, 20, 1, 17.782778189074023).
-strada('w134773384', 'residential', 'Piazza Federico Secondo di Svevia', 1, 20, 1, 196.79006615088946).
+strada('w134773384', 'residential', 'Piazza Federico Secondo di Svevia', 1, 30, 1, 196.79006615088946).
 strada('w134796051', 'service', 'Parcheggio sotterraneo', 1, 20, 1, 62.589178937189345).
 strada('w134796052', 'service', 'w134796052', 0, 10, 1, 86.95644099361925).
-strada('w134796053', 'service', 'w134796053', 1, 20, 1, 12.167055740068847).
+strada('w134796053', 'service', 'w134796053', 1, 10, 1, 12.167055740068847).
 strada('w134796054', 'service', 'w134796054', 0, 20, 1, 77.63850942178351).
 strada('w134796055', 'service', 'Parcheggio sotterraneo', 1, 20, 1, 42.372463491264476).
 strada('w134796056', 'unclassified', 'w134796056', 0, 30, 1, 55.792598085245366).
 strada('w134796057', 'residential', 'Corso Giuseppe Mazzini', 1, 30, 1, 272.4061639517947).
 strada('w134796058', 'tertiary', 'w134796058', 1, 40, 1, 30.3065514502226).
 strada('w134796059', 'service', 'w134796059', 1, 20, 1, 104.7423302669122).
-strada('w134796983', 'residential', 'Corte Colagualano', 0, 30, 1, 49.67256443301178).
+strada('w134796983', 'residential', 'Corte Colagualano', 0, 20, 1, 49.67256443301178).
 strada('w134800966', 'service', 'w134800966', 0, 20, 1, 23.351356109869464).
 strada('w134800968', 'service', 'w134800968', 0, 20, 1, 50.56029724892954).
 strada('w134800970', 'service', 'w134800970', 0, 20, 1, 21.722173284152632).
-strada('w134800972', 'service', 'w134800972', 0, 10, 1, 20.80807236233711).
-strada('w134800973', 'service', 'w134800973', 1, 5, 1, 72.42924699187733).
+strada('w134800972', 'service', 'w134800972', 0, 20, 1, 20.80807236233711).
+strada('w134800973', 'service', 'w134800973', 1, 20, 1, 72.42924699187733).
 strada('w134800974', 'service', 'w134800974', 0, 20, 1, 19.334350780212162).
 strada('w134800975', 'service', 'w134800975', 0, 20, 1, 71.51483768142197).
 strada('w134800977', 'service', 'w134800977', 0, 20, 1, 22.765594861156814).
 strada('w134800978', 'service', 'w134800978', 1, 20, 1, 40.174343993428835).
 strada('w134800979', 'service', 'w134800979', 0, 20, 1, 91.28559634121342).
 strada('w134805759', 'service', 'w134805759', 0, 20, 1, 69.61823850852703).
-strada('w134805760', 'residential', 'Via Nicola Garrone', 1, 30, 1, 277.12897980702127).
+strada('w134805760', 'residential', 'Via Nicola Garrone', 1, 20, 1, 277.12897980702127).
 strada('w134805761', 'service', 'w134805761', 1, 20, 1, 56.1044894664639).
 strada('w134805762', 'residential', 'w134805762', 0, 20, 1, 33.39019694962912).
 strada('w134805763', 'service', 'w134805763', 0, 20, 1, 130.92240946704138).
 strada('w134805764', 'service', 'w134805764', 1, 20, 1, 36.20070400035893).
-strada('w134805765', 'service', 'w134805765', 1, 10, 1, 50.11542560873684).
+strada('w134805765', 'service', 'w134805765', 1, 20, 1, 50.11542560873684).
 strada('w134805766', 'service', 'w134805766', 1, 20, 1, 69.9380249883628).
 strada('w134805767', 'residential', 'Via Daniele Petrera', 1, 30, 1, 123.45664977043586).
 strada('w134805768', 'service', 'w134805768', 1, 20, 1, 17.773899550491915).
 strada('w134805769', 'residential', 'w134805769', 1, 30, 1, 84.42080255502243).
 strada('w134805770', 'service', 'w134805770', 1, 20, 1, 125.50521673473757).
-strada('w134805771', 'residential', 'Piazza Giulio Cesare', 1, 30, 1, 134.90010117537778).
+strada('w134805771', 'residential', 'Piazza Giulio Cesare', 1, 20, 1, 134.90010117537778).
 strada('w134809083', 'service', 'w134809083', 0, 20, 1, 45.014972438006964).
 strada('w134810311', 'unclassified', 'Stradella Massimi', 0, 30, 1, 829.6989761163213).
 strada('w134810877', 'unclassified', 'w134810877', 1, 30, 1, 365.22719766181376).
 strada('w134922819', 'residential', 'Strada Santa Teresa dei maschi', 0, 30, 1, 13.177140039044735).
-strada('w134922823', 'residential', 'Strada Santa Teresa dei maschi', 1, 5, 1, 4.154051620779953).
-strada('w135048699', 'residential', 'w135048699', 1, 20, 1, 83.66596642413727).
-strada('w135048702', 'tertiary', 'Viale Antonio Salandra', 1, 30, 1, 433.2343071372498).
+strada('w134922823', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 4.154051620779953).
+strada('w135048699', 'residential', 'w135048699', 1, 30, 1, 83.66596642413727).
+strada('w135048702', 'tertiary', 'Viale Antonio Salandra', 1, 40, 1, 433.2343071372498).
 strada('w135048707', 'residential', 'Via Giuseppe Albanese', 1, 30, 1, 71.92204059650744).
-strada('w135048712', 'residential', 'Via Lucera', 0, 20, 1, 52.194178218648155).
-strada('w135048716', 'secondary', 'Via Giuseppe Albanese', 1, 50, 1, 8.954424605983831).
+strada('w135048712', 'residential', 'Via Lucera', 0, 30, 1, 52.194178218648155).
+strada('w135048716', 'secondary', 'Via Giuseppe Albanese', 1, 30, 1, 8.954424605983831).
 strada('w135048717', 'residential', 'Via Vito Nicola Di Tullio', 0, 30, 1, 92.5743419967595).
 strada('w135048721', 'service', 'w135048721', 0, 20, 1, 60.48726609554481).
 strada('w135048722', 'secondary', 'Via Paolo Lembo', 1, 30, 1, 12.683786508379152).
@@ -10155,34 +10155,34 @@ strada('w135048740', 'service', 'w135048740', 0, 20, 1, 49.14233035672835).
 strada('w135048743', 'residential', 'Via Vito Fornari', 0, 30, 1, 43.071201465836616).
 strada('w135048746', 'secondary', 'Via Giuseppe Albanese', 1, 50, 1, 13.305412847577418).
 strada('w135048750', 'service', 'w135048750', 0, 20, 1, 139.30225200494857).
-strada('w135048751', 'service', 'w135048751', 1, 20, 1, 353.04580311520976).
-strada('w135062672', 'residential', 'w135062672', 0, 20, 1, 26.730348024254273).
-strada('w135062673', 'residential', 'Via Brennero', 1, 20, 1, 123.1337512385092).
-strada('w135067339', 'residential', 'Via Arcidiacono Giovanni', 1, 30, 1, 128.71404849253412).
-strada('w135067344', 'residential', 'w135067344', 0, 30, 1, 131.98464921734154).
+strada('w135048751', 'service', 'w135048751', 1, 10, 1, 353.04580311520976).
+strada('w135062672', 'residential', 'w135062672', 0, 5, 1, 26.730348024254273).
+strada('w135062673', 'residential', 'Via Brennero', 1, 30, 1, 123.1337512385092).
+strada('w135067339', 'residential', 'Via Arcidiacono Giovanni', 1, 5, 1, 128.71404849253412).
+strada('w135067344', 'residential', 'w135067344', 0, 10, 1, 131.98464921734154).
 strada('w135067349', 'service', 'w135067349', 0, 20, 1, 57.347545506114734).
 strada('w136010809', 'service', 'w136010809', 0, 20, 1, 95.2945967892875).
-strada('w136010812', 'unclassified', 'Via Vittorio Lenoci', 0, 30, 1, 466.9453574688139).
+strada('w136010812', 'unclassified', 'Via Vittorio Lenoci', 0, 20, 1, 466.9453574688139).
 strada('w136010813', 'service', 'w136010813', 0, 20, 1, 84.01436572766178).
 strada('w136010814', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 259.093781392151).
 strada('w136010815', 'service', 'w136010815', 0, 20, 1, 132.85391400740886).
 strada('w136010817', 'service', 'Parcheggio - Politecnico di Bari', 0, 20, 1, 170.38123880865606).
-strada('w136010819', 'residential', 'Via Gino Strada', 1, 20, 1, 402.0157845000835).
+strada('w136010819', 'residential', 'Via Gino Strada', 1, 30, 1, 402.0157845000835).
 strada('w136010820', 'service', 'w136010820', 0, 20, 1, 38.18357125919095).
 strada('w136010822', 'service', 'w136010822', 1, 20, 1, 153.35219246458186).
 strada('w136010825', 'service', 'w136010825', 0, 20, 1, 33.29989951282951).
 strada('w136010827', 'service', 'w136010827', 0, 20, 1, 742.6878664666327).
 strada('w136010830', 'service', 'w136010830', 0, 20, 1, 43.193021921566356).
-strada('w136015423', 'unclassified', 'w136015423', 0, 20, 1, 40.48375338417487).
+strada('w136015423', 'unclassified', 'w136015423', 0, 30, 1, 40.48375338417487).
 strada('w136015424', 'service', 'w136015424', 0, 20, 1, 72.29802167243017).
 strada('w136015425', 'service', 'w136015425', 1, 20, 1, 41.16445793695328).
 strada('w136015426', 'service', 'w136015426', 0, 20, 1, 34.54081034537547).
 strada('w136015427', 'unclassified', 'w136015427', 1, 30, 1, 363.1663912110215).
-strada('w136015428', 'unclassified', 'w136015428', 0, 20, 1, 161.67183755670735).
+strada('w136015428', 'unclassified', 'w136015428', 0, 30, 1, 161.67183755670735).
 strada('w136015429', 'service', 'w136015429', 0, 20, 1, 89.87351902997432).
 strada('w136015431', 'unclassified', 'w136015431', 0, 30, 1, 73.08002127716341).
 strada('w136015433', 'unclassified', 'Via Samuel F. Hahnemann', 0, 30, 1, 495.4298854583617).
-strada('w136015434', 'service', 'w136015434', 0, 20, 1, 84.24616574007246).
+strada('w136015434', 'service', 'w136015434', 0, 10, 1, 84.24616574007246).
 strada('w136015435', 'unclassified', 'w136015435', 0, 30, 1, 131.99707757480493).
 strada('w136015436', 'trunk_link', 'w136015436', 0, 40, 2, 134.47868185568956).
 strada('w136015438', 'service', 'w136015438', 0, 20, 1, 10.505857001004665).
@@ -10195,34 +10195,34 @@ strada('w136015445', 'service', 'w136015445', 0, 20, 1, 49.43818785561701).
 strada('w136309790', 'service', 'w136309790', 0, 20, 1, 45.291832743736066).
 strada('w136309791', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 13.689361356444218).
 strada('w136309793', 'secondary_link', 'w136309793', 1, 30, 1, 12.971048208654148).
-strada('w136309794', 'tertiary', 'Via Giulio Petroni', 1, 30, 1, 48.56761563793349).
+strada('w136309794', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 48.56761563793349).
 strada('w136309795', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 20.952687428685973).
 strada('w136309798', 'secondary_link', 'w136309798', 1, 30, 1, 13.477088315935955).
 strada('w136316502', 'residential', 'w136316502', 0, 30, 1, 82.58986044480123).
-strada('w136316505', 'residential', 'Via Michele Troisi', 0, 30, 1, 389.1956706887241).
+strada('w136316505', 'residential', 'Via Michele Troisi', 0, 5, 1, 389.1956706887241).
 strada('w136316508', 'service', 'w136316508', 0, 20, 1, 13.770429047628898).
-strada('w136316512', 'service', 'w136316512', 0, 20, 1, 56.45167137954957).
+strada('w136316512', 'service', 'w136316512', 0, 10, 1, 56.45167137954957).
 strada('w136316514', 'service', 'w136316514', 0, 20, 1, 198.86864293228783).
 strada('w136316516', 'service', 'w136316516', 0, 20, 1, 70.25574105984474).
 strada('w136316520', 'service', 'w136316520', 0, 20, 1, 48.908603626773974).
-strada('w136316522', 'service', 'w136316522', 0, 20, 1, 31.86860585027559).
+strada('w136316522', 'service', 'w136316522', 0, 10, 1, 31.86860585027559).
 strada('w136316523', 'service', 'w136316523', 0, 20, 1, 49.25866159345724).
 strada('w136316524', 'service', 'w136316524', 0, 20, 1, 9.87806251178926).
 strada('w136316525', 'service', 'w136316525', 0, 20, 1, 76.00141366058686).
 strada('w136316527', 'service', 'w136316527', 0, 20, 1, 415.3515998945018).
 strada('w136316528', 'service', 'w136316528', 0, 20, 1, 10.168536276910443).
 strada('w136316536', 'service', 'w136316536', 1, 20, 1, 59.661028038296024).
-strada('w136316538', 'service', 'w136316538', 0, 10, 1, 97.53959298201298).
+strada('w136316538', 'service', 'w136316538', 0, 20, 1, 97.53959298201298).
 strada('w136316542', 'service', 'w136316542', 1, 20, 1, 216.80482396675828).
 strada('w136316543', 'residential', 'Via Peucetia', 0, 30, 1, 229.074582194716).
-strada('w136316549', 'tertiary', 'w136316549', 0, 30, 1, 66.31949753857015).
+strada('w136316549', 'tertiary', 'w136316549', 0, 40, 1, 66.31949753857015).
 strada('w136316554', 'residential', 'w136316554', 1, 30, 1, 86.47900863795176).
-strada('w136316555', 'service', 'w136316555', 0, 10, 1, 68.56025128523979).
+strada('w136316555', 'service', 'w136316555', 0, 20, 1, 68.56025128523979).
 strada('w136316556', 'service', 'w136316556', 0, 20, 1, 55.188252135061724).
 strada('w136316559', 'service', 'w136316559', 0, 20, 1, 14.221303573925901).
 strada('w136316562', 'service', 'w136316562', 0, 20, 1, 57.26866030490438).
 strada('w136316564', 'residential', 'Via Michele Troisi', 1, 30, 1, 132.99316492785462).
-strada('w136316567', 'service', 'w136316567', 1, 20, 1, 59.876196309146025).
+strada('w136316567', 'service', 'w136316567', 1, 10, 1, 59.876196309146025).
 strada('w136316569', 'service', 'w136316569', 0, 20, 1, 157.15994303196743).
 strada('w136316576', 'service', 'w136316576', 0, 20, 1, 48.56866621037549).
 strada('w136316578', 'tertiary', 'w136316578', 1, 30, 1, 24.521571055752403).
@@ -10230,78 +10230,78 @@ strada('w136317371', 'service', 'w136317371', 0, 20, 1, 149.84659061383695).
 strada('w136317372', 'service', 'w136317372', 0, 20, 1, 11.703925185817548).
 strada('w136317373', 'track', 'w136317373', 0, 30, 1, 101.30377314740099).
 strada('w136317374', 'service', 'w136317374', 0, 20, 1, 12.841945040765717).
-strada('w136433227', 'service', 'w136433227', 1, 20, 1, 33.73282877354772).
+strada('w136433227', 'service', 'w136433227', 1, 10, 1, 33.73282877354772).
 strada('w136433228', 'service', 'w136433228', 0, 20, 1, 6.415356142377494).
 strada('w136433232', 'service', 'w136433232', 0, 20, 1, 6.801778787262394).
 strada('w136433233', 'service', 'w136433233', 0, 20, 1, 13.63219702350109).
 strada('w136433234', 'residential', 'Via Generale de Bernardis', 1, 30, 1, 382.58170284568456).
-strada('w136617359', 'service', 'w136617359', 0, 5, 1, 176.17386943993472).
+strada('w136617359', 'service', 'w136617359', 0, 20, 1, 176.17386943993472).
 strada('w136617360', 'service', 'w136617360', 0, 20, 1, 75.44745325498894).
-strada('w136617362', 'residential', 'w136617362', 0, 30, 1, 114.39421361971438).
+strada('w136617362', 'residential', 'w136617362', 0, 20, 1, 114.39421361971438).
 strada('w136617368', 'service', 'w136617368', 0, 20, 1, 119.90514256239955).
-strada('w136617372', 'service', 'w136617372', 1, 10, 1, 83.20597245003047).
-strada('w136617373', 'unclassified', 'Via Rosario Livatino', 1, 20, 1, 144.34393019818026).
+strada('w136617372', 'service', 'w136617372', 1, 20, 1, 83.20597245003047).
+strada('w136617373', 'unclassified', 'Via Rosario Livatino', 1, 30, 1, 144.34393019818026).
 strada('w136617378', 'service', 'w136617378', 0, 20, 1, 152.97927007341025).
 strada('w136617380', 'service', 'w136617380', 0, 20, 1, 160.62000742755544).
 strada('w136617381', 'service', 'w136617381', 0, 20, 1, 106.82184346118386).
 strada('w136617386', 'service', 'w136617386', 0, 20, 1, 109.67207410356752).
-strada('w136617391', 'residential', 'w136617391', 0, 20, 1, 283.5041208673692).
+strada('w136617391', 'residential', 'w136617391', 0, 30, 1, 283.5041208673692).
 strada('w136617392', 'unclassified', 'w136617392', 0, 30, 1, 374.4958309451624).
-strada('w136617396', 'service', 'w136617396', 0, 5, 1, 91.68813201591072).
-strada('w136617398', 'residential', 'w136617398', 0, 20, 1, 340.5527172589169).
+strada('w136617396', 'service', 'w136617396', 0, 20, 1, 91.68813201591072).
+strada('w136617398', 'residential', 'w136617398', 0, 30, 1, 340.5527172589169).
 strada('w136617399', 'service', 'w136617399', 0, 20, 1, 48.94176292263433).
-strada('w136617401', 'residential', 'w136617401', 0, 30, 1, 76.81427318035503).
+strada('w136617401', 'residential', 'w136617401', 0, 20, 1, 76.81427318035503).
 strada('w136617406', 'service', 'w136617406', 0, 20, 1, 323.5436137321324).
-strada('w136617407', 'unclassified', 'w136617407', 0, 20, 1, 110.55679981121766).
-strada('w136617408', 'service', 'w136617408', 0, 20, 1, 80.43078318131207).
+strada('w136617407', 'unclassified', 'w136617407', 0, 30, 1, 110.55679981121766).
+strada('w136617408', 'service', 'w136617408', 0, 10, 1, 80.43078318131207).
 strada('w136617409', 'unclassified', 'Via Rosario Livatino', 1, 30, 1, 174.32594485722154).
-strada('w136617410', 'unclassified', 'w136617410', 0, 20, 1, 251.25258461225468).
+strada('w136617410', 'unclassified', 'w136617410', 0, 30, 1, 251.25258461225468).
 strada('w136617412', 'service', 'w136617412', 0, 20, 1, 125.11962641404465).
 strada('w136617413', 'track', 'w136617413', 0, 30, 1, 548.8253849100145).
-strada('w136617414', 'service', 'w136617414', 0, 20, 1, 111.30321760932586).
+strada('w136617414', 'service', 'w136617414', 0, 10, 1, 111.30321760932586).
 strada('w136617417', 'service', 'w136617417', 0, 20, 1, 75.49230027014505).
 strada('w136617418', 'service', 'w136617418', 0, 20, 1, 48.57747475958339).
 strada('w136617419', 'residential', 'w136617419', 0, 20, 1, 73.78992525776897).
 strada('w136617421', 'service', 'w136617421', 0, 20, 1, 102.44587568890827).
 strada('w136617422', 'track', 'w136617422', 0, 30, 1, 208.0144511892476).
 strada('w136617423', 'unclassified', 'w136617423', 0, 30, 1, 1370.2017497833174).
-strada('w136617424', 'residential', 'w136617424', 0, 20, 1, 86.43651355240588).
+strada('w136617424', 'residential', 'w136617424', 0, 30, 1, 86.43651355240588).
 strada('w136617425', 'service', 'w136617425', 0, 20, 1, 15.904343301473823).
 strada('w136617426', 'service', 'w136617426', 0, 20, 1, 168.47263419337372).
-strada('w136617428', 'residential', 'Via Vaccarella', 0, 30, 1, 392.6688894929906).
+strada('w136617428', 'residential', 'Via Vaccarella', 0, 20, 1, 392.6688894929906).
 strada('w136617430', 'residential', 'w136617430', 0, 30, 1, 129.1019282771822).
 strada('w136617432', 'service', 'w136617432', 0, 20, 1, 80.97858994029082).
-strada('w136617434', 'service', 'w136617434', 0, 10, 1, 20.485162178453937).
-strada('w136617435', 'residential', 'Via Vaccarella', 1, 20, 1, 83.41656502628992).
-strada('w136617436', 'residential', 'w136617436', 0, 20, 1, 86.28073512977927).
+strada('w136617434', 'service', 'w136617434', 0, 20, 1, 20.485162178453937).
+strada('w136617435', 'residential', 'Via Vaccarella', 1, 30, 1, 83.41656502628992).
+strada('w136617436', 'residential', 'w136617436', 0, 30, 1, 86.28073512977927).
 strada('w136617438', 'track', 'w136617438', 0, 30, 1, 498.4467639991904).
 strada('w136617439', 'service', 'w136617439', 0, 20, 1, 45.097775686887225).
 strada('w136617444', 'residential', 'w136617444', 0, 30, 1, 205.82603363590124).
 strada('w136617445', 'service', 'w136617445', 0, 20, 1, 41.779684417144836).
-strada('w136617446', 'unclassified', 'Via Gaetano Marchitelli', 1, 20, 1, 28.848438178497467).
+strada('w136617446', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 28.848438178497467).
 strada('w136617447', 'residential', 'w136617447', 0, 20, 1, 50.9401427399427).
-strada('w136617448', 'residential', 'w136617448', 0, 20, 1, 108.62786579959335).
+strada('w136617448', 'residential', 'w136617448', 0, 30, 1, 108.62786579959335).
 strada('w136617449', 'service', 'w136617449', 0, 20, 1, 65.47517378608013).
 strada('w136617450', 'track', 'w136617450', 0, 30, 1, 109.99686889931975).
 strada('w136617452', 'service', 'w136617452', 0, 20, 1, 56.97798493044158).
 strada('w136617453', 'service', 'w136617453', 0, 20, 1, 34.69968563504147).
 strada('w136617454', 'service', 'Guado Via Gorizia', 0, 20, 1, 309.99503718970055).
-strada('w136617457', 'residential', 'w136617457', 0, 30, 1, 60.216577952272985).
-strada('w136617458', 'residential', 'w136617458', 0, 30, 1, 172.96996171421586).
+strada('w136617457', 'residential', 'w136617457', 0, 20, 1, 60.216577952272985).
+strada('w136617458', 'residential', 'w136617458', 0, 20, 1, 172.96996171421586).
 strada('w136617462', 'unclassified', 'w136617462', 0, 30, 1, 173.33517617275533).
 strada('w136617464', 'service', 'w136617464', 0, 20, 1, 10.570006894802505).
 strada('w136617467', 'service', 'w136617467', 0, 20, 1, 20.87213761718229).
 strada('w136617470', 'residential', 'w136617470', 0, 20, 1, 162.58950240487445).
 strada('w136617473', 'service', 'w136617473', 0, 20, 1, 213.86839038130404).
 strada('w136617474', 'service', 'w136617474', 0, 20, 1, 90.60340884251715).
-strada('w136617476', 'residential', 'Via Barletta', 0, 20, 1, 103.52447619611921).
+strada('w136617476', 'residential', 'Via Barletta', 0, 30, 1, 103.52447619611921).
 strada('w136617477', 'residential', 'w136617477', 0, 30, 1, 95.1019884392775).
-strada('w136617480', 'residential', 'w136617480', 0, 20, 1, 113.72742773129895).
+strada('w136617480', 'residential', 'w136617480', 0, 30, 1, 113.72742773129895).
 strada('w137139300', 'track', 'w137139300', 0, 30, 1, 71.52423472889456).
 strada('w137139303', 'track', 'w137139303', 0, 30, 1, 715.9068914342372).
 strada('w137223832', 'service', 'w137223832', 0, 20, 1, 196.16524157709742).
 strada('w137223834', 'service', 'w137223834', 0, 20, 1, 27.68828584670056).
-strada('w137223837', 'service', 'w137223837', 0, 10, 1, 63.090178835552436).
+strada('w137223837', 'service', 'w137223837', 0, 20, 1, 63.090178835552436).
 strada('w137223842', 'service', 'w137223842', 0, 20, 1, 202.35387469862405).
 strada('w137223843', 'service', 'w137223843', 0, 20, 1, 75.22665884102268).
 strada('w137223845', 'service', 'w137223845', 0, 20, 1, 50.41379906803588).
@@ -10309,7 +10309,7 @@ strada('w137226584', 'track', 'w137226584', 0, 30, 1, 108.17701445739516).
 strada('w137226585', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 147.95289700388525).
 strada('w137226589', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 276.9417709560094).
 strada('w137226593', 'service', 'w137226593', 0, 20, 1, 222.01815872404944).
-strada('w137226599', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 41.147672009907836).
+strada('w137226599', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 41.147672009907836).
 strada('w137240303', 'track', 'w137240303', 0, 30, 1, 73.43404911401406).
 strada('w137320930', 'unclassified', 'Strada da Ceglie a Modugno', 0, 30, 1, 277.25784203674266).
 strada('w137320933', 'service', 'w137320933', 0, 20, 1, 13.777129255193778).
@@ -10323,10 +10323,10 @@ strada('w137324485', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 285
 strada('w137324487', 'unclassified', 'w137324487', 0, 30, 1, 356.71499866189083).
 strada('w137324488', 'track', 'w137324488', 0, 30, 1, 10.456993697712718).
 strada('w137324491', 'track', 'w137324491', 0, 30, 1, 236.78881354832896).
-strada('w137324495', 'unclassified', 'w137324495', 0, 30, 1, 196.76604330982394).
-strada('w137324496', 'unclassified', 'w137324496', 0, 20, 1, 137.54356726485173).
+strada('w137324495', 'unclassified', 'w137324495', 0, 20, 1, 196.76604330982394).
+strada('w137324496', 'unclassified', 'w137324496', 0, 30, 1, 137.54356726485173).
 strada('w137327344', 'unclassified', 'w137327344', 0, 30, 1, 327.10855220688063).
-strada('w137530852', 'service', 'w137530852', 1, 10, 1, 48.768220404717304).
+strada('w137530852', 'service', 'w137530852', 1, 20, 1, 48.768220404717304).
 strada('w137530853', 'service', 'w137530853', 1, 20, 1, 107.59318028268328).
 strada('w137530854', 'service', 'w137530854', 0, 20, 1, 46.48014496572214).
 strada('w137530855', 'service', 'w137530855', 1, 20, 1, 67.91051156135866).
@@ -10335,28 +10335,28 @@ strada('w137530857', 'service', 'w137530857', 0, 20, 1, 125.36144926524047).
 strada('w137530858', 'service', 'w137530858', 0, 20, 1, 46.04120494915002).
 strada('w137530859', 'service', 'w137530859', 0, 20, 1, 182.08950972111606).
 strada('w138439971', 'service', 'w138439971', 0, 20, 1, 20.82606190687894).
-strada('w138439974', 'service', 'w138439974', 1, 10, 1, 22.5140871377125).
+strada('w138439974', 'service', 'w138439974', 1, 20, 1, 22.5140871377125).
 strada('w138439977', 'service', 'w138439977', 1, 20, 1, 17.393954186336522).
 strada('w138439983', 'unclassified', 'w138439983', 1, 30, 1, 24.314247616648014).
-strada('w138439984', 'residential', 'w138439984', 0, 30, 1, 19.765683589357156).
+strada('w138439984', 'residential', 'w138439984', 0, 20, 1, 19.765683589357156).
 strada('w138439985', 'residential', 'Via Francesco Brancaccio', 0, 30, 1, 94.53948982522385).
-strada('w138439991', 'residential', 'w138439991', 0, 30, 1, 102.72257770782859).
-strada('w138439992', 'residential', 'w138439992', 0, 20, 1, 68.39246434251434).
+strada('w138439991', 'residential', 'w138439991', 0, 10, 1, 102.72257770782859).
+strada('w138439992', 'residential', 'w138439992', 0, 30, 1, 68.39246434251434).
 strada('w138439995', 'service', 'w138439995', 1, 20, 1, 111.12408704737817).
 strada('w138439999', 'service', 'w138439999', 1, 20, 1, 49.54433378790409).
-strada('w138440000', 'residential', 'w138440000', 0, 30, 1, 159.11051411080203).
+strada('w138440000', 'residential', 'w138440000', 0, 20, 1, 159.11051411080203).
 strada('w138440003', 'service', 'w138440003', 1, 20, 1, 128.65610711731506).
 strada('w138440005', 'service', 'w138440005', 1, 20, 1, 48.305233853281905).
-strada('w138454078', 'service', 'w138454078', 0, 20, 1, 108.17450034012509).
+strada('w138454078', 'service', 'w138454078', 0, 10, 1, 108.17450034012509).
 strada('w138454093', 'service', 'w138454093', 0, 20, 1, 27.570207894025955).
-strada('w138454097', 'service', 'w138454097', 0, 20, 1, 35.1229202094105).
-strada('w139996873', 'residential', 'Viale Quinto Orazio Flacco', 1, 20, 1, 35.81097404412442).
+strada('w138454097', 'service', 'w138454097', 0, 10, 1, 35.1229202094105).
+strada('w139996873', 'residential', 'Viale Quinto Orazio Flacco', 1, 30, 1, 35.81097404412442).
 strada('w139996874', 'service', 'w139996874', 0, 20, 1, 11.024042854906062).
 strada('w140004474', 'service', 'w140004474', 0, 20, 1, 29.028005024912122).
 strada('w140004475', 'service', 'w140004475', 0, 20, 1, 29.392758666196336).
 strada('w140004482', 'service', 'w140004482', 0, 20, 1, 3.41564443688556).
 strada('w140004483', 'service', 'w140004483', 0, 20, 1, 23.652340599886532).
-strada('w140004485', 'service', 'w140004485', 0, 20, 1, 30.5890563752407).
+strada('w140004485', 'service', 'w140004485', 0, 10, 1, 30.5890563752407).
 strada('w140004487', 'service', 'w140004487', 0, 20, 1, 50.34747602812071).
 strada('w140004488', 'service', 'w140004488', 0, 20, 1, 30.203514464365657).
 strada('w140004490', 'service', 'w140004490', 0, 20, 1, 30.988413686065723).
@@ -10366,14 +10366,14 @@ strada('w140004497', 'service', 'w140004497', 0, 20, 1, 59.23577334750553).
 strada('w140004502', 'service', 'w140004502', 0, 20, 1, 29.8002560654389).
 strada('w140004503', 'service', 'w140004503', 1, 20, 1, 61.715547138312175).
 strada('w140004504', 'service', 'w140004504', 1, 20, 1, 63.92974570992203).
-strada('w140004506', 'tertiary', 'Via Generale Bonomo', 1, 30, 1, 62.22400605580024).
+strada('w140004506', 'tertiary', 'Via Generale Bonomo', 1, 40, 1, 62.22400605580024).
 strada('w140004507', 'service', 'w140004507', 0, 20, 1, 4.327776575451952).
-strada('w141053176', 'service', 'w141053176', 0, 10, 1, 58.15173109759347).
-strada('w141053177', 'service', 'w141053177', 0, 10, 1, 72.92619909579346).
+strada('w141053176', 'service', 'w141053176', 0, 20, 1, 58.15173109759347).
+strada('w141053177', 'service', 'w141053177', 0, 20, 1, 72.92619909579346).
 strada('w141053178', 'service', 'w141053178', 0, 20, 1, 50.70332478310392).
 strada('w141053179', 'service', 'w141053179', 0, 20, 1, 50.865411677681664).
 strada('w141533818', 'residential', 'Strada Catino', 0, 30, 1, 273.3980170435141).
-strada('w141535498', 'tertiary', 'w141535498', 1, 30, 1, 119.00106191691756).
+strada('w141535498', 'tertiary', 'w141535498', 1, 40, 1, 119.00106191691756).
 strada('w141535499', 'secondary', 'w141535499', 1, 30, 1, 44.69621362990391).
 strada('w141535502', 'secondary_link', 'w141535502', 1, 30, 1, 45.92080187427079).
 strada('w141535503', 'secondary_link', 'w141535503', 1, 30, 1, 238.44569809475803).
@@ -10383,35 +10383,35 @@ strada('w141535507', 'secondary_link', 'w141535507', 1, 30, 1, 29.97931036233341
 strada('w141535510', 'secondary', 'w141535510', 0, 50, 1, 89.81230512176971).
 strada('w141535513', 'secondary_link', 'w141535513', 1, 30, 1, 14.324737661349516).
 strada('w141535514', 'secondary_link', 'w141535514', 1, 30, 1, 50.30477693785305).
-strada('w141535517', 'secondary', 'w141535517', 1, 50, 1, 28.436908898126095).
+strada('w141535517', 'secondary', 'w141535517', 1, 30, 1, 28.436908898126095).
 strada('w141535519', 'secondary_link', 'w141535519', 0, 30, 1, 44.96426468523679).
 strada('w141535520', 'secondary_link', 'w141535520', 1, 30, 1, 28.09520575965719).
 strada('w141535524', 'secondary_link', 'w141535524', 1, 30, 1, 248.99166138118477).
 strada('w141535526', 'secondary', 'Via Ernesto Bonavoglia', 0, 50, 2, 297.04200847007235).
-strada('w141535527', 'residential', 'Via Conte Mossa', 1, 30, 1, 220.85032013749097).
+strada('w141535527', 'residential', 'Via Conte Mossa', 1, 20, 1, 220.85032013749097).
 strada('w141535531', 'secondary', 'w141535531', 0, 50, 1, 34.39643889373742).
 strada('w141535532', 'secondary_link', 'w141535532', 1, 30, 1, 231.34450456038672).
 strada('w141535535', 'secondary_link', 'w141535535', 1, 30, 1, 99.98601406440126).
 strada('w141535537', 'unclassified', 'w141535537', 0, 30, 1, 96.78944878372607).
-strada('w141535538', 'secondary', 'w141535538', 0, 50, 1, 23.925654016975834).
+strada('w141535538', 'secondary', 'w141535538', 0, 30, 1, 23.925654016975834).
 strada('w141535542', 'secondary', 'w141535542', 1, 30, 1, 198.41809308569032).
 strada('w141535543', 'secondary_link', 'w141535543', 1, 30, 1, 26.43598649364175).
-strada('w141535544', 'residential', 'w141535544', 0, 30, 1, 325.80363951424783).
+strada('w141535544', 'residential', 'w141535544', 0, 10, 1, 325.80363951424783).
 strada('w141535548', 'secondary_link', 'w141535548', 1, 30, 1, 82.74152268546038).
 strada('w141535549', 'secondary_link', 'w141535549', 1, 30, 1, 55.145039645114075).
 strada('w141535550', 'unclassified', 'w141535550', 1, 30, 1, 45.207029919323105).
-strada('w141535553', 'secondary', 'w141535553', 0, 50, 1, 29.161759555280227).
+strada('w141535553', 'secondary', 'w141535553', 0, 30, 1, 29.161759555280227).
 strada('w141535554', 'unclassified', 'w141535554', 1, 30, 1, 40.34433273267883).
 strada('w141535555', 'secondary', 'w141535555', 0, 50, 2, 108.0803379549593).
 strada('w141535559', 'secondary_link', 'w141535559', 1, 30, 1, 162.55902251151653).
-strada('w141535560', 'tertiary', 'w141535560', 1, 40, 1, 34.504671222056274).
+strada('w141535560', 'tertiary', 'w141535560', 1, 30, 1, 34.504671222056274).
 strada('w141535563', 'secondary', 'w141535563', 0, 50, 1, 73.79981683867669).
 strada('w142152458', 'service', 'Strada Torre del Diavolo o Torre Coetta', 0, 20, 1, 354.5739136190461).
 strada('w142152462', 'service', 'w142152462', 0, 20, 1, 110.91780360547723).
 strada('w142152463', 'service', 'w142152463', 0, 20, 1, 114.08380024931566).
-strada('w142152464', 'service', 'w142152464', 0, 10, 1, 10.629877601812396).
+strada('w142152464', 'service', 'w142152464', 0, 20, 1, 10.629877601812396).
 strada('w142152467', 'service', 'w142152467', 0, 20, 1, 17.751518412498438).
-strada('w142152468', 'service', 'w142152468', 0, 20, 1, 346.0999784894439).
+strada('w142152468', 'service', 'w142152468', 0, 10, 1, 346.0999784894439).
 strada('w142152471', 'service', 'w142152471', 0, 20, 1, 31.810885265525545).
 strada('w142152472', 'service', 'w142152472', 0, 20, 1, 19.016963364398684).
 strada('w142152473', 'service', 'w142152473', 0, 20, 1, 106.13526279092797).
@@ -10424,7 +10424,7 @@ strada('w142152484', 'service', 'w142152484', 0, 20, 1, 47.34054975299876).
 strada('w142152487', 'service', 'w142152487', 0, 20, 1, 10.632586015439363).
 strada('w142152491', 'service', 'w142152491', 0, 20, 1, 42.18799572318922).
 strada('w142153817', 'service', 'w142153817', 0, 20, 1, 171.31096256132346).
-strada('w142153818', 'residential', 'w142153818', 0, 30, 1, 70.79282908825049).
+strada('w142153818', 'residential', 'w142153818', 0, 20, 1, 70.79282908825049).
 strada('w142155374', 'service', 'Via Antonio De Curtis', 0, 20, 1, 182.12807145551437).
 strada('w142155377', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 28.045116995461246).
 strada('w142518834', 'service', 'w142518834', 0, 20, 1, 78.17539353342679).
@@ -10433,7 +10433,7 @@ strada('w142519203', 'service', 'w142519203', 0, 20, 1, 16.558069614205873).
 strada('w142519204', 'residential', 'w142519204', 0, 30, 1, 102.78035998734839).
 strada('w142520938', 'service', 'w142520938', 1, 20, 1, 126.25166758468004).
 strada('w142520941', 'service', 'w142520941', 0, 20, 1, 35.069074073685655).
-strada('w142520946', 'service', 'w142520946', 0, 10, 1, 30.587323245013295).
+strada('w142520946', 'service', 'w142520946', 0, 20, 1, 30.587323245013295).
 strada('w144557632', 'service', 'w144557632', 0, 20, 1, 18.334509621200855).
 strada('w144557634', 'service', 'w144557634', 1, 20, 1, 97.65969386524526).
 strada('w144557636', 'unclassified', 'Via Salvatore Pietrocola', 0, 30, 1, 12.313939584696508).
@@ -10441,19 +10441,19 @@ strada('w145414103', 'service', 'Parcheggio sotterraneo', 1, 20, 1, 41.902017687
 strada('w145414104', 'service', 'Parcheggio sotterraneo', 1, 20, 1, 31.01061003217594).
 strada('w145418842', 'service', 'w145418842', 0, 20, 1, 100.29108626857868).
 strada('w145418843', 'service', 'w145418843', 0, 20, 1, 148.72055263705244).
-strada('w145418845', 'service', 'w145418845', 0, 5, 1, 34.880295269870814).
+strada('w145418845', 'service', 'w145418845', 0, 20, 1, 34.880295269870814).
 strada('w145418847', 'service', 'w145418847', 0, 20, 1, 43.21818279567426).
 strada('w145418851', 'service', 'w145418851', 0, 20, 1, 98.74136501802832).
 strada('w145418853', 'service', 'w145418853', 0, 20, 1, 31.606602609087666).
 strada('w145418855', 'service', 'w145418855', 0, 20, 1, 7.809177349818215).
-strada('w145418857', 'service', 'w145418857', 0, 5, 1, 15.833610796925413).
+strada('w145418857', 'service', 'w145418857', 0, 20, 1, 15.833610796925413).
 strada('w145419481', 'service', 'w145419481', 0, 20, 1, 77.51632121040856).
 strada('w145419482', 'service', 'Via Filippo Turati', 0, 20, 1, 16.067719488438037).
 strada('w145419483', 'unclassified', 'Via Raffaele Bovio', 1, 30, 1, 124.10173283707348).
 strada('w145419484', 'service', 'w145419484', 0, 20, 1, 16.270212358744644).
-strada('w145419485', 'service', 'w145419485', 1, 10, 1, 78.33114392829343).
+strada('w145419485', 'service', 'w145419485', 1, 20, 1, 78.33114392829343).
 strada('w145419486', 'service', 'w145419486', 0, 20, 1, 24.75265770905743).
-strada('w145419488', 'residential', 'Via Junipero Serra', 1, 20, 1, 35.30636921773607).
+strada('w145419488', 'residential', 'Via Junipero Serra', 1, 30, 1, 35.30636921773607).
 strada('w145419491', 'service', 'w145419491', 0, 20, 1, 251.92855702188035).
 strada('w146008533', 'service', 'w146008533', 0, 20, 1, 90.87192050330724).
 strada('w146008539', 'service', 'w146008539', 1, 20, 1, 66.01980530287372).
@@ -10463,10 +10463,10 @@ strada('w146008546', 'service', 'w146008546', 1, 20, 1, 56.79618353796025).
 strada('w146008547', 'service', 'w146008547', 0, 20, 1, 27.22806097281498).
 strada('w146008552', 'service', 'w146008552', 0, 20, 1, 43.255743365648755).
 strada('w146008554', 'service', 'w146008554', 0, 20, 1, 55.312228998875554).
-strada('w146008555', 'residential', 'Via Ettore Carafa', 1, 30, 1, 154.15794601203658).
+strada('w146008555', 'residential', 'Via Ettore Carafa', 1, 20, 1, 154.15794601203658).
 strada('w146008561', 'service', 'w146008561', 0, 20, 1, 48.09890343306009).
 strada('w146008563', 'service', 'w146008563', 0, 20, 1, 43.05700031123356).
-strada('w146008569', 'service', 'Pronto soccorso', 1, 20, 1, 11.157623807296638).
+strada('w146008569', 'service', 'Pronto soccorso', 1, 10, 1, 11.157623807296638).
 strada('w146008572', 'service', 'w146008572', 1, 20, 1, 50.462525161075135).
 strada('w146008575', 'service', 'w146008575', 0, 20, 1, 296.12291217651403).
 strada('w146008584', 'service', 'w146008584', 0, 20, 1, 178.04397650365323).
@@ -10478,7 +10478,7 @@ strada('w146008598', 'service', 'w146008598', 1, 20, 1, 44.410334256417954).
 strada('w146008601', 'service', 'w146008601', 0, 20, 1, 97.5488644190669).
 strada('w146008603', 'service', 'w146008603', 1, 20, 1, 51.87367766081759).
 strada('w146008608', 'service', 'w146008608', 0, 20, 1, 23.864402152358252).
-strada('w146008614', 'service', 'w146008614', 0, 20, 1, 34.71027774797442).
+strada('w146008614', 'service', 'w146008614', 0, 5, 1, 34.71027774797442).
 strada('w146008615', 'service', 'w146008615', 1, 20, 1, 83.36733313833166).
 strada('w146013036', 'service', 'w146013036', 0, 20, 1, 74.89474921944404).
 strada('w146013051', 'service', 'w146013051', 0, 20, 1, 193.42088408588074).
@@ -10487,17 +10487,17 @@ strada('w146013115', 'service', 'w146013115', 0, 20, 1, 143.6150462425819).
 strada('w146939686', 'residential', 'w146939686', 1, 30, 1, 23.79614309552663).
 strada('w146939688', 'secondary_link', 'w146939688', 1, 30, 1, 75.10254782888998).
 strada('w146939695', 'secondary_link', 'w146939695', 1, 30, 1, 46.18741625942278).
-strada('w146939701', 'residential', 'w146939701', 0, 30, 1, 93.86326315700167).
+strada('w146939701', 'residential', 'w146939701', 0, 20, 1, 93.86326315700167).
 strada('w146941254', 'service', 'w146941254', 1, 20, 1, 4.997065194007233).
 strada('w147036178', 'residential', 'w147036178', 0, 20, 1, 151.10502480811198).
-strada('w147039348', 'service', 'w147039348', 0, 20, 1, 152.1984150344596).
-strada('w147039359', 'service', 'w147039359', 0, 20, 1, 29.404847128687237).
+strada('w147039348', 'service', 'w147039348', 0, 10, 1, 152.1984150344596).
+strada('w147039359', 'service', 'w147039359', 0, 5, 1, 29.404847128687237).
 strada('w147039360', 'service', 'w147039360', 0, 20, 1, 10.963978578906069).
 strada('w147039363', 'service', 'w147039363', 0, 20, 1, 54.791635564851).
 strada('w147039375', 'service', 'w147039375', 0, 20, 1, 111.85860911011308).
 strada('w147039377', 'service', 'w147039377', 0, 20, 1, 23.2884408903554).
 strada('w147039378', 'service', 'w147039378', 1, 20, 1, 47.96173497178605).
-strada('w147040738', 'residential', 'w147040738', 0, 30, 1, 51.03732427705171).
+strada('w147040738', 'residential', 'w147040738', 0, 20, 1, 51.03732427705171).
 strada('w147040741', 'service', 'w147040741', 0, 20, 1, 94.76087367362341).
 strada('w147047136', 'service', 'w147047136', 0, 20, 1, 36.7520264441203).
 strada('w147047139', 'service', 'Parcheggio', 0, 20, 1, 69.00284299716336).
@@ -10511,11 +10511,11 @@ strada('w147434515', 'service', 'w147434515', 1, 20, 1, 496.3440851394892).
 strada('w147434516', 'service', 'w147434516', 1, 20, 1, 175.61086218261903).
 strada('w147434517', 'service', 'w147434517', 0, 20, 1, 71.21082108735533).
 strada('w147434518', 'service', 'w147434518', 0, 20, 1, 41.320020789958505).
-strada('w147434519', 'service', 'w147434519', 0, 20, 1, 16.244888490452517).
+strada('w147434519', 'service', 'w147434519', 0, 10, 1, 16.244888490452517).
 strada('w147435891', 'service', 'w147435891', 0, 20, 1, 18.50857441170533).
 strada('w147435892', 'service', 'w147435892', 1, 20, 1, 47.99742359408223).
 strada('w147435893', 'service', 'w147435893', 0, 20, 1, 11.842208304751448).
-strada('w147435895', 'unclassified', 'w147435895', 0, 30, 1, 73.7929755218134).
+strada('w147435895', 'unclassified', 'w147435895', 0, 20, 1, 73.7929755218134).
 strada('w147435898', 'service', 'w147435898', 1, 20, 1, 69.47005699664295).
 strada('w147435900', 'service', 'w147435900', 0, 20, 1, 23.647357077197732).
 strada('w147435903', 'service', 'w147435903', 1, 20, 1, 160.85766962233788).
@@ -10528,38 +10528,38 @@ strada('w147962735', 'track', 'w147962735', 0, 30, 1, 51.478056084408614).
 strada('w147962736', 'residential', 'w147962736', 1, 30, 1, 49.16532660443571).
 strada('w147962737', 'service', 'w147962737', 0, 20, 1, 29.110834663391536).
 strada('w147962739', 'residential', 'w147962739', 1, 30, 1, 70.14046565299992).
-strada('w147962740', 'residential', 'w147962740', 1, 20, 1, 75.86503919213743).
+strada('w147962740', 'residential', 'w147962740', 1, 30, 1, 75.86503919213743).
 strada('w147962741', 'residential', 'Viale Grotta della Regina', 1, 30, 2, 629.4634427051981).
 strada('w147962742', 'track', 'w147962742', 0, 30, 1, 114.0822234450333).
 strada('w147962743', 'track', 'w147962743', 0, 30, 1, 117.69933264412975).
 strada('w147962745', 'residential', 'w147962745', 1, 30, 1, 25.81866951136319).
 strada('w147962746', 'residential', 'w147962746', 0, 30, 1, 31.30464205576509).
-strada('w147962747', 'residential', 'w147962747', 1, 20, 1, 49.044960443296276).
+strada('w147962747', 'residential', 'w147962747', 1, 30, 1, 49.044960443296276).
 strada('w147962749', 'service', 'w147962749', 0, 20, 1, 101.71048307975707).
 strada('w147962750', 'track', 'w147962750', 0, 30, 1, 22.398172162159796).
 strada('w147971377', 'trunk_link', 'w147971377', 1, 40, 1, 115.37859660107401).
 strada('w147971380', 'service', 'w147971380', 0, 20, 1, 155.01463816422813).
-strada('w147971385', 'service', 'w147971385', 0, 20, 1, 53.86273911861143).
+strada('w147971385', 'service', 'w147971385', 0, 10, 1, 53.86273911861143).
 strada('w147971386', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 122.91673942287338).
-strada('w147971402', 'tertiary', 'w147971402', 1, 40, 1, 33.790297201539815).
+strada('w147971402', 'tertiary', 'w147971402', 1, 30, 1, 33.790297201539815).
 strada('w147971413', 'tertiary', 'Via Michelangelo Interesse', 0, 40, 2, 68.84678120330018).
 strada('w147971415', 'trunk_link', 'w147971415', 1, 40, 1, 93.84902509042394).
 strada('w147971431', 'tertiary_link', 'Via Bari', 0, 70, 1, 279.69193350273986).
 strada('w147971433', 'tertiary', 'Via Michelangelo Interesse', 0, 40, 2, 183.26077170828427).
 strada('w147971446', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 27.968750724896843).
-strada('w147971448', 'residential', 'w147971448', 0, 30, 1, 58.4651815544052).
+strada('w147971448', 'residential', 'w147971448', 0, 20, 1, 58.4651815544052).
 strada('w147971464', 'trunk_link', 'w147971464', 1, 40, 1, 36.37816855746904).
 strada('w147971477', 'tertiary', 'Via Bari', 0, 40, 1, 197.099567124557).
 strada('w147971482', 'trunk_link', 'w147971482', 0, 40, 1, 206.76152859763758).
-strada('w147971496', 'residential', 'Via Paolo Gargano', 0, 30, 1, 72.38645810531196).
+strada('w147971496', 'residential', 'Via Paolo Gargano', 0, 20, 1, 72.38645810531196).
 strada('w147971498', 'secondary_link', 'Via Abate Eustasio', 1, 30, 1, 24.923565682393825).
 strada('w147971506', 'service', 'w147971506', 1, 20, 1, 211.95987754708662).
 strada('w147971509', 'tertiary', 'w147971509', 1, 40, 1, 23.692387085187306).
-strada('w147971510', 'secondary', 'Via Abate Eustasio', 0, 50, 2, 28.098402745323277).
+strada('w147971510', 'secondary', 'Via Abate Eustasio', 0, 30, 2, 28.098402745323277).
 strada('w147972239', 'residential', 'Strada Pantaleo', 0, 30, 1, 658.0600123487492).
 strada('w147972241', 'unclassified', 'Strada Pantaleo', 0, 30, 1, 287.606764721485).
 strada('w147972243', 'unclassified', 'Strada Pantaleo', 0, 30, 1, 113.82954087586117).
-strada('w147972244', 'unclassified', 'w147972244', 0, 30, 1, 16.403330135590835).
+strada('w147972244', 'unclassified', 'w147972244', 0, 20, 1, 16.403330135590835).
 strada('w147976006', 'service', 'w147976006', 0, 20, 1, 237.22504859630803).
 strada('w148734901', 'secondary', 'Strada Ceglie-Adelfia', 0, 30, 2, 1858.7489788421633).
 strada('w148734920', 'service', 'w148734920', 0, 20, 1, 11.304611821204706).
@@ -10576,11 +10576,11 @@ strada('w149410280', 'service', 'Parcheggio Ospiti', 0, 20, 1, 211.3104543009934
 strada('w149410312', 'service', 'w149410312', 0, 20, 1, 162.0641400814189).
 strada('w149410329', 'service', 'w149410329', 1, 20, 1, 187.0097669370012).
 strada('w149410333', 'service', 'w149410333', 0, 20, 1, 141.20412321190932).
-strada('w149418419', 'service', 'w149418419', 1, 10, 1, 63.617685084431336).
-strada('w149418421', 'service', 'w149418421', 0, 20, 1, 17.03062693818746).
-strada('w149418422', 'service', 'w149418422', 0, 5, 1, 20.828467058223588).
-strada('w149418426', 'service', 'w149418426', 0, 10, 1, 33.881073458584524).
-strada('w150511415', 'secondary', 'Viale Louis Pasteur', 1, 50, 1, 39.98619564147167).
+strada('w149418419', 'service', 'w149418419', 1, 20, 1, 63.617685084431336).
+strada('w149418421', 'service', 'w149418421', 0, 10, 1, 17.03062693818746).
+strada('w149418422', 'service', 'w149418422', 0, 20, 1, 20.828467058223588).
+strada('w149418426', 'service', 'w149418426', 0, 20, 1, 33.881073458584524).
+strada('w150511415', 'secondary', 'Viale Louis Pasteur', 1, 30, 1, 39.98619564147167).
 strada('w150511418', 'service', 'w150511418', 0, 20, 1, 29.767298669943266).
 strada('w150888236', 'secondary', 'Via Bruno Buozzi', 1, 50, 1, 27.763364882732446).
 strada('w150888237', 'service', 'w150888237', 1, 20, 1, 54.69507664357645).
@@ -10591,30 +10591,30 @@ strada('w150888253', 'secondary', 'w150888253', 1, 50, 1, 27.23433080522291).
 strada('w150888254', 'unclassified', 'w150888254', 0, 30, 1, 13.887221764024552).
 strada('w150888257', 'unclassified', 'w150888257', 1, 30, 1, 15.794657839713516).
 strada('w150888261', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 236.85579936513957).
-strada('w150888266', 'unclassified', 'w150888266', 1, 30, 1, 21.89743470116504).
+strada('w150888266', 'unclassified', 'w150888266', 1, 20, 1, 21.89743470116504).
 strada('w150888267', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 23.55714686118223).
-strada('w150890373', 'residential', 'Via Vincenzo Calace', 0, 5, 1, 203.85787400781103).
-strada('w150890375', 'residential', 'Via Cassala', 1, 30, 1, 255.90968403042834).
+strada('w150890373', 'residential', 'Via Vincenzo Calace', 0, 20, 1, 203.85787400781103).
+strada('w150890375', 'residential', 'Via Cassala', 1, 20, 1, 255.90968403042834).
 strada('w150890376', 'unclassified', 'w150890376', 0, 30, 1, 170.32623350633196).
 strada('w150890378', 'unclassified', 'w150890378', 0, 30, 1, 38.007977976141724).
 strada('w150890379', 'residential', 'Via Cheren', 1, 30, 1, 204.8459719052738).
 strada('w150890725', 'residential', 'w150890725', 0, 30, 2, 321.5646078917644).
 strada('w151503388', 'unclassified', 'Stradella del Caffe ', 1, 30, 1, 59.260626788724124).
-strada('w151503390', 'residential', 'Stradella del Caffe ', 1, 5, 1, 54.146004313927335).
+strada('w151503390', 'residential', 'Stradella del Caffe ', 1, 20, 1, 54.146004313927335).
 strada('w151503391', 'unclassified', 'Stradella del Caffe ', 0, 30, 1, 104.37133659550501).
 strada('w151503392', 'service', 'w151503392', 0, 20, 1, 61.19294734675635).
-strada('w151503393', 'secondary', 'w151503393', 0, 30, 1, 12.403809474523369).
+strada('w151503393', 'secondary', 'w151503393', 0, 50, 1, 12.403809474523369).
 strada('w151503401', 'secondary', 'w151503401', 0, 50, 1, 13.086478293456532).
 strada('w151505379', 'service', 'w151505379', 1, 20, 1, 53.67530607421648).
 strada('w151505390', 'service', 'w151505390', 0, 20, 1, 14.41612362313949).
-strada('w151505947', 'service', 'w151505947', 0, 10, 1, 51.066201270995336).
+strada('w151505947', 'service', 'w151505947', 0, 20, 1, 51.066201270995336).
 strada('w151505951', 'unclassified', 'w151505951', 0, 30, 1, 307.45392055838374).
-strada('w151506786', 'residential', 'w151506786', 1, 20, 1, 17.222667258857378).
+strada('w151506786', 'residential', 'w151506786', 1, 30, 1, 17.222667258857378).
 strada('w151506787', 'residential', 'w151506787', 0, 20, 1, 7.077503278057803).
 strada('w151506788', 'service', 'w151506788', 0, 20, 1, 38.77266787731352).
 strada('w151506789', 'residential', 'w151506789', 0, 20, 1, 150.37787706856983).
 strada('w151506790', 'residential', 'w151506790', 0, 20, 1, 28.59184283791367).
-strada('w151506791', 'residential', 'w151506791', 1, 30, 1, 20.061249223830945).
+strada('w151506791', 'residential', 'w151506791', 1, 20, 1, 20.061249223830945).
 strada('w151506792', 'service', 'w151506792', 0, 20, 1, 35.13303489291156).
 strada('w151506793', 'service', 'w151506793', 0, 20, 1, 60.245150205548754).
 strada('w151506795', 'service', 'w151506795', 0, 20, 1, 41.09161896410545).
@@ -10623,36 +10623,36 @@ strada('w151506798', 'service', 'w151506798', 0, 20, 1, 14.1993551558636).
 strada('w153036461', 'service', 'w153036461', 1, 20, 1, 203.05544571704644).
 strada('w153036486', 'residential', 'w153036486', 0, 20, 1, 311.838961586361).
 strada('w153040354', 'unclassified', 'Strada Vicinale Fanelli', 0, 30, 1, 952.2897667217052).
-strada('w153040357', 'residential', 'w153040357', 0, 20, 1, 107.17598202436803).
-strada('w153040358', 'residential', 'w153040358', 0, 30, 1, 54.169761550398434).
-strada('w153040360', 'residential', 'w153040360', 0, 30, 1, 346.78585480546576).
+strada('w153040357', 'residential', 'w153040357', 0, 30, 1, 107.17598202436803).
+strada('w153040358', 'residential', 'w153040358', 0, 20, 1, 54.169761550398434).
+strada('w153040360', 'residential', 'w153040360', 0, 20, 1, 346.78585480546576).
 strada('w153040361', 'residential', 'w153040361', 0, 20, 1, 584.553871423954).
 strada('w153040363', 'service', 'w153040363', 0, 20, 1, 218.39335562927383).
 strada('w153040365', 'service', 'w153040365', 0, 20, 1, 363.1208885391761).
-strada('w153040367', 'residential', 'w153040367', 0, 30, 1, 97.3161378131792).
+strada('w153040367', 'residential', 'w153040367', 0, 20, 1, 97.3161378131792).
 strada('w153040369', 'residential', 'w153040369', 0, 30, 1, 117.6705121564813).
 strada('w153040371', 'residential', 'w153040371', 1, 30, 1, 173.48801518105347).
 strada('w153040373', 'residential', 'w153040373', 0, 20, 1, 763.3904161944128).
 strada('w153040377', 'residential', 'w153040377', 0, 30, 1, 516.2002203805595).
 strada('w153219650', 'service', 'w153219650', 0, 20, 1, 30.61787936672438).
-strada('w153219653', 'service', 'w153219653', 0, 20, 1, 118.6865060730032).
-strada('w153223480', 'service', 'w153223480', 0, 10, 1, 115.52437929333364).
+strada('w153219653', 'service', 'w153219653', 0, 10, 1, 118.6865060730032).
+strada('w153223480', 'service', 'w153223480', 0, 20, 1, 115.52437929333364).
 strada('w153786609', 'unclassified', 'w153786609', 0, 30, 1, 40.056801693491565).
 strada('w153786612', 'service', 'w153786612', 0, 20, 1, 58.4515172071144).
 strada('w153786614', 'unclassified', 'Via Martiri delle Foibe', 0, 30, 1, 506.4850225289688).
-strada('w153786615', 'service', 'w153786615', 1, 20, 1, 30.508918930798544).
+strada('w153786615', 'service', 'w153786615', 1, 10, 1, 30.508918930798544).
 strada('w153786622', 'unclassified', 'w153786622', 0, 30, 1, 47.80838620240618).
 strada('w153786623', 'unclassified', 'w153786623', 0, 30, 1, 112.80510762480374).
 strada('w153786627', 'tertiary', 'Strada Santa Caterina', 1, 50, 1, 105.55003994155346).
-strada('w153786629', 'unclassified', 'Via Martiri delle Foibe', 0, 30, 1, 49.64679485293213).
+strada('w153786629', 'unclassified', 'Via Martiri delle Foibe', 0, 20, 1, 49.64679485293213).
 strada('w153786636', 'service', 'w153786636', 1, 20, 1, 20.089729820371918).
 strada('w153786638', 'service', 'w153786638', 0, 20, 1, 18.617110728454847).
 strada('w153786644', 'service', 'w153786644', 1, 20, 1, 209.46391362413712).
-strada('w153786646', 'service', 'w153786646', 1, 20, 1, 28.785898337003452).
+strada('w153786646', 'service', 'w153786646', 1, 10, 1, 28.785898337003452).
 strada('w153786652', 'unclassified', 'w153786652', 1, 30, 1, 55.65421005791542).
 strada('w153788644', 'service', 'w153788644', 0, 20, 1, 81.98131353735107).
 strada('w153788645', 'service', 'w153788645', 0, 20, 1, 185.2575687837986).
-strada('w153788646', 'unclassified', 'w153788646', 0, 30, 1, 143.5868621656427).
+strada('w153788646', 'unclassified', 'w153788646', 0, 20, 1, 143.5868621656427).
 strada('w153788647', 'service', 'w153788647', 1, 20, 1, 15.413448270264468).
 strada('w153788649', 'service', 'w153788649', 0, 20, 1, 109.08574243288224).
 strada('w153788651', 'service', 'w153788651', 1, 20, 1, 75.25820026986369).
@@ -10674,7 +10674,7 @@ strada('w153799150', 'service', 'w153799150', 1, 20, 1, 41.73429504460183).
 strada('w153799151', 'service', 'w153799151', 0, 20, 1, 87.89646254121257).
 strada('w153799156', 'service', 'w153799156', 0, 20, 1, 17.799567455021663).
 strada('w153799158', 'service', 'w153799158', 1, 20, 1, 67.95115321307836).
-strada('w153799159', 'service', 'w153799159', 1, 10, 1, 63.33651670250425).
+strada('w153799159', 'service', 'w153799159', 1, 20, 1, 63.33651670250425).
 strada('w153799161', 'service', 'w153799161', 1, 20, 1, 32.956287742156704).
 strada('w153799166', 'unclassified', 'w153799166', 0, 30, 1, 249.94400236907472).
 strada('w153799170', 'track', 'w153799170', 0, 30, 1, 158.8833041908328).
@@ -10696,13 +10696,13 @@ strada('w155008933', 'track', 'w155008933', 0, 30, 1, 1475.889921457062).
 strada('w155008934', 'track', 'w155008934', 0, 30, 1, 23.273548432402926).
 strada('w155011848', 'trunk_link', 'w155011848', 1, 40, 1, 99.30857068751796).
 strada('w155011850', 'service', 'w155011850', 0, 20, 1, 532.7372611007361).
-strada('w155011851', 'service', 'w155011851', 1, 10, 1, 57.83180815115655).
+strada('w155011851', 'service', 'w155011851', 1, 20, 1, 57.83180815115655).
 strada('w155011852', 'tertiary', 'w155011852', 1, 40, 1, 185.40267934153542).
 strada('w155011853', 'tertiary', 'w155011853', 0, 40, 1, 135.14679893024154).
-strada('w155011855', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 43.06235365297262).
+strada('w155011855', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 43.06235365297262).
 strada('w155011856', 'service', 'w155011856', 1, 20, 1, 42.7697111707235).
 strada('w155011857', 'unclassified', 'w155011857', 0, 30, 1, 1433.914228056401).
-strada('w155011862', 'tertiary', 'w155011862', 1, 40, 1, 136.02509343452576).
+strada('w155011862', 'tertiary', 'w155011862', 1, 30, 1, 136.02509343452576).
 strada('w155011863', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 36.7219865203231).
 strada('w155011864', 'tertiary', 'Strada Complanare Ovest', 0, 40, 1, 9.747368129033669).
 strada('w155011865', 'unclassified', 'w155011865', 1, 30, 1, 17.586773972296164).
@@ -10712,23 +10712,23 @@ strada('w155011868', 'trunk_link', 'w155011868', 1, 40, 1, 208.3547430087229).
 strada('w155011869', 'service', 'w155011869', 0, 20, 1, 198.64921071732905).
 strada('w155011870', 'service', 'w155011870', 0, 20, 1, 141.85531338030466).
 strada('w155011871', 'trunk_link', 'w155011871', 0, 40, 1, 18.547445219097604).
-strada('w158336119', 'service', 'w158336119', 1, 20, 1, 11.104632199492553).
+strada('w158336119', 'service', 'w158336119', 1, 10, 1, 11.104632199492553).
 strada('w159252916', 'residential', 'Via NicolÃ² Dell Arca', 1, 30, 1, 84.5684842251325).
 strada('w159344785', 'unclassified', 'Via Cardinale Agostino Ciasca', 1, 30, 1, 110.21273398020783).
 strada('w161411481', 'secondary', 'Viale Japigia', 1, 30, 1, 470.48232334011635).
 strada('w161412692', 'residential', 'Via Pisani', 1, 30, 1, 64.46373702236137).
 strada('w161412693', 'residential', 'Via De Lilla', 0, 20, 1, 156.75585877629507).
-strada('w161412694', 'residential', 'Via Enrico Nannei', 1, 20, 1, 136.9848874496154).
-strada('w161412695', 'residential', 'w161412695', 1, 20, 1, 184.43203845218483).
-strada('w161413796', 'residential', 'Via degli Alpini d Italia', 0, 30, 2, 173.57231959720582).
+strada('w161412694', 'residential', 'Via Enrico Nannei', 1, 30, 1, 136.9848874496154).
+strada('w161412695', 'residential', 'w161412695', 1, 30, 1, 184.43203845218483).
+strada('w161413796', 'residential', 'Via degli Alpini d Italia', 0, 20, 2, 173.57231959720582).
 strada('w162744562', 'secondary_link', 'w162744562', 1, 30, 1, 66.55723179517861).
-strada('w162744575', 'secondary', 'Corso Trieste', 0, 50, 1, 79.92744053105379).
+strada('w162744575', 'secondary', 'Corso Trieste', 0, 30, 1, 79.92744053105379).
 strada('w162744583', 'service', 'Parcheggio bici e moto', 0, 5, 1, 76.75781472225222).
 strada('w162747004', 'residential', 'w162747004', 0, 20, 1, 110.02235359305237).
 strada('w162747005', 'tertiary', 'Via Apulia', 1, 40, 1, 127.1526335203173).
-strada('w162747007', 'residential', 'w162747007', 0, 20, 1, 59.44353113940312).
+strada('w162747007', 'residential', 'w162747007', 0, 30, 1, 59.44353113940312).
 strada('w162747010', 'residential', 'w162747010', 0, 30, 1, 47.317367224286755).
-strada('w162747012', 'tertiary', 'Via Apulia', 1, 30, 1, 132.77378931001934).
+strada('w162747012', 'tertiary', 'Via Apulia', 1, 40, 1, 132.77378931001934).
 strada('w162747014', 'residential', 'w162747014', 0, 20, 1, 18.279832670860834).
 strada('w163198058', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 44.1588754777008).
 strada('w163198060', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 45.77451531366897).
@@ -10736,9 +10736,9 @@ strada('w163198062', 'track', 'w163198062', 0, 30, 1, 43.097505714499405).
 strada('w163198063', 'unclassified', 'Via Gaetano Marchitelli', 1, 30, 1, 146.61996345665813).
 strada('w163959693', 'residential', 'Via Bruno Zaccaro', 0, 30, 1, 11.866136273358066).
 strada('w163959694', 'service', 'w163959694', 1, 20, 1, 177.44491538288935).
-strada('w163959696', 'residential', 'w163959696', 0, 20, 1, 148.4868600825745).
+strada('w163959696', 'residential', 'w163959696', 0, 30, 1, 148.4868600825745).
 strada('w163959698', 'service', 'w163959698', 0, 20, 1, 83.40678223923412).
-strada('w164627192', 'residential', 'Via Carlo Pisacane', 1, 10, 1, 138.39629353431278).
+strada('w164627192', 'residential', 'Via Carlo Pisacane', 1, 30, 1, 138.39629353431278).
 strada('w164636362', 'service', 'w164636362', 0, 20, 1, 15.023636365183425).
 strada('w164674670', 'residential', 'Via Enrico Toti', 1, 20, 1, 46.25185489275371).
 strada('w165029233', 'service', 'w165029233', 0, 20, 1, 143.6376918205137).
@@ -10757,20 +10757,20 @@ strada('w166477590', 'service', 'w166477590', 0, 20, 1, 99.5065054263975).
 strada('w166477591', 'service', 'w166477591', 0, 20, 1, 108.40962379258819).
 strada('w166477592', 'service', 'w166477592', 0, 20, 1, 130.30877632974483).
 strada('w166477593', 'residential', 'Via Lorenzo D Agostino', 0, 30, 1, 168.9649476491281).
-strada('w166477594', 'service', 'w166477594', 0, 20, 1, 88.15946716289895).
+strada('w166477594', 'service', 'w166477594', 0, 10, 1, 88.15946716289895).
 strada('w166477597', 'service', 'w166477597', 0, 20, 1, 47.0106692537299).
 strada('w166477599', 'service', 'w166477599', 0, 20, 1, 314.5614569153353).
-strada('w166477600', 'residential', 'Via Lorenzo D Agostino', 0, 30, 1, 249.7054889534486).
+strada('w166477600', 'residential', 'Via Lorenzo D Agostino', 0, 20, 1, 249.7054889534486).
 strada('w166477601', 'service', 'w166477601', 0, 20, 1, 16.438200682222334).
-strada('w166477605', 'service', 'w166477605', 0, 20, 1, 165.27976820456192).
+strada('w166477605', 'service', 'w166477605', 0, 5, 1, 165.27976820456192).
 strada('w166478240', 'service', 'w166478240', 0, 20, 1, 46.52925996226833).
 strada('w166478242', 'service', 'w166478242', 0, 20, 1, 94.60409414586432).
-strada('w166963280', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 31.247115291884683).
+strada('w166963280', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 31.247115291884683).
 strada('w166969739', 'service', 'w166969739', 0, 20, 1, 46.270220069447035).
-strada('w166969908', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 662.6681153142849).
+strada('w166969908', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 662.6681153142849).
 strada('w166969909', 'service', 'w166969909', 0, 20, 1, 28.218122118427384).
 strada('w166969911', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 250.31591270670734).
-strada('w166970409', 'service', 'w166970409', 1, 10, 1, 13.77509756030056).
+strada('w166970409', 'service', 'w166970409', 1, 20, 1, 13.77509756030056).
 strada('w166970529', 'trunk_link', 'w166970529', 1, 40, 1, 15.820922163204905).
 strada('w166970530', 'trunk_link', 'w166970530', 1, 40, 1, 11.471318949291023).
 strada('w166971186', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 36.33931774775013).
@@ -10779,7 +10779,7 @@ strada('w166971189', 'service', 'w166971189', 0, 20, 1, 97.23144576970033).
 strada('w166971190', 'service', 'w166971190', 0, 20, 1, 59.12067959846845).
 strada('w167050877', 'service', 'Park & Ride', 1, 20, 1, 43.406562535908996).
 strada('w167050879', 'service', 'w167050879', 1, 20, 1, 93.43736338379811).
-strada('w167050880', 'service', 'w167050880', 1, 20, 1, 94.74774048912936).
+strada('w167050880', 'service', 'w167050880', 1, 10, 1, 94.74774048912936).
 strada('w167050881', 'service', 'w167050881', 1, 20, 1, 88.25859041074392).
 strada('w167050882', 'residential', 'Via Giuseppe Pavoncelli', 1, 30, 2, 16.82424056051305).
 strada('w167050883', 'service', 'w167050883', 1, 20, 1, 87.85169252156629).
@@ -10790,23 +10790,23 @@ strada('w167058912', 'service', 'w167058912', 0, 20, 1, 35.763630641586744).
 strada('w167058917', 'track', 'w167058917', 0, 30, 1, 256.8134717166725).
 strada('w167322570', 'residential', 'Via Verona', 0, 30, 1, 184.65737464161498).
 strada('w167322573', 'service', 'w167322573', 0, 20, 1, 60.24322471434459).
-strada('w167322574', 'service', 'w167322574', 0, 20, 1, 46.78803461196557).
+strada('w167322574', 'service', 'w167322574', 0, 10, 1, 46.78803461196557).
 strada('w167322575', 'residential', 'Via Umbria', 0, 50, 1, 278.20960510108284).
 strada('w167322576', 'service', 'w167322576', 0, 20, 1, 79.44969734940278).
 strada('w167322577', 'service', 'w167322577', 0, 20, 1, 106.06748355229635).
-strada('w167322579', 'service', 'w167322579', 0, 20, 1, 140.77823505839967).
+strada('w167322579', 'service', 'w167322579', 0, 10, 1, 140.77823505839967).
 strada('w167322580', 'service', 'w167322580', 0, 20, 1, 562.0249309772968).
 strada('w167322581', 'service', 'w167322581', 0, 20, 1, 92.30239497275606).
 strada('w167322582', 'service', 'w167322582', 0, 20, 1, 76.97284855742).
 strada('w167322584', 'service', 'w167322584', 0, 20, 1, 253.04082207757483).
-strada('w167322586', 'service', 'w167322586', 0, 20, 1, 273.25241392883686).
-strada('w167322587', 'service', 'w167322587', 0, 20, 1, 143.13006768449972).
+strada('w167322586', 'service', 'w167322586', 0, 5, 1, 273.25241392883686).
+strada('w167322587', 'service', 'w167322587', 0, 10, 1, 143.13006768449972).
 strada('w167322589', 'service', 'w167322589', 0, 20, 1, 157.02012240967173).
 strada('w167322590', 'service', 'w167322590', 0, 20, 1, 236.8008568727916).
-strada('w167322591', 'residential', 'Via Vicenza', 0, 30, 1, 251.526634076465).
+strada('w167322591', 'residential', 'Via Vicenza', 0, 20, 1, 251.526634076465).
 strada('w167322594', 'service', 'w167322594', 0, 20, 1, 56.25535233322893).
 strada('w167322595', 'service', 'w167322595', 0, 20, 1, 118.88815875733863).
-strada('w167325176', 'unclassified', 'Via Nicola Cadudi', 1, 20, 1, 28.265930155364586).
+strada('w167325176', 'unclassified', 'Via Nicola Cadudi', 1, 30, 1, 28.265930155364586).
 strada('w167325177', 'unclassified', 'w167325177', 0, 30, 1, 243.71857467555).
 strada('w167325178', 'unclassified', 'Via Nicola Cadudi', 1, 30, 1, 35.31322221296516).
 strada('w167325179', 'unclassified', 'Via Nicola Cadudi', 1, 30, 1, 83.45465582317391).
@@ -10814,17 +10814,17 @@ strada('w167325180', 'service', 'w167325180', 0, 20, 1, 78.17818941006172).
 strada('w167325182', 'service', 'w167325182', 0, 20, 1, 22.86629234784242).
 strada('w167325183', 'unclassified', 'Via Nicola Cadudi', 1, 30, 1, 45.3386930698706).
 strada('w167325184', 'service', 'w167325184', 0, 20, 1, 22.567184019611624).
-strada('w167325185', 'service', 'w167325185', 0, 10, 1, 22.76401411333763).
+strada('w167325185', 'service', 'w167325185', 0, 20, 1, 22.76401411333763).
 strada('w167326293', 'service', 'w167326293', 0, 20, 1, 12.935555007740117).
-strada('w167609229', 'residential', 'Via Alberto De Blasi', 0, 20, 1, 335.4550160232306).
+strada('w167609229', 'residential', 'Via Alberto De Blasi', 0, 30, 1, 335.4550160232306).
 strada('w167609231', 'unclassified', 'w167609231', 0, 20, 1, 85.01375520329712).
 strada('w167609885', 'service', 'w167609885', 1, 20, 1, 301.4142842633138).
 strada('w167609886', 'service', 'w167609886', 1, 20, 1, 77.32753201739362).
 strada('w167609887', 'unclassified', 'w167609887', 1, 30, 1, 69.52230765650386).
-strada('w167609888', 'service', 'w167609888', 1, 10, 1, 313.029261319895).
+strada('w167609888', 'service', 'w167609888', 1, 20, 1, 313.029261319895).
 strada('w167609892', 'service', 'w167609892', 0, 20, 1, 203.53707770038125).
 strada('w167609896', 'service', 'w167609896', 0, 20, 1, 990.7904000106731).
-strada('w167609898', 'residential', 'Via Vincenzo Ricchioni', 0, 30, 1, 301.23591872848294).
+strada('w167609898', 'residential', 'Via Vincenzo Ricchioni', 0, 20, 1, 301.23591872848294).
 strada('w167609899', 'service', 'w167609899', 0, 20, 1, 462.43139265492505).
 strada('w167609900', 'unclassified', 'Viale Giuseppe Degennaro', 1, 30, 1, 101.7676006218462).
 strada('w167609905', 'service', 'w167609905', 0, 20, 1, 340.5120806813954).
@@ -10836,11 +10836,11 @@ strada('w170760197', 'service', 'Via Caduti di Via Fani', 0, 20, 1, 59.544016522
 strada('w172275399', 'track', 'w172275399', 0, 30, 1, 441.62941576224125).
 strada('w172275400', 'service', 'w172275400', 0, 20, 1, 232.94967370687286).
 strada('w172276151', 'unclassified', 'Strada Pozzo dell Ombra', 0, 30, 1, 146.05149444177044).
-strada('w172276157', 'unclassified', 'Strada vecchia Bitritto Ceglie', 0, 30, 1, 669.8564619180685).
-strada('w172300148', 'service', 'w172300148', 1, 20, 1, 6.132250190784397).
+strada('w172276157', 'unclassified', 'Strada vecchia Bitritto Ceglie', 0, 20, 1, 669.8564619180685).
+strada('w172300148', 'service', 'w172300148', 1, 10, 1, 6.132250190784397).
 strada('w173437205', 'track', 'w173437205', 0, 30, 1, 876.5396772772833).
 strada('w173437209', 'track', 'w173437209', 0, 30, 1, 765.9234663906167).
-strada('w173437225', 'secondary', 'Via Bitritto', 0, 30, 1, 139.0302908288141).
+strada('w173437225', 'secondary', 'Via Bitritto', 0, 50, 1, 139.0302908288141).
 strada('w173437227', 'track', 'w173437227', 0, 30, 1, 115.70695219021225).
 strada('w173437228', 'track', 'w173437228', 0, 30, 1, 123.29936109059055).
 strada('w173444092', 'track', 'w173444092', 0, 30, 1, 682.4843692589802).
@@ -10856,7 +10856,7 @@ strada('w173444104', 'track', 'Contrada Pezze Canneto', 0, 30, 1, 814.3235053871
 strada('w173444106', 'track', 'w173444106', 0, 30, 1, 105.87207273614713).
 strada('w173444107', 'track', 'w173444107', 0, 30, 1, 131.25423966973491).
 strada('w173446204', 'tertiary', 'Via Principessa Jolanda', 0, 40, 1, 118.75599722405727).
-strada('w173446205', 'secondary', 'Via Cesare Battisti', 0, 30, 1, 83.67638711432616).
+strada('w173446205', 'secondary', 'Via Cesare Battisti', 0, 50, 1, 83.67638711432616).
 strada('w173447195', 'residential', 'Via Principessa Jolanda', 0, 30, 1, 41.64974649252653).
 strada('w173447197', 'tertiary', 'Via Roma', 0, 40, 1, 62.20288452731682).
 strada('w173455680', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 0, 50, 1, 396.5128292607718).
@@ -10864,8 +10864,8 @@ strada('w173680979', 'primary', 'Via Bitritto', 0, 50, 2, 690.9123790693377).
 strada('w173680980', 'primary', 'w173680980', 1, 50, 2, 70.59043399141119).
 strada('w173680982', 'primary', 'w173680982', 1, 30, 2, 72.98200837498206).
 strada('w173680983', 'trunk', 'w173680983', 1, 70, 2, 420.50684804522683).
-strada('w173680984', 'primary', 'w173680984', 1, 30, 2, 121.37793074716454).
-strada('w173680985', 'primary', 'w173680985', 1, 50, 2, 127.56869390763521).
+strada('w173680984', 'primary', 'w173680984', 1, 50, 2, 121.37793074716454).
+strada('w173680985', 'primary', 'w173680985', 1, 30, 2, 127.56869390763521).
 strada('w173680986', 'primary_link', 'w173680986', 1, 40, 1, 35.46313370318287).
 strada('w173680987', 'trunk', 'Via Bitritto', 1, 70, 2, 488.8869467674101).
 strada('w173680988', 'trunk_link', 'w173680988', 1, 40, 1, 16.43745861489122).
@@ -10914,104 +10914,104 @@ strada('w173738907', 'unclassified', 'w173738907', 0, 30, 1, 259.14470924796285)
 strada('w173739164', 'service', 'w173739164', 0, 20, 1, 402.78402121871375).
 strada('w173739166', 'track', 'w173739166', 0, 30, 1, 182.752964414242).
 strada('w173739167', 'track', 'w173739167', 0, 30, 1, 95.84725642440245).
-strada('w173742387', 'residential', 'Via Nicola Manzari', 1, 30, 1, 38.72096400412593).
+strada('w173742387', 'residential', 'Via Nicola Manzari', 1, 10, 1, 38.72096400412593).
 strada('w173742388', 'track', 'w173742388', 0, 30, 1, 308.56319414162306).
 strada('w173742389', 'track', 'w173742389', 0, 30, 1, 251.9356125281028).
 strada('w173742390', 'unclassified', 'Strada da Ceglie a Modugno', 0, 30, 1, 1000.4762402985937).
 strada('w173742391', 'track', 'Strada da Ceglie a Modugno', 0, 30, 1, 74.36894469171943).
 strada('w173742392', 'residential', 'Via Gorizia', 0, 30, 1, 183.1452928168732).
 strada('w173762091', 'trunk_link', 'w173762091', 1, 40, 1, 270.2312091103588).
-strada('w173763753', 'residential', 'w173763753', 0, 20, 1, 231.40140859586307).
+strada('w173763753', 'residential', 'w173763753', 0, 30, 1, 231.40140859586307).
 strada('w173763755', 'track', 'w173763755', 0, 30, 1, 164.20687498775663).
 strada('w173763757', 'unclassified', 'w173763757', 0, 30, 1, 167.57104493356815).
 strada('w173764622', 'unclassified', 'w173764622', 1, 30, 1, 9.117322229927591).
-strada('w173765024', 'secondary', 'Via Giuseppe Solarino', 1, 50, 3, 45.59101451193974).
+strada('w173765024', 'secondary', 'Via Giuseppe Solarino', 1, 30, 3, 45.59101451193974).
 strada('w173830759', 'motorway', 'Autostrada Adriatica', 1, 130, 2, 1815.853861027518).
 strada('w173830761', 'track', 'Strada Torre Rossa', 0, 30, 1, 225.99172990270074).
 strada('w173830762', 'track', 'w173830762', 0, 30, 1, 486.3765327037052).
 strada('w173830763', 'track', 'w173830763', 0, 30, 1, 390.2540779241384).
 strada('w175451802', 'service', 'w175451802', 0, 20, 1, 107.14708801697775).
-strada('w175451803', 'unclassified', 'Ponte Via Gorizia', 0, 20, 1, 148.81969397711254).
+strada('w175451803', 'unclassified', 'Ponte Via Gorizia', 0, 30, 1, 148.81969397711254).
 strada('w175451804', 'unclassified', 'Strada Ceglie Triggiano', 1, 30, 1, 69.75277787373815).
-strada('w175451805', 'residential', 'Via Gorizia', 1, 30, 1, 55.21259307766614).
+strada('w175451805', 'residential', 'Via Gorizia', 1, 20, 1, 55.21259307766614).
 strada('w175451806', 'service', 'w175451806', 0, 20, 1, 54.304234550324615).
 strada('w175451807', 'unclassified', 'Strada Ceglie Triggiano', 0, 30, 1, 89.1784907152011).
 strada('w175451808', 'service', 'w175451808', 0, 20, 1, 34.159796833933875).
 strada('w175451809', 'unclassified', 'Via Corticelli', 1, 30, 1, 266.7483353119628).
 strada('w175451810', 'unclassified', 'Strada Ceglie Triggiano', 1, 30, 1, 28.434224905117432).
 strada('w175451811', 'service', 'w175451811', 0, 20, 1, 54.8524347046477).
-strada('w175451812', 'unclassified', 'Strada Ceglie Triggiano', 1, 20, 1, 18.87923108438892).
-strada('w175451813', 'unclassified', 'Strada Ceglie Triggiano', 1, 30, 1, 61.85280298714167).
+strada('w175451812', 'unclassified', 'Strada Ceglie Triggiano', 1, 30, 1, 18.87923108438892).
+strada('w175451813', 'unclassified', 'Strada Ceglie Triggiano', 1, 20, 1, 61.85280298714167).
 strada('w175461637', 'residential', 'Via Giuseppe Fanelli 289', 0, 30, 1, 92.86493599500183).
 strada('w175461642', 'residential', 'w175461642', 0, 30, 1, 213.2763112276034).
 strada('w175461646', 'residential', 'w175461646', 1, 30, 1, 31.84274304431873).
-strada('w175461648', 'service', 'w175461648', 1, 20, 1, 94.56447360494042).
+strada('w175461648', 'service', 'w175461648', 1, 10, 1, 94.56447360494042).
 strada('w175461651', 'residential', 'w175461651', 1, 30, 1, 19.762279542492823).
 strada('w175461655', 'residential', 'w175461655', 1, 30, 1, 17.462109271985558).
 strada('w175461657', 'residential', 'w175461657', 1, 30, 1, 46.72372107183099).
 strada('w175461660', 'residential', 'Via Giuseppe Fanelli 289', 0, 30, 1, 188.43208480127055).
 strada('w175461666', 'residential', 'w175461666', 0, 30, 1, 99.20750028201196).
 strada('w175461667', 'track', 'Strada Della Macchia', 0, 30, 1, 597.4084214953369).
-strada('w175461668', 'residential', 'Via Giuseppe Fanelli 289', 0, 20, 1, 66.10268739554971).
-strada('w175461670', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 333.16968412726226).
-strada('w175461675', 'secondary', 'Via Giuseppe Fanelli', 0, 30, 1, 69.41233374854771).
+strada('w175461668', 'residential', 'Via Giuseppe Fanelli 289', 0, 30, 1, 66.10268739554971).
+strada('w175461670', 'secondary', 'Via Giuseppe Fanelli', 0, 30, 1, 333.16968412726226).
+strada('w175461675', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 69.41233374854771).
 strada('w175461677', 'residential', 'w175461677', 0, 30, 1, 52.943419981394435).
 strada('w175461682', 'service', 'w175461682', 0, 20, 1, 74.6696296884963).
 strada('w175873537', 'track', 'w175873537', 0, 30, 1, 35.4637498174893).
 strada('w175873538', 'service', 'w175873538', 0, 20, 1, 45.11047966147059).
 strada('w175873542', 'service', 'w175873542', 0, 20, 1, 196.6282358542466).
 strada('w175873544', 'service', 'w175873544', 0, 20, 1, 24.521215173652536).
-strada('w175873545', 'residential', 'Via Cristoforo Colombo', 1, 30, 1, 81.94598908061649).
+strada('w175873545', 'residential', 'Via Cristoforo Colombo', 1, 20, 1, 81.94598908061649).
 strada('w175873548', 'residential', 'Via Adriatica', 1, 30, 1, 41.98232188931095).
-strada('w175873549', 'residential', 'w175873549', 1, 30, 1, 39.84191043395676).
+strada('w175873549', 'residential', 'w175873549', 1, 20, 1, 39.84191043395676).
 strada('w175873552', 'residential', 'Via dei Pescatori', 0, 30, 1, 19.595850135103834).
 strada('w176518948', 'unclassified', 'w176518948', 1, 30, 1, 231.90055019856584).
 strada('w176518949', 'service', 'McDrive', 0, 20, 1, 24.39499360120953).
 strada('w176518950', 'trunk_link', 'w176518950', 1, 40, 1, 79.05986560418808).
 strada('w176518953', 'unclassified', 'w176518953', 1, 30, 1, 19.835125855178237).
 strada('w176518956', 'unclassified', 'w176518956', 1, 30, 1, 42.71313426475804).
-strada('w176518958', 'tertiary', 'w176518958', 0, 30, 1, 572.9741675925378).
+strada('w176518958', 'tertiary', 'w176518958', 0, 40, 1, 572.9741675925378).
 strada('w176518959', 'service', 'w176518959', 0, 20, 1, 50.714831476956164).
-strada('w176518960', 'unclassified', 'w176518960', 1, 30, 1, 39.11175900923677).
-strada('w176518961', 'tertiary', 'w176518961', 1, 40, 1, 49.61499302025571).
+strada('w176518960', 'unclassified', 'w176518960', 1, 20, 1, 39.11175900923677).
+strada('w176518961', 'tertiary', 'w176518961', 1, 30, 1, 49.61499302025571).
 strada('w176518962', 'unclassified', 'w176518962', 1, 30, 1, 15.99831583462943).
-strada('w176518963', 'service', 'w176518963', 0, 10, 1, 47.928377831093286).
-strada('w176519947', 'unclassified', 'w176519947', 1, 20, 1, 34.8554513819483).
+strada('w176518963', 'service', 'w176518963', 0, 20, 1, 47.928377831093286).
+strada('w176519947', 'unclassified', 'w176519947', 1, 30, 1, 34.8554513819483).
 strada('w177276946', 'track', 'w177276946', 0, 30, 1, 812.7835584712101).
-strada('w177278187', 'tertiary', 'Strada dello Schiamante', 0, 40, 1, 400.937319283899).
+strada('w177278187', 'tertiary', 'Strada dello Schiamante', 0, 30, 1, 400.937319283899).
 strada('w177288621', 'track', 'Cala San Giorgio', 0, 30, 1, 14.345042184381397).
 strada('w177288622', 'track', 'Cala San Giorgio', 0, 30, 1, 147.73420148576406).
 strada('w177288623', 'track', 'Cala San Giorgio', 0, 30, 1, 202.9027866371998).
-strada('w177294631', 'unclassified', 'Via Lippolis', 0, 30, 1, 335.7318590898674).
+strada('w177294631', 'unclassified', 'Via Lippolis', 0, 20, 1, 335.7318590898674).
 strada('w177294635', 'unclassified', 'Traversa Cristoforo Colombo', 0, 30, 1, 139.7243154689716).
 strada('w177294636', 'tertiary', 'Via Napoli', 0, 40, 2, 383.0237723945085).
 strada('w177294637', 'tertiary', 'Via Nazionale', 0, 40, 1, 150.58498039945152).
-strada('w177294640', 'residential', 'Via Padova', 0, 30, 1, 99.15468996513019).
+strada('w177294640', 'residential', 'Via Padova', 0, 20, 1, 99.15468996513019).
 strada('w177294645', 'residential', 'Via San Marco', 0, 30, 1, 275.7395179830902).
 strada('w177294646', 'unclassified', 'Via Saverio Noviello', 1, 30, 1, 401.93924386895424).
-strada('w177294647', 'residential', 'Via Savona', 1, 20, 1, 370.72474944387955).
+strada('w177294647', 'residential', 'Via Savona', 1, 30, 1, 370.72474944387955).
 strada('w177294648', 'unclassified', 'Via Suor M. Lucchesi', 1, 30, 1, 138.99001879501742).
 strada('w177294649', 'unclassified', 'Via Capitaneo', 0, 30, 1, 254.98318877058767).
 strada('w177294651', 'service', 'w177294651', 0, 20, 1, 5.474558813792539).
 strada('w177294656', 'service', 'w177294656', 0, 20, 1, 123.21022731771012).
 strada('w177294658', 'track', 'w177294658', 0, 30, 1, 291.8877243156127).
-strada('w177297242', 'residential', 'Via Adolfo la Volpe', 0, 30, 1, 131.5071573884365).
-strada('w177297246', 'residential', 'Via Adolfo la Volpe', 1, 20, 1, 132.28993351768744).
-strada('w177297248', 'residential', 'Via Enrico Berlinguer', 0, 30, 1, 312.6201757038806).
-strada('w177297250', 'residential', 'Via Malta', 1, 20, 1, 356.9100123291486).
+strada('w177297242', 'residential', 'Via Adolfo la Volpe', 0, 20, 1, 131.5071573884365).
+strada('w177297246', 'residential', 'Via Adolfo la Volpe', 1, 30, 1, 132.28993351768744).
+strada('w177297248', 'residential', 'Via Enrico Berlinguer', 0, 20, 1, 312.6201757038806).
+strada('w177297250', 'residential', 'Via Malta', 1, 30, 1, 356.9100123291486).
 strada('w178711934', 'service', 'w178711934', 0, 30, 4, 85.06495784064009).
-strada('w180366432', 'residential', 'Vico Rovereto', 0, 30, 1, 12.498847379725333).
+strada('w180366432', 'residential', 'Vico Rovereto', 0, 20, 1, 12.498847379725333).
 strada('w180367009', 'residential', 'Via Daniele Manin', 0, 30, 1, 23.63661517370388).
 strada('w180368875', 'residential', 'Via UnitÃ ', 0, 20, 1, 33.065708987883724).
-strada('w180368877', 'residential', 'Via Luigi Settembrini', 0, 10, 1, 40.48210392139061).
+strada('w180368877', 'residential', 'Via Luigi Settembrini', 0, 20, 1, 40.48210392139061).
 strada('w180369061', 'residential', 'Via Regina Elena', 1, 30, 1, 60.849999845002024).
 strada('w180383121', 'tertiary', 'Via Cavour', 0, 40, 1, 358.181486007133).
 strada('w180383124', 'residential', 'w180383124', 0, 30, 1, 54.997344059039854).
-strada('w180385178', 'residential', 'Via Trieste', 0, 30, 1, 66.47255081089648).
+strada('w180385178', 'residential', 'Via Trieste', 0, 20, 1, 66.47255081089648).
 strada('w180386212', 'residential', 'Largo Giudea', 0, 30, 1, 14.916749991388157).
 strada('w180398954', 'track', 'w180398954', 0, 30, 1, 76.70594414675932).
-strada('w180398956', 'residential', 'w180398956', 0, 20, 1, 29.952548839250014).
-strada('w180398959', 'residential', 'Via Piave', 0, 20, 1, 48.215682386862234).
+strada('w180398956', 'residential', 'w180398956', 0, 30, 1, 29.952548839250014).
+strada('w180398959', 'residential', 'Via Piave', 0, 30, 1, 48.215682386862234).
 strada('w180398960', 'residential', 'Via del Montello', 0, 30, 1, 24.191049490813228).
 strada('w180398961', 'residential', 'Via dell Orto', 0, 30, 1, 35.98741200114889).
 strada('w180398962', 'track', 'Via dell Orto', 0, 30, 1, 153.10116020562364).
@@ -11019,50 +11019,50 @@ strada('w180398963', 'residential', 'Via delle Mura', 0, 30, 1, 60.1737542180597
 strada('w180399678', 'residential', 'Via Francesco Boccaccio', 0, 30, 1, 39.09251513561185).
 strada('w180399679', 'residential', 'Via Alessandro Manzoni', 0, 20, 1, 61.86070112642).
 strada('w180400743', 'residential', 'w180400743', 0, 30, 1, 5.434973246838577).
-strada('w180400744', 'residential', 'w180400744', 0, 10, 1, 8.50880070816116).
+strada('w180400744', 'residential', 'w180400744', 0, 30, 1, 8.50880070816116).
 strada('w180400745', 'residential', 'w180400745', 0, 30, 1, 39.288821430819105).
 strada('w180401337', 'residential', 'Via Nazario Sauro', 0, 30, 1, 47.63584873482871).
 strada('w180401338', 'unclassified', 'Stradella del Lago', 0, 30, 1, 224.57067825232616).
 strada('w180401339', 'service', 'Via Giuseppe Garibaldi', 0, 20, 1, 21.029292780978146).
 strada('w180401340', 'residential', 'Via Giuseppe Mazzini', 0, 20, 1, 20.88740153574039).
-strada('w180401341', 'residential', 'Via Regina Margherita', 0, 30, 1, 51.20832967410264).
+strada('w180401341', 'residential', 'Via Regina Margherita', 0, 20, 1, 51.20832967410264).
 strada('w180401342', 'residential', 'Via Umberto I', 0, 30, 1, 72.01078653957568).
-strada('w180401343', 'residential', 'Via dei 14 caduti', 0, 20, 1, 65.3494687656541).
-strada('w180401344', 'residential', 'Via dell Astico', 0, 20, 1, 33.95723564679549).
-strada('w180401680', 'residential', 'Via Vittorio Veneto', 0, 20, 1, 61.327859676365875).
-strada('w180403012', 'service', 'w180403012', 0, 20, 1, 146.6461306929833).
-strada('w180403013', 'unclassified', 'Strada Cisterna di Terra Rossa', 0, 30, 1, 608.8812470175058).
+strada('w180401343', 'residential', 'Via dei 14 caduti', 0, 30, 1, 65.3494687656541).
+strada('w180401344', 'residential', 'Via dell Astico', 0, 30, 1, 33.95723564679549).
+strada('w180401680', 'residential', 'Via Vittorio Veneto', 0, 30, 1, 61.327859676365875).
+strada('w180403012', 'service', 'w180403012', 0, 10, 1, 146.6461306929833).
+strada('w180403013', 'unclassified', 'Strada Cisterna di Terra Rossa', 0, 20, 1, 608.8812470175058).
 strada('w180403015', 'service', 'w180403015', 0, 20, 1, 29.601969630151157).
 strada('w180403016', 'service', 'w180403016', 0, 20, 1, 31.292623692376303).
 strada('w180403017', 'service', 'w180403017', 0, 20, 1, 31.065827113764552).
 strada('w180403018', 'service', 'w180403018', 0, 20, 1, 31.532260002090233).
 strada('w180403019', 'service', 'w180403019', 0, 20, 1, 31.334165752736517).
-strada('w180406859', 'service', 'w180406859', 1, 10, 1, 90.12330624120123).
+strada('w180406859', 'service', 'w180406859', 1, 20, 1, 90.12330624120123).
 strada('w180406861', 'track', 'w180406861', 0, 30, 1, 236.0439427301518).
-strada('w180406862', 'residential', 'Via Umberto Minervini', 0, 30, 1, 252.42046778978283).
+strada('w180406862', 'residential', 'Via Umberto Minervini', 0, 20, 1, 252.42046778978283).
 strada('w180412334', 'track', 'w180412334', 0, 30, 1, 401.98336069228367).
 strada('w180412335', 'service', 'w180412335', 0, 20, 1, 392.12210231468964).
 strada('w180412336', 'track', 'w180412336', 0, 30, 1, 741.4807473399783).
 strada('w180412337', 'track', 'w180412337', 0, 30, 1, 372.65993908195065).
 strada('w180412338', 'track', 'w180412338', 0, 30, 1, 297.8215420890862).
-strada('w180412339', 'service', 'w180412339', 0, 20, 1, 35.61338851787123).
+strada('w180412339', 'service', 'w180412339', 0, 10, 1, 35.61338851787123).
 strada('w180412340', 'track', 'w180412340', 0, 30, 1, 558.0067029052315).
 strada('w180412341', 'track', 'w180412341', 0, 30, 1, 284.53446255269694).
 strada('w180412342', 'unclassified', 'Strada Pozzo dell Ombra', 0, 30, 1, 194.16212722529679).
 strada('w180412343', 'tertiary', 'Via Raffaele Perrone', 0, 40, 1, 121.70451093897617).
-strada('w180412344', 'tertiary', 'Via Trabaccolanti', 0, 40, 1, 122.04912408746033).
-strada('w180412345', 'unclassified', 'Via Vincenzo Zaccaria', 0, 30, 1, 320.8487434317846).
+strada('w180412344', 'tertiary', 'Via Trabaccolanti', 0, 30, 1, 122.04912408746033).
+strada('w180412345', 'unclassified', 'Via Vincenzo Zaccaria', 0, 20, 1, 320.8487434317846).
 strada('w180413038', 'track', 'w180413038', 0, 30, 1, 248.4261057595673).
 strada('w180413039', 'track', 'w180413039', 0, 30, 1, 205.20433970571898).
 strada('w180413040', 'track', 'w180413040', 0, 30, 1, 97.76995144436498).
 strada('w180455772', 'unclassified', 'Via Nazionale', 0, 30, 1, 470.11672767784813).
 strada('w180465473', 'residential', 'Lungomare Nove Maggio', 1, 30, 2, 877.1095516503294).
-strada('w180465475', 'tertiary', 'Lungomare 9 Maggio', 0, 40, 2, 148.42552165503082).
-strada('w180465481', 'secondary', 'Lungomare Giambattista e Pietro Starita', 0, 30, 1, 16.707971830647992).
+strada('w180465475', 'tertiary', 'Lungomare 9 Maggio', 0, 30, 2, 148.42552165503082).
+strada('w180465481', 'secondary', 'Lungomare Giambattista e Pietro Starita', 0, 50, 1, 16.707971830647992).
 strada('w180465483', 'secondary', 'Lungomare Giambattista e Pietro Starita', 1, 50, 1, 960.2377675802014).
 strada('w180465485', 'secondary', 'Via Giuseppe Verdi', 0, 30, 2, 313.55102205815695).
 strada('w180465487', 'secondary', 'Viale Saverio Mercadante', 0, 50, 2, 148.79752226653883).
-strada('w180465489', 'tertiary', 'w180465489', 0, 40, 1, 31.241662380560328).
+strada('w180465489', 'tertiary', 'w180465489', 0, 30, 1, 31.241662380560328).
 strada('w180465492', 'service', 'w180465492', 0, 20, 1, 114.06563745067318).
 strada('w180465495', 'tertiary', 'w180465495', 0, 40, 1, 9.823860891780214).
 strada('w180534897', 'secondary', 'Lungomare Imperatore Augusto', 0, 30, 4, 851.0278180984768).
@@ -11073,15 +11073,15 @@ strada('w180534906', 'service', 'w180534906', 1, 20, 1, 63.69401635766399).
 strada('w180535587', 'tertiary', 'Strada Complanare Ovest', 0, 70, 1, 539.6923198617153).
 strada('w180535588', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 108.64539901252503).
 strada('w180535589', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 62.726444210226745).
-strada('w180535591', 'tertiary', 'Strada dello Schiamante', 0, 40, 1, 220.69786779914867).
+strada('w180535591', 'tertiary', 'Strada dello Schiamante', 0, 30, 1, 220.69786779914867).
 strada('w180535593', 'tertiary', 'Via Bari', 0, 40, 2, 689.277500918737).
 strada('w180535594', 'tertiary', 'Via Coppa di Bari', 0, 30, 1, 244.15901312352537).
-strada('w180535600', 'residential', 'Via Luigi Colonna', 1, 20, 1, 37.66689452568788).
+strada('w180535600', 'residential', 'Via Luigi Colonna', 1, 30, 1, 37.66689452568788).
 strada('w180535601', 'tertiary', 'Via Morelli E Salvati', 0, 70, 2, 485.88321121578275).
 strada('w180535602', 'tertiary', 'Via Scizze', 0, 40, 2, 302.431008332873).
 strada('w180570369', 'service', 'w180570369', 0, 20, 1, 89.38164786104544).
-strada('w180570370', 'service', 'w180570370', 0, 20, 1, 27.356486960592292).
-strada('w181884415', 'service', 'w181884415', 0, 10, 1, 72.75752083663727).
+strada('w180570370', 'service', 'w180570370', 0, 10, 1, 27.356486960592292).
+strada('w181884415', 'service', 'w181884415', 0, 20, 1, 72.75752083663727).
 strada('w181884416', 'service', 'w181884416', 0, 20, 1, 43.959075641885114).
 strada('w182018517', 'track', 'w182018517', 0, 30, 1, 574.7717903963988).
 strada('w182018518', 'track', 'w182018518', 0, 30, 1, 193.24693830988815).
@@ -11092,7 +11092,7 @@ strada('w182018861', 'track', 'w182018861', 0, 30, 1, 713.5856277891766).
 strada('w182021048', 'track', 'w182021048', 0, 30, 1, 308.9786315590775).
 strada('w182021049', 'secondary', 'w182021049', 1, 50, 1, 293.22055234563743).
 strada('w182021050', 'track', 'w182021050', 0, 30, 1, 326.1045055417457).
-strada('w182021051', 'secondary', 'w182021051', 0, 30, 1, 79.25839091434513).
+strada('w182021051', 'secondary', 'w182021051', 0, 50, 1, 79.25839091434513).
 strada('w182021052', 'secondary', 'w182021052', 1, 50, 1, 328.5937069655775).
 strada('w182021053', 'secondary_link', 'w182021053', 1, 30, 1, 112.33755481641332).
 strada('w182021254', 'secondary_link', 'w182021254', 1, 30, 1, 317.1325399407095).
@@ -11103,7 +11103,7 @@ strada('w182022923', 'track', 'w182022923', 0, 30, 1, 254.4705792665314).
 strada('w182022924', 'track', 'w182022924', 0, 30, 1, 692.7774139580584).
 strada('w182022925', 'track', 'w182022925', 0, 30, 1, 233.36656191831727).
 strada('w182022926', 'service', 'w182022926', 1, 20, 1, 182.7915822028893).
-strada('w182022927', 'unclassified', 'w182022927', 0, 20, 1, 341.04386932976223).
+strada('w182022927', 'unclassified', 'w182022927', 0, 30, 1, 341.04386932976223).
 strada('w182022928', 'unclassified', 'w182022928', 0, 30, 1, 95.66680795128488).
 strada('w182022930', 'track', 'w182022930', 0, 30, 1, 73.93219886416092).
 strada('w182022931', 'track', 'w182022931', 0, 30, 1, 81.7675903837193).
@@ -11113,19 +11113,19 @@ strada('w182022935', 'service', 'w182022935', 0, 20, 1, 66.92441077576318).
 strada('w182023703', 'secondary', 'w182023703', 1, 50, 1, 220.46014610468515).
 strada('w182023705', 'track', 'w182023705', 0, 30, 1, 289.9610352464335).
 strada('w182024283', 'secondary', 'Strada Provinciale Bari alla Adelfia Bitritto', 0, 50, 1, 1185.536629156778).
-strada('w182489807', 'residential', 'Via Fratelli Bandiera', 0, 20, 1, 122.74732693951681).
-strada('w182489808', 'residential', 'Via Giuseppe Giusti', 0, 30, 1, 128.6137899823622).
-strada('w182489809', 'residential', 'Via Damaso Bianchi', 0, 10, 1, 107.11284668220726).
+strada('w182489807', 'residential', 'Via Fratelli Bandiera', 0, 30, 1, 122.74732693951681).
+strada('w182489808', 'residential', 'Via Giuseppe Giusti', 0, 20, 1, 128.6137899823622).
+strada('w182489809', 'residential', 'Via Damaso Bianchi', 0, 20, 1, 107.11284668220726).
 strada('w182855683', 'unclassified', 'w182855683', 0, 30, 1, 405.55049092808616).
 strada('w183182505', 'unclassified', 'w183182505', 0, 30, 1, 38.4810899897975).
 strada('w183182506', 'unclassified', 'Strada da Ceglie a Modugno', 0, 30, 1, 532.6611239913136).
-strada('w183746294', 'service', 'w183746294', 0, 20, 1, 61.46651811985672).
+strada('w183746294', 'service', 'w183746294', 0, 10, 1, 61.46651811985672).
 strada('w184725894', 'unclassified', 'w184725894', 0, 30, 1, 25.199804499056057).
 strada('w184725896', 'unclassified', 'Via degli Incisori', 0, 30, 1, 219.31192320242513).
 strada('w184725901', 'unclassified', 'Via dei Vasai', 0, 30, 1, 126.34863400615487).
 strada('w184730168', 'unclassified', 'w184730168', 0, 30, 1, 12.626875185638868).
 strada('w184753746', 'unclassified', 'w184753746', 0, 30, 1, 811.9506539063502).
-strada('w184753750', 'unclassified', 'w184753750', 1, 20, 1, 123.88772877068338).
+strada('w184753750', 'unclassified', 'w184753750', 1, 30, 1, 123.88772877068338).
 strada('w184753751', 'unclassified', 'Ponte antico 1880', 0, 30, 1, 86.06463831263913).
 strada('w184753753', 'unclassified', 'Via dei Fiordalisi', 1, 30, 1, 126.94684478294889).
 strada('w184755263', 'track', 'w184755263', 0, 30, 1, 186.9670461425377).
@@ -11135,7 +11135,7 @@ strada('w184760809', 'track', 'w184760809', 0, 30, 1, 258.57897113549814).
 strada('w184760810', 'track', 'w184760810', 0, 30, 1, 252.77178277266012).
 strada('w184760816', 'track', 'w184760816', 0, 30, 1, 992.1799905541163).
 strada('w184760818', 'track', 'w184760818', 0, 30, 1, 171.4539747033448).
-strada('w184760819', 'tertiary', 'w184760819', 0, 30, 1, 70.1222110065801).
+strada('w184760819', 'tertiary', 'w184760819', 0, 40, 1, 70.1222110065801).
 strada('w184760821', 'unclassified', 'Via Donato de Leonardis', 0, 30, 1, 601.6150125949505).
 strada('w184760822', 'unclassified', 'Via Giovanni Nickmann', 0, 30, 1, 1057.3242121587746).
 strada('w184760823', 'unclassified', 'Via Murari', 0, 40, 2, 24.931579002322085).
@@ -11146,16 +11146,16 @@ strada('w184760827', 'unclassified', 'Via delle Camelie', 0, 30, 1, 61.104657799
 strada('w184763142', 'unclassified', 'w184763142', 1, 30, 1, 96.74939138599166).
 strada('w184763143', 'unclassified', 'w184763143', 1, 30, 1, 78.05227568166673).
 strada('w184763145', 'unclassified', 'w184763145', 1, 20, 1, 66.62327613488765).
-strada('w184763146', 'unclassified', 'Via Guglielmo Lindemann', 0, 20, 1, 1261.3741162154358).
+strada('w184763146', 'unclassified', 'Via Guglielmo Lindemann', 0, 30, 1, 1261.3741162154358).
 strada('w184763148', 'unclassified', 'Via Guglielmo Lindemann', 1, 30, 1, 329.22723011147025).
 strada('w184877048', 'track', 'w184877048', 0, 30, 1, 49.675411438268405).
-strada('w184877052', 'unclassified', 'w184877052', 0, 30, 1, 168.60963663727279).
+strada('w184877052', 'unclassified', 'w184877052', 0, 20, 1, 168.60963663727279).
 strada('w184877056', 'track', 'w184877056', 0, 30, 1, 118.97646440155984).
-strada('w184877057', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 30, 1, 77.99234157496745).
+strada('w184877057', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 20, 1, 77.99234157496745).
 strada('w184877059', 'unclassified', 'w184877059', 0, 30, 1, 530.8832769835584).
-strada('w184877061', 'unclassified', 'w184877061', 0, 20, 1, 351.636154984679).
+strada('w184877061', 'unclassified', 'w184877061', 0, 30, 1, 351.636154984679).
 strada('w184877063', 'unclassified', 'w184877063', 0, 30, 1, 23.19311068527263).
-strada('w184877069', 'unclassified', 'w184877069', 0, 20, 1, 282.6219006379078).
+strada('w184877069', 'unclassified', 'w184877069', 0, 30, 1, 282.6219006379078).
 strada('w184877071', 'track', 'w184877071', 0, 30, 1, 179.69940651768158).
 strada('w184877075', 'unclassified', 'w184877075', 0, 30, 1, 44.83323088145761).
 strada('w184877079', 'unclassified', 'w184877079', 0, 20, 1, 248.13105517330501).
@@ -11177,7 +11177,7 @@ strada('w185619567', 'service', 'w185619567', 0, 20, 1, 79.77276513118558).
 strada('w185619568', 'service', 'w185619568', 1, 20, 1, 37.06164545103956).
 strada('w185619573', 'service', 'w185619573', 1, 20, 1, 65.79077315077754).
 strada('w185625401', 'service', 'w185625401', 1, 20, 1, 52.654738746055).
-strada('w185945698', 'residential', 'Via Valdocco', 1, 30, 1, 84.59746834064445).
+strada('w185945698', 'residential', 'Via Valdocco', 1, 20, 1, 84.59746834064445).
 strada('w186193220', 'secondary', 'w186193220', 1, 50, 1, 467.2671908131864).
 strada('w187673289', 'secondary', 'w187673289', 1, 50, 1, 18.493285322819627).
 strada('w187768468', 'service', 'w187768468', 0, 20, 1, 209.93116253593809).
@@ -11190,7 +11190,7 @@ strada('w188121548', 'trunk_link', 'w188121548', 1, 40, 1, 8.21831856023702).
 strada('w188121549', 'trunk_link', 'w188121549', 1, 40, 1, 8.30955692169048).
 strada('w188121550', 'residential', 'Lungomare Cristoforo Colombo', 1, 30, 1, 490.8228566553182).
 strada('w188121553', 'trunk_link', 'w188121553', 1, 40, 1, 15.64602137728656).
-strada('w188121558', 'residential', 'Corso Umberto I', 1, 30, 1, 13.321519700397552).
+strada('w188121558', 'residential', 'Corso Umberto I', 1, 20, 1, 13.321519700397552).
 strada('w188121560', 'unclassified', 'w188121560', 0, 20, 1, 260.3918007763918).
 strada('w188121561', 'trunk_link', 'w188121561', 1, 40, 1, 5.112585794872572).
 strada('w189654527', 'tertiary', 'w189654527', 1, 40, 1, 23.594550291127444).
@@ -11198,27 +11198,27 @@ strada('w201777548', 'primary_link', 'w201777548', 0, 40, 2, 79.96066163480565).
 strada('w201777549', 'service', 'w201777549', 1, 20, 1, 10.223609734135948).
 strada('w201777550', 'primary_link', 'w201777550', 1, 40, 1, 144.481746176706).
 strada('w201777553', 'unclassified', 'Via Modugno', 1, 20, 1, 57.743404153678036).
-strada('w202332915', 'service', 'w202332915', 0, 10, 1, 82.12493849468217).
+strada('w202332915', 'service', 'w202332915', 0, 20, 1, 82.12493849468217).
 strada('w202332917', 'service', 'w202332917', 0, 20, 1, 43.20527493458472).
 strada('w202398605', 'service', 'w202398605', 0, 20, 1, 33.218950478531276).
 strada('w202409821', 'service', 'w202409821', 0, 20, 1, 196.46004706095817).
 strada('w202409823', 'service', 'w202409823', 0, 20, 1, 115.83820709022987).
 strada('w202414450', 'residential', 'Via Pietro Oreste', 0, 30, 1, 155.6991713515008).
-strada('w202419976', 'service', 'w202419976', 0, 10, 1, 51.45487281179009).
+strada('w202419976', 'service', 'w202419976', 0, 20, 1, 51.45487281179009).
 strada('w202420115', 'service', 'w202420115', 0, 20, 1, 137.72417941857424).
 strada('w202429365', 'service', 'w202429365', 0, 20, 1, 37.74662649817862).
 strada('w202430788', 'service', 'w202430788', 0, 20, 1, 64.9875465650348).
 strada('w202444809', 'service', 'w202444809', 0, 20, 1, 1.53916164504652).
 strada('w202444810', 'service', 'w202444810', 0, 20, 1, 41.958845406868996).
 strada('w202444811', 'service', 'w202444811', 0, 20, 1, 14.475630198786401).
-strada('w202563239', 'residential', 'Via Michele Garruba', 0, 20, 1, 190.64482950099813).
+strada('w202563239', 'residential', 'Via Michele Garruba', 0, 30, 1, 190.64482950099813).
 strada('w203234766', 'unclassified', 'Strada Catino', 0, 30, 2, 679.4086897555937).
 strada('w204092889', 'residential', 'w204092889', 0, 20, 1, 36.28752901950536).
-strada('w204092896', 'unclassified', 'w204092896', 1, 20, 1, 49.534049485476885).
+strada('w204092896', 'unclassified', 'w204092896', 1, 30, 1, 49.534049485476885).
 strada('w204094194', 'residential', 'Via Liguria', 1, 50, 1, 140.3666321411231).
 strada('w204094195', 'unclassified', 'w204094195', 1, 30, 1, 64.12090520188012).
 strada('w204094650', 'residential', 'Via M. De Giosa', 1, 50, 1, 144.49777753170642).
-strada('w204094761', 'residential', 'w204094761', 1, 20, 1, 18.456558635226706).
+strada('w204094761', 'residential', 'w204094761', 1, 30, 1, 18.456558635226706).
 strada('w204095030', 'residential', 'Largo Maria Montessori', 0, 50, 1, 246.08965917464712).
 strada('w204095209', 'residential', 'Via Matilde Serao', 1, 50, 1, 111.05320216474306).
 strada('w204096481', 'residential', 'Via Piemonte', 0, 50, 1, 224.07462836214856).
@@ -11229,58 +11229,58 @@ strada('w204097701', 'residential', 'Via Olbia', 0, 50, 1, 529.6305268672079).
 strada('w204097743', 'unclassified', 'w204097743', 0, 50, 1, 82.7924266166479).
 strada('w204097857', 'service', 'w204097857', 0, 50, 1, 559.014632336526).
 strada('w204098213', 'unclassified', 'Traversa via Umbria', 0, 20, 1, 68.5906917333268).
-strada('w204098340', 'unclassified', 'w204098340', 0, 20, 1, 38.28708165946102).
-strada('w204098341', 'unclassified', 'w204098341', 0, 30, 1, 33.08316477777665).
+strada('w204098340', 'unclassified', 'w204098340', 0, 30, 1, 38.28708165946102).
+strada('w204098341', 'unclassified', 'w204098341', 0, 20, 1, 33.08316477777665).
 strada('w204098342', 'unclassified', 'w204098342', 0, 30, 1, 50.19267125245108).
 strada('w204099427', 'residential', 'Via Calabria', 1, 50, 1, 290.33220773262985).
 strada('w204100036', 'residential', 'Via Sassari', 0, 50, 1, 110.3537032235636).
 strada('w204100147', 'unclassified', 'Via Marie Curie', 0, 30, 1, 126.66252867019625).
 strada('w204101093', 'residential', 'Via Carlo Rosa', 0, 30, 1, 78.4382371798201).
-strada('w204101094', 'residential', 'w204101094', 0, 30, 1, 79.53483515416167).
+strada('w204101094', 'residential', 'w204101094', 0, 20, 1, 79.53483515416167).
 strada('w204101095', 'unclassified', 'w204101095', 0, 30, 1, 57.744586882855955).
-strada('w204129300', 'residential', 'Via Emilia Romagna', 0, 30, 1, 160.1318742019389).
+strada('w204129300', 'residential', 'Via Emilia Romagna', 0, 20, 1, 160.1318742019389).
 strada('w204129301', 'residential', 'Via Ravenna', 1, 50, 1, 214.95596127720864).
-strada('w204174515', 'unclassified', 'w204174515', 0, 30, 1, 131.6664743683003).
+strada('w204174515', 'unclassified', 'w204174515', 0, 20, 1, 131.6664743683003).
 strada('w204174516', 'residential', 'Via Ferrara', 0, 20, 1, 85.07760264688129).
 strada('w204174619', 'unclassified', 'w204174619', 0, 30, 1, 75.40979990809402).
-strada('w204175602', 'residential', 'Via Vicenza', 0, 30, 1, 130.14364421179457).
+strada('w204175602', 'residential', 'Via Vicenza', 0, 20, 1, 130.14364421179457).
 strada('w204178194', 'residential', 'Via Nicola Calitri', 0, 30, 1, 188.87029457817525).
 strada('w204255940', 'service', 'w204255940', 0, 20, 1, 103.29803899746702).
 strada('w204256377', 'unclassified', 'w204256377', 0, 30, 1, 8.735161481973476).
-strada('w204256383', 'unclassified', 'w204256383', 0, 30, 1, 110.1416262999729).
+strada('w204256383', 'unclassified', 'w204256383', 0, 20, 1, 110.1416262999729).
 strada('w204256494', 'unclassified', 'w204256494', 0, 30, 1, 50.31724311538061).
-strada('w204257670', 'unclassified', 'w204257670', 1, 30, 1, 15.17634368951298).
+strada('w204257670', 'unclassified', 'w204257670', 1, 20, 1, 15.17634368951298).
 strada('w204258227', 'residential', 'w204258227', 0, 20, 1, 177.6041965850462).
 strada('w204258228', 'residential', 'w204258228', 0, 20, 1, 67.77338211800158).
 strada('w204258545', 'unclassified', 'Traversa via Pugliese', 0, 30, 1, 107.23024616884165).
 strada('w204258901', 'service', 'w204258901', 0, 10, 1, 244.66127467682497).
 strada('w204258902', 'service', 'w204258902', 0, 20, 1, 118.09403449170763).
-strada('w204260198', 'residential', 'w204260198', 0, 20, 1, 87.71536521907909).
+strada('w204260198', 'residential', 'w204260198', 0, 30, 1, 87.71536521907909).
 strada('w204260199', 'residential', 'w204260199', 0, 30, 1, 98.56000404689017).
 strada('w204261168', 'unclassified', 'w204261168', 0, 30, 1, 58.11580589575202).
-strada('w204261169', 'residential', 'w204261169', 1, 20, 1, 95.34651236183274).
-strada('w204262073', 'residential', 'Via Corrado Giaquinto', 0, 20, 1, 179.59940590476413).
-strada('w204262075', 'residential', 'Via Gaetano Fiore', 0, 20, 1, 211.9871069391295).
-strada('w204262748', 'residential', 'w204262748', 0, 20, 1, 79.98271501814949).
+strada('w204261169', 'residential', 'w204261169', 1, 30, 1, 95.34651236183274).
+strada('w204262073', 'residential', 'Via Corrado Giaquinto', 0, 30, 1, 179.59940590476413).
+strada('w204262075', 'residential', 'Via Gaetano Fiore', 0, 30, 1, 211.9871069391295).
+strada('w204262748', 'residential', 'w204262748', 0, 30, 1, 79.98271501814949).
 strada('w204404762', 'residential', 'Via G. Costantino', 0, 30, 1, 220.77403949975047).
 strada('w204405768', 'residential', 'Via A. De Vicariis', 0, 30, 1, 217.8441882926424).
-strada('w204408316', 'residential', 'Via Riccardo Ciusa', 0, 30, 1, 211.64360865399522).
-strada('w204409103', 'residential', 'Via Nicola Leotta', 0, 30, 1, 212.5620854918329).
-strada('w204409104', 'residential', 'w204409104', 0, 30, 1, 44.37253264299694).
+strada('w204408316', 'residential', 'Via Riccardo Ciusa', 0, 20, 1, 211.64360865399522).
+strada('w204409103', 'residential', 'Via Nicola Leotta', 0, 20, 1, 212.5620854918329).
+strada('w204409104', 'residential', 'w204409104', 0, 20, 1, 44.37253264299694).
 strada('w204409105', 'residential', 'w204409105', 0, 20, 1, 180.92540260041602).
 strada('w204409239', 'residential', 'Via Giovanni Candura', 0, 20, 1, 324.1368025240565).
-strada('w204409240', 'residential', 'Via Riccardo Ciusa', 0, 20, 1, 224.63134076333037).
+strada('w204409240', 'residential', 'Via Riccardo Ciusa', 0, 30, 1, 224.63134076333037).
 strada('w204409241', 'residential', 'Via Giovanni Candura', 0, 30, 1, 519.8993560041832).
 strada('w204412427', 'residential', 'w204412427', 0, 30, 1, 96.46860601013266).
-strada('w204412428', 'residential', 'Via Trani', 0, 20, 1, 81.16035151640102).
+strada('w204412428', 'residential', 'Via Trani', 0, 30, 1, 81.16035151640102).
 strada('w204436269', 'residential', 'w204436269', 0, 30, 1, 72.17196295718195).
-strada('w204436273', 'residential', 'w204436273', 0, 30, 1, 118.59459683963763).
+strada('w204436273', 'residential', 'w204436273', 0, 20, 1, 118.59459683963763).
 strada('w204436275', 'residential', 'traversa via Veneto', 0, 20, 1, 141.82459215829482).
-strada('w204436280', 'residential', 'w204436280', 0, 30, 1, 93.6580660823572).
-strada('w204436282', 'residential', 'Via Piemonte', 0, 20, 1, 131.35653488504485).
-strada('w204437280', 'residential', 'traversa III Trentino Alto Adige', 0, 20, 1, 187.86264103790222).
+strada('w204436280', 'residential', 'w204436280', 0, 20, 1, 93.6580660823572).
+strada('w204436282', 'residential', 'Via Piemonte', 0, 30, 1, 131.35653488504485).
+strada('w204437280', 'residential', 'traversa III Trentino Alto Adige', 0, 30, 1, 187.86264103790222).
 strada('w204437284', 'residential', 'Via Mantova', 0, 20, 1, 84.62368167872415).
-strada('w204439889', 'residential', 'Via Novara', 0, 20, 1, 142.49165824009143).
+strada('w204439889', 'residential', 'Via Novara', 0, 30, 1, 142.49165824009143).
 strada('w204468820', 'service', 'w204468820', 1, 20, 1, 187.77225472146606).
 strada('w204468821', 'service', 'w204468821', 0, 20, 1, 149.85601881356993).
 strada('w204468822', 'service', 'w204468822', 1, 20, 1, 188.6837071807402).
@@ -11305,43 +11305,43 @@ strada('w204988977', 'unclassified', 'Via Vitantonio Lozupone', 0, 30, 1, 261.69
 strada('w204988978', 'unclassified', 'Via Luigi Castellucci', 0, 30, 1, 137.93811803960597).
 strada('w204988981', 'unclassified', 'Strada Catino', 1, 30, 1, 44.4240702770066).
 strada('w204988982', 'trunk_link', 'w204988982', 1, 40, 1, 85.2629430904604).
-strada('w204988984', 'unclassified', 'w204988984', 0, 20, 1, 585.7968047654074).
+strada('w204988984', 'unclassified', 'w204988984', 0, 30, 1, 585.7968047654074).
 strada('w204988985', 'unclassified', 'Via Natale Pisicchio', 0, 30, 1, 422.06334082063216).
-strada('w204988986', 'unclassified', 'Via Vito Rosa', 0, 30, 1, 456.6970242275757).
+strada('w204988986', 'unclassified', 'Via Vito Rosa', 0, 20, 1, 456.6970242275757).
 strada('w204988987', 'unclassified', 'w204988987', 0, 30, 1, 616.6771649166059).
 strada('w204988988', 'unclassified', '4A Strada Torricella', 0, 30, 1, 137.76907715466052).
-strada('w204988989', 'unclassified', '4A Strada Torricella', 0, 30, 1, 604.450176030486).
-strada('w204988990', 'unclassified', 'w204988990', 0, 30, 1, 189.1545148979138).
+strada('w204988989', 'unclassified', '4A Strada Torricella', 0, 20, 1, 604.450176030486).
+strada('w204988990', 'unclassified', 'w204988990', 0, 20, 1, 189.1545148979138).
 strada('w204988991', 'trunk_link', 'w204988991', 1, 40, 1, 87.96316409453142).
 strada('w205674752', 'residential', 'w205674752', 0, 20, 1, 157.93762601487774).
 strada('w205674753', 'track', 'w205674753', 0, 30, 1, 640.5543587705979).
-strada('w205674754', 'unclassified', 'Via delle Ginestre', 0, 30, 1, 128.83321859484997).
+strada('w205674754', 'unclassified', 'Via delle Ginestre', 0, 20, 1, 128.83321859484997).
 strada('w205682921', 'unclassified', 'w205682921', 0, 30, 1, 155.23888015128813).
 strada('w205682923', 'service', 'Percorso Framarino', 0, 20, 1, 690.547885287698).
 strada('w205682925', 'track', 'w205682925', 0, 30, 1, 2874.977603161283).
 strada('w205682932', 'track', 'Stradella dell Annunziata', 0, 30, 1, 155.14118942048407).
-strada('w208685597', 'unclassified', 'Via Lorenzo Vitale', 0, 30, 1, 267.71743980124444).
+strada('w208685597', 'unclassified', 'Via Lorenzo Vitale', 0, 20, 1, 267.71743980124444).
 strada('w208686457', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 280.4896920961341).
 strada('w208686459', 'unclassified', 'w208686459', 0, 30, 1, 123.13748552237273).
 strada('w208686460', 'unclassified', 'Via Mimmo Conenna', 0, 30, 1, 203.17652887708934).
 strada('w208686461', 'unclassified', 'w208686461', 0, 30, 1, 77.92626185818827).
-strada('w208686462', 'unclassified', 'Via Mimmo Conenna', 0, 30, 1, 561.8649431584214).
+strada('w208686462', 'unclassified', 'Via Mimmo Conenna', 0, 20, 1, 561.8649431584214).
 strada('w208686463', 'service', 'Via Mimmo Conenna', 0, 20, 1, 79.27625639696522).
 strada('w208686464', 'service', 'Via Mimmo Conenna', 0, 20, 1, 156.6173628440541).
 strada('w208686670', 'unclassified', 'w208686670', 1, 30, 1, 573.018747220194).
 strada('w208872906', 'unclassified', 'w208872906', 0, 30, 1, 47.43248005040493).
-strada('w208897058', 'service', 'w208897058', 0, 20, 1, 24.661476660827894).
+strada('w208897058', 'service', 'w208897058', 0, 10, 1, 24.661476660827894).
 strada('w208898764', 'residential', 'Via Fabrizio Veniero', 0, 50, 1, 51.829920767698255).
 strada('w208898766', 'service', 'w208898766', 1, 20, 1, 82.00545870331945).
 strada('w208898767', 'residential', 'w208898767', 0, 20, 1, 91.79454868927608).
 strada('w208898768', 'service', 'w208898768', 1, 20, 1, 79.27759589609195).
-strada('w208898769', 'residential', 'w208898769', 0, 30, 1, 21.469936914457158).
-strada('w208898770', 'service', 'w208898770', 0, 10, 1, 25.249882722049225).
+strada('w208898769', 'residential', 'w208898769', 0, 20, 1, 21.469936914457158).
+strada('w208898770', 'service', 'w208898770', 0, 20, 1, 25.249882722049225).
 strada('w208899877', 'residential', 'Via Francesco Eugenio Silvestri', 0, 30, 1, 504.157921679296).
-strada('w208899879', 'residential', 'Via Michele di Giesi', 0, 20, 1, 472.7480737955936).
+strada('w208899879', 'residential', 'Via Michele di Giesi', 0, 30, 1, 472.7480737955936).
 strada('w209063900', 'track', 'w209063900', 0, 30, 1, 587.9362509200747).
 strada('w211152853', 'track', 'Strada Vicinale Torre Longa', 0, 30, 1, 508.36179963077353).
-strada('w213558474', 'unclassified', 'Via Modugno', 1, 30, 1, 60.30299886988482).
+strada('w213558474', 'unclassified', 'Via Modugno', 1, 20, 1, 60.30299886988482).
 strada('w213558475', 'service', 'w213558475', 0, 20, 1, 312.9238161756601).
 strada('w213558476', 'service', 'w213558476', 0, 20, 1, 280.8604253545117).
 strada('w213558477', 'primary_link', 'w213558477', 1, 40, 1, 40.669542593856036).
@@ -11349,16 +11349,16 @@ strada('w213558478', 'primary_link', 'w213558478', 1, 40, 1, 31.761800090214166)
 strada('w213558480', 'service', 'w213558480', 0, 20, 1, 69.70964737882176).
 strada('w215447810', 'service', 'w215447810', 0, 20, 1, 41.572470960519766).
 strada('w215447813', 'service', 'w215447813', 1, 20, 1, 55.84005598799607).
-strada('w215447823', 'service', 'w215447823', 1, 20, 1, 160.65810679697583).
+strada('w215447823', 'service', 'w215447823', 1, 10, 1, 160.65810679697583).
 strada('w218093664', 'service', 'w218093664', 0, 20, 1, 14.766390485510835).
-strada('w219646125', 'residential', 'Via De Robertis', 0, 20, 1, 31.092169622914195).
+strada('w219646125', 'residential', 'Via De Robertis', 0, 30, 1, 31.092169622914195).
 strada('w220751010', 'residential', 'w220751010', 1, 20, 1, 33.501627844003096).
 strada('w220753207', 'service', 'w220753207', 0, 20, 1, 204.23896903372793).
 strada('w221904336', 'secondary_link', 'w221904336', 1, 30, 1, 133.85438431235553).
-strada('w221908774', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 20, 1, 14.607484021882449).
-strada('w221908775', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 20, 1, 70.22191812795695).
+strada('w221908774', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 30, 1, 14.607484021882449).
+strada('w221908775', 'residential', 'Viale Caduti Di Tutte Le Guerre', 0, 30, 1, 70.22191812795695).
 strada('w223699673', 'unclassified', 'w223699673', 0, 30, 1, 24.092088146013563).
-strada('w223996979', 'service', 'w223996979', 0, 20, 1, 13.333569732337187).
+strada('w223996979', 'service', 'w223996979', 0, 10, 1, 13.333569732337187).
 strada('w223996980', 'service', 'w223996980', 0, 20, 1, 14.774104955079153).
 strada('w223996981', 'service', 'w223996981', 0, 20, 1, 278.0913645183275).
 strada('w226588512', 'service', 'w226588512', 0, 20, 1, 71.45763790383323).
@@ -11367,9 +11367,9 @@ strada('w226760850', 'service', 'w226760850', 0, 20, 1, 57.10385478833379).
 strada('w226760852', 'service', 'w226760852', 0, 20, 1, 59.52661833430519).
 strada('w226760853', 'service', 'w226760853', 0, 20, 1, 64.08627742316821).
 strada('w226760856', 'service', 'w226760856', 0, 20, 1, 130.85795469759327).
-strada('w226952535', 'residential', 'Via Giannone', 1, 30, 1, 113.30802958815556).
+strada('w226952535', 'residential', 'Via Giannone', 1, 20, 1, 113.30802958815556).
 strada('w227103243', 'secondary', 'Strada Provinciale Modugno - Aeroporto Palese', 1, 50, 2, 153.41134406652617).
-strada('w227103244', 'secondary', 'Strada Provinciale Modugno - Aeroporto Palese', 1, 30, 1, 153.73501435338588).
+strada('w227103244', 'secondary', 'Strada Provinciale Modugno - Aeroporto Palese', 1, 50, 1, 153.73501435338588).
 strada('w227103245', 'secondary', 'Strada Provinciale Modugno - Aeroporto Palese', 1, 50, 2, 1429.9595804541584).
 strada('w227103246', 'secondary', 'Strada Provinciale Modugno - Aeroporto Palese', 1, 50, 1, 1426.8500531128075).
 strada('w227310950', 'service', 'w227310950', 0, 20, 1, 110.8379406401338).
@@ -11379,16 +11379,16 @@ strada('w227310967', 'service', 'w227310967', 0, 20, 1, 4499.191442113256).
 strada('w227310979', 'service', 'w227310979', 1, 20, 1, 15.336175189855084).
 strada('w227310982', 'service', 'w227310982', 0, 20, 1, 34.87730745853014).
 strada('w227310988', 'service', 'w227310988', 1, 20, 1, 14.491909879472583).
-strada('w227310997', 'service', 'w227310997', 1, 10, 1, 17.171749284388326).
+strada('w227310997', 'service', 'w227310997', 1, 20, 1, 17.171749284388326).
 strada('w227310999', 'service', 'w227310999', 1, 20, 1, 22.02623571816444).
 strada('w227311005', 'service', 'w227311005', 1, 20, 1, 15.690663882653116).
 strada('w227311006', 'service', 'w227311006', 1, 20, 1, 15.021782078839871).
-strada('w227311010', 'service', 'w227311010', 0, 20, 1, 16.771228786192253).
+strada('w227311010', 'service', 'w227311010', 0, 5, 1, 16.771228786192253).
 strada('w227311015', 'service', 'w227311015', 1, 20, 1, 17.14165317963957).
 strada('w227311018', 'service', 'w227311018', 1, 20, 1, 18.85808083616065).
 strada('w227311021', 'unclassified', 'w227311021', 0, 30, 1, 69.1459178795839).
 strada('w227311022', 'service', 'w227311022', 0, 20, 1, 82.7731171506559).
-strada('w227311023', 'service', 'w227311023', 0, 10, 1, 56.41799363962011).
+strada('w227311023', 'service', 'w227311023', 0, 20, 1, 56.41799363962011).
 strada('w227311026', 'service', 'w227311026', 0, 20, 1, 62.16871290599007).
 strada('w227311027', 'service', 'w227311027', 0, 20, 1, 209.47352822334392).
 strada('w227311029', 'service', 'w227311029', 0, 20, 1, 52.649004376145754).
@@ -11414,7 +11414,7 @@ strada('w227311089', 'service', 'w227311089', 0, 20, 1, 61.603563436255776).
 strada('w227311091', 'service', 'w227311091', 0, 20, 1, 162.51522642278354).
 strada('w227318991', 'service', 'w227318991', 0, 20, 1, 35.86260459634877).
 strada('w227359904', 'unclassified', 'Strada Catino', 0, 30, 1, 273.21666445264555).
-strada('w227359910', 'unclassified', 'Strada Catino', 0, 20, 1, 79.20631343179585).
+strada('w227359910', 'unclassified', 'Strada Catino', 0, 30, 1, 79.20631343179585).
 strada('w227359912', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 291.36880339576555).
 strada('w227359914', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 46.96005795981913).
 strada('w227359915', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 66.70117111424591).
@@ -11424,20 +11424,20 @@ strada('w227359918', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 108.22225
 strada('w227359919', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 135.6205151142472).
 strada('w227359920', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 552.4683608633525).
 strada('w227359921', 'unclassified', 'Strada del Torrente Balice', 0, 30, 2, 39.897970247926835).
-strada('w227359922', 'unclassified', 'Strada del Torrente Balice', 0, 30, 2, 13.89475159479386).
+strada('w227359922', 'unclassified', 'Strada del Torrente Balice', 0, 20, 2, 13.89475159479386).
 strada('w227359923', 'unclassified', 'Strada del Torrente Balice', 0, 30, 2, 49.03087519135447).
 strada('w227359924', 'unclassified', 'Strada del Torrente Balice', 0, 30, 2, 665.5666248167873).
 strada('w227359929', 'unclassified', 'Strada Pozzo Pasquale', 0, 30, 1, 215.4217510062524).
 strada('w227359930', 'secondary', 'w227359930', 0, 50, 1, 664.8124243198818).
 strada('w227359934', 'unclassified', 'w227359934', 0, 30, 1, 29.88907704485295).
-strada('w227359936', 'secondary', 'w227359936', 0, 50, 2, 84.7739239556486).
+strada('w227359936', 'secondary', 'w227359936', 0, 30, 2, 84.7739239556486).
 strada('w227359938', 'unclassified', 'w227359938', 0, 30, 1, 47.885875554307596).
 strada('w227359939', 'service', 'w227359939', 0, 20, 1, 12.580590531629246).
 strada('w227359940', 'unclassified', 'w227359940', 0, 30, 1, 22.88277643582091).
 strada('w227359941', 'trunk_link', 'w227359941', 1, 40, 1, 38.97563885187429).
 strada('w227359942', 'trunk_link', 'w227359942', 1, 40, 1, 45.24074363996974).
 strada('w227359943', 'service', 'w227359943', 0, 20, 1, 51.532457825436545).
-strada('w227359944', 'service', 'w227359944', 1, 10, 1, 31.959943567854708).
+strada('w227359944', 'service', 'w227359944', 1, 20, 1, 31.959943567854708).
 strada('w227359945', 'unclassified', 'w227359945', 0, 30, 1, 41.80150172186574).
 strada('w227359946', 'trunk_link', 'w227359946', 0, 40, 1, 182.93674149778917).
 strada('w227359947', 'trunk_link', 'w227359947', 1, 40, 1, 179.3953819630925).
@@ -11451,29 +11451,29 @@ strada('w232123779', 'service', 'w232123779', 0, 20, 1, 14.565279420394909).
 strada('w232123781', 'service', 'w232123781', 0, 20, 1, 12.065673529898993).
 strada('w232123782', 'service', 'w232123782', 0, 20, 1, 12.650491056677271).
 strada('w232123785', 'service', 'w232123785', 0, 20, 1, 19.207852289459474).
-strada('w233409830', 'residential', 'Via Nicola Manzari', 0, 5, 1, 376.6328363542639).
+strada('w233409830', 'residential', 'Via Nicola Manzari', 0, 20, 1, 376.6328363542639).
 strada('w233409832', 'residential', 'Via Nicola Manzari', 1, 30, 1, 34.74780829659174).
 strada('w237167377', 'residential', 'Strada Porticello', 0, 30, 2, 6.463436312311283).
 strada('w239845216', 'residential', 'w239845216', 0, 30, 1, 145.94702342676942).
-strada('w241785624', 'service', 'w241785624', 0, 10, 1, 156.12348821798986).
-strada('w241785626', 'service', 'w241785626', 0, 20, 1, 144.89207458439367).
+strada('w241785624', 'service', 'w241785624', 0, 20, 1, 156.12348821798986).
+strada('w241785626', 'service', 'w241785626', 0, 10, 1, 144.89207458439367).
 strada('w241916185', 'residential', 'Via Sabino Fiorese', 1, 30, 1, 80.32423257484066).
-strada('w241917279', 'tertiary', 'Via Goffredo di Crollalanza', 0, 30, 1, 13.867715601729211).
-strada('w241917280', 'secondary', 'Via Goffredo di Crollalanza', 0, 50, 1, 30.48622377811465).
+strada('w241917279', 'tertiary', 'Via Goffredo di Crollalanza', 0, 40, 1, 13.867715601729211).
+strada('w241917280', 'secondary', 'Via Goffredo di Crollalanza', 0, 30, 1, 30.48622377811465).
 strada('w241917281', 'secondary', 'w241917281', 1, 50, 1, 30.7373804441638).
-strada('w241917282', 'secondary', 'w241917282', 1, 30, 1, 27.86269154217119).
-strada('w241918042', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 1, 78.8850743611809).
-strada('w241918043', 'secondary', 'w241918043', 1, 50, 1, 50.761728401486096).
+strada('w241917282', 'secondary', 'w241917282', 1, 50, 1, 27.86269154217119).
+strada('w241918042', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 1, 78.8850743611809).
+strada('w241918043', 'secondary', 'w241918043', 1, 30, 1, 50.761728401486096).
 strada('w241918044', 'secondary', 'w241918044', 1, 50, 1, 74.13013343309927).
-strada('w241918046', 'secondary', 'Via Goffredo di Crollalanza', 0, 50, 1, 36.35994126601681).
+strada('w241918046', 'secondary', 'Via Goffredo di Crollalanza', 0, 30, 1, 36.35994126601681).
 strada('w241921029', 'residential', 'Largo Giordano Bruno', 1, 30, 1, 66.70498863950435).
 strada('w241990423', 'service', 'w241990423', 0, 20, 1, 34.2560404572687).
 strada('w241990424', 'service', 'w241990424', 0, 20, 1, 79.71045135747646).
-strada('w246673705', 'residential', 'Via Marco Partipilo', 1, 5, 1, 19.667485524647446).
+strada('w246673705', 'residential', 'Via Marco Partipilo', 1, 30, 1, 19.667485524647446).
 strada('w246673706', 'residential', 'Via Marco Partipilo', 1, 20, 1, 23.84355208212566).
-strada('w246673708', 'residential', 'Via Marco Partipilo', 1, 30, 1, 19.080246725689143).
+strada('w246673708', 'residential', 'Via Marco Partipilo', 1, 20, 1, 19.080246725689143).
 strada('w246673709', 'residential', 'Via Marco Partipilo', 1, 20, 1, 439.75581840389015).
-strada('w246673710', 'residential', 'Via Marco Partipilo', 1, 20, 1, 23.047744907378583).
+strada('w246673710', 'residential', 'Via Marco Partipilo', 1, 30, 1, 23.047744907378583).
 strada('w246673711', 'residential', 'w246673711', 1, 30, 1, 36.57896316478988).
 strada('w246673712', 'residential', 'w246673712', 1, 20, 1, 31.036970767749576).
 strada('w246673713', 'residential', 'w246673713', 0, 30, 1, 12.818224138766002).
@@ -11481,18 +11481,18 @@ strada('w249879822', 'unclassified', 'w249879822', 1, 30, 1, 31.51302934756813).
 strada('w255569470', 'service', 'Strada del Tesoro', 1, 20, 1, 129.35458295116248).
 strada('w255569471', 'service', 'Strada del Tesoro', 0, 30, 1, 326.11814680989966).
 strada('w255569472', 'service', 'w255569472', 0, 20, 1, 55.354495378863).
-strada('w255569473', 'service', 'w255569473', 1, 20, 1, 108.35033841670486).
+strada('w255569473', 'service', 'w255569473', 1, 10, 1, 108.35033841670486).
 strada('w255569474', 'service', 'w255569474', 0, 20, 1, 948.3808559100188).
 strada('w256677885', 'unclassified', 'Via Grimoaldo degli Alfaraniti', 0, 30, 1, 132.56118615172886).
 strada('w256677969', 'residential', 'w256677969', 0, 30, 1, 76.01005491578276).
 strada('w256677970', 'service', 'w256677970', 0, 20, 1, 366.41805204724085).
 strada('w256677971', 'service', 'w256677971', 0, 20, 1, 18.976968669046354).
 strada('w256677972', 'service', 'w256677972', 0, 20, 1, 13.89531968191979).
-strada('w256677973', 'service', 'w256677973', 0, 10, 1, 47.52874652494096).
+strada('w256677973', 'service', 'w256677973', 0, 20, 1, 47.52874652494096).
 strada('w256677974', 'service', 'w256677974', 0, 20, 1, 14.3293750444234).
 strada('w256677975', 'service', 'w256677975', 0, 20, 1, 30.167934444463622).
 strada('w256677976', 'service', 'w256677976', 1, 20, 1, 45.10997885845445).
-strada('w256677977', 'unclassified', 'w256677977', 0, 30, 1, 69.52012297199012).
+strada('w256677977', 'unclassified', 'w256677977', 0, 20, 1, 69.52012297199012).
 strada('w256677978', 'residential', 'w256677978', 0, 30, 1, 53.481869620509045).
 strada('w256677979', 'service', 'w256677979', 0, 20, 1, 35.203673839880445).
 strada('w256677980', 'unclassified', 'w256677980', 0, 30, 1, 139.54908217049146).
@@ -11500,23 +11500,23 @@ strada('w256677981', 'service', 'w256677981', 0, 20, 1, 48.08789632682503).
 strada('w256677982', 'unclassified', 'w256677982', 0, 30, 1, 247.31614211176816).
 strada('w256677984', 'residential', 'w256677984', 0, 30, 1, 86.56184774018679).
 strada('w256677985', 'service', 'w256677985', 0, 20, 1, 123.87431209716243).
-strada('w258697583', 'secondary', 'Complanare Est', 0, 50, 1, 564.0325085055672).
+strada('w258697583', 'secondary', 'Complanare Est', 0, 30, 1, 564.0325085055672).
 strada('w258697584', 'secondary', 'Complanare Est', 1, 50, 1, 1008.2181349644492).
-strada('w258697587', 'secondary', 'Complanare Ovest', 0, 50, 1, 605.9484106123316).
-strada('w258832997', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 8.402964081491275).
+strada('w258697587', 'secondary', 'Complanare Ovest', 0, 30, 1, 605.9484106123316).
+strada('w258832997', 'secondary', 'Viale Donato Menichella', 1, 30, 2, 8.402964081491275).
 strada('w258832998', 'tertiary', 'Viale Gennaro Trisorio-Liuzzi', 1, 30, 1, 54.06531400575631).
-strada('w258832999', 'secondary', 'w258832999', 1, 50, 1, 140.47564781323297).
+strada('w258832999', 'secondary', 'w258832999', 1, 30, 1, 140.47564781323297).
 strada('w258833000', 'secondary', 'w258833000', 1, 30, 1, 98.81425028872496).
 strada('w258833001', 'service', 'w258833001', 1, 20, 1, 34.066308371376486).
 strada('w258833002', 'trunk_link', 'w258833002', 1, 40, 1, 278.25343381990876).
 strada('w258833003', 'trunk_link', 'w258833003', 1, 40, 1, 502.2466711443736).
-strada('w258833004', 'service', 'w258833004', 1, 20, 1, 111.14520921894376).
+strada('w258833004', 'service', 'w258833004', 1, 10, 1, 111.14520921894376).
 strada('w258844075', 'tertiary', 'Via Antonio Quaranta', 0, 40, 1, 2741.7776521979526).
 strada('w258844078', 'service', 'w258844078', 0, 20, 1, 36.795078501136494).
 strada('w258844080', 'service', 'w258844080', 0, 20, 1, 40.590487191423115).
 strada('w258844081', 'service', 'w258844081', 0, 20, 1, 34.38363764240276).
-strada('w258844082', 'service', 'w258844082', 1, 10, 1, 14.849099131623522).
-strada('w258844083', 'service', 'w258844083', 0, 10, 1, 70.98933208313609).
+strada('w258844082', 'service', 'w258844082', 1, 20, 1, 14.849099131623522).
+strada('w258844083', 'service', 'w258844083', 0, 20, 1, 70.98933208313609).
 strada('w258844084', 'service', 'w258844084', 0, 10, 1, 34.37597275122703).
 strada('w258844085', 'service', 'w258844085', 0, 20, 1, 40.570624969813785).
 strada('w258844086', 'service', 'w258844086', 0, 20, 1, 16.816909257888728).
@@ -11539,21 +11539,21 @@ strada('w264773075', 'unclassified', 'Via Anastasio Ballestrero', 0, 30, 1, 852.
 strada('w264773076', 'residential', 'Via Caduti del 28 Luglio 1943', 1, 20, 1, 104.07047359641466).
 strada('w264891003', 'service', 'w264891003', 0, 20, 1, 26.632595674023737).
 strada('w264904076', 'residential', 'w264904076', 1, 30, 1, 27.147915002001557).
-strada('w264904078', 'service', 'w264904078', 0, 20, 1, 296.6870626696372).
+strada('w264904078', 'service', 'w264904078', 0, 10, 1, 296.6870626696372).
 strada('w264909164', 'residential', 'w264909164', 0, 30, 1, 93.63277219872549).
-strada('w264909166', 'secondary', 'w264909166', 1, 50, 1, 16.55597880414357).
+strada('w264909166', 'secondary', 'w264909166', 1, 30, 1, 16.55597880414357).
 strada('w264909167', 'service', 'w264909167', 0, 20, 1, 38.14052756319613).
 strada('w264909168', 'tertiary', 'Piazza Luigi di Savoia', 1, 40, 1, 132.85758158433933).
 strada('w264909169', 'residential', 'w264909169', 0, 30, 1, 28.66371468699002).
 strada('w264909170', 'residential', 'w264909170', 0, 30, 1, 33.65166519465985).
 strada('w264909172', 'secondary', 'w264909172', 1, 50, 1, 13.919423258002404).
-strada('w264912718', 'service', 'w264912718', 1, 20, 1, 48.02857979830196).
+strada('w264912718', 'service', 'w264912718', 1, 10, 1, 48.02857979830196).
 strada('w264912721', 'residential', 'Via Vincenzo Cuoco', 0, 30, 1, 43.33964167211168).
 strada('w264912722', 'service', 'w264912722', 1, 30, 1, 54.68146535975401).
 strada('w264915392', 'residential', 'w264915392', 0, 30, 1, 61.03386873118625).
 strada('w267966992', 'service', 'w267966992', 1, 20, 1, 5.158468865609887).
 strada('w267966993', 'service', 'w267966993', 0, 20, 1, 57.31219963210411).
-strada('w268848273', 'residential', 'w268848273', 0, 10, 1, 37.42492591247046).
+strada('w268848273', 'residential', 'w268848273', 0, 20, 1, 37.42492591247046).
 strada('w270134683', 'residential', 'w270134683', 0, 30, 1, 22.98257218842205).
 strada('w270134684', 'tertiary', 'w270134684', 0, 40, 1, 112.71801477060148).
 strada('w270140085', 'service', 'w270140085', 0, 20, 1, 27.704256008483938).
@@ -11565,21 +11565,21 @@ strada('w270718651', 'track', 'w270718651', 0, 30, 1, 434.3891254392751).
 strada('w270718659', 'track', 'w270718659', 0, 30, 1, 32.670420420803126).
 strada('w270829485', 'service', 'w270829485', 0, 20, 1, 26.315521747873582).
 strada('w270841934', 'residential', 'w270841934', 1, 30, 1, 39.47350306209242).
-strada('w270841937', 'residential', 'w270841937', 1, 5, 1, 77.19427473824913).
+strada('w270841937', 'residential', 'w270841937', 1, 30, 1, 77.19427473824913).
 strada('w270841944', 'service', 'w270841944', 0, 20, 1, 194.97242343265762).
 strada('w270841951', 'service', 'w270841951', 0, 20, 1, 39.72725898293158).
 strada('w270841954', 'residential', 'w270841954', 1, 20, 1, 91.42425692014913).
-strada('w270841961', 'residential', 'Via Nicola Straziota', 0, 20, 1, 113.42371009746266).
+strada('w270841961', 'residential', 'Via Nicola Straziota', 0, 30, 1, 113.42371009746266).
 strada('w270846872', 'track', 'w270846872', 0, 30, 1, 39.791718957922185).
 strada('w270846873', 'track', 'w270846873', 0, 30, 1, 8.712180589003339).
 strada('w270846874', 'track', 'w270846874', 0, 30, 1, 67.74810499985419).
 strada('w270846875', 'track', 'w270846875', 0, 30, 1, 427.46391734624444).
 strada('w270846877', 'track', 'w270846877', 0, 30, 1, 14.037607184628976).
 strada('w270846878', 'track', 'w270846878', 0, 30, 1, 20.94405318179221).
-strada('w270851150', 'residential', 'Piazza Armando Diaz', 1, 30, 1, 177.9390107588263).
-strada('w270867041', 'secondary', 'Via Giuseppe Fanelli', 0, 30, 1, 989.8834316186446).
+strada('w270851150', 'residential', 'Piazza Armando Diaz', 1, 20, 1, 177.9390107588263).
+strada('w270867041', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 989.8834316186446).
 strada('w270867042', 'unclassified', 'Strada Scansano', 0, 30, 1, 421.6329993221736).
-strada('w270867043', 'secondary', 'Strada Provinciale Bari - Valenzano', 0, 30, 1, 29.698288898040904).
+strada('w270867043', 'secondary', 'Strada Provinciale Bari - Valenzano', 0, 50, 1, 29.698288898040904).
 strada('w270867044', 'track', 'w270867044', 0, 30, 1, 688.2884708353365).
 strada('w270867045', 'track', 'w270867045', 0, 30, 1, 593.8543041616683).
 strada('w270873536', 'unclassified', 'Strada Scansano', 0, 30, 1, 382.11553379998503).
@@ -11595,7 +11595,7 @@ strada('w275717124', 'service', 'w275717124', 1, 20, 1, 268.27957115501454).
 strada('w279809102', 'service', 'w279809102', 1, 20, 1, 27.53732572716735).
 strada('w279809104', 'service', 'w279809104', 1, 20, 1, 8.008648517421495).
 strada('w279809106', 'service', 'w279809106', 1, 20, 1, 10.756457560468828).
-strada('w279809107', 'service', 'w279809107', 1, 20, 1, 33.88038132688649).
+strada('w279809107', 'service', 'w279809107', 1, 10, 1, 33.88038132688649).
 strada('w279809111', 'service', 'w279809111', 1, 20, 1, 27.537351298401163).
 strada('w279809112', 'service', 'w279809112', 1, 20, 1, 21.971369213975517).
 strada('w279809113', 'secondary', 'w279809113', 1, 50, 1, 262.73730370457315).
@@ -11608,35 +11608,35 @@ strada('w279919373', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 1399.995937519888
 strada('w279919374', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 1367.51702909555).
 strada('w279919375', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 32.57937036073305).
 strada('w279919376', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 32.13540890125263).
-strada('w279919377', 'tertiary', 'Via De Blasio', 1, 40, 1, 34.3339978294841).
+strada('w279919377', 'tertiary', 'Via De Blasio', 1, 30, 1, 34.3339978294841).
 strada('w279919378', 'tertiary', 'Via De Blasio', 1, 30, 1, 286.02256695572106).
-strada('w279919379', 'unclassified', 'w279919379', 0, 30, 1, 35.43851550744473).
+strada('w279919379', 'unclassified', 'w279919379', 0, 20, 1, 35.43851550744473).
 strada('w279919380', 'service', 'w279919380', 0, 20, 1, 49.59137201058099).
 strada('w279919381', 'service', 'w279919381', 0, 20, 1, 60.82016392021642).
-strada('w279919382', 'unclassified', 'w279919382', 0, 30, 1, 166.60975246126193).
+strada('w279919382', 'unclassified', 'w279919382', 0, 20, 1, 166.60975246126193).
 strada('w279967052', 'service', 'w279967052', 0, 20, 1, 67.95136159977936).
 strada('w284527320', 'service', 'w284527320', 0, 20, 1, 124.07026412085398).
 strada('w284527321', 'service', 'w284527321', 0, 20, 1, 8.152146307451277).
 strada('w284527322', 'residential', 'w284527322', 0, 30, 1, 49.86126842721807).
 strada('w284527323', 'service', 'w284527323', 0, 20, 1, 25.186772143419276).
 strada('w284527324', 'service', 'w284527324', 0, 20, 1, 53.35467652284508).
-strada('w284527326', 'service', 'w284527326', 0, 20, 1, 38.496440782548085).
+strada('w284527326', 'service', 'w284527326', 0, 10, 1, 38.496440782548085).
 strada('w284527328', 'service', 'w284527328', 0, 20, 1, 101.46629894031948).
 strada('w286091140', 'unclassified', 'Piazzale Mater Ecclesiae', 0, 30, 1, 22.912883951134123).
-strada('w287102752', 'service', 'w287102752', 0, 20, 1, 420.78309026731597).
+strada('w287102752', 'service', 'w287102752', 0, 10, 1, 420.78309026731597).
 strada('w289309411', 'unclassified', 'w289309411', 1, 30, 1, 410.9355739504166).
 strada('w289309414', 'unclassified', 'Via Leonardo Del Turco', 0, 30, 1, 333.6783777718229).
-strada('w289366072', 'service', 'w289366072', 0, 10, 1, 40.452433792948554).
+strada('w289366072', 'service', 'w289366072', 0, 20, 1, 40.452433792948554).
 strada('w289366073', 'service', 'w289366073', 0, 20, 1, 82.6259166218534).
 strada('w292125239', 'unclassified', 'w292125239', 0, 30, 1, 237.05323336740418).
-strada('w292125240', 'unclassified', 'Via Glomerelli', 0, 30, 1, 563.830035287483).
+strada('w292125240', 'unclassified', 'Via Glomerelli', 0, 20, 1, 563.830035287483).
 strada('w292276949', 'tertiary', 'Via La Rotella', 0, 50, 1, 490.8559640214072).
 strada('w292278100', 'unclassified', 'w292278100', 1, 30, 1, 35.06809050059182).
 strada('w292278101', 'secondary', 'w292278101', 1, 50, 1, 18.296430929962263).
 strada('w292278102', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 2, 34.930055245558655).
 strada('w292278103', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 2, 35.27061947800763).
-strada('w292278104', 'secondary', 'Strada Provinciale Bitonto - Aeroporto Palese', 1, 50, 2, 42.05486520376003).
-strada('w292278105', 'secondary', 'Strada Provinciale Bitonto - Aeroporto Palese', 1, 50, 2, 43.76897217969855).
+strada('w292278104', 'secondary', 'Strada Provinciale Bitonto - Aeroporto Palese', 1, 30, 2, 42.05486520376003).
+strada('w292278105', 'secondary', 'Strada Provinciale Bitonto - Aeroporto Palese', 1, 30, 2, 43.76897217969855).
 strada('w292318562', 'track', 'w292318562', 0, 30, 1, 71.84347317115606).
 strada('w292335016', 'service', 'w292335016', 0, 20, 1, 46.38989149987377).
 strada('w292335017', 'unclassified', 'w292335017', 0, 30, 1, 105.222678009916).
@@ -11645,20 +11645,20 @@ strada('w292335021', 'unclassified', 'w292335021', 0, 30, 1, 58.724196610985615)
 strada('w292396844', 'unclassified', 'w292396844', 0, 30, 1, 420.5876618135609).
 strada('w292800861', 'service', 'Strada vicinale San Giorgio Martire', 0, 20, 1, 52.01994456395629).
 strada('w292885434', 'tertiary', 'Via Napoli', 1, 40, 1, 510.2324461083884).
-strada('w292885435', 'tertiary', 'Via Nazionale', 0, 30, 1, 13.69761335304375).
-strada('w292885436', 'tertiary', 'Via Nazionale', 0, 30, 1, 16.246685954736616).
-strada('w292885438', 'tertiary', 'Via Nazionale', 0, 30, 1, 152.5827421502521).
-strada('w292885439', 'unclassified', 'w292885439', 0, 20, 1, 124.11234697294793).
-strada('w292885440', 'unclassified', 'w292885440', 0, 30, 1, 1173.9339622228067).
+strada('w292885435', 'tertiary', 'Via Nazionale', 0, 40, 1, 13.69761335304375).
+strada('w292885436', 'tertiary', 'Via Nazionale', 0, 40, 1, 16.246685954736616).
+strada('w292885438', 'tertiary', 'Via Nazionale', 0, 40, 1, 152.5827421502521).
+strada('w292885439', 'unclassified', 'w292885439', 0, 30, 1, 124.11234697294793).
+strada('w292885440', 'unclassified', 'w292885440', 0, 20, 1, 1173.9339622228067).
 strada('w292885441', 'tertiary', 'w292885441', 1, 40, 1, 93.34212650478716).
-strada('w292885442', 'unclassified', 'w292885442', 0, 30, 1, 154.78780341128035).
+strada('w292885442', 'unclassified', 'w292885442', 0, 20, 1, 154.78780341128035).
 strada('w292885443', 'unclassified', 'Via Napoli', 1, 30, 1, 13.575565011338492).
-strada('w292885444', 'unclassified', 'w292885444', 0, 20, 1, 28.52034161968618).
-strada('w292885445', 'tertiary', 'w292885445', 0, 40, 1, 33.991707162677066).
-strada('w292885446', 'tertiary', 'w292885446', 1, 40, 1, 47.77875220741658).
+strada('w292885444', 'unclassified', 'w292885444', 0, 30, 1, 28.52034161968618).
+strada('w292885445', 'tertiary', 'w292885445', 0, 30, 1, 33.991707162677066).
+strada('w292885446', 'tertiary', 'w292885446', 1, 30, 1, 47.77875220741658).
 strada('w292885449', 'trunk_link', 'w292885449', 0, 40, 1, 11.089357644381662).
 strada('w292885450', 'unclassified', 'w292885450', 0, 30, 1, 146.33732529196737).
-strada('w292885451', 'residential', 'w292885451', 0, 30, 1, 133.6598597550925).
+strada('w292885451', 'residential', 'w292885451', 0, 20, 1, 133.6598597550925).
 strada('w292885452', 'tertiary', 'w292885452', 1, 40, 1, 22.47250555438487).
 strada('w292885453', 'trunk_link', 'w292885453', 1, 40, 1, 15.939759482576466).
 strada('w292885454', 'residential', 'w292885454', 0, 30, 1, 174.21432082077985).
@@ -11666,20 +11666,20 @@ strada('w292885455', 'residential', 'w292885455', 0, 30, 1, 130.39836511247012).
 strada('w292885456', 'residential', 'w292885456', 0, 30, 1, 166.72718707917556).
 strada('w292885457', 'trunk_link', 'w292885457', 1, 40, 1, 14.801726074227503).
 strada('w292885458', 'unclassified', 'Via Napoli', 0, 30, 1, 784.2004538516434).
-strada('w292885459', 'tertiary', 'w292885459', 1, 30, 1, 28.03742507230642).
+strada('w292885459', 'tertiary', 'w292885459', 1, 40, 1, 28.03742507230642).
 strada('w292885460', 'trunk_link', 'w292885460', 1, 40, 1, 80.01972880711673).
 strada('w292885461', 'unclassified', 'w292885461', 0, 30, 1, 279.33636895817136).
 strada('w292885462', 'unclassified', 'Via Napoli', 0, 30, 1, 338.38210120740194).
-strada('w292885463', 'unclassified', 'w292885463', 1, 20, 1, 45.94262778588507).
+strada('w292885463', 'unclassified', 'w292885463', 1, 30, 1, 45.94262778588507).
 strada('w292885464', 'trunk_link', 'w292885464', 1, 40, 1, 53.816172446786645).
 strada('w292885465', 'trunk_link', 'w292885465', 1, 40, 1, 53.198531938731094).
-strada('w293184740', 'residential', 'w293184740', 1, 20, 1, 32.452314853531135).
+strada('w293184740', 'residential', 'w293184740', 1, 30, 1, 32.452314853531135).
 strada('w293184741', 'tertiary', 'w293184741', 0, 40, 1, 70.1415926312108).
 strada('w293184742', 'residential', 'w293184742', 1, 20, 1, 33.41831141185968).
 strada('w293184743', 'trunk_link', 'w293184743', 1, 40, 1, 17.54673934088656).
 strada('w293184744', 'tertiary', 'w293184744', 1, 40, 1, 30.687145658579084).
 strada('w293184745', 'trunk_link', 'w293184745', 1, 40, 1, 28.75593446685529).
-strada('w293184746', 'tertiary', 'w293184746', 0, 40, 1, 39.01627066055371).
+strada('w293184746', 'tertiary', 'w293184746', 0, 30, 1, 39.01627066055371).
 strada('w293184747', 'tertiary', 'w293184747', 1, 40, 1, 55.63096424914795).
 strada('w293184748', 'trunk_link', 'w293184748', 0, 40, 1, 121.73303512371649).
 strada('w293184749', 'trunk_link', 'w293184749', 1, 40, 1, 103.33085815846042).
@@ -11704,78 +11704,78 @@ strada('w293562327', 'unclassified', 'w293562327', 1, 30, 1, 725.8529687282429).
 strada('w293562330', 'unclassified', 'w293562330', 1, 30, 1, 33.637545711064554).
 strada('w293562331', 'unclassified', 'w293562331', 1, 30, 1, 69.15584261588457).
 strada('w294054714', 'tertiary', 'Strada Complanare Est', 1, 40, 1, 27.440972031248275).
-strada('w294245751', 'unclassified', 'Strada detta della Marina', 0, 20, 1, 43.0673412631441).
-strada('w294245753', 'unclassified', 'Strada detta della Marina', 0, 20, 1, 197.2859420082229).
+strada('w294245751', 'unclassified', 'Strada detta della Marina', 0, 30, 1, 43.0673412631441).
+strada('w294245753', 'unclassified', 'Strada detta della Marina', 0, 30, 1, 197.2859420082229).
 strada('w294245755', 'tertiary', 'Via Bari', 0, 40, 1, 106.03614893626346).
 strada('w294245757', 'tertiary', 'Via Michelangelo Interesse', 1, 40, 1, 70.87638016601831).
 strada('w294245759', 'tertiary', 'Via Michelangelo Interesse', 1, 40, 1, 81.91267876526936).
 strada('w294245761', 'tertiary', 'Via San Giorgio', 1, 40, 1, 9.618355377248664).
 strada('w294245763', 'tertiary', 'Via San Giorgio', 1, 40, 1, 16.5677985324455).
-strada('w294245764', 'tertiary', 'Via San Giorgio', 1, 30, 1, 16.201418165726725).
+strada('w294245764', 'tertiary', 'Via San Giorgio', 1, 40, 1, 16.201418165726725).
 strada('w294258656', 'tertiary', 'Strada Complanare', 0, 40, 1, 36.786995942534425).
 strada('w294258657', 'tertiary', 'Strada Complanare Est', 1, 40, 1, 55.47801702454909).
-strada('w294258658', 'tertiary', 'Strada Complanare Est', 0, 40, 1, 134.3751593207861).
+strada('w294258658', 'tertiary', 'Strada Complanare Est', 0, 30, 1, 134.3751593207861).
 strada('w294258659', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 38.15168054279062).
-strada('w294258660', 'tertiary', 'Strada Complanare Ovest', 1, 30, 1, 59.01312575476063).
+strada('w294258660', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 59.01312575476063).
 strada('w294258661', 'tertiary', 'Strada Complanare Ovest', 1, 40, 1, 69.09500668515862).
-strada('w294258662', 'tertiary', 'Via Coppa di Bari', 1, 30, 1, 10.866350539803397).
+strada('w294258662', 'tertiary', 'Via Coppa di Bari', 1, 40, 1, 10.866350539803397).
 strada('w294384863', 'tertiary', 'Via Caldarola', 1, 30, 1, 1353.0811947955233).
 strada('w294551390', 'residential', 'Via Aristosseno', 0, 30, 1, 85.45026703560453).
 strada('w294551391', 'secondary', 'Via Guglielmo Oberdan', 0, 50, 1, 381.505529669494).
-strada('w294551392', 'residential', 'w294551392', 1, 30, 1, 282.9836133592831).
-strada('w294551393', 'secondary', 'w294551393', 1, 10, 1, 474.0410696944788).
+strada('w294551392', 'residential', 'w294551392', 1, 20, 1, 282.9836133592831).
+strada('w294551393', 'secondary', 'w294551393', 1, 50, 1, 474.0410696944788).
 strada('w294553163', 'tertiary', 'Via De Blasio', 1, 40, 1, 25.121116088312718).
 strada('w294553164', 'trunk_link', 'w294553164', 1, 40, 1, 132.4793288924346).
 strada('w294745487', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 91.67445824093538).
 strada('w294745488', 'unclassified', 'w294745488', 0, 30, 1, 184.10954565360748).
-strada('w294945201', 'residential', 'w294945201', 0, 20, 1, 230.8041697094488).
-strada('w294945205', 'residential', 'Duca d Aosta', 0, 30, 1, 214.9577421150859).
+strada('w294945201', 'residential', 'w294945201', 0, 30, 1, 230.8041697094488).
+strada('w294945205', 'residential', 'Duca d Aosta', 0, 20, 1, 214.9577421150859).
 strada('w294945206', 'service', 'Vico Duca d Aosta', 0, 20, 1, 60.82404701991805).
 strada('w294945208', 'residential', 'w294945208', 0, 30, 1, 156.13185725040887).
 strada('w294945209', 'unclassified', 'Via Pierino Palasciano', 0, 20, 1, 256.2579952757933).
 strada('w294945211', 'unclassified', 'Via Antonio Antonelli', 1, 30, 1, 116.50820074969155).
-strada('w294945213', 'residential', 'w294945213', 0, 30, 1, 363.0014370046493).
+strada('w294945213', 'residential', 'w294945213', 0, 20, 1, 363.0014370046493).
 strada('w294945215', 'residential', 'Via Maria Chieco Bianchi', 0, 30, 1, 120.47171448890387).
 strada('w294945217', 'residential', 'w294945217', 1, 20, 1, 161.37590564836438).
-strada('w294945219', 'residential', 'Vico Duca d Aosta', 1, 20, 1, 130.62425956700696).
+strada('w294945219', 'residential', 'Vico Duca d Aosta', 1, 30, 1, 130.62425956700696).
 strada('w294945222', 'service', 'Vico 5Â° Duca d Aosta', 0, 20, 1, 76.2129584161646).
 strada('w294945223', 'service', 'Vico 4Â° Duca d Aosta', 0, 20, 1, 68.07697848761097).
 strada('w294945225', 'service', 'Vico Duca d Aosta', 0, 20, 1, 161.30522759661596).
-strada('w294952951', 'residential', 'Via Giuseppe Garibaldi', 1, 30, 1, 173.46779536301324).
+strada('w294952951', 'residential', 'Via Giuseppe Garibaldi', 1, 20, 1, 173.46779536301324).
 strada('w294952952', 'unclassified', 'Via Indipendenza', 1, 30, 1, 233.2901935354102).
 strada('w294952953', 'service', 'Via Giuseppe Garibaldi', 0, 20, 1, 32.283814737285994).
 strada('w294952954', 'unclassified', 'Via Caputo', 1, 30, 1, 364.46273859390163).
 strada('w294952955', 'service', 'Vico 1Â° Indipendenza', 0, 20, 1, 42.28332541118176).
 strada('w294952956', 'residential', 'Vico IX Garibaldi', 1, 30, 1, 66.90655631119208).
 strada('w294952957', 'residential', 'Via Caduti Palesini', 1, 30, 1, 111.80478412491962).
-strada('w294952958', 'unclassified', 'Via Pietro Capruzzi', 0, 30, 1, 275.30333185509306).
-strada('w294952959', 'residential', 'Via Amedeo di Savoia', 0, 30, 1, 89.87379160720181).
+strada('w294952958', 'unclassified', 'Via Pietro Capruzzi', 0, 20, 1, 275.30333185509306).
+strada('w294952959', 'residential', 'Via Amedeo di Savoia', 0, 20, 1, 89.87379160720181).
 strada('w294952960', 'residential', 'Vico 1Â° Modugno', 1, 30, 1, 164.40123615168568).
-strada('w294952961', 'unclassified', 'Via Vincenzo Martellotta', 0, 30, 1, 35.69007187792669).
-strada('w294952962', 'residential', 'Via Monte San Michele', 1, 20, 1, 91.67155118093856).
+strada('w294952961', 'unclassified', 'Via Vincenzo Martellotta', 0, 20, 1, 35.69007187792669).
+strada('w294952962', 'residential', 'Via Monte San Michele', 1, 30, 1, 91.67155118093856).
 strada('w294952963', 'service', 'w294952963', 0, 20, 1, 32.19833751829401).
 strada('w294952964', 'residential', 'Via Don Demetrio Magrini', 1, 30, 1, 31.904778693364538).
 strada('w294952965', 'residential', 'Vico 10Â° Modugno', 0, 20, 1, 71.99086617671415).
 strada('w294952966', 'service', 'w294952966', 0, 20, 1, 84.86086316058683).
 strada('w294952967', 'service', 'Vico 9Â° Modugno', 0, 20, 1, 63.93809427804595).
 strada('w294952968', 'residential', 'Via dell Olio', 1, 30, 1, 206.95723557844786).
-strada('w294952969', 'residential', 'Vico 11Â° Modugno', 1, 30, 1, 125.8648591505119).
-strada('w294952970', 'residential', 'Via Saverio Sgaramella', 1, 30, 1, 104.88560833164829).
+strada('w294952969', 'residential', 'Vico 11Â° Modugno', 1, 20, 1, 125.8648591505119).
+strada('w294952970', 'residential', 'Via Saverio Sgaramella', 1, 20, 1, 104.88560833164829).
 strada('w294952971', 'residential', 'Via Fiume', 0, 30, 1, 161.72627893708128).
 strada('w294952972', 'residential', 'Via Monte San Martino', 1, 30, 1, 111.46492496790178).
-strada('w294952974', 'residential', 'Via Cesare Battisti', 1, 30, 1, 147.41781518255857).
-strada('w294952975', 'residential', 'Via Cesare Battisti', 0, 20, 1, 66.28867596598774).
+strada('w294952974', 'residential', 'Via Cesare Battisti', 1, 20, 1, 147.41781518255857).
+strada('w294952975', 'residential', 'Via Cesare Battisti', 0, 30, 1, 66.28867596598774).
 strada('w294952976', 'residential', 'Via Luigi Sada', 0, 30, 1, 88.97896526354755).
 strada('w294952977', 'unclassified', 'Via Modugno', 0, 30, 1, 7.125956840133467).
 strada('w294952978', 'service', 'Vico Modugno', 0, 20, 1, 97.3418580340019).
 strada('w294952979', 'service', 'Vico 14Â° Modugno', 0, 20, 1, 41.518733388513695).
-strada('w294952980', 'residential', 'Via Vitantonio Barbanente', 0, 30, 1, 138.58785565166082).
-strada('w294952981', 'residential', 'Vico 4Â° Fiume', 0, 30, 1, 76.38568901620118).
+strada('w294952980', 'residential', 'Via Vitantonio Barbanente', 0, 20, 1, 138.58785565166082).
+strada('w294952981', 'residential', 'Vico 4Â° Fiume', 0, 5, 1, 76.38568901620118).
 strada('w294952982', 'residential', 'Via La Croce', 0, 30, 1, 242.12561982109617).
-strada('w294952983', 'residential', 'Via Principe Umberto', 1, 10, 1, 102.61730366531513).
-strada('w294952984', 'residential', 'Vico 1Â° Fiume', 0, 20, 1, 52.35785817568678).
-strada('w294952985', 'service', 'Vico 2Â° Principe Umberto', 0, 20, 1, 19.9261197044751).
-strada('w294952986', 'residential', 'w294952986', 1, 30, 1, 27.3958923866764).
+strada('w294952983', 'residential', 'Via Principe Umberto', 1, 20, 1, 102.61730366531513).
+strada('w294952984', 'residential', 'Vico 1Â° Fiume', 0, 30, 1, 52.35785817568678).
+strada('w294952985', 'service', 'Vico 2Â° Principe Umberto', 0, 5, 1, 19.9261197044751).
+strada('w294952986', 'residential', 'w294952986', 1, 20, 1, 27.3958923866764).
 strada('w294952989', 'service', 'Vico 3Â° Principe Umberto', 0, 20, 1, 18.624276152304425).
 strada('w294952990', 'service', 'Vico 3Â° Modugno', 0, 20, 1, 93.3490996975258).
 strada('w294952991', 'unclassified', 'Via Vincenzo Martellotta', 0, 30, 1, 95.08558106073633).
@@ -11784,28 +11784,28 @@ strada('w294952993', 'residential', 'Via Francesco De Palo', 0, 30, 1, 181.66354
 strada('w294952994', 'service', 'Vico 6Â° Modugno', 0, 20, 1, 107.68456412038623).
 strada('w294952995', 'service', 'Vico 8Â° Modugno', 0, 20, 1, 18.16434803328439).
 strada('w295028468', 'residential', 'Strada Del Quadrifoglio', 0, 30, 1, 355.84697125719526).
-strada('w295028470', 'residential', 'Via dei Medici Condotti', 0, 20, 1, 194.8596551302076).
-strada('w295029129', 'residential', 'w295029129', 0, 20, 1, 127.1600300543939).
+strada('w295028470', 'residential', 'Via dei Medici Condotti', 0, 30, 1, 194.8596551302076).
+strada('w295029129', 'residential', 'w295029129', 0, 30, 1, 127.1600300543939).
 strada('w295029130', 'residential', 'w295029130', 0, 30, 1, 172.6558676672185).
-strada('w295029131', 'residential', 'w295029131', 0, 30, 1, 174.3886865776929).
+strada('w295029131', 'residential', 'w295029131', 0, 20, 1, 174.3886865776929).
 strada('w295029132', 'residential', 'w295029132', 0, 30, 1, 192.9047669235554).
 strada('w295029133', 'residential', 'w295029133', 0, 30, 1, 79.24311916280698).
 strada('w295029134', 'residential', 'w295029134', 0, 30, 1, 43.47454333877052).
-strada('w295336991', 'residential', 'w295336991', 0, 20, 1, 54.209113338281696).
+strada('w295336991', 'residential', 'w295336991', 0, 30, 1, 54.209113338281696).
 strada('w295649170', 'unclassified', 'w295649170', 0, 30, 1, 280.66389021863824).
-strada('w295698141', 'residential', 'w295698141', 0, 20, 1, 41.54899576713568).
-strada('w295698144', 'residential', 'w295698144', 0, 5, 1, 102.69450574221938).
+strada('w295698141', 'residential', 'w295698141', 0, 30, 1, 41.54899576713568).
+strada('w295698144', 'residential', 'w295698144', 0, 30, 1, 102.69450574221938).
 strada('w295698145', 'residential', 'w295698145', 0, 30, 1, 68.08566824206093).
-strada('w295699555', 'residential', 'w295699555', 0, 20, 1, 98.12533347878508).
-strada('w295699556', 'residential', 'w295699556', 0, 20, 1, 93.83952097226077).
+strada('w295699555', 'residential', 'w295699555', 0, 30, 1, 98.12533347878508).
+strada('w295699556', 'residential', 'w295699556', 0, 30, 1, 93.83952097226077).
 strada('w295699557', 'residential', 'Via Donato Jaja', 0, 20, 1, 98.71575761807688).
-strada('w295699558', 'residential', 'w295699558', 0, 20, 1, 92.79303348323148).
+strada('w295699558', 'residential', 'w295699558', 0, 30, 1, 92.79303348323148).
 strada('w295706866', 'service', 'w295706866', 0, 20, 1, 43.73388496320372).
-strada('w295706867', 'residential', 'Via Giovanni Paesiello', 1, 30, 1, 117.87882604334237).
+strada('w295706867', 'residential', 'Via Giovanni Paesiello', 1, 20, 1, 117.87882604334237).
 strada('w295707882', 'residential', 'Via Giacomo Puccini', 0, 20, 2, 71.97704263948084).
 strada('w295707883', 'residential', 'w295707883', 0, 20, 1, 87.41924356680715).
 strada('w295707884', 'service', 'w295707884', 0, 20, 1, 64.44029136165062).
-strada('w295707886', 'residential', 'w295707886', 0, 20, 2, 155.51936033490097).
+strada('w295707886', 'residential', 'w295707886', 0, 30, 2, 155.51936033490097).
 strada('w296514374', 'residential', 'Via Lucera', 0, 20, 1, 26.052986621523218).
 strada('w296622588', 'service', 'w296622588', 0, 20, 1, 14.2445950007636).
 strada('w296622589', 'service', 'w296622589', 0, 20, 1, 61.22579174454699).
@@ -11813,9 +11813,9 @@ strada('w298496614', 'unclassified', 'Strada San Giorgio Martire', 0, 30, 1, 206
 strada('w298503225', 'unclassified', 'Strada del Baraccone', 1, 30, 1, 30.510011546461516).
 strada('w298503226', 'unclassified', 'Strada del Baraccone', 1, 30, 1, 15.368364012022482).
 strada('w298503227', 'unclassified', 'Strada del Baraccone', 1, 30, 1, 30.185525930722367).
-strada('w298503229', 'tertiary', 'w298503229', 1, 30, 1, 21.89613709652487).
+strada('w298503229', 'tertiary', 'w298503229', 1, 40, 1, 21.89613709652487).
 strada('w298503230', 'tertiary', 'w298503230', 1, 40, 1, 35.98894598169568).
-strada('w298503231', 'residential', 'w298503231', 0, 5, 2, 197.4447167517026).
+strada('w298503231', 'residential', 'w298503231', 0, 30, 2, 197.4447167517026).
 strada('w298503232', 'residential', 'w298503232', 0, 20, 1, 116.77030201271772).
 strada('w298503233', 'track', 'w298503233', 0, 30, 1, 64.20711245300946).
 strada('w298503234', 'tertiary', 'Via Napoli', 0, 40, 1, 535.9615242399855).
@@ -11824,8 +11824,8 @@ strada('w298503236', 'unclassified', 'w298503236', 1, 30, 1, 37.463447721941264)
 strada('w298503237', 'trunk_link', 'w298503237', 1, 40, 1, 26.65590281637499).
 strada('w298503238', 'trunk_link', 'w298503238', 1, 40, 1, 40.933486480949284).
 strada('w298503239', 'trunk_link', 'w298503239', 1, 40, 1, 38.59856797762318).
-strada('w298503240', 'unclassified', 'w298503240', 0, 30, 1, 196.94867933798744).
-strada('w299233206', 'residential', 'Via Pietro Mascagni', 0, 30, 2, 530.1885306513545).
+strada('w298503240', 'unclassified', 'w298503240', 0, 20, 1, 196.94867933798744).
+strada('w299233206', 'residential', 'Via Pietro Mascagni', 0, 20, 2, 530.1885306513545).
 strada('w299233892', 'tertiary', 'Via Adriatico', 1, 40, 1, 25.312687667113508).
 strada('w299233895', 'secondary', 'Via Paolo Pinto', 1, 50, 1, 28.462185631510927).
 strada('w299233897', 'tertiary', 'Via Adriatico', 1, 40, 1, 26.13039579110906).
@@ -11836,43 +11836,43 @@ strada('w300984813', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 188.55996
 strada('w300984814', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 188.69701741916623).
 strada('w300984817', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 69.39647945299893).
 strada('w300984820', 'unclassified', 'w300984820', 0, 30, 1, 261.49213542283377).
-strada('w300984821', 'unclassified', 'Via Giovanni Garofalo', 0, 30, 1, 210.97506123858568).
+strada('w300984821', 'unclassified', 'Via Giovanni Garofalo', 0, 20, 1, 210.97506123858568).
 strada('w300984822', 'trunk_link', 'w300984822', 0, 40, 1, 11.670632231013565).
-strada('w300984823', 'unclassified', 'Traversa Via Nazionale 9/A', 0, 30, 1, 141.75502705934488).
+strada('w300984823', 'unclassified', 'Traversa Via Nazionale 9/A', 0, 20, 1, 141.75502705934488).
 strada('w300984825', 'residential', 'w300984825', 0, 20, 1, 29.02001664785094).
 strada('w300984826', 'residential', 'w300984826', 0, 20, 1, 232.56883529334632).
-strada('w300984827', 'residential', 'w300984827', 0, 30, 1, 182.72942424546437).
-strada('w300984828', 'unclassified', '2^ Traversa Pizzillo', 0, 30, 1, 107.41288406277113).
+strada('w300984827', 'residential', 'w300984827', 0, 20, 1, 182.72942424546437).
+strada('w300984828', 'unclassified', '2^ Traversa Pizzillo', 0, 20, 1, 107.41288406277113).
 strada('w300984829', 'trunk_link', 'w300984829', 1, 40, 1, 45.19282703374153).
-strada('w300984830', 'unclassified', 'w300984830', 0, 20, 1, 195.1667596965935).
+strada('w300984830', 'unclassified', 'w300984830', 0, 30, 1, 195.1667596965935).
 strada('w300984831', 'trunk_link', 'w300984831', 1, 40, 1, 26.314881907177934).
 strada('w300984832', 'trunk_link', 'w300984832', 1, 40, 1, 24.148374918493857).
 strada('w301006984', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 45.50787645336511).
-strada('w301006985', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 112.71575510649006).
+strada('w301006985', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 112.71575510649006).
 strada('w301006986', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 112.7990852159055).
-strada('w301006987', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 93.35695162754318).
+strada('w301006987', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 93.35695162754318).
 strada('w301006988', 'secondary', 'Viale Louis Pasteur', 1, 50, 1, 218.05471188431352).
-strada('w301053739', 'tertiary', 'w301053739', 1, 40, 1, 17.83385798569957).
-strada('w301785149', 'residential', 'Via Napoli', 1, 20, 1, 247.17722976531047).
+strada('w301053739', 'tertiary', 'w301053739', 1, 30, 1, 17.83385798569957).
+strada('w301785149', 'residential', 'Via Napoli', 1, 30, 1, 247.17722976531047).
 strada('w301785152', 'tertiary', 'Via NiccolÃ² Pizzoli', 1, 40, 1, 83.08407872487487).
 strada('w302338533', 'service', 'w302338533', 0, 20, 1, 181.36517053529013).
 strada('w302969838', 'residential', 'w302969838', 0, 50, 1, 93.44399028247898).
-strada('w303213772', 'service', 'w303213772', 0, 20, 1, 152.84672995900343).
+strada('w303213772', 'service', 'w303213772', 0, 10, 1, 152.84672995900343).
 strada('w303326645', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 190.27347312279213).
 strada('w303326646', 'secondary', 'Via Guglielmo Oberdan', 0, 30, 1, 135.7938310488668).
-strada('w303335467', 'residential', 'w303335467', 0, 20, 1, 218.54277555557604).
+strada('w303335467', 'residential', 'w303335467', 0, 30, 1, 218.54277555557604).
 strada('w303335468', 'residential', 'w303335468', 0, 20, 1, 185.10921176619973).
 strada('w303335469', 'residential', 'w303335469', 0, 20, 1, 76.24313209974233).
 strada('w303335502', 'residential', 'w303335502', 0, 30, 1, 200.06727078792073).
 strada('w303860389', 'secondary_link', 'w303860389', 1, 30, 1, 248.27106691558097).
 strada('w303860390', 'secondary_link', 'w303860390', 1, 30, 1, 16.853147100653693).
 strada('w303860391', 'secondary_link', 'w303860391', 1, 30, 1, 44.44784868679351).
-strada('w303860392', 'secondary', 'w303860392', 1, 50, 1, 44.31930064229559).
-strada('w303860393', 'secondary', 'w303860393', 1, 50, 1, 18.48597410400115).
+strada('w303860392', 'secondary', 'w303860392', 1, 30, 1, 44.31930064229559).
+strada('w303860393', 'secondary', 'w303860393', 1, 30, 1, 18.48597410400115).
 strada('w303860394', 'secondary_link', 'w303860394', 1, 30, 1, 41.1804625419101).
 strada('w303860395', 'secondary', 'w303860395', 1, 50, 1, 18.409442464135193).
 strada('w303860396', 'secondary_link', 'w303860396', 1, 30, 1, 49.98302276846972).
-strada('w303860398', 'secondary', 'w303860398', 1, 30, 1, 139.75615226278484).
+strada('w303860398', 'secondary', 'w303860398', 1, 50, 1, 139.75615226278484).
 strada('w303860399', 'secondary_link', 'w303860399', 1, 30, 1, 42.06821680844693).
 strada('w303860403', 'unclassified', 'w303860403', 1, 30, 1, 66.41873412968674).
 strada('w303860404', 'trunk_link', 'w303860404', 1, 40, 1, 119.33797122230416).
@@ -11886,38 +11886,38 @@ strada('w304115656', 'residential', 'Via NicolÃ² van Westerhout', 0, 30, 2, 14
 strada('w304115657', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 2, 62.07896588419749).
 strada('w304115658', 'unclassified', 'w304115658', 1, 30, 1, 22.24269543232532).
 strada('w304115659', 'service', 'w304115659', 0, 20, 1, 75.48261124717999).
-strada('w304115660', 'residential', 'w304115660', 1, 20, 1, 46.72469557222692).
+strada('w304115660', 'residential', 'w304115660', 1, 30, 1, 46.72469557222692).
 strada('w304379745', 'residential', 'w304379745', 0, 50, 1, 50.74950419452669).
 strada('w304379746', 'service', 'w304379746', 0, 20, 1, 115.45238913624934).
 strada('w304380009', 'service', 'w304380009', 0, 20, 1, 113.54402763926858).
-strada('w304380269', 'residential', 'w304380269', 0, 30, 1, 124.0133069450761).
+strada('w304380269', 'residential', 'w304380269', 0, 20, 1, 124.0133069450761).
 strada('w304380898', 'residential', 'Via Silvestro Sasso', 0, 30, 1, 118.36701943800848).
-strada('w304380899', 'residential', 'Strada Tomasicchio', 0, 30, 1, 105.01875641539282).
-strada('w304380900', 'residential', 'Via Ruggiero Leoncavallo', 1, 20, 1, 206.8168706066217).
+strada('w304380899', 'residential', 'Strada Tomasicchio', 0, 20, 1, 105.01875641539282).
+strada('w304380900', 'residential', 'Via Ruggiero Leoncavallo', 1, 30, 1, 206.8168706066217).
 strada('w304381790', 'residential', 'Via Ruggiero Leoncavallo', 1, 30, 1, 41.32028025330931).
-strada('w304381791', 'residential', 'Via Arturo Santoro', 0, 30, 1, 57.199841532212126).
+strada('w304381791', 'residential', 'Via Arturo Santoro', 0, 20, 1, 57.199841532212126).
 strada('w304384506', 'service', 'w304384506', 0, 20, 1, 113.064288025274).
 strada('w304521689', 'secondary', 'w304521689', 1, 50, 1, 12.032633650347897).
 strada('w304651553', 'residential', 'Via Giuseppe Fanelli', 0, 30, 1, 87.19257916448937).
-strada('w304653835', 'service', 'w304653835', 0, 20, 1, 55.24535443027947).
+strada('w304653835', 'service', 'w304653835', 0, 10, 1, 55.24535443027947).
 strada('w304653836', 'service', 'w304653836', 0, 20, 1, 57.474684638885336).
-strada('w304653837', 'residential', 'w304653837', 0, 30, 1, 24.254216878040182).
+strada('w304653837', 'residential', 'w304653837', 0, 20, 1, 24.254216878040182).
 strada('w304870663', 'service', 'w304870663', 0, 20, 1, 60.13707601480591).
-strada('w305397360', 'unclassified', 'w305397360', 0, 30, 1, 25.187086418628866).
+strada('w305397360', 'unclassified', 'w305397360', 0, 20, 1, 25.187086418628866).
 strada('w305876663', 'service', 'w305876663', 1, 20, 1, 35.99074080309684).
 strada('w305876664', 'service', 'w305876664', 1, 20, 1, 33.47848652261058).
 strada('w305876665', 'service', 'w305876665', 1, 20, 1, 35.8267098348105).
 strada('w305876667', 'service', 'w305876667', 1, 20, 1, 33.78598004201602).
 strada('w305876668', 'service', 'w305876668', 1, 20, 1, 11.223617186541722).
-strada('w305946844', 'residential', 'w305946844', 0, 20, 1, 104.34787895919052).
-strada('w305946846', 'residential', 'w305946846', 1, 20, 1, 153.81372825498522).
+strada('w305946844', 'residential', 'w305946844', 0, 30, 1, 104.34787895919052).
+strada('w305946846', 'residential', 'w305946846', 1, 30, 1, 153.81372825498522).
 strada('w305947082', 'track', 'w305947082', 0, 30, 1, 696.1210285419262).
 strada('w305947599', 'service', 'w305947599', 0, 20, 1, 157.56492181548526).
 strada('w305947600', 'service', 'w305947600', 0, 20, 1, 272.48549221425435).
-strada('w306397509', 'secondary', 'Sottovia Luigi di Savoia', 0, 50, 1, 22.03832392925883).
+strada('w306397509', 'secondary', 'Sottovia Luigi di Savoia', 0, 30, 1, 22.03832392925883).
 strada('w306402857', 'service', 'w306402857', 0, 20, 1, 91.84147848981489).
 strada('w306652057', 'residential', 'w306652057', 0, 30, 1, 97.79590846984912).
-strada('w306654614', 'service', 'w306654614', 0, 10, 1, 322.3749921354126).
+strada('w306654614', 'service', 'w306654614', 0, 20, 1, 322.3749921354126).
 strada('w306654615', 'residential', 'w306654615', 0, 20, 1, 78.64943100991016).
 strada('w306654616', 'service', 'w306654616', 0, 20, 1, 11.196912933460164).
 strada('w306654617', 'service', 'w306654617', 0, 20, 1, 62.38867268274158).
@@ -11925,9 +11925,9 @@ strada('w306654618', 'service', 'w306654618', 0, 20, 1, 260.6547084480148).
 strada('w306654619', 'service', 'w306654619', 0, 20, 1, 24.78969363353998).
 strada('w306657149', 'residential', 'Via Giovanni Chiaia', 1, 30, 1, 67.09636675924763).
 strada('w306657150', 'service', 'w306657150', 0, 10, 1, 43.029086822484444).
-strada('w306661900', 'residential', 'w306661900', 0, 20, 1, 82.34883439153938).
-strada('w306661903', 'residential', 'w306661903', 0, 30, 1, 38.3576260773234).
-strada('w306661905', 'residential', 'w306661905', 0, 20, 1, 86.04991906369429).
+strada('w306661900', 'residential', 'w306661900', 0, 30, 1, 82.34883439153938).
+strada('w306661903', 'residential', 'w306661903', 0, 20, 1, 38.3576260773234).
+strada('w306661905', 'residential', 'w306661905', 0, 30, 1, 86.04991906369429).
 strada('w306665966', 'service', 'w306665966', 0, 20, 1, 6.722715028834902).
 strada('w306665968', 'service', 'w306665968', 0, 20, 1, 13.531901830218699).
 strada('w306666942', 'service', 'w306666942', 0, 20, 1, 100.85823737790231).
@@ -11940,15 +11940,15 @@ strada('w307187817', 'trunk_link', 'w307187817', 0, 40, 1, 164.85456715068224).
 strada('w307674851', 'secondary', 'Strada Provinciale Bitonto - Aeroporto Palese', 0, 50, 2, 79.29245628470007).
 strada('w308767638', 'service', 'w308767638', 0, 20, 1, 56.8632732543765).
 strada('w308767640', 'service', 'w308767640', 1, 20, 1, 41.38398612183943).
-strada('w308767641', 'residential', 'w308767641', 1, 30, 1, 22.52893577610778).
-strada('w308767643', 'residential', 'w308767643', 0, 30, 1, 224.7339611425353).
+strada('w308767641', 'residential', 'w308767641', 1, 20, 1, 22.52893577610778).
+strada('w308767643', 'residential', 'w308767643', 0, 20, 1, 224.7339611425353).
 strada('w310687565', 'track', 'w310687565', 0, 30, 1, 726.8098221111841).
 strada('w310687618', 'track', 'w310687618', 0, 30, 1, 75.10553163153787).
 strada('w310687734', 'track', 'w310687734', 0, 30, 1, 534.0900412982561).
 strada('w311574846', 'residential', 'w311574846', 0, 30, 1, 102.62806646544433).
 strada('w311742948', 'residential', 'w311742948', 0, 30, 1, 44.98650027354463).
 strada('w311742949', 'residential', 'w311742949', 0, 30, 1, 134.73955242687387).
-strada('w311780710', 'service', 'w311780710', 0, 20, 1, 82.41596580533917).
+strada('w311780710', 'service', 'w311780710', 0, 10, 1, 82.41596580533917).
 strada('w312186684', 'service', 'Varco della Vittoria', 1, 30, 1, 15.962546541794886).
 strada('w312186686', 'service', 'w312186686', 0, 30, 1, 185.41616858775782).
 strada('w312186691', 'residential', 'w312186691', 0, 30, 1, 25.742316410237088).
@@ -11959,37 +11959,37 @@ strada('w312994638', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 275.8665
 strada('w312994639', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 39.63244037000133).
 strada('w312994640', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 294.13968512452726).
 strada('w314681794', 'service', 'w314681794', 1, 30, 1, 145.99687215540206).
-strada('w314725115', 'residential', 'Via Ricciotto Canudo', 0, 5, 1, 161.63036210324856).
-strada('w315737720', 'secondary', 'w315737720', 1, 50, 1, 11.032914275803979).
+strada('w314725115', 'residential', 'Via Ricciotto Canudo', 0, 30, 1, 161.63036210324856).
+strada('w315737720', 'secondary', 'w315737720', 1, 30, 1, 11.032914275803979).
 strada('w316043941', 'service', 'w316043941', 1, 30, 1, 305.5983283099605).
 strada('w316185096', 'service', 'w316185096', 0, 20, 1, 32.4860613760583).
 strada('w316185097', 'service', 'w316185097', 1, 20, 1, 24.371240847975436).
 strada('w316185098', 'service', 'w316185098', 1, 20, 1, 23.071423207654117).
 strada('w316185099', 'service', 'w316185099', 1, 20, 1, 22.396237639003886).
-strada('w316185100', 'service', 'w316185100', 1, 10, 1, 22.75022851146618).
+strada('w316185100', 'service', 'w316185100', 1, 20, 1, 22.75022851146618).
 strada('w316185101', 'unclassified', 'w316185101', 1, 30, 1, 32.55163883792318).
 strada('w316185102', 'unclassified', 'Vico XXII Modugno', 0, 20, 1, 89.32383592239033).
 strada('w316185103', 'unclassified', 'Vico XXI Modugno', 0, 30, 1, 58.772433415124304).
-strada('w316185104', 'unclassified', 'w316185104', 0, 30, 1, 160.17640058586946).
+strada('w316185104', 'unclassified', 'w316185104', 0, 20, 1, 160.17640058586946).
 strada('w316185105', 'unclassified', 'w316185105', 0, 30, 1, 67.90515482665147).
 strada('w316185106', 'unclassified', 'Vico XVIII Modugno', 0, 30, 1, 136.15463117969793).
-strada('w316185107', 'service', 'w316185107', 0, 10, 1, 84.02091879056815).
+strada('w316185107', 'service', 'w316185107', 0, 20, 1, 84.02091879056815).
 strada('w316185108', 'unclassified', 'Vico XVII Modugno', 0, 30, 1, 325.1616590196196).
 strada('w316354538', 'service', 'w316354538', 1, 20, 1, 51.889538157637254).
 strada('w316354541', 'service', 'w316354541', 0, 20, 1, 53.94065994201675).
 strada('w316357764', 'unclassified', 'w316357764', 0, 30, 1, 159.15287471539202).
-strada('w316398720', 'residential', 'Largo San Sabino', 1, 5, 1, 149.96511660402354).
+strada('w316398720', 'residential', 'Largo San Sabino', 1, 20, 1, 149.96511660402354).
 strada('w316406154', 'service', 'w316406154', 1, 20, 1, 87.59029283994428).
 strada('w316406494', 'service', 'w316406494', 0, 20, 1, 79.99622083317627).
 strada('w316406495', 'service', 'w316406495', 0, 20, 1, 136.26823498328696).
 strada('w316406496', 'service', 'w316406496', 0, 20, 1, 123.3934224773668).
 strada('w316406497', 'service', 'w316406497', 0, 20, 1, 41.79161042721262).
-strada('w316549004', 'service', 'w316549004', 0, 20, 1, 114.7728328735767).
-strada('w316549012', 'residential', 'w316549012', 0, 30, 1, 39.36437553029678).
+strada('w316549004', 'service', 'w316549004', 0, 10, 1, 114.7728328735767).
+strada('w316549012', 'residential', 'w316549012', 0, 20, 1, 39.36437553029678).
 strada('w316549013', 'residential', 'w316549013', 0, 30, 1, 77.12071785233479).
 strada('w316549014', 'service', 'w316549014', 0, 20, 1, 160.23754704215207).
 strada('w316549015', 'service', 'w316549015', 0, 20, 1, 16.36350753061143).
-strada('w316549020', 'service', 'w316549020', 0, 20, 1, 65.64093626215387).
+strada('w316549020', 'service', 'w316549020', 0, 10, 1, 65.64093626215387).
 strada('w316549021', 'service', 'w316549021', 0, 20, 1, 84.77667758118642).
 strada('w316549022', 'service', 'w316549022', 0, 20, 1, 38.94716145707075).
 strada('w316549024', 'residential', 'w316549024', 0, 30, 1, 96.85577900303309).
@@ -12008,37 +12008,37 @@ strada('w318836686', 'unclassified', 'Via Scizzo', 1, 30, 1, 27.43428156627672).
 strada('w318836687', 'tertiary', 'w318836687', 1, 40, 1, 13.123431992986589).
 strada('w318836689', 'trunk_link', 'w318836689', 1, 40, 1, 30.210776365468487).
 strada('w318836692', 'tertiary', 'w318836692', 1, 40, 1, 35.01196609908894).
-strada('w318836694', 'service', 'w318836694', 0, 10, 1, 131.1230337789579).
+strada('w318836694', 'service', 'w318836694', 0, 20, 1, 131.1230337789579).
 strada('w318836695', 'unclassified', 'Strada Marchio di Evoli', 0, 30, 1, 257.6278960025699).
-strada('w318933767', 'tertiary', 'Via Giulio Petroni', 1, 30, 1, 16.911251310295235).
+strada('w318933767', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 16.911251310295235).
 strada('w318933768', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 294.13398561299107).
 strada('w318933769', 'residential', 'w318933769', 1, 30, 1, 19.552514256842837).
 strada('w318933770', 'residential', 'w318933770', 1, 20, 1, 27.98516139905471).
-strada('w318933771', 'residential', 'w318933771', 1, 30, 1, 15.173871510846269).
+strada('w318933771', 'residential', 'w318933771', 1, 20, 1, 15.173871510846269).
 strada('w318933773', 'primary', 'Viale Papa Giovanni Ventitreesimo', 1, 50, 2, 654.7127650211672).
 strada('w318933774', 'service', 'w318933774', 0, 20, 1, 19.79408326739323).
 strada('w318950469', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 382.00877083094247).
-strada('w318950470', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 30, 1, 62.061969570524475).
+strada('w318950470', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 50, 1, 62.061969570524475).
 strada('w318988101', 'tertiary', 'Via Modugno', 1, 40, 1, 46.95312443098918).
-strada('w318988102', 'unclassified', 'w318988102', 0, 20, 1, 38.59587531342733).
-strada('w318990399', 'unclassified', 'w318990399', 1, 30, 1, 53.62516586576487).
+strada('w318988102', 'unclassified', 'w318988102', 0, 30, 1, 38.59587531342733).
+strada('w318990399', 'unclassified', 'w318990399', 1, 20, 1, 53.62516586576487).
 strada('w319077121', 'unclassified', 'w319077121', 1, 30, 1, 31.358841414685998).
-strada('w319077123', 'tertiary', 'w319077123', 1, 40, 1, 28.346936508797818).
+strada('w319077123', 'tertiary', 'w319077123', 1, 30, 1, 28.346936508797818).
 strada('w319077124', 'residential', 'w319077124', 0, 30, 1, 102.1556927815569).
-strada('w319077125', 'unclassified', 'w319077125', 1, 20, 1, 23.463613996751917).
-strada('w319077126', 'unclassified', 'w319077126', 1, 30, 1, 28.91838622518437).
-strada('w319077127', 'service', 'w319077127', 0, 20, 1, 73.61254818309102).
+strada('w319077125', 'unclassified', 'w319077125', 1, 30, 1, 23.463613996751917).
+strada('w319077126', 'unclassified', 'w319077126', 1, 20, 1, 28.91838622518437).
+strada('w319077127', 'service', 'w319077127', 0, 10, 1, 73.61254818309102).
 strada('w319563186', 'track', 'w319563186', 0, 30, 1, 105.82999732273369).
-strada('w319723898', 'unclassified', 'Via Catino', 1, 20, 1, 76.92387583113901).
+strada('w319723898', 'unclassified', 'Via Catino', 1, 30, 1, 76.92387583113901).
 strada('w319723899', 'unclassified', 'Via Catino', 1, 30, 1, 167.19625424596222).
-strada('w319723900', 'unclassified', 'w319723900', 1, 20, 1, 317.3803414983997).
+strada('w319723900', 'unclassified', 'w319723900', 1, 30, 1, 317.3803414983997).
 strada('w319723901', 'unclassified', 'w319723901', 1, 30, 1, 130.3766205967836).
 strada('w319723904', 'unclassified', 'w319723904', 1, 30, 1, 41.397590839944314).
 strada('w319723905', 'trunk_link', 'w319723905', 0, 40, 1, 59.29755036397913).
 strada('w319723906', 'unclassified', 'w319723906', 1, 30, 1, 319.7097922057237).
-strada('w319723907', 'unclassified', 'w319723907', 1, 20, 1, 16.98455660412895).
+strada('w319723907', 'unclassified', 'w319723907', 1, 30, 1, 16.98455660412895).
 strada('w319723908', 'unclassified', 'w319723908', 1, 30, 1, 44.98855460068489).
-strada('w319723909', 'unclassified', 'w319723909', 1, 20, 1, 47.02121955968788).
+strada('w319723909', 'unclassified', 'w319723909', 1, 30, 1, 47.02121955968788).
 strada('w319723910', 'trunk_link', 'w319723910', 1, 40, 1, 166.42734019798738).
 strada('w319723911', 'trunk_link', 'w319723911', 1, 40, 1, 148.45917217545102).
 strada('w320392262', 'unclassified', 'via La Trofa', 0, 30, 1, 937.7549921355444).
@@ -12046,28 +12046,28 @@ strada('w324467483', 'service', 'w324467483', 0, 20, 1, 11.843549228677313).
 strada('w324467484', 'service', 'w324467484', 0, 20, 1, 36.74385687263683).
 strada('w324467485', 'service', 'w324467485', 0, 20, 1, 6.90790546678264).
 strada('w325737257', 'tertiary', 'Corso Italia', 1, 40, 1, 13.11799215988882).
-strada('w325737258', 'residential', 'Corso Italia', 1, 20, 1, 284.7902516097505).
-strada('w325737259', 'tertiary', 'Via Adolfo Omodeo', 1, 30, 1, 36.46759533518194).
-strada('w325737260', 'tertiary', 'Via Caldarola', 0, 40, 1, 392.8603421093188).
+strada('w325737258', 'residential', 'Corso Italia', 1, 30, 1, 284.7902516097505).
+strada('w325737259', 'tertiary', 'Via Adolfo Omodeo', 1, 40, 1, 36.46759533518194).
+strada('w325737260', 'tertiary', 'Via Caldarola', 0, 30, 1, 392.8603421093188).
 strada('w325737261', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 896.1654429700786).
-strada('w325737262', 'tertiary', 'Via della Costituente', 1, 30, 1, 356.7038349067414).
+strada('w325737262', 'tertiary', 'Via della Costituente', 1, 40, 1, 356.7038349067414).
 strada('w325737263', 'tertiary', 'Via della Resistenza', 1, 40, 1, 84.48224423184766).
-strada('w325737386', 'secondary', 'Via Gaetano Postiglione', 0, 50, 2, 77.82427626006829).
+strada('w325737386', 'secondary', 'Via Gaetano Postiglione', 0, 30, 2, 77.82427626006829).
 strada('w325737576', 'primary_link', 'Largo 2 Giugno', 1, 40, 1, 46.01913452272242).
-strada('w325737577', 'primary', 'Largo 2 Giugno', 1, 30, 1, 23.348529410540678).
+strada('w325737577', 'primary', 'Largo 2 Giugno', 1, 50, 1, 23.348529410540678).
 strada('w331879014', 'service', 'w331879014', 0, 20, 1, 120.15242980925501).
 strada('w331879850', 'unclassified', 'Via dei Narcisi', 0, 30, 1, 390.6604579492675).
-strada('w331879853', 'residential', 'Via Dalmazia', 0, 20, 1, 285.9180183298283).
-strada('w331881112', 'unclassified', 'Via Aurora', 0, 20, 1, 131.98130459922464).
+strada('w331879853', 'residential', 'Via Dalmazia', 0, 30, 1, 285.9180183298283).
+strada('w331881112', 'unclassified', 'Via Aurora', 0, 30, 1, 131.98130459922464).
 strada('w331881120', 'unclassified', 'Via Primavera', 0, 30, 1, 131.41477578925756).
 strada('w331881121', 'unclassified', 'Via Delfino', 0, 30, 1, 136.57955692010879).
 strada('w331881123', 'unclassified', 'Via delle Primule', 0, 30, 1, 128.58032164705634).
 strada('w331881124', 'unclassified', 'Via delle Mimose', 0, 30, 1, 128.89739193998247).
 strada('w331881126', 'unclassified', 'Via delle Azalee', 0, 30, 1, 213.34943060477593).
 strada('w331881507', 'unclassified', 'Via dei Ciclamini', 0, 30, 1, 98.51950343960647).
-strada('w331883376', 'unclassified', 'Via Nicholas Green', 0, 30, 2, 446.6316712083259).
+strada('w331883376', 'unclassified', 'Via Nicholas Green', 0, 20, 2, 446.6316712083259).
 strada('w331883377', 'unclassified', 'Via Gregorio Ancona', 1, 30, 2, 199.13187796798098).
-strada('w331883378', 'unclassified', 'Via Nicholas Green', 0, 30, 2, 309.38948783039564).
+strada('w331883378', 'unclassified', 'Via Nicholas Green', 0, 20, 2, 309.38948783039564).
 strada('w331885070', 'unclassified', 'Via della Gioia', 0, 30, 1, 95.86202845278711).
 strada('w331885072', 'unclassified', 'w331885072', 0, 30, 1, 123.73452395748932).
 strada('w331885075', 'unclassified', 'w331885075', 0, 30, 1, 238.23502539093624).
@@ -12083,16 +12083,16 @@ strada('w331886098', 'service', 'w331886098', 0, 20, 1, 35.462719643522014).
 strada('w331886602', 'unclassified', 'Via della SinceritÃ ', 0, 30, 1, 93.21428314160805).
 strada('w331887304', 'unclassified', 'Via della Fratellanza', 0, 30, 1, 83.96700888666282).
 strada('w331887307', 'unclassified', 'Via della Vita', 0, 30, 1, 98.80522998215089).
-strada('w331887309', 'unclassified', 'Via dell Amicizia', 0, 30, 1, 93.73171134008778).
-strada('w331887413', 'unclassified', 'Via Della LealtÃ ', 0, 30, 1, 168.5407441535562).
+strada('w331887309', 'unclassified', 'Via dell Amicizia', 0, 20, 1, 93.73171134008778).
+strada('w331887413', 'unclassified', 'Via Della LealtÃ ', 0, 20, 1, 168.5407441535562).
 strada('w331923930', 'unclassified', 'Via dell AffidabilitÃ ', 0, 30, 1, 92.0938201711814).
 strada('w331923931', 'unclassified', 'Via della Gentilezza', 0, 30, 1, 86.41303330224841).
 strada('w331925482', 'unclassified', 'w331925482', 0, 50, 1, 165.02447671296312).
 strada('w331926456', 'unclassified', 'w331926456', 1, 40, 1, 50.6136157112969).
 strada('w331926458', 'unclassified', 'w331926458', 1, 40, 1, 120.37067525262178).
 strada('w331926561', 'unclassified', 'w331926561', 0, 30, 1, 25.34150116860528).
-strada('w331926905', 'service', 'w331926905', 1, 10, 1, 71.56282612151871).
-strada('w331926907', 'service', 'w331926907', 1, 20, 1, 71.74112230885335).
+strada('w331926905', 'service', 'w331926905', 1, 20, 1, 71.56282612151871).
+strada('w331926907', 'service', 'w331926907', 1, 10, 1, 71.74112230885335).
 strada('w331928386', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 0, 50, 1, 668.3532396237313).
 strada('w331928390', 'secondary', 'w331928390', 1, 50, 1, 128.0020534387562).
 strada('w331933828', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 30, 1, 194.3486028235216).
@@ -12110,54 +12110,54 @@ strada('w332134247', 'service', 'Via Macchie Vico VII', 0, 20, 1, 70.62157168109
 strada('w332134251', 'unclassified', 'w332134251', 0, 30, 1, 112.91815446457663).
 strada('w332134513', 'service', 'w332134513', 0, 20, 1, 59.891451420079484).
 strada('w332137651', 'service', 'w332137651', 0, 20, 1, 386.5985832990981).
-strada('w332139647', 'tertiary', 'w332139647', 0, 30, 1, 53.67605496867845).
+strada('w332139647', 'tertiary', 'w332139647', 0, 40, 1, 53.67605496867845).
 strada('w333058426', 'service', 'w333058426', 0, 20, 1, 12.021254245638355).
 strada('w333058427', 'service', 'w333058427', 0, 20, 1, 3.700137537090852).
 strada('w333538362', 'residential', 'w333538362', 0, 20, 1, 115.1910607831525).
-strada('w333538363', 'service', 'w333538363', 0, 10, 1, 110.23365169774398).
+strada('w333538363', 'service', 'w333538363', 0, 20, 1, 110.23365169774398).
 strada('w333538365', 'service', 'w333538365', 0, 20, 1, 92.32209371162003).
 strada('w333538371', 'service', 'w333538371', 0, 20, 1, 58.08811134440546).
 strada('w333538372', 'service', 'w333538372', 0, 20, 1, 45.199196273103425).
 strada('w333540902', 'service', 'w333540902', 0, 20, 1, 93.58115296936033).
-strada('w333542955', 'residential', 'w333542955', 0, 20, 1, 69.99669406304956).
-strada('w333542956', 'residential', 'w333542956', 0, 30, 1, 122.02138394810736).
+strada('w333542955', 'residential', 'w333542955', 0, 30, 1, 69.99669406304956).
+strada('w333542956', 'residential', 'w333542956', 0, 10, 1, 122.02138394810736).
 strada('w333542957', 'residential', 'w333542957', 0, 20, 1, 74.56979997132298).
 strada('w333542958', 'residential', 'w333542958', 0, 30, 1, 60.592004047730434).
-strada('w333542959', 'residential', 'Via Strabone', 0, 30, 1, 92.34541327484281).
+strada('w333542959', 'residential', 'Via Strabone', 0, 20, 1, 92.34541327484281).
 strada('w333542960', 'residential', 'w333542960', 0, 20, 1, 32.0815788574332).
 strada('w333542962', 'residential', 'w333542962', 0, 30, 1, 66.27657393859542).
 strada('w333542963', 'residential', 'Traversa San Mauro', 0, 30, 1, 74.50996076826922).
 strada('w333542964', 'residential', 'w333542964', 0, 20, 1, 93.3102901261528).
-strada('w333542965', 'residential', 'w333542965', 0, 30, 1, 234.95642378295216).
-strada('w333542966', 'unclassified', 'Strada Vicinale San Gennaro', 0, 30, 1, 784.2644577445834).
+strada('w333542965', 'residential', 'w333542965', 0, 20, 1, 234.95642378295216).
+strada('w333542966', 'unclassified', 'Strada Vicinale San Gennaro', 0, 20, 1, 784.2644577445834).
 strada('w333542967', 'residential', 'w333542967', 0, 30, 1, 268.53425426330494).
 strada('w333542968', 'residential', 'w333542968', 0, 30, 1, 126.6515206014459).
-strada('w333542969', 'residential', 'Via San Mauro', 0, 30, 1, 138.55873314068427).
+strada('w333542969', 'residential', 'Via San Mauro', 0, 20, 1, 138.55873314068427).
 strada('w333542970', 'unclassified', 'StradaSanta Maria VI Savi', 0, 30, 1, 676.1287491746585).
 strada('w333542972', 'residential', 'Via Dante Alighieri', 0, 30, 1, 91.41460083137692).
-strada('w333542973', 'residential', 'w333542973', 0, 20, 1, 155.0304089807798).
-strada('w333542974', 'residential', 'w333542974', 0, 30, 1, 56.01694628020669).
-strada('w333543279', 'residential', 'Via San Carlo', 0, 20, 1, 102.97658080469225).
-strada('w333543280', 'residential', 'w333543280', 0, 20, 1, 97.86477333866976).
-strada('w333543281', 'residential', 'w333543281', 0, 20, 1, 130.53044372681595).
-strada('w333543282', 'unclassified', 'Via Gioacchino Rossini', 0, 30, 1, 57.635395484900535).
+strada('w333542973', 'residential', 'w333542973', 0, 30, 1, 155.0304089807798).
+strada('w333542974', 'residential', 'w333542974', 0, 20, 1, 56.01694628020669).
+strada('w333543279', 'residential', 'Via San Carlo', 0, 30, 1, 102.97658080469225).
+strada('w333543280', 'residential', 'w333543280', 0, 30, 1, 97.86477333866976).
+strada('w333543281', 'residential', 'w333543281', 0, 30, 1, 130.53044372681595).
+strada('w333543282', 'unclassified', 'Via Gioacchino Rossini', 0, 20, 1, 57.635395484900535).
 strada('w333543283', 'residential', 'Via degli Orefici', 0, 20, 1, 41.5547238915201).
-strada('w333543284', 'residential', 'w333543284', 0, 30, 1, 50.46291498777769).
-strada('w333543650', 'residential', 'Via Ugonotti', 1, 20, 1, 47.16368366484616).
-strada('w333543651', 'residential', 'Via Monacelli', 1, 20, 1, 125.4817258045488).
+strada('w333543284', 'residential', 'w333543284', 0, 20, 1, 50.46291498777769).
+strada('w333543650', 'residential', 'Via Ugonotti', 1, 30, 1, 47.16368366484616).
+strada('w333543651', 'residential', 'Via Monacelli', 1, 30, 1, 125.4817258045488).
 strada('w333543653', 'residential', 'Via San Liborio', 0, 30, 1, 59.28562614843647).
 strada('w333543654', 'residential', 'Via Ugonotti', 1, 20, 1, 75.853669098335).
-strada('w333543655', 'residential', 'w333543655', 0, 30, 1, 56.16187316332354).
-strada('w333546038', 'residential', 'Via Pace', 0, 30, 1, 97.550024542177).
+strada('w333543655', 'residential', 'w333543655', 0, 20, 1, 56.16187316332354).
+strada('w333546038', 'residential', 'Via Pace', 0, 20, 1, 97.550024542177).
 strada('w333546040', 'unclassified', 'w333546040', 0, 30, 1, 166.17050056868982).
 strada('w333546042', 'residential', 'Via AngiÃ²', 0, 30, 1, 65.20815502314939).
 strada('w333546043', 'unclassified', 'Via Beata Maria de Mattias', 0, 30, 1, 100.80958450271622).
 strada('w333546044', 'residential', 'w333546044', 0, 30, 1, 77.24463017801531).
-strada('w333546045', 'unclassified', 'w333546045', 0, 30, 1, 6.497762620541176).
-strada('w333546046', 'residential', 'Via Francesco de Angelis', 0, 20, 1, 106.47227918886044).
+strada('w333546045', 'unclassified', 'w333546045', 0, 20, 1, 6.497762620541176).
+strada('w333546046', 'residential', 'Via Francesco de Angelis', 0, 30, 1, 106.47227918886044).
 strada('w333546047', 'residential', 'Vico I De Marinis', 0, 30, 1, 54.11565263028629).
 strada('w333546048', 'residential', 'Traversa I ponte', 1, 10, 1, 47.2656070366016).
-strada('w333546049', 'residential', 'Via Monte San Michele', 1, 30, 1, 108.67767399364241).
+strada('w333546049', 'residential', 'Via Monte San Michele', 1, 20, 1, 108.67767399364241).
 strada('w333546050', 'residential', 'w333546050', 0, 30, 1, 70.03024149162725).
 strada('w333546051', 'residential', 'Traversa II ponte', 0, 5, 1, 73.50275128508173).
 strada('w333546052', 'residential', 'Via Pasquale Galluppi', 1, 30, 1, 124.01416544710523).
@@ -12165,16 +12165,16 @@ strada('w333546053', 'residential', 'Via Pace', 1, 30, 1, 55.24691322362391).
 strada('w333546054', 'residential', 'Via Arcieri', 1, 30, 1, 102.831221415138).
 strada('w333546055', 'residential', 'Via della Croce', 1, 20, 1, 170.65657535820208).
 strada('w333546056', 'residential', 'Via Paolo Pellegrini', 0, 30, 1, 128.6180486150631).
-strada('w333546057', 'residential', 'w333546057', 0, 20, 1, 66.55069153563505).
-strada('w333546058', 'residential', 'Via Colonna', 0, 30, 1, 166.25543141044307).
+strada('w333546057', 'residential', 'w333546057', 0, 30, 1, 66.55069153563505).
+strada('w333546058', 'residential', 'Via Colonna', 0, 20, 1, 166.25543141044307).
 strada('w333547350', 'residential', 'w333547350', 0, 30, 1, 50.07056463792425).
 strada('w333547351', 'service', 'w333547351', 0, 20, 1, 103.50449136013663).
-strada('w333547352', 'residential', 'w333547352', 0, 10, 1, 44.16336540396906).
+strada('w333547352', 'residential', 'w333547352', 0, 30, 1, 44.16336540396906).
 strada('w333547353', 'track', 'Via Corticelli', 0, 30, 1, 493.93742137978734).
 strada('w333547354', 'residential', 'w333547354', 0, 30, 1, 99.96436467630684).
-strada('w333547355', 'residential', 'w333547355', 0, 20, 1, 116.15457997938302).
+strada('w333547355', 'residential', 'w333547355', 0, 30, 1, 116.15457997938302).
 strada('w333547356', 'residential', 'w333547356', 0, 30, 1, 118.14550756829003).
-strada('w333547357', 'residential', 'w333547357', 0, 30, 1, 70.97688140257083).
+strada('w333547357', 'residential', 'w333547357', 0, 20, 1, 70.97688140257083).
 strada('w333550455', 'service', 'w333550455', 0, 20, 1, 127.84246068717022).
 strada('w333550456', 'residential', 'Via della Ferrovia', 0, 30, 1, 340.6155762892577).
 strada('w333550457', 'service', 'w333550457', 0, 20, 1, 64.86230613101105).
@@ -12184,49 +12184,49 @@ strada('w333550461', 'track', 'w333550461', 0, 30, 1, 489.7852282201702).
 strada('w333550462', 'residential', 'w333550462', 0, 30, 1, 106.10586232665075).
 strada('w333550465', 'service', 'w333550465', 0, 20, 1, 165.96264480811593).
 strada('w333550467', 'residential', 'w333550467', 0, 20, 1, 46.77125975920937).
-strada('w333550468', 'residential', 'w333550468', 0, 30, 1, 198.1601064275557).
+strada('w333550468', 'residential', 'w333550468', 0, 20, 1, 198.1601064275557).
 strada('w333550470', 'unclassified', 'w333550470', 0, 30, 1, 158.5380714365096).
 strada('w333550471', 'track', 'w333550471', 0, 30, 1, 143.67247367904235).
 strada('w333550472', 'residential', 'w333550472', 0, 30, 1, 143.64145137469987).
 strada('w333550473', 'residential', 'w333550473', 0, 20, 1, 26.852112566915554).
-strada('w333550474', 'residential', 'w333550474', 0, 30, 1, 151.48376330470282).
+strada('w333550474', 'residential', 'w333550474', 0, 20, 1, 151.48376330470282).
 strada('w333550475', 'track', 'Traversa Corticelli', 0, 30, 1, 318.01766554856414).
 strada('w333552008', 'unclassified', 'Vicinale Ponte', 0, 30, 1, 206.64442972666942).
 strada('w333552009', 'unclassified', 'Via Russo Frattasi Alberto', 0, 30, 1, 411.6637660883818).
-strada('w333552011', 'unclassified', 'Via Giardinelli', 0, 20, 1, 442.1000207818571).
+strada('w333552011', 'unclassified', 'Via Giardinelli', 0, 30, 1, 442.1000207818571).
 strada('w333552012', 'residential', 'Via Venezia', 0, 30, 1, 217.26902966075636).
 strada('w333552013', 'unclassified', 'Vicinale Venezia', 0, 30, 1, 197.74172958794423).
 strada('w333552014', 'track', 'w333552014', 0, 30, 1, 79.8877318510554).
 strada('w333552015', 'unclassified', 'Strada La Grava', 0, 30, 1, 1081.1150774011544).
 strada('w333552614', 'unclassified', 'w333552614', 0, 30, 1, 141.0760549390423).
-strada('w333552615', 'unclassified', 'w333552615', 0, 30, 1, 145.66984386606106).
-strada('w333552616', 'unclassified', 'w333552616', 0, 20, 1, 86.44776910971812).
-strada('w333552617', 'residential', 'w333552617', 0, 30, 1, 85.2296649839198).
+strada('w333552615', 'unclassified', 'w333552615', 0, 20, 1, 145.66984386606106).
+strada('w333552616', 'unclassified', 'w333552616', 0, 30, 1, 86.44776910971812).
+strada('w333552617', 'residential', 'w333552617', 0, 20, 1, 85.2296649839198).
 strada('w333653038', 'unclassified', 'w333653038', 0, 30, 1, 144.72382903493744).
 strada('w333979963', 'service', 'w333979963', 0, 20, 1, 9.255409414810472).
 strada('w333979966', 'service', 'w333979966', 0, 20, 1, 64.12778374880276).
 strada('w334470642', 'service', 'w334470642', 0, 20, 1, 21.958563293823616).
 strada('w336704073', 'service', 'w336704073', 0, 20, 1, 416.7600922475471).
 strada('w336885636', 'track', 'w336885636', 0, 30, 1, 61.744075015066905).
-strada('w339329591', 'service', 'w339329591', 0, 10, 1, 54.601883365851734).
-strada('w340008632', 'residential', 'w340008632', 0, 30, 1, 5.555091480899455).
+strada('w339329591', 'service', 'w339329591', 0, 20, 1, 54.601883365851734).
+strada('w340008632', 'residential', 'w340008632', 0, 20, 1, 5.555091480899455).
 strada('w340008633', 'service', 'w340008633', 0, 20, 1, 151.2203271213629).
 strada('w340008652', 'service', 'w340008652', 1, 20, 1, 14.084565999233208).
 strada('w340012394', 'service', 'w340012394', 0, 20, 1, 109.92064119513887).
-strada('w340012398', 'service', 'w340012398', 0, 20, 1, 116.17668332040066).
+strada('w340012398', 'service', 'w340012398', 0, 5, 1, 116.17668332040066).
 strada('w340016056', 'service', 'w340016056', 0, 20, 1, 402.307324561874).
-strada('w340017061', 'service', 'w340017061', 0, 20, 1, 127.79669878466429).
-strada('w340018016', 'service', 'w340018016', 0, 20, 1, 59.81284011307291).
+strada('w340017061', 'service', 'w340017061', 0, 10, 1, 127.79669878466429).
+strada('w340018016', 'service', 'w340018016', 0, 10, 1, 59.81284011307291).
 strada('w340424107', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 2.848204767677616).
 strada('w340424108', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 3.517501279703418).
 strada('w340424109', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 4.849866750295631).
-strada('w340424110', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 3.096491299006351).
-strada('w340424111', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 5.066633564298625).
-strada('w340424113', 'residential', 'Via Filippo Corridoni', 1, 20, 1, 3.265529790230016).
-strada('w340424260', 'residential', 'Via Filippo Corridoni', 0, 5, 1, 32.98425125512311).
+strada('w340424110', 'residential', 'Via Filippo Corridoni', 1, 10, 1, 3.096491299006351).
+strada('w340424111', 'residential', 'Via Filippo Corridoni', 1, 20, 1, 5.066633564298625).
+strada('w340424113', 'residential', 'Via Filippo Corridoni', 1, 30, 1, 3.265529790230016).
+strada('w340424260', 'residential', 'Via Filippo Corridoni', 0, 30, 1, 32.98425125512311).
 strada('w340425074', 'residential', 'Largo San Sabino', 0, 30, 1, 8.869803421779492).
 strada('w340427283', 'residential', 'Piazza San Pietro', 1, 30, 1, 145.78864530580125).
-strada('w342526708', 'service', 'w342526708', 0, 10, 1, 20.200486582764352).
+strada('w342526708', 'service', 'w342526708', 0, 20, 1, 20.200486582764352).
 strada('w342570133', 'service', 'w342570133', 1, 30, 1, 2.973815990515713).
 strada('w342570134', 'service', 'w342570134', 1, 30, 1, 2.97206955214752).
 strada('w342570135', 'service', 'w342570135', 1, 30, 2, 731.1915021577233).
@@ -12263,40 +12263,40 @@ strada('w343262092', 'service', 'w343262092', 1, 30, 1, 108.48097358232785).
 strada('w344265601', 'residential', 'Corso Vittorio Veneto', 1, 30, 1, 572.7718857109533).
 strada('w344265602', 'residential', 'Corso Vittorio Veneto', 0, 30, 1, 176.5816843740091).
 strada('w344265604', 'residential', 'Corso Vittorio Veneto', 1, 20, 1, 39.28627579261177).
-strada('w344265605', 'residential', 'Corso Vittorio Veneto', 1, 30, 1, 25.60809565491573).
-strada('w344265607', 'secondary', 'w344265607', 1, 30, 1, 15.050272381441687).
+strada('w344265605', 'residential', 'Corso Vittorio Veneto', 1, 20, 1, 25.60809565491573).
+strada('w344265607', 'secondary', 'w344265607', 1, 50, 1, 15.050272381441687).
 strada('w344265608', 'service', 'w344265608', 0, 20, 1, 41.576678333014144).
-strada('w344265609', 'service', 'w344265609', 0, 20, 1, 8.932253938353377).
+strada('w344265609', 'service', 'w344265609', 0, 10, 1, 8.932253938353377).
 strada('w344265610', 'service', 'w344265610', 0, 20, 1, 15.332012896949664).
 strada('w344265611', 'service', 'w344265611', 0, 20, 1, 13.254288589570608).
 strada('w344265612', 'service', 'w344265612', 0, 20, 1, 25.99109064429389).
 strada('w344265613', 'service', 'w344265613', 0, 20, 1, 18.54160188224205).
 strada('w344265614', 'service', 'w344265614', 0, 20, 1, 47.36477222706105).
 strada('w344265615', 'residential', 'w344265615', 0, 30, 1, 176.89612594641486).
-strada('w344265617', 'service', 'w344265617', 0, 20, 1, 113.67987542133258).
+strada('w344265617', 'service', 'w344265617', 0, 10, 1, 113.67987542133258).
 strada('w344265618', 'service', 'w344265618', 0, 20, 1, 102.95830594259266).
-strada('w344265619', 'secondary', 'w344265619', 1, 50, 3, 34.19775982399463).
+strada('w344265619', 'secondary', 'w344265619', 1, 30, 3, 34.19775982399463).
 strada('w344265620', 'service', 'Varco Brigata Regina', 0, 20, 1, 12.776967046954725).
 strada('w344265621', 'service', 'Varco Brigata Regina', 0, 20, 1, 8.223164524476271).
 strada('w344265622', 'service', 'Varco Caracciolo', 1, 20, 1, 29.664438501933112).
 strada('w344265623', 'service', 'Varco Caracciolo', 1, 20, 1, 22.764929225360685).
 strada('w344265625', 'service', 'Varco Caracciolo', 1, 20, 1, 39.118246933575605).
 strada('w344265626', 'service', 'Varco Caracciolo', 1, 20, 1, 42.84383755358016).
-strada('w344265627', 'residential', 'Via Ammiraglio Caracciolo', 0, 30, 1, 595.7369563684504).
+strada('w344265627', 'residential', 'Via Ammiraglio Caracciolo', 0, 20, 1, 595.7369563684504).
 strada('w344265628', 'secondary', 'Via Napoli', 0, 50, 1, 17.602203492833834).
 strada('w344265629', 'residential', 'Via San Francesco alla Rena', 0, 30, 1, 312.79020899629757).
 strada('w344265630', 'secondary', 'Via di Maratona', 1, 50, 2, 454.7122165284916).
 strada('w344274900', 'service', 'w344274900', 1, 30, 2, 518.9682427152558).
 strada('w344274901', 'service', 'w344274901', 0, 30, 1, 71.31341048434317).
 strada('w344274902', 'service', 'w344274902', 0, 20, 1, 566.0933401030998).
-strada('w344274903', 'service', 'w344274903', 1, 20, 1, 41.14891022030207).
+strada('w344274903', 'service', 'w344274903', 1, 10, 1, 41.14891022030207).
 strada('w344274904', 'service', 'w344274904', 1, 20, 1, 160.73569447607596).
 strada('w344274905', 'service', 'w344274905', 1, 30, 1, 172.09612162650444).
 strada('w344274907', 'service', 'w344274907', 1, 20, 1, 158.33253634158493).
 strada('w344287623', 'service', 'w344287623', 1, 30, 1, 22.660089711962666).
 strada('w344287624', 'service', 'w344287624', 1, 30, 1, 29.496278953246268).
 strada('w344287625', 'service', 'w344287625', 1, 30, 1, 58.95613925675126).
-strada('w344319633', 'service', 'w344319633', 0, 20, 1, 121.07082943110399).
+strada('w344319633', 'service', 'w344319633', 0, 10, 1, 121.07082943110399).
 strada('w344319642', 'service', 'w344319642', 1, 30, 1, 19.37727487622381).
 strada('w344319645', 'service', 'w344319645', 1, 30, 1, 21.46377443624512).
 strada('w344319647', 'service', 'w344319647', 1, 30, 1, 20.382046505384164).
@@ -12315,45 +12315,45 @@ strada('w344319706', 'service', 'w344319706', 1, 30, 1, 39.650925099018394).
 strada('w344319708', 'service', 'w344319708', 1, 20, 1, 22.46943886670932).
 strada('w344319721', 'service', 'w344319721', 1, 30, 2, 276.6249258353922).
 strada('w344319724', 'service', 'w344319724', 1, 30, 1, 149.1365637189673).
-strada('w345602295', 'unclassified', 'w345602295', 0, 30, 1, 193.02136299718487).
+strada('w345602295', 'unclassified', 'w345602295', 0, 20, 1, 193.02136299718487).
 strada('w345602296', 'service', 'Varco Brigata Regina', 0, 20, 1, 6.673489388857108).
 strada('w345754102', 'service', 'w345754102', 0, 20, 1, 23.48593130085017).
 strada('w345754103', 'service', 'w345754103', 0, 20, 1, 19.26799744363947).
-strada('w345754104', 'service', 'w345754104', 1, 10, 1, 19.490218739914727).
-strada('w345754105', 'residential', 'Piazza Colonnello Felice Trizio', 1, 30, 1, 39.27358613191694).
-strada('w345754207', 'secondary', 'w345754207', 1, 30, 1, 33.227866115051725).
-strada('w345776293', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 80.13016039985804).
+strada('w345754104', 'service', 'w345754104', 1, 20, 1, 19.490218739914727).
+strada('w345754105', 'residential', 'Piazza Colonnello Felice Trizio', 1, 20, 1, 39.27358613191694).
+strada('w345754207', 'secondary', 'w345754207', 1, 50, 1, 33.227866115051725).
+strada('w345776293', 'secondary', 'Via Bruno Buozzi', 0, 50, 2, 80.13016039985804).
 strada('w346285633', 'service', 'w346285633', 0, 20, 1, 142.1296517213094).
 strada('w347697718', 'service', 'w347697718', 1, 20, 1, 165.91739649019064).
-strada('w349167378', 'unclassified', 'w349167378', 0, 20, 1, 80.39888402842766).
+strada('w349167378', 'unclassified', 'w349167378', 0, 30, 1, 80.39888402842766).
 strada('w349167382', 'residential', 'w349167382', 0, 30, 1, 48.12080297189511).
 strada('w349167385', 'residential', 'w349167385', 0, 20, 1, 36.93731393510568).
-strada('w349167387', 'residential', 'w349167387', 0, 20, 1, 42.50242369791674).
+strada('w349167387', 'residential', 'w349167387', 0, 30, 1, 42.50242369791674).
 strada('w349167389', 'residential', 'w349167389', 0, 30, 1, 85.70995816275315).
 strada('w349167390', 'unclassified', 'w349167390', 0, 30, 1, 41.10880008288058).
 strada('w349172226', 'unclassified', 'w349172226', 0, 30, 1, 237.99409172491562).
-strada('w349172227', 'residential', 'w349172227', 0, 20, 1, 32.535198766114604).
+strada('w349172227', 'residential', 'w349172227', 0, 30, 1, 32.535198766114604).
 strada('w349172228', 'unclassified', 'w349172228', 0, 30, 1, 113.47517961855684).
 strada('w349172229', 'residential', 'w349172229', 0, 30, 1, 417.1186462105864).
-strada('w349172231', 'unclassified', 'w349172231', 0, 30, 1, 19.04878510180034).
-strada('w349172232', 'residential', 'w349172232', 0, 30, 1, 47.51242267309322).
+strada('w349172231', 'unclassified', 'w349172231', 0, 20, 1, 19.04878510180034).
+strada('w349172232', 'residential', 'w349172232', 0, 20, 1, 47.51242267309322).
 strada('w349172233', 'unclassified', 'w349172233', 0, 30, 1, 53.613291767918966).
 strada('w349172234', 'residential', 'w349172234', 0, 30, 1, 124.43553103190482).
 strada('w349172237', 'unclassified', 'w349172237', 0, 30, 1, 68.5017233310691).
-strada('w349172238', 'unclassified', 'w349172238', 0, 30, 1, 102.20585340854117).
+strada('w349172238', 'unclassified', 'w349172238', 0, 20, 1, 102.20585340854117).
 strada('w349172239', 'residential', 'w349172239', 0, 20, 1, 112.92807534421385).
 strada('w349172240', 'unclassified', 'w349172240', 0, 30, 1, 67.97357157728632).
-strada('w349172241', 'unclassified', 'w349172241', 0, 30, 1, 122.54385428593824).
-strada('w349172242', 'residential', 'w349172242', 0, 20, 1, 91.81956724000122).
+strada('w349172241', 'unclassified', 'w349172241', 0, 20, 1, 122.54385428593824).
+strada('w349172242', 'residential', 'w349172242', 0, 30, 1, 91.81956724000122).
 strada('w349172243', 'residential', 'Via Madonna della PietÃ ', 0, 30, 1, 70.73018235285564).
 strada('w349172244', 'unclassified', 'w349172244', 0, 30, 1, 53.181405294979356).
 strada('w349172245', 'unclassified', 'w349172245', 0, 30, 1, 152.62488352761343).
 strada('w349172246', 'unclassified', 'w349172246', 0, 30, 1, 83.47003378746082).
 strada('w349172248', 'unclassified', 'w349172248', 0, 30, 1, 204.52129484425367).
-strada('w349172249', 'service', 'w349172249', 0, 20, 1, 75.1219042907693).
-strada('w349172250', 'residential', 'Via Monte San Michele', 1, 20, 1, 124.44122318897087).
+strada('w349172249', 'service', 'w349172249', 0, 10, 1, 75.1219042907693).
+strada('w349172250', 'residential', 'Via Monte San Michele', 1, 10, 1, 124.44122318897087).
 strada('w349172251', 'service', 'w349172251', 0, 20, 1, 33.79385246978843).
-strada('w351690718', 'service', 'w351690718', 0, 20, 1, 88.34469592526655).
+strada('w351690718', 'service', 'w351690718', 0, 10, 1, 88.34469592526655).
 strada('w351690721', 'service', 'w351690721', 0, 20, 1, 77.104761049407).
 strada('w351690723', 'service', 'w351690723', 0, 20, 1, 119.26119564489994).
 strada('w351690725', 'service', 'w351690725', 0, 20, 1, 77.8367048671178).
@@ -12363,19 +12363,19 @@ strada('w357514185', 'service', 'w357514185', 0, 20, 1, 134.67443086717265).
 strada('w357514186', 'service', 'w357514186', 0, 20, 1, 39.543808013060136).
 strada('w357514187', 'service', 'w357514187', 1, 20, 1, 74.56911846661019).
 strada('w357514188', 'service', 'w357514188', 0, 20, 1, 11.66875476764355).
-strada('w360904170', 'residential', 'Via Francesco Muciaccia', 0, 10, 1, 24.09358360130407).
+strada('w360904170', 'residential', 'Via Francesco Muciaccia', 0, 30, 1, 24.09358360130407).
 strada('w362359784', 'service', 'w362359784', 1, 20, 1, 187.82881633398787).
 strada('w362359785', 'service', 'w362359785', 1, 20, 1, 159.39957348884056).
 strada('w362359787', 'service', 'w362359787', 1, 20, 1, 75.12038006081214).
 strada('w362811454', 'unclassified', 'Vico IV Antonio Quararanta', 0, 30, 1, 39.631424587122936).
-strada('w362814472', 'unclassified', 'Vico Giovanni Chiarini', 0, 30, 1, 37.877590492473495).
-strada('w362814473', 'unclassified', 'Via San Giuseppe', 1, 30, 1, 90.027359898164).
+strada('w362814472', 'unclassified', 'Vico Giovanni Chiarini', 0, 20, 1, 37.877590492473495).
+strada('w362814473', 'unclassified', 'Via San Giuseppe', 1, 20, 1, 90.027359898164).
 strada('w362814474', 'unclassified', 'Vico 2a Vela', 0, 30, 1, 44.981259050726436).
 strada('w362814475', 'unclassified', 'w362814475', 0, 30, 1, 47.6811116341694).
 strada('w362814476', 'unclassified', 'Via delle Oche', 0, 30, 1, 63.527206771252416).
-strada('w362814477', 'unclassified', 'Via delle Oche', 0, 20, 1, 54.33162705099522).
+strada('w362814477', 'unclassified', 'Via delle Oche', 0, 30, 1, 54.33162705099522).
 strada('w362821129', 'unclassified', 'Via GiosuÃ¨ Carducci', 0, 30, 1, 77.79249203712621).
-strada('w362821130', 'service', 'w362821130', 0, 10, 1, 62.663918803248215).
+strada('w362821130', 'service', 'w362821130', 0, 20, 1, 62.663918803248215).
 strada('w362821131', 'unclassified', 'Via GiosuÃ¨ Carducci', 0, 30, 1, 15.78813775405857).
 strada('w362821132', 'unclassified', 'Vico Calabria', 0, 30, 1, 49.335773552412014).
 strada('w362821133', 'unclassified', 'w362821133', 0, 30, 1, 89.60886194692458).
@@ -12383,9 +12383,9 @@ strada('w362821134', 'unclassified', 'Via di Carbonara Sant Agostino', 0, 30, 1,
 strada('w362821135', 'service', 'w362821135', 0, 20, 1, 50.39117234303047).
 strada('w362821136', 'unclassified', 'Vico NiccolÃ² Piccinni', 0, 30, 1, 53.73830229112343).
 strada('w362821137', 'service', 'w362821137', 0, 20, 1, 84.71072973269193).
-strada('w362821138', 'unclassified', 'Via di Carbonara Piccinni', 0, 20, 1, 83.62735396892818).
+strada('w362821138', 'unclassified', 'Via di Carbonara Piccinni', 0, 30, 1, 83.62735396892818).
 strada('w362858627', 'residential', 'w362858627', 1, 20, 1, 52.63451635663694).
-strada('w362899019', 'unclassified', 'w362899019', 0, 30, 1, 264.10433008980493).
+strada('w362899019', 'unclassified', 'w362899019', 0, 20, 1, 264.10433008980493).
 strada('w362916700', 'unclassified', 'Strada Vicinale delle Tarine', 0, 30, 1, 112.71188187987931).
 strada('w362916701', 'unclassified', 'Strada Albergo della Battaglia', 0, 30, 1, 320.8232574833036).
 strada('w362916804', 'unclassified', 'Traversa I Buozzi Bruno', 0, 30, 1, 133.74197371411185).
@@ -12398,25 +12398,25 @@ strada('w362928940', 'track', 'w362928940', 0, 30, 1, 114.26609984604251).
 strada('w362928941', 'service', 'Traversa 1 privata Stradella Deserto', 0, 20, 1, 328.87999284458795).
 strada('w362928943', 'service', 'Strada privata deserto', 0, 20, 1, 264.753085669487).
 strada('w362928944', 'track', 'w362928944', 0, 30, 1, 66.42070812984531).
-strada('w362928946', 'unclassified', 'w362928946', 0, 30, 1, 79.65238456547252).
+strada('w362928946', 'unclassified', 'w362928946', 0, 20, 1, 79.65238456547252).
 strada('w362928947', 'track', 'w362928947', 0, 30, 1, 55.425102650071835).
-strada('w362928948', 'unclassified', 'w362928948', 0, 30, 1, 392.4798832141642).
+strada('w362928948', 'unclassified', 'w362928948', 0, 20, 1, 392.4798832141642).
 strada('w362928950', 'track', 'w362928950', 0, 30, 1, 224.44407918657572).
 strada('w362928952', 'track', 'w362928952', 0, 30, 1, 385.0239307330551).
 strada('w362928953', 'service', 'w362928953', 0, 20, 1, 67.6993063843407).
 strada('w362928955', 'track', 'w362928955', 0, 30, 1, 131.48321731606288).
-strada('w362928957', 'service', 'w362928957', 0, 20, 1, 251.46504373988842).
+strada('w362928957', 'service', 'w362928957', 0, 10, 1, 251.46504373988842).
 strada('w362928958', 'track', 'w362928958', 0, 30, 1, 15.477398049308428).
-strada('w362928959', 'unclassified', 'w362928959', 0, 20, 1, 53.15083700226499).
+strada('w362928959', 'unclassified', 'w362928959', 0, 30, 1, 53.15083700226499).
 strada('w362928960', 'service', 'w362928960', 1, 20, 1, 98.12781751610436).
-strada('w362928963', 'service', 'w362928963', 0, 20, 1, 81.81070773021514).
+strada('w362928963', 'service', 'w362928963', 0, 5, 1, 81.81070773021514).
 strada('w362937314', 'track', 'w362937314', 0, 30, 1, 248.77387382999686).
 strada('w362937315', 'track', 'w362937315', 0, 30, 1, 173.98069980996834).
 strada('w362937316', 'track', 'w362937316', 0, 30, 1, 258.6607684548485).
 strada('w362937318', 'track', 'w362937318', 0, 30, 1, 131.03201832044962).
 strada('w362937319', 'service', 'w362937319', 0, 20, 1, 188.40618019098832).
 strada('w362937320', 'track', 'w362937320', 0, 30, 1, 255.3512826677922).
-strada('w362937321', 'unclassified', 'w362937321', 0, 30, 1, 358.4345276053444).
+strada('w362937321', 'unclassified', 'w362937321', 0, 20, 1, 358.4345276053444).
 strada('w362940985', 'track', 'w362940985', 0, 30, 1, 60.799362156975064).
 strada('w362940986', 'track', 'w362940986', 0, 30, 1, 82.7376704702707).
 strada('w362940987', 'track', 'w362940987', 0, 30, 1, 114.6898174631382).
@@ -12442,7 +12442,7 @@ strada('w362941753', 'unclassified', 'w362941753', 0, 30, 1, 81.89887689683029).
 strada('w362952948', 'trunk_link', 'w362952948', 1, 40, 1, 10.404864232694795).
 strada('w362969001', 'track', 'w362969001', 0, 30, 1, 217.42248641747997).
 strada('w362969003', 'unclassified', 'Via Tommaso Columbo', 0, 20, 1, 468.858342680893).
-strada('w362969006', 'unclassified', 'w362969006', 0, 20, 1, 195.337747778416).
+strada('w362969006', 'unclassified', 'w362969006', 0, 30, 1, 195.337747778416).
 strada('w362969007', 'track', 'w362969007', 0, 30, 1, 101.78977836226994).
 strada('w362969008', 'unclassified', 'Viale Luigi Corigliano', 0, 30, 1, 639.1988403857799).
 strada('w362969009', 'track', 'w362969009', 0, 30, 1, 51.65505988640541).
@@ -12450,32 +12450,32 @@ strada('w362974381', 'unclassified', 'Via Fratelli Spizzico', 0, 30, 1, 70.26183
 strada('w362974383', 'unclassified', 'Via Mimmo Conenna', 0, 30, 1, 323.6287358746404).
 strada('w362974384', 'track', 'w362974384', 0, 30, 1, 140.45413516458981).
 strada('w362974385', 'service', 'w362974385', 1, 20, 1, 127.07395365546854).
-strada('w362974386', 'service', 'w362974386', 1, 20, 1, 352.5850387114669).
+strada('w362974386', 'service', 'w362974386', 1, 10, 1, 352.5850387114669).
 strada('w362977642', 'residential', 'Strada Vicinale Lamberti', 0, 30, 1, 334.73887833763257).
 strada('w362977645', 'residential', 'w362977645', 0, 30, 1, 137.51582086217576).
-strada('w362977646', 'residential', 'Strada Vicinale Lamberti', 0, 30, 1, 334.6309525756807).
-strada('w362977647', 'residential', 'w362977647', 0, 10, 1, 69.40497149893028).
-strada('w362977649', 'residential', 'w362977649', 0, 30, 1, 60.159339369969146).
-strada('w362977650', 'residential', 'Trav. NÂ°67 Via A. Giovine', 0, 5, 1, 161.41160548316364).
-strada('w362977652', 'unclassified', 'w362977652', 0, 20, 1, 194.76224023329235).
+strada('w362977646', 'residential', 'Strada Vicinale Lamberti', 0, 20, 1, 334.6309525756807).
+strada('w362977647', 'residential', 'w362977647', 0, 30, 1, 69.40497149893028).
+strada('w362977649', 'residential', 'w362977649', 0, 20, 1, 60.159339369969146).
+strada('w362977650', 'residential', 'Trav. NÂ°67 Via A. Giovine', 0, 30, 1, 161.41160548316364).
+strada('w362977652', 'unclassified', 'w362977652', 0, 30, 1, 194.76224023329235).
 strada('w362977653', 'service', 'w362977653', 0, 20, 1, 68.20950173191758).
 strada('w362977656', 'residential', 'w362977656', 0, 30, 1, 168.38955921692647).
-strada('w362977659', 'residential', 'w362977659', 0, 30, 1, 42.699387520738526).
-strada('w362977662', 'service', 'w362977662', 0, 10, 1, 78.47397324233718).
+strada('w362977659', 'residential', 'w362977659', 0, 20, 1, 42.699387520738526).
+strada('w362977662', 'service', 'w362977662', 0, 20, 1, 78.47397324233718).
 strada('w362977664', 'residential', 'w362977664', 0, 30, 1, 95.40233138399694).
-strada('w362977678', 'residential', 'Trav. NÂ°67 Via A. Giovine', 0, 30, 1, 293.4268522808913).
+strada('w362977678', 'residential', 'Trav. NÂ°67 Via A. Giovine', 0, 5, 1, 293.4268522808913).
 strada('w362977681', 'residential', 'w362977681', 0, 30, 1, 183.5134358666717).
 strada('w362977683', 'residential', 'Strada Vicinale Lamberti', 0, 30, 1, 220.70919567589388).
-strada('w362977684', 'unclassified', 'w362977684', 0, 30, 1, 75.86062766346011).
+strada('w362977684', 'unclassified', 'w362977684', 0, 20, 1, 75.86062766346011).
 strada('w362977685', 'residential', 'w362977685', 0, 30, 1, 72.18939251947583).
 strada('w362977686', 'residential', 'Via Alfredo Giovine', 0, 20, 1, 129.51591837966134).
-strada('w362977687', 'residential', 'w362977687', 0, 30, 1, 144.95431080757643).
+strada('w362977687', 'residential', 'w362977687', 0, 20, 1, 144.95431080757643).
 strada('w362977689', 'service', 'w362977689', 0, 20, 1, 89.76864848063568).
-strada('w362977691', 'residential', 'w362977691', 0, 20, 1, 55.71861757238145).
+strada('w362977691', 'residential', 'w362977691', 0, 30, 1, 55.71861757238145).
 strada('w362978517', 'residential', 'w362978517', 0, 30, 1, 190.93184150799465).
 strada('w362978518', 'residential', 'w362978518', 0, 30, 1, 127.38337204498298).
 strada('w362978519', 'unclassified', 'Strada Pantaleo', 0, 30, 1, 191.32674530673506).
-strada('w362978520', 'residential', 'w362978520', 0, 30, 1, 248.11288060252647).
+strada('w362978520', 'residential', 'w362978520', 0, 20, 1, 248.11288060252647).
 strada('w362978797', 'track', 'w362978797', 0, 30, 1, 275.86176525309025).
 strada('w362978798', 'track', 'w362978798', 0, 30, 1, 209.40980327892134).
 strada('w362978953', 'track', 'w362978953', 0, 30, 1, 117.32486265362093).
@@ -12483,18 +12483,18 @@ strada('w362978957', 'track', 'w362978957', 0, 30, 1, 12.795757115908222).
 strada('w363097970', 'track', 'w363097970', 0, 30, 1, 396.01539827099793).
 strada('w363097971', 'service', 'w363097971', 0, 20, 1, 141.48233935153755).
 strada('w363097974', 'track', 'w363097974', 0, 30, 1, 147.1277604747779).
-strada('w363136261', 'residential', 'w363136261', 0, 10, 1, 68.38434190688037).
+strada('w363136261', 'residential', 'w363136261', 0, 20, 1, 68.38434190688037).
 strada('w363139097', 'service', 'w363139097', 0, 20, 1, 81.32735317226597).
 strada('w363139098', 'service', 'w363139098', 0, 20, 1, 55.346714134335635).
-strada('w363139099', 'service', 'w363139099', 0, 20, 1, 223.89030300035574).
+strada('w363139099', 'service', 'w363139099', 0, 10, 1, 223.89030300035574).
 strada('w363142488', 'secondary', 'Via Brigata e Divisione Bari', 0, 30, 1, 69.05425499234211).
 strada('w363492055', 'service', 'w363492055', 0, 20, 1, 132.10634301251878).
 strada('w363492451', 'residential', 'w363492451', 0, 30, 1, 118.85385159742881).
-strada('w363492452', 'residential', 'w363492452', 0, 30, 1, 120.13552199150647).
+strada('w363492452', 'residential', 'w363492452', 0, 20, 1, 120.13552199150647).
 strada('w363492453', 'residential', 'w363492453', 0, 20, 1, 69.2360260419536).
-strada('w363492454', 'residential', 'w363492454', 0, 30, 1, 68.70470775779509).
+strada('w363492454', 'residential', 'w363492454', 0, 20, 1, 68.70470775779509).
 strada('w363492459', 'track', 'w363492459', 0, 30, 1, 41.35151169465742).
-strada('w363643007', 'residential', 'w363643007', 0, 30, 1, 261.34319521273625).
+strada('w363643007', 'residential', 'w363643007', 0, 20, 1, 261.34319521273625).
 strada('w363643009', 'track', 'w363643009', 0, 30, 1, 167.35951938323026).
 strada('w363643010', 'track', 'w363643010', 0, 30, 1, 28.86374621384474).
 strada('w363643011', 'track', 'w363643011', 0, 30, 1, 128.03159164887902).
@@ -12507,19 +12507,19 @@ strada('w366832246', 'residential', 'w366832246', 0, 30, 1, 170.7790990548113).
 strada('w366833077', 'service', 'w366833077', 0, 20, 1, 159.01382720801806).
 strada('w374168420', 'unclassified', 'w374168420', 0, 30, 1, 235.17552983343427).
 strada('w374175606', 'service', 'w374175606', 0, 20, 1, 19.57050272262495).
-strada('w374175607', 'service', 'w374175607', 0, 20, 1, 52.723433671565274).
+strada('w374175607', 'service', 'w374175607', 0, 10, 1, 52.723433671565274).
 strada('w374175609', 'service', 'w374175609', 1, 20, 1, 101.3026687926109).
 strada('w374175611', 'service', 'w374175611', 1, 20, 1, 87.69777812533789).
 strada('w374175619', 'service', 'w374175619', 0, 20, 1, 42.59571927506482).
 strada('w374175621', 'service', 'w374175621', 0, 20, 1, 24.164464229150497).
-strada('w374175645', 'service', 'w374175645', 0, 20, 1, 47.908983249300775).
+strada('w374175645', 'service', 'w374175645', 0, 5, 1, 47.908983249300775).
 strada('w374179036', 'service', 'w374179036', 0, 20, 1, 71.72237507976996).
 strada('w374179044', 'service', 'w374179044', 0, 20, 1, 101.97671521748454).
 strada('w374179897', 'residential', 'w374179897', 1, 30, 1, 93.59536631301845).
-strada('w374179899', 'service', 'w374179899', 0, 10, 1, 281.86940850777563).
+strada('w374179899', 'service', 'w374179899', 0, 20, 1, 281.86940850777563).
 strada('w374179900', 'service', 'w374179900', 1, 20, 1, 82.76325762672735).
 strada('w374179901', 'service', 'w374179901', 1, 20, 1, 82.46142530703418).
-strada('w374179902', 'service', 'w374179902', 0, 5, 1, 13.753215886171505).
+strada('w374179902', 'service', 'w374179902', 0, 20, 1, 13.753215886171505).
 strada('w374180565', 'service', 'w374180565', 0, 20, 1, 72.30862918592037).
 strada('w374180567', 'service', 'w374180567', 1, 20, 1, 122.95888469728892).
 strada('w374180568', 'residential', 'Via Salvatore Tramonte', 1, 30, 1, 101.79282773479862).
@@ -12527,19 +12527,19 @@ strada('w374181175', 'service', 'w374181175', 1, 20, 1, 281.5692249286996).
 strada('w374182775', 'service', 'w374182775', 0, 20, 1, 122.82897066813084).
 strada('w374182777', 'service', 'w374182777', 0, 20, 1, 102.26378436652901).
 strada('w374189396', 'residential', 'w374189396', 0, 30, 1, 82.9286472445244).
-strada('w374189405', 'service', 'w374189405', 0, 10, 1, 88.59810638371613).
-strada('w374189407', 'service', 'w374189407', 0, 20, 1, 25.14334482077707).
+strada('w374189405', 'service', 'w374189405', 0, 20, 1, 88.59810638371613).
+strada('w374189407', 'service', 'w374189407', 0, 10, 1, 25.14334482077707).
 strada('w374190914', 'service', 'w374190914', 0, 20, 1, 97.70707407601272).
 strada('w374190916', 'service', 'w374190916', 0, 20, 1, 87.76196954474185).
-strada('w374190917', 'service', 'w374190917', 0, 10, 1, 115.45675993180558).
+strada('w374190917', 'service', 'w374190917', 0, 20, 1, 115.45675993180558).
 strada('w374190922', 'service', 'w374190922', 0, 20, 1, 20.57679339458533).
 strada('w374190927', 'service', 'w374190927', 0, 20, 1, 35.25996133238573).
 strada('w374432654', 'service', 'w374432654', 0, 20, 1, 239.30770330612597).
-strada('w374432655', 'service', 'w374432655', 0, 10, 1, 38.050310540885945).
+strada('w374432655', 'service', 'w374432655', 0, 20, 1, 38.050310540885945).
 strada('w374432656', 'service', 'w374432656', 0, 20, 1, 162.80225546615623).
 strada('w374432657', 'service', 'w374432657', 0, 20, 1, 198.61252486118173).
-strada('w374433880', 'residential', 'Via Nicola Bellomo', 0, 30, 1, 158.49917185624574).
-strada('w374441420', 'residential', 'w374441420', 0, 30, 1, 192.17713108706806).
+strada('w374433880', 'residential', 'Via Nicola Bellomo', 0, 20, 1, 158.49917185624574).
+strada('w374441420', 'residential', 'w374441420', 0, 20, 1, 192.17713108706806).
 strada('w374827214', 'secondary', 'Via Umberto primo', 0, 50, 2, 1105.7982293583354).
 strada('w375899563', 'service', 'w375899563', 0, 20, 1, 105.38830269736951).
 strada('w375899564', 'service', 'w375899564', 0, 20, 1, 14.951326854820111).
@@ -12547,54 +12547,54 @@ strada('w375899565', 'service', 'w375899565', 0, 20, 1, 81.60247147227857).
 strada('w375899813', 'service', 'w375899813', 0, 20, 1, 9.932807949462957).
 strada('w375899814', 'service', 'w375899814', 0, 20, 1, 132.58968954062877).
 strada('w375900145', 'service', 'w375900145', 0, 20, 1, 50.32076138765273).
-strada('w376214446', 'residential', 'Via Giustino Fortunato', 0, 20, 1, 234.98474898904075).
-strada('w376989732', 'service', 'w376989732', 1, 20, 1, 22.59062886994482).
+strada('w376214446', 'residential', 'Via Giustino Fortunato', 0, 30, 1, 234.98474898904075).
+strada('w376989732', 'service', 'w376989732', 1, 10, 1, 22.59062886994482).
 strada('w376989734', 'service', 'w376989734', 0, 20, 1, 93.96441231673177).
 strada('w377444784', 'track', 'Strada torre dell amore', 0, 30, 1, 264.33802752147255).
-strada('w377626867', 'service', 'w377626867', 0, 10, 1, 33.758843494122374).
+strada('w377626867', 'service', 'w377626867', 0, 20, 1, 33.758843494122374).
 strada('w377626868', 'residential', 'Via Giustino Fortunato', 0, 30, 1, 169.22387651250446).
-strada('w377980041', 'service', 'w377980041', 0, 10, 1, 40.51033970291612).
+strada('w377980041', 'service', 'w377980041', 0, 20, 1, 40.51033970291612).
 strada('w377980042', 'service', 'w377980042', 0, 20, 1, 73.15514193568153).
 strada('w377980044', 'service', 'w377980044', 0, 20, 1, 72.0150005188158).
 strada('w377980047', 'service', 'w377980047', 0, 20, 1, 38.63141583944546).
 strada('w377980049', 'service', 'w377980049', 0, 20, 1, 13.434612544788703).
 strada('w377980051', 'service', 'w377980051', 0, 20, 1, 174.5482255471977).
 strada('w377980054', 'service', 'w377980054', 0, 20, 1, 42.901602801799214).
-strada('w379396086', 'service', 'w379396086', 0, 20, 1, 17.065940711755886).
+strada('w379396086', 'service', 'w379396086', 0, 10, 1, 17.065940711755886).
 strada('w379396087', 'service', 'w379396087', 0, 20, 1, 49.33415456437476).
 strada('w379396088', 'service', 'w379396088', 0, 20, 1, 45.10454284147373).
 strada('w379583162', 'service', 'w379583162', 0, 20, 1, 35.526036924794255).
-strada('w380400969', 'residential', 'Via Roberto da Bari', 1, 20, 1, 366.2511462658103).
+strada('w380400969', 'residential', 'Via Roberto da Bari', 1, 30, 1, 366.2511462658103).
 strada('w380533297', 'unclassified', 'Arrivi', 1, 30, 1, 57.38232463991352).
-strada('w380533344', 'unclassified', 'Arrivi', 1, 30, 1, 121.65583795299446).
+strada('w380533344', 'unclassified', 'Arrivi', 1, 20, 1, 121.65583795299446).
 strada('w380818889', 'tertiary', 'w380818889', 1, 40, 1, 45.156250272764446).
-strada('w380821156', 'unclassified', 'w380821156', 0, 30, 1, 33.56796938337122).
+strada('w380821156', 'unclassified', 'w380821156', 0, 20, 1, 33.56796938337122).
 strada('w380822316', 'secondary', 'Via Orfeo Mazzitelli', 1, 50, 2, 138.29502926161638).
 strada('w380823372', 'service', 'w380823372', 0, 20, 1, 94.435337591398).
 strada('w380827446', 'service', 'w380827446', 0, 20, 1, 26.366556827359037).
 strada('w380827447', 'residential', 'w380827447', 0, 30, 1, 62.88570838639928).
-strada('w380827448', 'residential', 'w380827448', 0, 20, 1, 120.47847545101419).
+strada('w380827448', 'residential', 'w380827448', 0, 30, 1, 120.47847545101419).
 strada('w380827449', 'unclassified', 'Via Lepore', 0, 30, 1, 249.45655932198935).
 strada('w380827450', 'residential', 'w380827450', 0, 30, 1, 55.622864427154674).
-strada('w380827451', 'residential', 'w380827451', 0, 30, 1, 76.9273100898366).
-strada('w380827452', 'residential', 'w380827452', 0, 10, 1, 26.30117195912871).
+strada('w380827451', 'residential', 'w380827451', 0, 20, 1, 76.9273100898366).
+strada('w380827452', 'residential', 'w380827452', 0, 30, 1, 26.30117195912871).
 strada('w380827453', 'service', 'w380827453', 0, 20, 1, 341.7356577710762).
-strada('w380827454', 'residential', 'w380827454', 0, 20, 1, 131.24600602161013).
+strada('w380827454', 'residential', 'w380827454', 0, 30, 1, 131.24600602161013).
 strada('w380827455', 'residential', 'w380827455', 0, 30, 1, 28.6444404072683).
-strada('w380827543', 'residential', 'w380827543', 0, 30, 1, 80.10357507873891).
+strada('w380827543', 'residential', 'w380827543', 0, 10, 1, 80.10357507873891).
 strada('w380827545', 'residential', 'w380827545', 0, 30, 1, 101.87600505637693).
 strada('w382250519', 'service', 'w382250519', 0, 20, 1, 81.3415147556537).
-strada('w382250520', 'service', 'w382250520', 0, 20, 1, 109.1711549758817).
+strada('w382250520', 'service', 'w382250520', 0, 10, 1, 109.1711549758817).
 strada('w382883590', 'tertiary', 'Sottovia Quintino Sella', 0, 40, 2, 126.5948409307554).
 strada('w382883591', 'tertiary', 'Sottovia Quintino Sella', 1, 40, 1, 133.71454135578716).
-strada('w382886004', 'tertiary', 'Sottovia Quintino Sella', 1, 30, 2, 124.80075745799131).
-strada('w382886006', 'tertiary', 'w382886006', 1, 40, 1, 20.655527930305816).
+strada('w382886004', 'tertiary', 'Sottovia Quintino Sella', 1, 40, 2, 124.80075745799131).
+strada('w382886006', 'tertiary', 'w382886006', 1, 30, 1, 20.655527930305816).
 strada('w382886007', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 1, 35.169266258536034).
-strada('w382886009', 'tertiary_link', 'w382886009', 1, 40, 1, 23.294948463338997).
+strada('w382886009', 'tertiary_link', 'w382886009', 1, 50, 1, 23.294948463338997).
 strada('w382886010', 'tertiary', 'w382886010', 1, 40, 1, 6.78602720997389).
-strada('w382886011', 'secondary', 'Via Giuseppe Capruzzi', 1, 30, 1, 48.79541132510805).
-strada('w382886012', 'tertiary', 'w382886012', 1, 40, 2, 44.10569988150763).
-strada('w382910915', 'tertiary', 'Corso Italia', 1, 40, 1, 81.51588761145155).
+strada('w382886011', 'secondary', 'Via Giuseppe Capruzzi', 1, 50, 1, 48.79541132510805).
+strada('w382886012', 'tertiary', 'w382886012', 1, 30, 2, 44.10569988150763).
+strada('w382910915', 'tertiary', 'Corso Italia', 1, 30, 1, 81.51588761145155).
 strada('w383062043', 'service', 'w383062043', 0, 20, 1, 124.45895090419286).
 strada('w383087318', 'service', 'w383087318', 0, 20, 1, 411.0066028494929).
 strada('w383272077', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 30, 1, 68.96493453138899).
@@ -12608,41 +12608,41 @@ strada('w383272106', 'primary_link', 'w383272106', 1, 40, 1, 86.41778506307351).
 strada('w383272107', 'primary_link', 'w383272107', 1, 40, 1, 106.05539760170889).
 strada('w383485655', 'service', 'Parcheggio Coop', 0, 20, 1, 49.772608356088355).
 strada('w383600343', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 2, 151.66926482408394).
-strada('w383600344', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 1, 8.222418122876267).
+strada('w383600344', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 8.222418122876267).
 strada('w383964741', 'service', 'w383964741', 0, 20, 1, 96.15367496912168).
 strada('w383964742', 'service', 'w383964742', 0, 20, 1, 60.59116234452154).
 strada('w383964743', 'service', 'w383964743', 0, 20, 1, 73.93120688025581).
 strada('w383966837', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 61.924730749421386).
-strada('w383966841', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 246.01245990967493).
+strada('w383966841', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 246.01245990967493).
 strada('w383989921', 'unclassified', 'Traversa Via Giulio Petroni', 0, 30, 1, 98.98888611513999).
-strada('w383989922', 'residential', 'w383989922', 0, 20, 1, 107.0393179595151).
-strada('w383989923', 'residential', 'Via Giuseppe Signorile Bianchi', 0, 20, 1, 97.81514349100442).
+strada('w383989922', 'residential', 'w383989922', 0, 30, 1, 107.0393179595151).
+strada('w383989923', 'residential', 'Via Giuseppe Signorile Bianchi', 0, 30, 1, 97.81514349100442).
 strada('w383989924', 'unclassified', 'Traversa Via Giulio Petroni', 0, 30, 1, 166.90479422932268).
-strada('w383989925', 'residential', 'w383989925', 0, 30, 1, 98.71345023452422).
+strada('w383989925', 'residential', 'w383989925', 0, 20, 1, 98.71345023452422).
 strada('w383995940', 'unclassified', 'Via Rocco Dicillo', 0, 30, 2, 133.87250053806642).
 strada('w383996401', 'primary_link', 'w383996401', 1, 40, 1, 33.81193437821423).
-strada('w384001395', 'unclassified', 'Via Rocco Di Cillo', 0, 20, 2, 6.469792876931321).
+strada('w384001395', 'unclassified', 'Via Rocco Di Cillo', 0, 30, 2, 6.469792876931321).
 strada('w384004721', 'service', 'w384004721', 1, 20, 1, 23.57553673340431).
-strada('w384045033', 'unclassified', 'w384045033', 1, 20, 1, 25.574266843641162).
+strada('w384045033', 'unclassified', 'w384045033', 1, 30, 1, 25.574266843641162).
 strada('w384064511', 'service', 'w384064511', 0, 20, 1, 38.56793754194866).
-strada('w384157101', 'service', 'w384157101', 0, 10, 1, 152.8087984104025).
+strada('w384157101', 'service', 'w384157101', 0, 20, 1, 152.8087984104025).
 strada('w384157102', 'service', 'w384157102', 0, 20, 1, 4.377203896723495).
 strada('w384157103', 'service', 'w384157103', 0, 20, 1, 10.448871601693936).
 strada('w384157104', 'service', 'w384157104', 0, 20, 1, 10.937727518096406).
 strada('w384157105', 'service', 'w384157105', 0, 20, 1, 38.42330238441869).
 strada('w384157106', 'service', 'w384157106', 1, 20, 1, 4.470943158157664).
-strada('w384157107', 'service', 'w384157107', 0, 10, 1, 13.133957408639144).
+strada('w384157107', 'service', 'w384157107', 0, 20, 1, 13.133957408639144).
 strada('w384157109', 'service', 'w384157109', 0, 20, 1, 11.269301418035415).
 strada('w384157110', 'service', 'w384157110', 0, 20, 1, 38.63482406780212).
 strada('w384157111', 'service', 'w384157111', 0, 20, 1, 3.747807277822563).
 strada('w384157112', 'service', 'w384157112', 1, 20, 1, 37.578878298265415).
 strada('w384157113', 'service', 'w384157113', 0, 20, 1, 10.51321058314111).
 strada('w384157114', 'service', 'w384157114', 0, 20, 1, 56.64580704293935).
-strada('w384157115', 'service', 'w384157115', 0, 20, 1, 10.628354450737506).
-strada('w384157116', 'service', 'w384157116', 0, 20, 1, 4.268439045454809).
-strada('w384157117', 'service', 'w384157117', 1, 20, 1, 4.596667181936136).
+strada('w384157115', 'service', 'w384157115', 0, 10, 1, 10.628354450737506).
+strada('w384157116', 'service', 'w384157116', 0, 10, 1, 4.268439045454809).
+strada('w384157117', 'service', 'w384157117', 1, 10, 1, 4.596667181936136).
 strada('w384157118', 'service', 'w384157118', 1, 20, 1, 15.081903508034673).
-strada('w384157119', 'service', 'w384157119', 0, 10, 1, 14.151866388650735).
+strada('w384157119', 'service', 'w384157119', 0, 20, 1, 14.151866388650735).
 strada('w384157120', 'service', 'w384157120', 0, 20, 1, 25.119968787678385).
 strada('w384157121', 'service', 'w384157121', 0, 20, 1, 40.960089608352).
 strada('w384157122', 'service', 'w384157122', 0, 20, 1, 40.4558165153939).
@@ -12654,48 +12654,48 @@ strada('w384157129', 'service', 'w384157129', 0, 20, 1, 133.8367856933197).
 strada('w384161760', 'service', 'w384161760', 1, 20, 1, 4.677251660079047).
 strada('w384161762', 'service', 'w384161762', 1, 20, 1, 137.63791594756995).
 strada('w384161763', 'service', 'w384161763', 1, 20, 1, 9.514954249808468).
-strada('w384327105', 'service', 'w384327105', 1, 10, 1, 43.273406213125334).
-strada('w384330827', 'residential', 'Via Pasquale Fiore', 1, 20, 1, 109.9978183402668).
+strada('w384327105', 'service', 'w384327105', 1, 20, 1, 43.273406213125334).
+strada('w384330827', 'residential', 'Via Pasquale Fiore', 1, 30, 1, 109.9978183402668).
 strada('w384332545', 'service', 'w384332545', 1, 20, 1, 60.46532421633358).
 strada('w384516974', 'residential', 'w384516974', 0, 30, 1, 50.29417723125889).
-strada('w384518302', 'secondary', 'Via Giuseppe Albanese', 1, 30, 1, 162.5825635473917).
+strada('w384518302', 'secondary', 'Via Giuseppe Albanese', 1, 50, 1, 162.5825635473917).
 strada('w384912968', 'primary_link', 'w384912968', 0, 40, 1, 69.02192545125196).
 strada('w384912969', 'service', 'w384912969', 0, 20, 1, 68.06436734378822).
-strada('w385690406', 'residential', 'Corso Cavour', 1, 20, 1, 72.368713971831).
-strada('w385690407', 'secondary', 'Corso Cavour', 1, 50, 1, 76.1354950559959).
-strada('w385690408', 'secondary', 'Lungomare Araldo di Crollalanza', 1, 50, 1, 16.82737587958692).
+strada('w385690406', 'residential', 'Corso Cavour', 1, 30, 1, 72.368713971831).
+strada('w385690407', 'secondary', 'Corso Cavour', 1, 30, 1, 76.1354950559959).
+strada('w385690408', 'secondary', 'Lungomare Araldo di Crollalanza', 1, 30, 1, 16.82737587958692).
 strada('w385690409', 'tertiary', 'Via Luigi Zuppetta', 1, 40, 1, 7.293324016526343).
-strada('w385690410', 'secondary', 'Via Salvatore Cognetti', 1, 50, 1, 81.35899390387692).
-strada('w385690411', 'residential', 'w385690411', 1, 20, 1, 29.84679353005189).
-strada('w385690412', 'residential', 'Piazza Luigi di Savoia', 1, 30, 1, 18.612319332213517).
+strada('w385690410', 'secondary', 'Via Salvatore Cognetti', 1, 30, 1, 81.35899390387692).
+strada('w385690411', 'residential', 'w385690411', 1, 30, 1, 29.84679353005189).
+strada('w385690412', 'residential', 'Piazza Luigi di Savoia', 1, 20, 1, 18.612319332213517).
 strada('w386237028', 'service', 'w386237028', 0, 20, 1, 34.23329265123289).
 strada('w388597085', 'residential', 'Via Germania', 0, 30, 1, 441.59648976915116).
-strada('w388597086', 'residential', 'w388597086', 0, 20, 1, 37.973115155267294).
+strada('w388597086', 'residential', 'w388597086', 0, 30, 1, 37.973115155267294).
 strada('w388597088', 'residential', 'Via Austria', 0, 20, 1, 92.209732507726).
-strada('w388597089', 'residential', 'Via Belgio', 0, 30, 1, 116.51810453156635).
+strada('w388597089', 'residential', 'Via Belgio', 0, 20, 1, 116.51810453156635).
 strada('w388597090', 'residential', 'Via Francia', 0, 30, 1, 116.37176143599041).
 strada('w388708779', 'track', 'w388708779', 0, 30, 1, 90.32371329686354).
 strada('w388708781', 'primary_link', 'w388708781', 0, 40, 2, 147.78192132006103).
 strada('w388708783', 'track', 'w388708783', 0, 30, 1, 425.9949925828088).
 strada('w388708784', 'track', 'w388708784', 0, 30, 1, 210.67883690291688).
 strada('w388708786', 'service', 'w388708786', 0, 10, 1, 16.530755576333945).
-strada('w389215590', 'service', 'w389215590', 0, 20, 1, 89.44154904186736).
-strada('w389215592', 'service', 'w389215592', 0, 20, 1, 64.0451513080554).
+strada('w389215590', 'service', 'w389215590', 0, 10, 1, 89.44154904186736).
+strada('w389215592', 'service', 'w389215592', 0, 10, 1, 64.0451513080554).
 strada('w389547321', 'residential', 'Lungomare Nove Maggio', 0, 30, 2, 275.8835038923055).
-strada('w389927803', 'residential', 'Via Pasquale Di Cagno', 1, 30, 1, 99.42974372323704).
-strada('w389927804', 'residential', 'w389927804', 0, 20, 1, 15.83144791809293).
+strada('w389927803', 'residential', 'Via Pasquale Di Cagno', 1, 20, 1, 99.42974372323704).
+strada('w389927804', 'residential', 'w389927804', 0, 30, 1, 15.83144791809293).
 strada('w389927806', 'residential', 'III Traversa Nove Maggio', 0, 30, 2, 190.29924171597574).
-strada('w389930533', 'residential', 'w389930533', 0, 30, 1, 140.08329533132869).
-strada('w389930534', 'residential', 'w389930534', 0, 20, 1, 63.17650649789017).
+strada('w389930533', 'residential', 'w389930533', 0, 20, 1, 140.08329533132869).
+strada('w389930534', 'residential', 'w389930534', 0, 30, 1, 63.17650649789017).
 strada('w389930536', 'residential', 'w389930536', 0, 30, 1, 80.26648130689104).
-strada('w389930538', 'residential', 'w389930538', 0, 20, 1, 81.25491923014282).
-strada('w389930539', 'residential', 'w389930539', 0, 30, 1, 31.719063350173826).
-strada('w389930541', 'residential', 'w389930541', 0, 20, 1, 125.82322700596231).
+strada('w389930538', 'residential', 'w389930538', 0, 30, 1, 81.25491923014282).
+strada('w389930539', 'residential', 'w389930539', 0, 20, 1, 31.719063350173826).
+strada('w389930541', 'residential', 'w389930541', 0, 5, 1, 125.82322700596231).
 strada('w389931627', 'residential', 'Via Ruggiero Leoncavallo', 1, 30, 1, 41.53498309870937).
-strada('w389931629', 'residential', 'Via Biagio Grimaldi', 0, 30, 1, 173.9406083278945).
+strada('w389931629', 'residential', 'Via Biagio Grimaldi', 0, 20, 1, 173.9406083278945).
 strada('w389933431', 'residential', 'Via Francesco Cilea', 1, 30, 1, 8.882824551062505).
-strada('w389933432', 'residential', 'Via Francesco Cilea', 1, 30, 1, 28.52691635191995).
-strada('w389933433', 'residential', 'Via Francesco Cilea', 1, 10, 1, 5.945962048582166).
+strada('w389933432', 'residential', 'Via Francesco Cilea', 1, 20, 1, 28.52691635191995).
+strada('w389933433', 'residential', 'Via Francesco Cilea', 1, 30, 1, 5.945962048582166).
 strada('w389933434', 'residential', 'Via Francesco Cilea', 1, 20, 1, 115.60025532648436).
 strada('w390013772', 'service', 'w390013772', 0, 20, 1, 44.50802095774867).
 strada('w390017192', 'residential', 'Via Armando Scaturchio', 0, 30, 1, 49.05638080233024).
@@ -12704,8 +12704,8 @@ strada('w390076903', 'service', 'w390076903', 0, 20, 1, 127.55462790273779).
 strada('w390076904', 'unclassified', 'Via Luigi Martino', 0, 30, 1, 265.2756706005983).
 strada('w390630860', 'residential', 'w390630860', 0, 20, 1, 179.42768793546594).
 strada('w390633050', 'service', 'w390633050', 0, 20, 1, 95.19494626648627).
-strada('w390633572', 'residential', 'Via Napoli', 0, 5, 1, 279.9456853169992).
-strada('w390633573', 'residential', 'Via Napoli', 0, 20, 1, 81.11924272257602).
+strada('w390633572', 'residential', 'Via Napoli', 0, 20, 1, 279.9456853169992).
+strada('w390633573', 'residential', 'Via Napoli', 0, 30, 1, 81.11924272257602).
 strada('w390916516', 'service', 'w390916516', 0, 20, 1, 103.16038968893518).
 strada('w390916517', 'service', 'w390916517', 1, 20, 1, 4.123237655836127).
 strada('w390916518', 'service', 'w390916518', 1, 20, 1, 34.2258355390818).
@@ -12715,34 +12715,34 @@ strada('w392420172', 'service', 'w392420172', 0, 20, 1, 29.683711615282732).
 strada('w392448126', 'service', 'w392448126', 0, 20, 1, 136.2301239394672).
 strada('w392448134', 'service', 'w392448134', 0, 20, 1, 60.87870918699048).
 strada('w392449807', 'service', 'w392449807', 0, 20, 1, 76.670170087458).
-strada('w392449808', 'service', 'w392449808', 0, 5, 1, 51.227447635492595).
+strada('w392449808', 'service', 'w392449808', 0, 20, 1, 51.227447635492595).
 strada('w392449809', 'service', 'w392449809', 0, 20, 1, 62.19363537057806).
 strada('w394315625', 'residential', 'w394315625', 1, 30, 1, 151.9459647028406).
 strada('w394315626', 'unclassified', 'w394315626', 1, 30, 1, 36.08608127938092).
-strada('w394315627', 'unclassified', 'w394315627', 0, 20, 1, 434.46664900021995).
-strada('w394315629', 'residential', 'Via Ermanno PirÃ¨', 0, 30, 1, 196.42510330031328).
+strada('w394315627', 'unclassified', 'w394315627', 0, 30, 1, 434.46664900021995).
+strada('w394315629', 'residential', 'Via Ermanno PirÃ¨', 0, 20, 1, 196.42510330031328).
 strada('w396766180', 'service', 'w396766180', 0, 20, 1, 43.531317748243296).
 strada('w398221862', 'service', 'w398221862', 0, 20, 1, 233.85699579105838).
 strada('w398224056', 'residential', 'Viale Petru Giovacchini', 1, 30, 1, 46.29593362678207).
 strada('w398989760', 'service', 'Piazza Aldo Moro', 0, 20, 1, 35.694030140171876).
-strada('w398989761', 'service', 'w398989761', 1, 10, 1, 34.176800767652516).
+strada('w398989761', 'service', 'w398989761', 1, 20, 1, 34.176800767652516).
 strada('w398989762', 'residential', 'Via Andrea da Bari', 1, 20, 1, 293.11558550047965).
 strada('w398989764', 'secondary', 'w398989764', 1, 50, 1, 10.526707506207906).
 strada('w398989766', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 289.32025936927516).
-strada('w398989767', 'unclassified', 'Viale Enzo Ferrari', 1, 20, 1, 759.1166086192661).
+strada('w398989767', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 759.1166086192661).
 strada('w398989768', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 26.27238327967969).
 strada('w398989769', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 35.93192457402999).
-strada('w398989770', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 30.293077979075544).
-strada('w398989771', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 11.53355484699863).
+strada('w398989770', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 30.293077979075544).
+strada('w398989771', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 11.53355484699863).
 strada('w398989772', 'tertiary', 'Via Gabriele D Annunzio', 0, 40, 1, 324.43975333704464).
 strada('w398989773', 'unclassified', 'w398989773', 0, 30, 1, 76.11184532596161).
-strada('w398989774', 'residential', 'Via Macchie', 0, 30, 1, 54.63876966919477).
-strada('w401605424', 'secondary', 'Via Napoli', 0, 30, 1, 823.3369229934401).
+strada('w398989774', 'residential', 'Via Macchie', 0, 20, 1, 54.63876966919477).
+strada('w401605424', 'secondary', 'Via Napoli', 0, 50, 1, 823.3369229934401).
 strada('w403110093', 'trunk_link', 'w403110093', 1, 40, 1, 42.59430327800824).
-strada('w404079708', 'secondary', 'w404079708', 1, 30, 3, 102.78360050538289).
+strada('w404079708', 'secondary', 'w404079708', 1, 50, 3, 102.78360050538289).
 strada('w404079709', 'secondary', 'w404079709', 1, 30, 2, 5.545187504119593).
 strada('w404083868', 'service', 'w404083868', 0, 20, 1, 168.9818076965606).
-strada('w404358971', 'residential', 'w404358971', 0, 20, 1, 127.96254114794709).
+strada('w404358971', 'residential', 'w404358971', 0, 30, 1, 127.96254114794709).
 strada('w404364510', 'service', 'w404364510', 0, 20, 1, 33.966664744220154).
 strada('w404364511', 'service', 'w404364511', 0, 20, 1, 51.25210585380354).
 strada('w406634507', 'unclassified', 'w406634507', 1, 30, 1, 118.90431923727323).
@@ -12752,41 +12752,41 @@ strada('w410129876', 'residential', 'w410129876', 0, 20, 1, 74.65607053306213).
 strada('w410805230', 'residential', 'w410805230', 0, 30, 1, 778.196330702901).
 strada('w410805245', 'residential', 'w410805245', 0, 30, 1, 51.71514961906615).
 strada('w410805248', 'service', 'w410805248', 0, 20, 1, 104.80410865644193).
-strada('w412525989', 'residential', 'Via Dalmazia', 1, 20, 1, 403.59794742060876).
-strada('w412525993', 'tertiary', 'Via Francesco Speranza', 0, 30, 1, 408.3477198630415).
+strada('w412525989', 'residential', 'Via Dalmazia', 1, 30, 1, 403.59794742060876).
+strada('w412525993', 'tertiary', 'Via Francesco Speranza', 0, 40, 1, 408.3477198630415).
 strada('w412525996', 'unclassified', 'Via della LealtÃ ', 0, 20, 1, 6.869243116140752).
 strada('w412525999', 'unclassified', 'Via della LealtÃ ', 0, 30, 1, 6.810245932019851).
 strada('w412526002', 'unclassified', 'Via della LealtÃ ', 0, 30, 1, 25.913490871616634).
-strada('w412526006', 'unclassified', 'Via della LealtÃ ', 0, 30, 1, 94.59381932593104).
+strada('w412526006', 'unclassified', 'Via della LealtÃ ', 0, 20, 1, 94.59381932593104).
 strada('w412529397', 'residential', 'w412529397', 0, 20, 1, 186.45490682250443).
-strada('w412529421', 'residential', 'Via di Santo Spirito Guglielmo Marconi', 1, 30, 1, 136.27400270093202).
+strada('w412529421', 'residential', 'Via di Santo Spirito Guglielmo Marconi', 1, 20, 1, 136.27400270093202).
 strada('w412662788', 'track', 'w412662788', 0, 30, 1, 64.70013061045813).
 strada('w412662797', 'residential', 'w412662797', 0, 30, 1, 87.79748185913401).
-strada('w412668971', 'residential', 'w412668971', 0, 20, 2, 63.820258371914164).
-strada('w412668972', 'residential', 'w412668972', 0, 20, 1, 96.67272396120248).
+strada('w412668971', 'residential', 'w412668971', 0, 30, 2, 63.820258371914164).
+strada('w412668972', 'residential', 'w412668972', 0, 30, 1, 96.67272396120248).
 strada('w412668973', 'residential', 'w412668973', 0, 30, 1, 68.7319710089244).
 strada('w412668975', 'residential', 'w412668975', 0, 30, 1, 118.52881234193046).
-strada('w412668976', 'residential', 'w412668976', 0, 5, 1, 88.92676287045798).
+strada('w412668976', 'residential', 'w412668976', 0, 20, 1, 88.92676287045798).
 strada('w412668978', 'residential', 'w412668978', 0, 30, 1, 169.97596124970605).
-strada('w412670230', 'residential', 'w412670230', 0, 20, 1, 75.84809264821533).
+strada('w412670230', 'residential', 'w412670230', 0, 30, 1, 75.84809264821533).
 strada('w412670231', 'residential', 'w412670231', 0, 30, 1, 146.07983247715882).
 strada('w412670232', 'residential', 'w412670232', 0, 30, 1, 494.11648704024805).
 strada('w412670233', 'residential', 'w412670233', 0, 30, 1, 103.21195418128633).
 strada('w413665263', 'residential', 'w413665263', 0, 20, 1, 26.0793098954815).
-strada('w413665268', 'residential', 'w413665268', 0, 30, 1, 38.55380845257475).
+strada('w413665268', 'residential', 'w413665268', 0, 20, 1, 38.55380845257475).
 strada('w413689907', 'service', 'w413689907', 1, 20, 1, 20.479799230549276).
 strada('w414526952', 'unclassified', 'Via Attilio Alto', 0, 30, 1, 92.87956162268839).
 strada('w414526953', 'unclassified', 'w414526953', 0, 30, 1, 82.88531733169192).
 strada('w414526954', 'unclassified', 'w414526954', 0, 30, 1, 10.57143207009863).
 strada('w414526955', 'residential', 'w414526955', 0, 30, 1, 67.11676580932027).
 strada('w414526957', 'residential', 'Viale del Tamerice', 0, 30, 1, 192.96864239162846).
-strada('w415082879', 'residential', 'Via Natale Loiacono', 0, 20, 1, 358.75910360157536).
+strada('w415082879', 'residential', 'Via Natale Loiacono', 0, 30, 1, 358.75910360157536).
 strada('w416236891', 'service', 'Via Napoli', 0, 20, 1, 92.8103492989417).
 strada('w416243560', 'service', 'w416243560', 0, 20, 1, 58.45870956439406).
 strada('w416243566', 'residential', 'w416243566', 0, 30, 1, 79.73630172083864).
 strada('w416243568', 'service', 'w416243568', 0, 10, 1, 13.737130148195456).
 strada('w416243571', 'unclassified', 'Partenze', 1, 30, 1, 44.02668985238202).
-strada('w416243574', 'service', 'w416243574', 0, 10, 1, 10.749579573681164).
+strada('w416243574', 'service', 'w416243574', 0, 20, 1, 10.749579573681164).
 strada('w416243577', 'service', 'w416243577', 0, 20, 1, 60.30067420736438).
 strada('w416243579', 'service', 'w416243579', 0, 20, 1, 31.297810676829734).
 strada('w416243582', 'service', 'w416243582', 0, 20, 1, 49.772676827482634).
@@ -12802,19 +12802,19 @@ strada('w416497609', 'track', 'w416497609', 0, 30, 1, 64.14215436652658).
 strada('w416563756', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara', 1, 50, 2, 15.792363736680711).
 strada('w416563759', 'tertiary', 'Strada Torre Bella', 0, 40, 1, 42.71119379244586).
 strada('w416563760', 'tertiary', 'Strada Torre Bella', 0, 40, 1, 2.688098209261196).
-strada('w416563916', 'residential', 'Via Ettore Fieramosca', 1, 20, 1, 97.60328315453046).
+strada('w416563916', 'residential', 'Via Ettore Fieramosca', 1, 30, 1, 97.60328315453046).
 strada('w416563917', 'unclassified', 'Via Rodolfo Redi', 1, 30, 1, 55.405784702941176).
 strada('w416570460', 'secondary_link', 'w416570460', 1, 40, 1, 14.883347036120535).
 strada('w416570475', 'track', 'w416570475', 0, 30, 1, 7.344237769998625).
 strada('w416570479', 'service', 'w416570479', 1, 20, 1, 46.19151852225731).
 strada('w416570480', 'residential', 'w416570480', 0, 30, 1, 25.16913583519495).
 strada('w416570481', 'track', 'w416570481', 0, 30, 1, 38.966788799934086).
-strada('w416625550', 'residential', 'w416625550', 0, 20, 2, 66.66234521360572).
-strada('w417132367', 'residential', 'w417132367', 0, 20, 1, 62.66418321428258).
-strada('w417132371', 'residential', 'w417132371', 0, 20, 1, 172.28032092973447).
+strada('w416625550', 'residential', 'w416625550', 0, 30, 2, 66.66234521360572).
+strada('w417132367', 'residential', 'w417132367', 0, 30, 1, 62.66418321428258).
+strada('w417132371', 'residential', 'w417132371', 0, 30, 1, 172.28032092973447).
 strada('w417132376', 'track', 'w417132376', 0, 30, 1, 37.39177588974647).
 strada('w417164926', 'unclassified', 'w417164926', 0, 30, 1, 50.607067637896655).
-strada('w417164927', 'unclassified', 'w417164927', 0, 30, 1, 141.8794320163951).
+strada('w417164927', 'unclassified', 'w417164927', 0, 20, 1, 141.8794320163951).
 strada('w417293571', 'service', 'w417293571', 1, 20, 1, 13.495353353353797).
 strada('w417295500', 'service', 'w417295500', 0, 20, 1, 37.753280370008035).
 strada('w417295501', 'service', 'w417295501', 0, 20, 1, 250.22441841311175).
@@ -12824,22 +12824,22 @@ strada('w417295508', 'service', 'w417295508', 0, 20, 1, 66.91982604291319).
 strada('w417295509', 'service', 'w417295509', 0, 20, 1, 138.3470919179858).
 strada('w417295511', 'service', 'w417295511', 0, 20, 1, 85.88884661382532).
 strada('w417296251', 'service', 'w417296251', 1, 20, 1, 80.34126401024031).
-strada('w417308499', 'residential', 'w417308499', 0, 30, 1, 174.61588696579838).
+strada('w417308499', 'residential', 'w417308499', 0, 20, 1, 174.61588696579838).
 strada('w417308501', 'residential', 'w417308501', 0, 30, 1, 161.0087504317204).
 strada('w417312014', 'unclassified', 'Via Nicola Pende', 1, 30, 1, 87.23719067513466).
 strada('w417312017', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 5.721157571382724).
-strada('w417312021', 'unclassified', 'Via Nicola Pende', 1, 20, 1, 87.17127360787535).
+strada('w417312021', 'unclassified', 'Via Nicola Pende', 1, 30, 1, 87.17127360787535).
 strada('w417312024', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 297.8865417162476).
 strada('w417314619', 'residential', 'w417314619', 0, 30, 1, 62.05414661376314).
 strada('w417998753', 'service', 'Angiulli', 0, 20, 1, 28.10921244749186).
 strada('w417998754', 'service', 'Angiulli', 0, 20, 1, 49.442124519919055).
 strada('w417998854', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 2.424085417822553).
 strada('w417998855', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 10.478467877408796).
-strada('w417998910', 'unclassified', 'Via Conte Giusso', 1, 30, 2, 40.06304449338043).
+strada('w417998910', 'unclassified', 'Via Conte Giusso', 1, 20, 2, 40.06304449338043).
 strada('w418008202', 'service', 'w418008202', 0, 20, 1, 85.93116210006956).
-strada('w418008222', 'service', 'w418008222', 0, 20, 1, 14.56174794871212).
+strada('w418008222', 'service', 'w418008222', 0, 5, 1, 14.56174794871212).
 strada('w418008223', 'service', 'w418008223', 0, 20, 1, 14.084325076754979).
-strada('w418008225', 'service', 'w418008225', 0, 10, 1, 16.34680879201448).
+strada('w418008225', 'service', 'w418008225', 0, 20, 1, 16.34680879201448).
 strada('w418008226', 'service', 'w418008226', 0, 20, 1, 11.922920944751127).
 strada('w418491197', 'service', 'w418491197', 0, 20, 1, 11.752110956613365).
 strada('w418491198', 'residential', 'Largo Angelo Fraccacreta', 1, 20, 1, 19.197946026923386).
@@ -12850,15 +12850,15 @@ strada('w420210064', 'service', 'w420210064', 0, 20, 1, 211.80123214682874).
 strada('w420303621', 'unclassified', 'Via Quarto', 1, 30, 1, 173.52214690900584).
 strada('w420306122', 'service', 'w420306122', 0, 20, 1, 40.360383145976584).
 strada('w420306123', 'service', 'w420306123', 0, 20, 1, 110.27844026984737).
-strada('w430532710', 'service', 'w430532710', 0, 10, 1, 488.3480216174291).
+strada('w430532710', 'service', 'w430532710', 0, 20, 1, 488.3480216174291).
 strada('w430535324', 'unclassified', 'w430535324', 0, 30, 1, 72.51878623061924).
 strada('w430535327', 'track', 'w430535327', 0, 30, 1, 187.64416506568446).
 strada('w430535328', 'track', 'w430535328', 0, 30, 1, 323.3133805800471).
-strada('w430537294', 'service', 'w430537294', 0, 20, 1, 159.82250255353358).
+strada('w430537294', 'service', 'w430537294', 0, 10, 1, 159.82250255353358).
 strada('w431854906', 'track', 'w431854906', 0, 30, 1, 23.835766299836536).
 strada('w431854908', 'track', 'w431854908', 0, 30, 1, 227.40270022149141).
 strada('w431854909', 'track', 'w431854909', 0, 30, 1, 13.793565427644236).
-strada('w431858308', 'residential', 'w431858308', 0, 20, 1, 106.97467815208763).
+strada('w431858308', 'residential', 'w431858308', 0, 30, 1, 106.97467815208763).
 strada('w431858309', 'service', 'w431858309', 0, 20, 1, 101.10547068107707).
 strada('w431858310', 'unclassified', 'w431858310', 0, 30, 1, 75.45058532008146).
 strada('w432057158', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 161.56506373179587).
@@ -12869,15 +12869,15 @@ strada('w433211694', 'track', 'w433211694', 0, 30, 1, 220.15226300202661).
 strada('w433212038', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 92.55086074811224).
 strada('w433212039', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 69.47555326523408).
 strada('w433212040', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 120.19821653588855).
-strada('w433212041', 'secondary', 'Sottovia Giuseppe Filippo', 1, 50, 1, 69.40497502839867).
+strada('w433212041', 'secondary', 'Sottovia Giuseppe Filippo', 1, 30, 1, 69.40497502839867).
 strada('w433349646', 'service', 'w433349646', 0, 20, 1, 19.192165884915926).
 strada('w433774044', 'service', 'w433774044', 1, 20, 1, 19.379661867924973).
 strada('w433774045', 'service', 'w433774045', 0, 20, 1, 48.93603553061275).
 strada('w434347134', 'service', 'w434347134', 0, 20, 1, 8.218896268634769).
-strada('w438861387', 'secondary', 'Via Bruno Buozzi', 0, 50, 2, 8.197658242324069).
-strada('w438861388', 'secondary', 'Via Bruno Buozzi', 0, 50, 2, 57.686871735604406).
-strada('w438861389', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 117.54963005726341).
-strada('w438861390', 'secondary', 'Via Bruno Buozzi', 0, 10, 2, 124.11526678171174).
+strada('w438861387', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 8.197658242324069).
+strada('w438861388', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 57.686871735604406).
+strada('w438861389', 'secondary', 'Via Bruno Buozzi', 0, 50, 2, 117.54963005726341).
+strada('w438861390', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 124.11526678171174).
 strada('w439890101', 'residential', 'Via Ragusa', 0, 20, 1, 32.464149665883895).
 strada('w440023738', 'track', 'w440023738', 0, 30, 1, 340.25248021321556).
 strada('w440023739', 'track', 'w440023739', 0, 30, 1, 248.8585815959209).
@@ -12888,7 +12888,7 @@ strada('w440024116', 'track', 'w440024116', 0, 30, 1, 1024.242769519693).
 strada('w440024117', 'track', 'w440024117', 0, 30, 1, 427.77972228125446).
 strada('w440024118', 'track', 'w440024118', 0, 30, 1, 132.769802063138).
 strada('w440024717', 'track', 'w440024717', 0, 30, 1, 200.33614612059006).
-strada('w440035272', 'unclassified', 'Strada Ceglie Triggiano', 0, 20, 1, 478.40423713904954).
+strada('w440035272', 'unclassified', 'Strada Ceglie Triggiano', 0, 30, 1, 478.40423713904954).
 strada('w440036349', 'residential', 'w440036349', 0, 30, 1, 191.1296414188398).
 strada('w440921804', 'service', 'Via di Torre di Mizzo', 0, 20, 1, 52.61621930171069).
 strada('w441450642', 'unclassified', 'Via Carbonara di Bari', 0, 30, 1, 27.327771855932514).
@@ -12898,17 +12898,17 @@ strada('w441621913', 'secondary_link', 'w441621913', 1, 30, 1, 79.7437100222753)
 strada('w441641091', 'primary', 'Via Bitritto', 1, 30, 2, 56.08816073100847).
 strada('w441673533', 'residential', 'Via Beethoven', 0, 30, 1, 136.94169077952844).
 strada('w441680159', 'unclassified', 'w441680159', 1, 30, 1, 34.362866798367044).
-strada('w441886852', 'secondary', 'w441886852', 1, 50, 1, 17.04271398061469).
+strada('w441886852', 'secondary', 'w441886852', 1, 30, 1, 17.04271398061469).
 strada('w441886853', 'secondary', 'Ponte Adriatico', 1, 50, 2, 1038.7179519959122).
 strada('w441886854', 'secondary', 'Ponte Adriatico', 1, 30, 2, 1041.963915767223).
 strada('w442085368', 'residential', 'Parcheggio "Melograni"', 0, 20, 1, 211.52242044664297).
 strada('w442085369', 'residential', 'Parcheggio "Ottagono"', 0, 20, 1, 196.8771408588279).
 strada('w442672501', 'unclassified', 'w442672501', 1, 30, 1, 27.701606794824546).
-strada('w442792420', 'residential', 'Via Monsignor Francesco Nitti', 0, 30, 1, 117.53015044428749).
+strada('w442792420', 'residential', 'Via Monsignor Francesco Nitti', 0, 20, 1, 117.53015044428749).
 strada('w443246443', 'unclassified', 'Via Pionieri del Commercio Barese', 1, 30, 1, 30.97567805382112).
 strada('w443256844', 'unclassified', 'w443256844', 1, 30, 1, 22.458705255698124).
 strada('w444550166', 'residential', 'Via Vincenzo Bellezza', 0, 20, 1, 60.98937937030563).
-strada('w444688426', 'residential', 'w444688426', 0, 20, 1, 547.2726377135147).
+strada('w444688426', 'residential', 'w444688426', 0, 30, 1, 547.2726377135147).
 strada('w444788853', 'residential', 'Vico VIII Macchie', 0, 20, 1, 158.5207115818812).
 strada('w444788854', 'residential', 'Vico ottavo Macchie', 0, 30, 1, 59.34047917618785).
 strada('w444921770', 'secondary', 'Via Loseto', 0, 30, 1, 102.55837436160434).
@@ -12916,40 +12916,40 @@ strada('w446840194', 'service', 'Parcheggio privato via Nuzzi', 0, 20, 1, 44.588
 strada('w446840195', 'service', 'Parcheggi privati via nuzzi', 0, 20, 1, 15.88364737155637).
 strada('w446840392', 'residential', 'Via Giovanni Gentile,92', 0, 30, 1, 85.52728970802555).
 strada('w447079192', 'service', 'w447079192', 0, 20, 1, 59.98994677422755).
-strada('w447079193', 'residential', 'w447079193', 0, 30, 1, 83.58976239345094).
+strada('w447079193', 'residential', 'w447079193', 0, 20, 1, 83.58976239345094).
 strada('w447079194', 'residential', 'w447079194', 0, 30, 1, 62.48551709220418).
 strada('w447079195', 'service', 'w447079195', 0, 20, 1, 51.40519285372761).
-strada('w447079196', 'residential', 'w447079196', 0, 10, 1, 100.73193087612191).
+strada('w447079196', 'residential', 'w447079196', 0, 20, 1, 100.73193087612191).
 strada('w447079197', 'residential', 'w447079197', 0, 30, 1, 81.47594007156255).
-strada('w447079349', 'residential', 'w447079349', 0, 20, 1, 67.01956798790833).
-strada('w447079366', 'residential', 'w447079366', 0, 30, 1, 46.358418190026484).
+strada('w447079349', 'residential', 'w447079349', 0, 30, 1, 67.01956798790833).
+strada('w447079366', 'residential', 'w447079366', 0, 20, 1, 46.358418190026484).
 strada('w447079803', 'service', 'w447079803', 0, 20, 1, 67.36352122406875).
-strada('w448630413', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 30, 1, 1234.6214313314829).
+strada('w448630413', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 50, 1, 1234.6214313314829).
 strada('w453369496', 'residential', 'w453369496', 0, 30, 1, 136.1828027009089).
 strada('w453369498', 'residential', 'w453369498', 0, 30, 1, 243.6129280934817).
-strada('w453369499', 'residential', 'Via Morelli e Silvati, 28', 0, 20, 1, 235.6298090491388).
+strada('w453369499', 'residential', 'Via Morelli e Silvati, 28', 0, 30, 1, 235.6298090491388).
 strada('w453369500', 'residential', 'w453369500', 0, 30, 1, 237.9498392398221).
-strada('w453369501', 'residential', 'w453369501', 0, 20, 1, 268.4583888134695).
-strada('w453369502', 'residential', 'w453369502', 0, 20, 1, 159.12243952485315).
+strada('w453369501', 'residential', 'w453369501', 0, 30, 1, 268.4583888134695).
+strada('w453369502', 'residential', 'w453369502', 0, 30, 1, 159.12243952485315).
 strada('w453369503', 'residential', 'Via Morelli e Silvati traversa 42', 0, 30, 1, 182.0550480496009).
 strada('w453369504', 'residential', 'Via Morelli e Silvati Traversa 46', 0, 20, 1, 227.0394389132639).
-strada('w453369505', 'residential', 'Via Morelli e Silvati Traversa 46B', 0, 30, 1, 240.04321191094832).
-strada('w453369506', 'residential', 'w453369506', 0, 30, 1, 241.9390430909622).
+strada('w453369505', 'residential', 'Via Morelli e Silvati Traversa 46B', 0, 20, 1, 240.04321191094832).
+strada('w453369506', 'residential', 'w453369506', 0, 20, 1, 241.9390430909622).
 strada('w453369507', 'residential', 'w453369507', 0, 30, 1, 5.917093359577138).
 strada('w453369508', 'residential', 'w453369508', 0, 30, 1, 263.5150529656407).
-strada('w453369509', 'residential', 'w453369509', 1, 30, 1, 257.2288670274891).
+strada('w453369509', 'residential', 'w453369509', 1, 20, 1, 257.2288670274891).
 strada('w453369510', 'residential', 'w453369510', 1, 30, 1, 252.7928800869438).
-strada('w453369512', 'residential', 'w453369512', 0, 30, 1, 197.40733790743886).
-strada('w453369513', 'residential', 'w453369513', 0, 20, 1, 160.26254562773806).
+strada('w453369512', 'residential', 'w453369512', 0, 20, 1, 197.40733790743886).
+strada('w453369513', 'residential', 'w453369513', 0, 30, 1, 160.26254562773806).
 strada('w453369514', 'residential', 'w453369514', 0, 20, 1, 230.29121442122187).
 strada('w453369515', 'residential', 'Via Morelli e Silvati Traversa 46A', 0, 30, 1, 232.54349033909494).
 strada('w457644082', 'unclassified', 'w457644082', 1, 30, 1, 221.08976816520672).
-strada('w457644090', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 670.1869522957884).
-strada('w457644103', 'tertiary', 'w457644103', 1, 30, 1, 50.17237702312999).
+strada('w457644090', 'tertiary', 'Viale Francesco de Blasio', 1, 30, 2, 670.1869522957884).
+strada('w457644103', 'tertiary', 'w457644103', 1, 40, 1, 50.17237702312999).
 strada('w457644391', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 2, 796.8807769013463).
 strada('w457644656', 'tertiary', 'Viale Francesco de Blasio', 1, 40, 1, 24.064502659866356).
 strada('w459627281', 'service', 'w459627281', 0, 20, 1, 75.17163527788036).
-strada('w467799767', 'unclassified', 'w467799767', 1, 30, 1, 56.1808142283742).
+strada('w467799767', 'unclassified', 'w467799767', 1, 20, 1, 56.1808142283742).
 strada('w467801145', 'tertiary', 'w467801145', 1, 40, 1, 27.39547665424207).
 strada('w467801146', 'tertiary', 'w467801146', 1, 40, 1, 26.824889347374608).
 strada('w467801147', 'tertiary', 'w467801147', 1, 40, 1, 31.842683726414116).
@@ -12968,9 +12968,9 @@ strada('w475873170', 'service', 'w475873170', 0, 20, 1, 95.47129142885935).
 strada('w476099139', 'service', 'w476099139', 0, 20, 1, 301.2662620438198).
 strada('w476099141', 'service', 'w476099141', 0, 20, 1, 245.99528530299062).
 strada('w476362985', 'service', 'w476362985', 0, 20, 1, 154.7923385509446).
-strada('w479881473', 'service', 'w479881473', 0, 10, 1, 44.12758171804045).
+strada('w479881473', 'service', 'w479881473', 0, 20, 1, 44.12758171804045).
 strada('w480703221', 'service', 'w480703221', 1, 20, 1, 332.7042114620706).
-strada('w480703223', 'service', 'w480703223', 1, 5, 1, 30.457973679443406).
+strada('w480703223', 'service', 'w480703223', 1, 10, 1, 30.457973679443406).
 strada('w480703224', 'service', 'w480703224', 1, 20, 1, 30.22461067151182).
 strada('w480703225', 'service', 'w480703225', 1, 20, 1, 29.944618944214543).
 strada('w480703226', 'service', 'w480703226', 1, 20, 1, 30.356736572034805).
@@ -12994,34 +12994,34 @@ strada('w486076793', 'service', 'w486076793', 0, 20, 1, 100.44518457780713).
 strada('w486076794', 'service', 'w486076794', 0, 20, 1, 382.23317822957875).
 strada('w486076795', 'service', 'w486076795', 0, 20, 1, 129.09080347303214).
 strada('w486083076', 'unclassified', 'Via Mimmo Conenna', 0, 30, 1, 175.24851005201484).
-strada('w486084970', 'unclassified', 'Via Fratelli Prayer', 0, 20, 1, 235.44795677781542).
+strada('w486084970', 'unclassified', 'Via Fratelli Prayer', 0, 30, 1, 235.44795677781542).
 strada('w486085907', 'tertiary', 'Via Giovanni Gentile', 0, 80, 1, 911.588065866093).
 strada('w486085908', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 554.2849275513581).
 strada('w486087374', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 76.09860818861708).
-strada('w486087375', 'residential', 'Strada Cannone', 0, 30, 1, 608.8510349097958).
-strada('w486087376', 'residential', 'Via Maldacea', 0, 30, 2, 74.27865202375332).
+strada('w486087375', 'residential', 'Strada Cannone', 0, 20, 1, 608.8510349097958).
+strada('w486087376', 'residential', 'Via Maldacea', 0, 20, 2, 74.27865202375332).
 strada('w488386996', 'residential', 'w488386996', 0, 30, 1, 88.03369616251133).
-strada('w499011446', 'residential', 'Via NiccolÃ² Pizzoli', 0, 30, 1, 160.0972284114794).
+strada('w499011446', 'residential', 'Via NiccolÃ² Pizzoli', 0, 20, 1, 160.0972284114794).
 strada('w499025614', 'residential', 'Via Melo da Bari', 0, 30, 2, 191.2149668426035).
 strada('w499039892', 'residential', 'w499039892', 0, 30, 1, 128.39882534133184).
 strada('w499039898', 'unclassified', 'traversa via nazionale', 0, 30, 1, 159.55081726908188).
-strada('w499039900', 'unclassified', 'Viale del Platano', 0, 30, 1, 228.69300874034312).
+strada('w499039900', 'unclassified', 'Viale del Platano', 0, 20, 1, 228.69300874034312).
 strada('w499039901', 'unclassified', 'Via Vittorio Veneto in Palese', 1, 30, 1, 398.690288616013).
 strada('w499039903', 'unclassified', 'w499039903', 0, 30, 1, 36.76002484010448).
 strada('w499039905', 'unclassified', 'Via Volpe', 0, 30, 1, 262.03890652335195).
 strada('w499039906', 'unclassified', 'Via Capitano V.Maiorano', 0, 30, 1, 254.00755062118623).
 strada('w499039907', 'unclassified', 'Via Ada Del Vecchio Guelfi', 0, 30, 1, 118.65064532056282).
 strada('w499039908', 'unclassified', 'Vico XI Duca D Aosta', 0, 30, 1, 263.44107611609104).
-strada('w499039911', 'residential', 'w499039911', 0, 20, 1, 56.688568260765514).
+strada('w499039911', 'residential', 'w499039911', 0, 30, 1, 56.688568260765514).
 strada('w499039912', 'unclassified', 'Via Nicola Dell Olio', 0, 30, 1, 220.3157450159407).
 strada('w499039913', 'unclassified', 'Via Antonio Ardone', 0, 30, 1, 169.97565534659142).
 strada('w499039914', 'unclassified', 'Via Attilio Alto', 0, 30, 1, 166.64819012810108).
 strada('w499039915', 'unclassified', '2^ Traversa Pizzillo', 0, 30, 1, 331.583552033222).
 strada('w499039916', 'unclassified', 'Via Arcangelo Nicola Maione', 0, 30, 1, 269.23239529020674).
 strada('w499039917', 'unclassified', 'Via Vincenzo Ranieri', 0, 30, 1, 98.28026648925179).
-strada('w499039925', 'unclassified', '2^ Traversa Pizzillo', 0, 20, 1, 193.71827823487013).
+strada('w499039925', 'unclassified', '2^ Traversa Pizzillo', 0, 30, 1, 193.71827823487013).
 strada('w499039931', 'unclassified', '2^ Traversa Pizzillo', 0, 30, 1, 59.8601551398078).
-strada('w499039939', 'residential', 'Via Anelli', 0, 30, 1, 160.27907712951045).
+strada('w499039939', 'residential', 'Via Anelli', 0, 20, 1, 160.27907712951045).
 strada('w499042180', 'secondary', 'Corso Trieste', 1, 30, 1, 12.689133863152561).
 strada('w499099402', 'residential', 'w499099402', 0, 30, 1, 109.72766470872884).
 strada('w500541466', 'unclassified', 'Via Maresciallo Ranieri', 0, 30, 1, 91.27682840039294).
@@ -13049,19 +13049,19 @@ strada('w521731423', 'service', 'w521731423', 0, 20, 1, 15.799254099030605).
 strada('w521731424', 'service', 'w521731424', 0, 20, 1, 23.8095841570602).
 strada('w521731425', 'service', 'w521731425', 0, 20, 1, 23.970862173520384).
 strada('w521731426', 'service', 'w521731426', 0, 20, 1, 25.479394089444096).
-strada('w521731427', 'service', 'w521731427', 0, 20, 1, 23.170236572724846).
+strada('w521731427', 'service', 'w521731427', 0, 10, 1, 23.170236572724846).
 strada('w521731429', 'service', 'w521731429', 0, 20, 1, 22.549223357178338).
 strada('w521731430', 'service', 'w521731430', 0, 20, 1, 23.243358766301245).
-strada('w524531896', 'service', 'w524531896', 1, 20, 1, 67.27710029482452).
+strada('w524531896', 'service', 'w524531896', 1, 5, 1, 67.27710029482452).
 strada('w524531899', 'service', 'w524531899', 1, 20, 1, 66.35574411964724).
 strada('w524531901', 'service', 'w524531901', 1, 20, 1, 66.14026658880677).
-strada('w524531904', 'service', 'w524531904', 1, 10, 1, 66.04201564944381).
+strada('w524531904', 'service', 'w524531904', 1, 20, 1, 66.04201564944381).
 strada('w524531906', 'service', 'w524531906', 1, 20, 1, 65.95169701123764).
 strada('w524531908', 'service', 'w524531908', 1, 20, 1, 62.94959174181237).
 strada('w524531910', 'service', 'w524531910', 1, 20, 1, 59.63508626639885).
 strada('w524531913', 'service', 'w524531913', 1, 20, 1, 58.44100168977106).
 strada('w524531915', 'service', 'w524531915', 0, 20, 1, 138.0938845031069).
-strada('w524531917', 'service', 'w524531917', 1, 20, 1, 65.89855502581044).
+strada('w524531917', 'service', 'w524531917', 1, 10, 1, 65.89855502581044).
 strada('w524531919', 'service', 'w524531919', 1, 20, 1, 67.15921621359061).
 strada('w524531921', 'service', 'w524531921', 1, 20, 1, 65.4065439742479).
 strada('w524531923', 'service', 'w524531923', 1, 20, 1, 64.53413666701519).
@@ -13088,43 +13088,43 @@ strada('w540660771', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 561.1545842358471
 strada('w540660777', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 23.968859921679854).
 strada('w540660780', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 22.252363352370708).
 strada('w540660782', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 290.32119128189436).
-strada('w540660789', 'service', 'w540660789', 1, 20, 1, 11.533138132603279).
+strada('w540660789', 'service', 'w540660789', 1, 10, 1, 11.533138132603279).
 strada('w540660790', 'service', 'w540660790', 1, 20, 1, 275.6779084252887).
 strada('w540660795', 'service', 'w540660795', 0, 20, 1, 73.57319392438754).
-strada('w540660797', 'service', 'w540660797', 0, 5, 1, 73.84996942902112).
+strada('w540660797', 'service', 'w540660797', 0, 20, 1, 73.84996942902112).
 strada('w540660798', 'service', 'w540660798', 0, 20, 1, 152.200739861369).
 strada('w540660801', 'service', 'w540660801', 0, 20, 1, 117.84181353496912).
 strada('w540660802', 'service', 'w540660802', 0, 20, 1, 117.60527760571864).
-strada('w540660804', 'service', 'w540660804', 0, 10, 1, 117.62838587178678).
+strada('w540660804', 'service', 'w540660804', 0, 20, 1, 117.62838587178678).
 strada('w540660806', 'service', 'w540660806', 0, 20, 1, 122.65311297137318).
 strada('w540660809', 'service', 'w540660809', 0, 20, 1, 131.81732894449425).
-strada('w540660811', 'unclassified', 'w540660811', 1, 30, 1, 246.2223906463338).
+strada('w540660811', 'unclassified', 'w540660811', 1, 20, 1, 246.2223906463338).
 strada('w540660812', 'unclassified', 'w540660812', 0, 30, 1, 19.56945999495765).
-strada('w540660816', 'service', 'w540660816', 0, 10, 1, 61.97969915810184).
-strada('w540660821', 'unclassified', 'w540660821', 0, 30, 1, 230.49913259789403).
+strada('w540660816', 'service', 'w540660816', 0, 20, 1, 61.97969915810184).
+strada('w540660821', 'unclassified', 'w540660821', 0, 20, 1, 230.49913259789403).
 strada('w540673989', 'residential', 'Via Perticari', 0, 20, 1, 56.804714083837375).
-strada('w540674001', 'residential', 'Via Principe', 0, 20, 1, 148.08950329715088).
+strada('w540674001', 'residential', 'Via Principe', 0, 30, 1, 148.08950329715088).
 strada('w547428987', 'service', 'w547428987', 0, 20, 1, 26.25164449426971).
 strada('w547428989', 'service', 'w547428989', 1, 20, 1, 24.692859949450394).
 strada('w547428990', 'service', 'w547428990', 0, 20, 1, 18.150212629009747).
 strada('w547428991', 'service', 'w547428991', 0, 20, 1, 264.65044754897855).
 strada('w547428992', 'service', 'w547428992', 1, 20, 1, 31.980178142075758).
-strada('w547428993', 'service', 'w547428993', 1, 20, 1, 32.23286448927903).
+strada('w547428993', 'service', 'w547428993', 1, 5, 1, 32.23286448927903).
 strada('w547428994', 'service', 'w547428994', 1, 20, 1, 35.493314560074595).
-strada('w547428995', 'service', 'w547428995', 1, 5, 1, 35.121410659150335).
-strada('w547428997', 'service', 'w547428997', 0, 20, 1, 45.50304729677939).
-strada('w547428998', 'service', 'w547428998', 0, 20, 1, 87.80125720349278).
+strada('w547428995', 'service', 'w547428995', 1, 20, 1, 35.121410659150335).
+strada('w547428997', 'service', 'w547428997', 0, 10, 1, 45.50304729677939).
+strada('w547428998', 'service', 'w547428998', 0, 10, 1, 87.80125720349278).
 strada('w548555713', 'track', 'w548555713', 0, 30, 1, 579.5074064990526).
 strada('w548555720', 'track', 'w548555720', 0, 30, 1, 327.9500492949016).
-strada('w548585652', 'service', 'w548585652', 0, 20, 1, 63.55471175118897).
+strada('w548585652', 'service', 'w548585652', 0, 10, 1, 63.55471175118897).
 strada('w548585653', 'service', 'w548585653', 0, 20, 1, 110.7398703349061).
 strada('w548587692', 'service', 'w548587692', 0, 20, 1, 153.59768936790533).
-strada('w548588290', 'residential', 'Via Nicola Tridente', 0, 30, 1, 160.03250621487481).
+strada('w548588290', 'residential', 'Via Nicola Tridente', 0, 20, 1, 160.03250621487481).
 strada('w548588340', 'service', 'w548588340', 0, 20, 1, 29.818092910392398).
-strada('w548593712', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 49.37726562988098).
+strada('w548593712', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 49.37726562988098).
 strada('w551997052', 'service', 'w551997052', 1, 20, 1, 30.301620851536413).
 strada('w551997053', 'service', 'w551997053', 0, 20, 1, 163.40376928739806).
-strada('w551997055', 'service', 'w551997055', 1, 10, 1, 132.2078224105736).
+strada('w551997055', 'service', 'w551997055', 1, 20, 1, 132.2078224105736).
 strada('w551997056', 'service', 'w551997056', 0, 20, 1, 95.27864722142921).
 strada('w553490742', 'unclassified', 'w553490742', 0, 30, 1, 150.27450595991658).
 strada('w553503234', 'unclassified', 'w553503234', 0, 30, 1, 67.87507719701465).
@@ -13132,8 +13132,8 @@ strada('w553506541', 'service', 'w553506541', 0, 20, 1, 142.71381780742325).
 strada('w553507136', 'service', 'w553507136', 1, 20, 1, 13.342018271032305).
 strada('w553507204', 'service', 'w553507204', 0, 20, 1, 8.58831466594355).
 strada('w553507302', 'residential', 'Via Bruno Zaccaro', 1, 20, 1, 143.0915860671824).
-strada('w553507315', 'service', 'w553507315', 0, 10, 1, 7.316322214508195).
-strada('w553775567', 'residential', 'w553775567', 0, 30, 1, 14.038263435702405).
+strada('w553507315', 'service', 'w553507315', 0, 20, 1, 7.316322214508195).
+strada('w553775567', 'residential', 'w553775567', 0, 20, 1, 14.038263435702405).
 strada('w554959757', 'track', 'Strada La Carrara', 0, 30, 1, 818.0385909940156).
 strada('w555256094', 'track', 'Contrada Pozzo Pasquale', 0, 30, 1, 801.5384801230198).
 strada('w555256958', 'track', 'w555256958', 0, 30, 1, 178.20198101267408).
@@ -13141,15 +13141,15 @@ strada('w555802589', 'service', 'w555802589', 0, 20, 1, 26.744499411671733).
 strada('w555802590', 'service', 'w555802590', 0, 20, 1, 114.40289415524124).
 strada('w557019546', 'unclassified', 'w557019546', 1, 30, 1, 39.35557888751157).
 strada('w558277244', 'residential', 'w558277244', 1, 30, 1, 39.46142900636419).
-strada('w558277245', 'residential', 'w558277245', 1, 20, 1, 101.462074356593).
+strada('w558277245', 'residential', 'w558277245', 1, 30, 1, 101.462074356593).
 strada('w558277246', 'residential', 'w558277246', 1, 30, 1, 16.23112773603498).
-strada('w558277247', 'residential', 'w558277247', 1, 30, 1, 117.19475648353048).
+strada('w558277247', 'residential', 'w558277247', 1, 20, 1, 117.19475648353048).
 strada('w558277669', 'residential', 'w558277669', 0, 20, 1, 172.6489856287249).
 strada('w558294375', 'residential', 'w558294375', 0, 30, 1, 411.48582695320954).
 strada('w558294376', 'residential', 'w558294376', 0, 30, 1, 207.5416118538241).
 strada('w558294377', 'residential', 'Via Giuseppe Frisario', 0, 30, 1, 334.0475429645606).
 strada('w558294379', 'residential', 'w558294379', 0, 30, 1, 168.71432293383768).
-strada('w558855559', 'service', 'w558855559', 0, 10, 1, 1273.192907762295).
+strada('w558855559', 'service', 'w558855559', 0, 20, 1, 1273.192907762295).
 strada('w558855560', 'track', 'w558855560', 0, 30, 1, 252.01394064925637).
 strada('w559163963', 'unclassified', 'stradella Deserto', 0, 30, 1, 412.64807520475784).
 strada('w559261493', 'residential', 'Via Giuseppe Re David', 1, 30, 1, 23.411672522546716).
@@ -13162,21 +13162,21 @@ strada('w559261510', 'primary', 'w559261510', 1, 50, 1, 13.566792769030696).
 strada('w559401226', 'secondary', 'w559401226', 1, 50, 1, 124.77677412740702).
 strada('w559401228', 'service', 'w559401228', 0, 20, 1, 29.868556089555295).
 strada('w559401229', 'unclassified', 'Via Giovanni Laricchia', 1, 30, 1, 426.46798409423087).
-strada('w559401231', 'secondary', 'w559401231', 1, 30, 1, 132.56618733338627).
-strada('w559401311', 'residential', 'Strada Marzano', 0, 20, 1, 242.38061946595863).
+strada('w559401231', 'secondary', 'w559401231', 1, 50, 1, 132.56618733338627).
+strada('w559401311', 'residential', 'Strada Marzano', 0, 30, 1, 242.38061946595863).
 strada('w559405516', 'secondary', 'w559405516', 1, 50, 1, 30.29704814577674).
 strada('w559405517', 'secondary', 'w559405517', 1, 50, 1, 18.606138548170716).
 strada('w559456661', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 938.3916347853146).
 strada('w559456665', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 166.85485642945258).
 strada('w559456668', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 937.7029367679013).
 strada('w559456673', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 1060.2284669049468).
-strada('w559495119', 'secondary', 'w559495119', 1, 50, 1, 40.33867610268732).
+strada('w559495119', 'secondary', 'w559495119', 1, 30, 1, 40.33867610268732).
 strada('w559495121', 'unclassified', 'Via Salvatore Matarrese', 1, 50, 1, 440.0755278884401).
 strada('w559495124', 'secondary', 'Via Orfeo Mazzitelli', 1, 50, 2, 816.1233539146386).
 strada('w559496230', 'service', 'w559496230', 0, 20, 1, 40.38130763730402).
 strada('w559496232', 'service', 'Strada Privata Albergo Tratto Secondo', 0, 20, 1, 245.07565641597506).
 strada('w559496234', 'service', 'Strada Privata Albergo Tratto Primo', 0, 20, 1, 203.59423190911716).
-strada('w559496236', 'service', 'w559496236', 0, 10, 1, 25.044166241038546).
+strada('w559496236', 'service', 'w559496236', 0, 20, 1, 25.044166241038546).
 strada('w559720218', 'service', 'w559720218', 1, 20, 1, 48.28674937249574).
 strada('w559720219', 'service', 'w559720219', 1, 20, 1, 72.80547852057083).
 strada('w559720220', 'service', 'w559720220', 1, 20, 1, 72.72500306525045).
@@ -13184,42 +13184,42 @@ strada('w559720221', 'service', 'w559720221', 1, 20, 1, 72.88923295687219).
 strada('w559720222', 'service', 'w559720222', 1, 20, 1, 72.9597212470051).
 strada('w559720223', 'service', 'w559720223', 1, 20, 1, 73.03861527065918).
 strada('w559720225', 'service', 'w559720225', 1, 20, 1, 32.1316832208761).
-strada('w559721904', 'service', 'w559721904', 1, 10, 1, 11.417124135567656).
+strada('w559721904', 'service', 'w559721904', 1, 20, 1, 11.417124135567656).
 strada('w559721906', 'service', 'w559721906', 1, 20, 1, 83.82144858658312).
 strada('w559721907', 'service', 'w559721907', 0, 20, 1, 182.97680636176483).
-strada('w560362631', 'service', 'w560362631', 0, 10, 1, 19.320210850269703).
+strada('w560362631', 'service', 'w560362631', 0, 20, 1, 19.320210850269703).
 strada('w560527293', 'service', 'w560527293', 1, 20, 1, 47.611382624741786).
-strada('w560531297', 'residential', 'Via Tanzi', 1, 5, 1, 332.17775318459445).
-strada('w560762783', 'service', 'w560762783', 1, 20, 1, 162.7106508778846).
+strada('w560531297', 'residential', 'Via Tanzi', 1, 20, 1, 332.17775318459445).
+strada('w560762783', 'service', 'w560762783', 1, 10, 1, 162.7106508778846).
 strada('w560762787', 'service', 'w560762787', 0, 20, 1, 131.95678930723227).
 strada('w560762788', 'service', 'w560762788', 0, 20, 1, 11.208050871759312).
 strada('w560762791', 'service', 'w560762791', 1, 20, 1, 54.80895334759317).
 strada('w560783241', 'service', 'w560783241', 0, 10, 1, 50.97870251944819).
 strada('w560784298', 'service', 'w560784298', 1, 20, 1, 53.74148795310735).
 strada('w560784299', 'service', 'w560784299', 1, 20, 1, 53.78545304179451).
-strada('w560788260', 'service', 'w560788260', 0, 5, 1, 51.75968646068404).
+strada('w560788260', 'service', 'w560788260', 0, 20, 1, 51.75968646068404).
 strada('w561067146', 'service', 'w561067146', 0, 20, 1, 58.31709642095461).
 strada('w561217362', 'service', 'w561217362', 0, 20, 1, 81.25864619925154).
 strada('w561218345', 'service', 'w561218345', 1, 20, 1, 41.39461645226296).
 strada('w561218346', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 652.3534354159618).
 strada('w561218347', 'secondary', 'Via Giuseppe Fanelli', 1, 30, 1, 60.641611798256235).
-strada('w561218533', 'secondary', 'Via Giuseppe Fanelli', 1, 30, 1, 60.776993588584276).
+strada('w561218533', 'secondary', 'Via Giuseppe Fanelli', 1, 50, 1, 60.776993588584276).
 strada('w561722116', 'track', 'w561722116', 0, 30, 1, 181.84434375315698).
 strada('w561834147', 'residential', 'w561834147', 0, 30, 1, 32.27289156720554).
 strada('w561837466', 'unclassified', 'w561837466', 0, 30, 1, 210.33463746948559).
-strada('w561837467', 'residential', 'w561837467', 0, 30, 1, 148.65449410073654).
+strada('w561837467', 'residential', 'w561837467', 0, 20, 1, 148.65449410073654).
 strada('w561837468', 'unclassified', 'w561837468', 0, 20, 1, 157.28843193345946).
 strada('w562421455', 'service', 'w562421455', 0, 20, 1, 76.51421877542434).
 strada('w562421456', 'service', 'w562421456', 0, 20, 1, 144.47737781868116).
 strada('w562434065', 'residential', 'w562434065', 1, 30, 1, 18.699697621507525).
-strada('w562434066', 'residential', 'Stradella del Caffe ', 1, 30, 1, 57.9875628685113).
+strada('w562434066', 'residential', 'Stradella del Caffe ', 1, 20, 1, 57.9875628685113).
 strada('w562442949', 'unclassified', 'Via Luigi Ranieri', 1, 30, 1, 84.21748098985898).
 strada('w562442950', 'service', 'w562442950', 0, 20, 1, 42.786888718416094).
-strada('w562494589', 'secondary', 'w562494589', 1, 50, 1, 21.34266258747306).
-strada('w562692076', 'residential', 'Via Massimo d Azeglio', 0, 30, 1, 78.02838510715375).
+strada('w562494589', 'secondary', 'w562494589', 1, 30, 1, 21.34266258747306).
+strada('w562692076', 'residential', 'Via Massimo d Azeglio', 0, 5, 1, 78.02838510715375).
 strada('w562692077', 'secondary_link', 'w562692077', 1, 30, 1, 13.137710816410754).
 strada('w562692078', 'residential', 'w562692078', 1, 30, 1, 100.10468498907011).
-strada('w562692079', 'residential', 'Via Giovan Battista Trevisani', 1, 20, 1, 154.38664112385067).
+strada('w562692079', 'residential', 'Via Giovan Battista Trevisani', 1, 30, 1, 154.38664112385067).
 strada('w562692080', 'residential', 'Via Ettore Fieramosca', 0, 30, 1, 22.056430824022524).
 strada('w562692082', 'residential', 'Corso Giuseppe Mazzini', 0, 30, 1, 29.291735102877634).
 strada('w562692083', 'residential', 'Via Giovan Battista Trevisani', 0, 20, 1, 58.00707413812657).
@@ -13227,9 +13227,9 @@ strada('w562696171', 'service', 'w562696171', 0, 20, 1, 25.218276469065792).
 strada('w562701235', 'secondary', 'Via di Maratona', 1, 50, 2, 449.2901569208229).
 strada('w562719748', 'residential', 'Via Francesco Saverio Abbrescia', 1, 30, 1, 455.3443757819279).
 strada('w563906129', 'service', 'w563906129', 1, 20, 1, 143.92835298375408).
-strada('w563916528', 'service', 'w563916528', 0, 20, 1, 14.564205319168275).
-strada('w563916533', 'residential', 'w563916533', 0, 30, 1, 106.88459036541944).
-strada('w564041533', 'service', 'w564041533', 0, 20, 1, 33.45666652738815).
+strada('w563916528', 'service', 'w563916528', 0, 10, 1, 14.564205319168275).
+strada('w563916533', 'residential', 'w563916533', 0, 20, 1, 106.88459036541944).
+strada('w564041533', 'service', 'w564041533', 0, 10, 1, 33.45666652738815).
 strada('w564427873', 'service', 'w564427873', 0, 20, 1, 5.330724995532534).
 strada('w564427874', 'service', 'w564427874', 0, 20, 1, 22.84728296196481).
 strada('w564427877', 'service', 'w564427877', 0, 20, 1, 4.139859161385861).
@@ -13241,18 +13241,18 @@ strada('w564437423', 'service', 'w564437423', 0, 20, 1, 40.499358083254265).
 strada('w564437425', 'service', 'w564437425', 0, 20, 1, 116.56944611827535).
 strada('w564438415', 'service', 'w564438415', 0, 20, 1, 174.64760293068005).
 strada('w564714791', 'secondary', 'w564714791', 0, 50, 1, 11.409429693210434).
-strada('w564714801', 'secondary', 'w564714801', 0, 30, 1, 13.242557300921819).
+strada('w564714801', 'secondary', 'w564714801', 0, 50, 1, 13.242557300921819).
 strada('w564714833', 'unclassified', 'w564714833', 1, 30, 1, 14.684362066167395).
-strada('w564714858', 'unclassified', 'Viale Saverio Dioguardi', 1, 30, 1, 56.95944246938861).
+strada('w564714858', 'unclassified', 'Viale Saverio Dioguardi', 1, 20, 1, 56.95944246938861).
 strada('w564714859', 'service', 'w564714859', 0, 20, 1, 121.81736724487538).
 strada('w565151281', 'service', 'w565151281', 0, 20, 1, 48.1467030504561).
 strada('w565496543', 'residential', 'Piazzetta dei Papi', 1, 30, 1, 144.23498179530333).
 strada('w565496546', 'residential', 'Piazzetta dei Papi', 1, 30, 1, 53.184217683058364).
-strada('w565496547', 'residential', 'Piazzetta dei Papi', 1, 30, 1, 145.00290479175843).
+strada('w565496547', 'residential', 'Piazzetta dei Papi', 1, 20, 1, 145.00290479175843).
 strada('w565506577', 'service', 'w565506577', 0, 20, 1, 45.543983246688626).
-strada('w567443458', 'residential', 'Via San Nicola', 1, 20, 1, 39.51949386935788).
+strada('w567443458', 'residential', 'Via San Nicola', 1, 30, 1, 39.51949386935788).
 strada('w567443461', 'residential', 'Via della Marina', 1, 20, 1, 55.141641889498764).
-strada('w567477861', 'unclassified', 'w567477861', 0, 20, 1, 15.328522585412289).
+strada('w567477861', 'unclassified', 'w567477861', 0, 30, 1, 15.328522585412289).
 strada('w567477880', 'unclassified', 'w567477880', 1, 30, 1, 35.73905627293939).
 strada('w568515915', 'tertiary', 'w568515915', 0, 40, 1, 5.363794133041766).
 strada('w568515917', 'tertiary', 'w568515917', 0, 40, 1, 14.583343924837669).
@@ -13260,18 +13260,18 @@ strada('w568515918', 'tertiary', 'w568515918', 0, 40, 1, 20.370189829129952).
 strada('w568515921', 'tertiary', 'w568515921', 0, 40, 1, 42.226420015649026).
 strada('w568515923', 'primary_link', 'w568515923', 1, 40, 1, 51.95856552593425).
 strada('w568515926', 'primary_link', 'w568515926', 1, 40, 1, 24.983497243612018).
-strada('w568719638', 'unclassified', 'w568719638', 0, 20, 1, 875.5389689070687).
-strada('w568719639', 'unclassified', 'w568719639', 0, 20, 1, 12.423169850935004).
+strada('w568719638', 'unclassified', 'w568719638', 0, 30, 1, 875.5389689070687).
+strada('w568719639', 'unclassified', 'w568719639', 0, 30, 1, 12.423169850935004).
 strada('w568719640', 'trunk_link', 'w568719640', 1, 40, 1, 103.06224509771468).
 strada('w568719641', 'unclassified', 'w568719641', 1, 30, 1, 13.249856772512734).
 strada('w568721264', 'unclassified', 'w568721264', 0, 30, 1, 355.17281117755397).
-strada('w568721265', 'service', 'w568721265', 0, 10, 1, 80.92099106486313).
-strada('w568721266', 'service', 'w568721266', 0, 5, 1, 136.7703576910208).
+strada('w568721265', 'service', 'w568721265', 0, 20, 1, 80.92099106486313).
+strada('w568721266', 'service', 'w568721266', 0, 10, 1, 136.7703576910208).
 strada('w568721267', 'service', 'w568721267', 0, 20, 1, 4.888444924747087).
 strada('w568721268', 'service', 'w568721268', 0, 20, 1, 81.26316982254613).
 strada('w568721269', 'service', 'w568721269', 0, 20, 1, 5.276943944571245).
-strada('w568721270', 'service', 'w568721270', 0, 10, 1, 6.845755966660206).
-strada('w568721271', 'service', 'w568721271', 0, 20, 1, 247.46087453282192).
+strada('w568721270', 'service', 'w568721270', 0, 20, 1, 6.845755966660206).
+strada('w568721271', 'service', 'w568721271', 0, 10, 1, 247.46087453282192).
 strada('w568721272', 'service', 'w568721272', 0, 20, 1, 8.092067063647352).
 strada('w568722586', 'trunk_link', 'w568722586', 1, 40, 1, 18.87052273107068).
 strada('w568722588', 'trunk_link', 'w568722588', 1, 40, 1, 210.266157410233).
@@ -13282,7 +13282,7 @@ strada('w568741089', 'secondary_link', 'w568741089', 1, 30, 1, 34.72221707421815
 strada('w568741090', 'secondary', 'Strada vicinale del tesoro', 0, 50, 1, 470.1594398936496).
 strada('w568741091', 'secondary', 'Viale Europa', 0, 50, 1, 24.095544957805405).
 strada('w568741092', 'secondary', 'Viale Europa', 0, 50, 1, 27.44760127947762).
-strada('w568741093', 'unclassified', 'w568741093', 1, 30, 1, 25.701846003195303).
+strada('w568741093', 'unclassified', 'w568741093', 1, 20, 1, 25.701846003195303).
 strada('w568741094', 'unclassified', 'w568741094', 1, 30, 1, 36.825206840630486).
 strada('w568741095', 'secondary', 'Viale Europa', 0, 50, 1, 30.685764712310956).
 strada('w568741096', 'secondary', 'Viale Europa', 0, 50, 1, 21.69277649351815).
@@ -13296,13 +13296,13 @@ strada('w570379690', 'motorway_link', 'w570379690', 1, 40, 1, 138.46528337228483
 strada('w570379691', 'motorway_link', 'w570379691', 1, 40, 1, 135.24428966277404).
 strada('w577223386', 'unclassified', 'Via Martin Luther King', 0, 30, 2, 685.4249675797661).
 strada('w577223387', 'unclassified', 'Via Che Guevara', 1, 30, 1, 10.626988442921274).
-strada('w577223388', 'unclassified', 'Via Che Guevara', 1, 30, 1, 11.081904831735946).
+strada('w577223388', 'unclassified', 'Via Che Guevara', 1, 20, 1, 11.081904831735946).
 strada('w577223389', 'unclassified', 'Via Che Guevara', 1, 30, 1, 11.869459254297546).
 strada('w577223390', 'unclassified', 'Via Martin Luther King', 1, 30, 1, 11.920809708409754).
-strada('w577223391', 'unclassified', 'Via Martin Luther King', 1, 30, 1, 12.198805859987932).
-strada('w577223393', 'unclassified', 'w577223393', 1, 30, 1, 11.58596008229221).
-strada('w577223394', 'unclassified', 'Via Che Guevara', 0, 30, 1, 76.76044374444919).
-strada('w577223395', 'unclassified', 'Via Martin Luther King', 1, 20, 1, 13.687443976030725).
+strada('w577223391', 'unclassified', 'Via Martin Luther King', 1, 20, 1, 12.198805859987932).
+strada('w577223393', 'unclassified', 'w577223393', 1, 20, 1, 11.58596008229221).
+strada('w577223394', 'unclassified', 'Via Che Guevara', 0, 20, 1, 76.76044374444919).
+strada('w577223395', 'unclassified', 'Via Martin Luther King', 1, 30, 1, 13.687443976030725).
 strada('w577223396', 'unclassified', 'Via Che Guevara', 1, 30, 1, 11.502181904205251).
 strada('w577223397', 'unclassified', 'Via Martin Luther King', 1, 30, 1, 12.279455280803248).
 strada('w577230014', 'track', 'w577230014', 0, 30, 1, 154.96255854777993).
@@ -13310,17 +13310,17 @@ strada('w577230015', 'track', 'w577230015', 0, 30, 1, 46.45727056883362).
 strada('w577230016', 'track', 'w577230016', 0, 30, 1, 186.88573075000284).
 strada('w583975391', 'service', 'w583975391', 0, 20, 1, 17.207788287978623).
 strada('w583975392', 'service', 'w583975392', 0, 20, 1, 7.642186256176615).
-strada('w583986080', 'service', 'w583986080', 0, 20, 1, 174.29921470258623).
+strada('w583986080', 'service', 'w583986080', 0, 10, 1, 174.29921470258623).
 strada('w583986082', 'service', 'w583986082', 1, 20, 1, 24.19241480100464).
 strada('w587686244', 'service', 'w587686244', 0, 20, 1, 42.35721042881506).
 strada('w587686246', 'service', 'w587686246', 0, 20, 1, 40.5880202030262).
 strada('w587686247', 'service', 'w587686247', 0, 20, 1, 67.62935905996021).
 strada('w588988899', 'service', 'w588988899', 0, 20, 1, 160.58314175135072).
-strada('w588988901', 'residential', 'w588988901', 0, 20, 1, 41.748462328130735).
+strada('w588988901', 'residential', 'w588988901', 0, 30, 1, 41.748462328130735).
 strada('w588988902', 'residential', 'w588988902', 0, 20, 1, 16.967619099902933).
-strada('w588988904', 'service', 'w588988904', 0, 10, 1, 135.16188985602562).
-strada('w592192824', 'secondary', 'Viale Europa', 0, 50, 2, 41.50150259157102).
-strada('w592192825', 'secondary', 'Viale Europa', 0, 50, 2, 526.3284845547907).
+strada('w588988904', 'service', 'w588988904', 0, 20, 1, 135.16188985602562).
+strada('w592192824', 'secondary', 'Viale Europa', 0, 30, 2, 41.50150259157102).
+strada('w592192825', 'secondary', 'Viale Europa', 0, 30, 2, 526.3284845547907).
 strada('w592192836', 'track', 'w592192836', 0, 30, 1, 61.94691343509873).
 strada('w592192847', 'unclassified', 'w592192847', 0, 30, 1, 10.82603822264408).
 strada('w592192851', 'unclassified', 'w592192851', 0, 30, 1, 12.486072598931042).
@@ -13336,19 +13336,19 @@ strada('w592192874', 'track', 'w592192874', 0, 30, 1, 153.8357305245902).
 strada('w592192875', 'track', 'w592192875', 0, 30, 1, 509.14858486615765).
 strada('w592192876', 'track', 'w592192876', 0, 30, 1, 278.36322851873376).
 strada('w594166323', 'residential', 'Via Martiri d Avola', 0, 30, 1, 110.32998340820816).
-strada('w594166325', 'residential', 'Via Martiri d Avola', 0, 30, 1, 111.89143548082677).
+strada('w594166325', 'residential', 'Via Martiri d Avola', 0, 20, 1, 111.89143548082677).
 strada('w600289216', 'residential', 'Via NiccolÃ² Piccinni', 0, 30, 1, 63.90052890005865).
-strada('w600289217', 'residential', 'Largo Nicola Nitti Valentini', 1, 30, 1, 35.029896547565656).
-strada('w600289219', 'residential', 'Largo Nicola Nitti Valentini', 1, 5, 1, 21.971534955926323).
+strada('w600289217', 'residential', 'Largo Nicola Nitti Valentini', 1, 20, 1, 35.029896547565656).
+strada('w600289219', 'residential', 'Largo Nicola Nitti Valentini', 1, 30, 1, 21.971534955926323).
 strada('w600312443', 'residential', 'Via Pisa', 0, 30, 1, 57.19250644529648).
-strada('w600312444', 'residential', 'w600312444', 0, 5, 1, 66.04460360267211).
+strada('w600312444', 'residential', 'w600312444', 0, 20, 1, 66.04460360267211).
 strada('w600312446', 'residential', 'w600312446', 0, 30, 1, 66.48056079880064).
 strada('w600312448', 'residential', 'w600312448', 1, 30, 1, 136.8347965998914).
-strada('w600312449', 'residential', 'w600312449', 1, 20, 1, 112.00211927958185).
+strada('w600312449', 'residential', 'w600312449', 1, 30, 1, 112.00211927958185).
 strada('w600312451', 'residential', 'w600312451', 1, 30, 1, 237.66063586318796).
 strada('w600312453', 'residential', 'w600312453', 0, 30, 1, 50.095146128210345).
-strada('w600312455', 'residential', 'w600312455', 0, 20, 1, 51.77624148509255).
-strada('w600312456', 'residential', 'w600312456', 1, 30, 1, 184.1185058490528).
+strada('w600312455', 'residential', 'w600312455', 0, 30, 1, 51.77624148509255).
+strada('w600312456', 'residential', 'w600312456', 1, 20, 1, 184.1185058490528).
 strada('w600313120', 'residential', 'Via Taranto', 0, 30, 1, 208.82552766390182).
 strada('w604158233', 'track', 'w604158233', 0, 30, 1, 291.1209334302547).
 strada('w604158236', 'track', 'w604158236', 0, 30, 1, 204.05836182505854).
@@ -13360,12 +13360,12 @@ strada('w604158242', 'track', 'w604158242', 0, 30, 1, 125.98567905826447).
 strada('w604158243', 'track', 'w604158243', 0, 30, 1, 163.58602341614588).
 strada('w604158244', 'track', 'w604158244', 0, 30, 1, 83.63341401338593).
 strada('w604158245', 'track', 'w604158245', 0, 30, 1, 97.53198024013929).
-strada('w608649572', 'residential', 'w608649572', 0, 20, 1, 79.79089065757563).
+strada('w608649572', 'residential', 'w608649572', 0, 30, 1, 79.79089065757563).
 strada('w608842788', 'residential', 'Via Bona Sforza', 0, 30, 1, 57.87750164050451).
-strada('w608842790', 'residential', 'Via Bona Sforza', 0, 30, 1, 64.44772623931829).
-strada('w614046963', 'service', 'w614046963', 0, 20, 1, 123.03602981765371).
+strada('w608842790', 'residential', 'Via Bona Sforza', 0, 20, 1, 64.44772623931829).
+strada('w614046963', 'service', 'w614046963', 0, 10, 1, 123.03602981765371).
 strada('w614046964', 'service', 'w614046964', 0, 20, 1, 32.067732884611466).
-strada('w614114749', 'unclassified', 'Via Tommaso Storelli', 1, 30, 1, 34.83625417175634).
+strada('w614114749', 'unclassified', 'Via Tommaso Storelli', 1, 20, 1, 34.83625417175634).
 strada('w614305342', 'service', 'w614305342', 0, 20, 1, 10.567308686076947).
 strada('w614305343', 'service', 'w614305343', 0, 20, 1, 10.793271016059098).
 strada('w614305344', 'service', 'w614305344', 1, 20, 1, 28.416842732909952).
@@ -13380,7 +13380,7 @@ strada('w627588277', 'unclassified', 'w627588277', 0, 30, 1, 59.26656545571801).
 strada('w627830605', 'motorway_link', 'w627830605', 1, 40, 1, 520.2146559813125).
 strada('w627865324', 'unclassified', 'Corso Vittorio Emanuele', 0, 30, 1, 328.23451957830724).
 strada('w628156850', 'service', 'w628156850', 0, 20, 1, 132.08370446854363).
-strada('w628162105', 'tertiary', 'w628162105', 1, 30, 1, 58.8346587594785).
+strada('w628162105', 'tertiary', 'w628162105', 1, 40, 1, 58.8346587594785).
 strada('w628162106', 'tertiary', 'Viale Vittorio Emanuele Orlando', 1, 40, 1, 262.37836104080156).
 strada('w628272815', 'service', 'w628272815', 0, 20, 1, 168.46203905888817).
 strada('w628272827', 'residential', 'w628272827', 0, 30, 1, 75.02548037514491).
@@ -13391,13 +13391,13 @@ strada('w639492260', 'unclassified', 'w639492260', 1, 20, 1, 29.735517114124015)
 strada('w639492261', 'unclassified', 'w639492261', 1, 30, 1, 26.55469834252568).
 strada('w639492262', 'unclassified', 'w639492262', 0, 30, 1, 113.83239958453674).
 strada('w639492263', 'residential', 'w639492263', 0, 20, 1, 108.36139953493567).
-strada('w639492264', 'residential', 'w639492264', 0, 20, 1, 182.45721204293648).
+strada('w639492264', 'residential', 'w639492264', 0, 30, 1, 182.45721204293648).
 strada('w639492266', 'residential', 'w639492266', 0, 30, 1, 103.95551943635203).
 strada('w639492267', 'residential', 'w639492267', 0, 20, 1, 151.1942280721567).
 strada('w639492268', 'residential', 'w639492268', 0, 30, 1, 31.72760970209646).
 strada('w639492269', 'residential', 'Vico IV Vittorio Veneto', 0, 30, 1, 75.82233762557577).
-strada('w639492270', 'residential', 'w639492270', 0, 20, 1, 87.89048573715328).
-strada('w639492271', 'residential', 'w639492271', 0, 30, 1, 63.242516879518384).
+strada('w639492270', 'residential', 'w639492270', 0, 30, 1, 87.89048573715328).
+strada('w639492271', 'residential', 'w639492271', 0, 20, 1, 63.242516879518384).
 strada('w641813020', 'unclassified', 'w641813020', 0, 30, 1, 13.073188000050882).
 strada('w641813021', 'unclassified', 'w641813021', 1, 30, 1, 13.767600879101517).
 strada('w641813022', 'unclassified', 'w641813022', 1, 30, 1, 13.839387779057763).
@@ -13407,20 +13407,20 @@ strada('w641813043', 'unclassified', 'w641813043', 0, 30, 1, 8.371198150974704).
 strada('w641813044', 'unclassified', 'Via Giuseppe De Ribera', 1, 30, 1, 314.2549104460356).
 strada('w641813046', 'unclassified', 'w641813046', 1, 30, 1, 14.788428656208174).
 strada('w641813047', 'unclassified', 'w641813047', 1, 30, 1, 14.725297152161357).
-strada('w641813051', 'residential', 'Via Corrado Giaquinto', 1, 5, 1, 40.05255462560885).
+strada('w641813051', 'residential', 'Via Corrado Giaquinto', 1, 30, 1, 40.05255462560885).
 strada('w641813052', 'residential', 'Via Corrado Giaquinto', 1, 30, 1, 50.24933639468317).
 strada('w648495439', 'residential', 'w648495439', 0, 30, 1, 79.70555427678724).
-strada('w648715379', 'service', 'w648715379', 0, 10, 1, 77.79136304361448).
+strada('w648715379', 'service', 'w648715379', 0, 20, 1, 77.79136304361448).
 strada('w648715380', 'service', 'w648715380', 0, 20, 1, 71.58533120526218).
 strada('w648715393', 'service', 'Via Rosario Livatino', 0, 20, 1, 100.36925357060095).
 strada('w649108526', 'service', 'w649108526', 0, 20, 1, 55.659590562901215).
 strada('w649108527', 'service', 'w649108527', 0, 20, 1, 60.28595751768982).
 strada('w649118923', 'unclassified', 'w649118923', 0, 30, 1, 11.574024186502117).
-strada('w653537057', 'residential', 'Largo Monsignor Curi', 0, 20, 1, 64.29339410161734).
+strada('w653537057', 'residential', 'Largo Monsignor Curi', 0, 30, 1, 64.29339410161734).
 strada('w653559092', 'trunk', 'Via Bitritto', 1, 90, 2, 194.12792589456308).
 strada('w653559093', 'tertiary', 'Viale Quinto Orazio Flacco', 0, 50, 1, 17.752108145375082).
 strada('w653559094', 'primary', 'Viale Papa Giovanni Ventitreesimo', 1, 30, 2, 101.9251755637847).
-strada('w653559095', 'tertiary', 'Via Giulio Petroni', 1, 30, 1, 30.595900101928738).
+strada('w653559095', 'tertiary', 'Via Giulio Petroni', 1, 40, 1, 30.595900101928738).
 strada('w653559096', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 16.063472901420145).
 strada('w653559098', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 14.804406832273179).
 strada('w653583332', 'motorway_link', 'w653583332', 1, 40, 1, 410.7487246765276).
@@ -13430,26 +13430,26 @@ strada('w653583335', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 179.9994232
 strada('w653583336', 'primary', 'Viale Papa Giovanni Ventitreesimo', 1, 50, 2, 91.89954338110996).
 strada('w653583337', 'trunk', 'Via Bitritto', 1, 90, 2, 132.98927814869324).
 strada('w656697333', 'residential', 'Via Federico Vecchio', 0, 30, 1, 100.98930391002102).
-strada('w656709176', 'secondary', 'w656709176', 1, 30, 1, 45.08236630694907).
+strada('w656709176', 'secondary', 'w656709176', 1, 50, 1, 45.08236630694907).
 strada('w656709179', 'secondary', 'w656709179', 1, 30, 1, 45.039229984751984).
-strada('w656709182', 'secondary', 'w656709182', 1, 50, 1, 33.29442671276679).
-strada('w666670877', 'residential', 'Via Raffaele de Cesare', 1, 30, 1, 84.02605790074217).
-strada('w667431722', 'residential', 'Via Vito Accettura', 0, 5, 2, 361.3819944335112).
+strada('w656709182', 'secondary', 'w656709182', 1, 30, 1, 33.29442671276679).
+strada('w666670877', 'residential', 'Via Raffaele de Cesare', 1, 20, 1, 84.02605790074217).
+strada('w667431722', 'residential', 'Via Vito Accettura', 0, 20, 2, 361.3819944335112).
 strada('w672264509', 'service', 'w672264509', 0, 20, 1, 13.589448339541665).
 strada('w672264510', 'service', 'w672264510', 0, 20, 1, 59.025388117820654).
 strada('w672264512', 'service', 'w672264512', 0, 20, 1, 176.9351248574196).
 strada('w672264513', 'service', 'w672264513', 0, 20, 1, 11.45822863078281).
 strada('w673892550', 'residential', 'Strada San Sabino', 0, 20, 1, 12.7348451335725).
 strada('w673896299', 'residential', 'Strada Lamberti', 0, 30, 1, 32.73400528889738).
-strada('w673896301', 'residential', 'Strada San Benedetto', 1, 20, 1, 61.15184601779449).
+strada('w673896301', 'residential', 'Strada San Benedetto', 1, 30, 1, 61.15184601779449).
 strada('w673896303', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 10.084744830492564).
 strada('w673896304', 'residential', 'Strada Santa Teresa dei maschi', 1, 30, 1, 27.28740460270765).
 strada('w673896305', 'residential', 'Strada Sagges', 1, 20, 1, 4.883768334195512).
-strada('w673896306', 'residential', 'Strada Lamberti', 1, 20, 1, 2.681508139289909).
+strada('w673896306', 'residential', 'Strada Lamberti', 1, 30, 1, 2.681508139289909).
 strada('w676065570', 'service', 'w676065570', 0, 20, 1, 60.04212512794272).
 strada('w676780942', 'track', 'w676780942', 0, 30, 1, 134.88620970259848).
-strada('w682707456', 'secondary', 'Via Giovanni Amendola', 0, 30, 1, 10.334610447982474).
-strada('w682707457', 'secondary', 'Via Giovanni Amendola', 0, 30, 1, 810.8896361140844).
+strada('w682707456', 'secondary', 'Via Giovanni Amendola', 0, 50, 1, 10.334610447982474).
+strada('w682707457', 'secondary', 'Via Giovanni Amendola', 0, 50, 1, 810.8896361140844).
 strada('w682830894', 'track', 'w682830894', 0, 30, 1, 338.9310511733689).
 strada('w683878638', 'service', 'Largo dei Pittori', 1, 20, 1, 101.38241715054885).
 strada('w683878645', 'service', 'Largo degli Stagnini', 1, 20, 1, 8.508803579578872).
@@ -13459,47 +13459,47 @@ strada('w685410813', 'service', 'w685410813', 0, 20, 1, 8.58187237600264).
 strada('w685410814', 'service', 'w685410814', 0, 20, 1, 20.69830602546763).
 strada('w685410815', 'service', 'w685410815', 0, 20, 1, 64.5154585955697).
 strada('w688834957', 'residential', 'Via Angelo Postiglione', 0, 20, 1, 215.70540670711085).
-strada('w688834958', 'residential', 'Vico Cremona', 0, 20, 1, 41.26329383149239).
+strada('w688834958', 'residential', 'Vico Cremona', 0, 10, 1, 41.26329383149239).
 strada('w688834959', 'residential', 'Via Agostinelli', 0, 30, 1, 62.832669475088515).
 strada('w688834960', 'residential', 'Via Pola', 0, 30, 1, 60.99346773931417).
 strada('w688836628', 'residential', 'Via GiosuÃ¨ Carducci', 1, 30, 1, 194.20385677216248).
 strada('w692410973', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 156.60607608123064).
 strada('w692410974', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 139.35903879526592).
 strada('w692410975', 'motorway_link', 'w692410975', 1, 40, 1, 331.4624563861412).
-strada('w692564114', 'unclassified', '4A Strada Torricella', 0, 30, 1, 70.33647117703269).
+strada('w692564114', 'unclassified', '4A Strada Torricella', 0, 20, 1, 70.33647117703269).
 strada('w692646204', 'track', 'w692646204', 0, 30, 1, 1315.256216060702).
-strada('w692712682', 'residential', 'Via Trieste', 1, 20, 1, 114.05403582733805).
+strada('w692712682', 'residential', 'Via Trieste', 1, 30, 1, 114.05403582733805).
 strada('w695809699', 'track', 'w695809699', 0, 30, 1, 222.4367459751224).
 strada('w695809700', 'track', 'w695809700', 0, 30, 1, 191.41718936861457).
 strada('w695809701', 'track', 'w695809701', 0, 30, 1, 274.3945757354717).
-strada('w695932524', 'unclassified', 'Via Caladoria', 0, 20, 1, 340.26068775035833).
+strada('w695932524', 'unclassified', 'Via Caladoria', 0, 30, 1, 340.26068775035833).
 strada('w696425569', 'residential', 'Via San Francesco d Assisi', 1, 30, 1, 30.31481364639741).
 strada('w696640159', 'unclassified', 'w696640159', 0, 30, 1, 19.532663144292265).
 strada('w696640160', 'unclassified', 'w696640160', 0, 30, 1, 260.8138292577986).
 strada('w696640161', 'residential', 'Traversa I Cangiano', 0, 30, 1, 110.56100923535195).
-strada('w696640162', 'residential', 'Prima Traversa Via Capitaneo', 0, 20, 1, 74.38811513680248).
+strada('w696640162', 'residential', 'Prima Traversa Via Capitaneo', 0, 30, 1, 74.38811513680248).
 strada('w696640163', 'unclassified', 'Via Titolo', 0, 30, 1, 155.9384258252406).
-strada('w696640164', 'residential', 'w696640164', 0, 30, 1, 93.32235933538138).
+strada('w696640164', 'residential', 'w696640164', 0, 20, 1, 93.32235933538138).
 strada('w696640165', 'residential', 'Seconda Traversa Via Capitaneo', 0, 20, 1, 75.5372136171888).
-strada('w696640166', 'residential', 'Vico X Capitaneo', 0, 30, 1, 75.9458882148995).
+strada('w696640166', 'residential', 'Vico X Capitaneo', 0, 20, 1, 75.9458882148995).
 strada('w696640167', 'residential', 'w696640167', 0, 30, 1, 101.1596308064795).
 strada('w696640168', 'residential', 'Via Napoli 6 - Santo Spirito', 0, 30, 1, 342.5909200967154).
 strada('w699486868', 'unclassified', 'w699486868', 0, 30, 1, 8.757855511084042).
-strada('w699486869', 'unclassified', 'w699486869', 0, 30, 1, 9.056871840702213).
+strada('w699486869', 'unclassified', 'w699486869', 0, 20, 1, 9.056871840702213).
 strada('w699486870', 'residential', 'Via Tenente Francesco de Liguori', 0, 20, 1, 132.7489163590671).
 strada('w699486871', 'residential', 'w699486871', 0, 30, 1, 97.29260688366969).
 strada('w699486872', 'residential', 'Via Danimarca', 0, 20, 1, 115.97922536977373).
-strada('w699486873', 'unclassified', 'Via Fratelli Spizzico', 0, 30, 1, 103.07263464852102).
+strada('w699486873', 'unclassified', 'Via Fratelli Spizzico', 0, 20, 1, 103.07263464852102).
 strada('w699486876', 'unclassified', 'Via Fratelli Prayer', 0, 30, 1, 123.46913256732711).
 strada('w699486879', 'unclassified', 'w699486879', 1, 30, 1, 9.558171192754553).
 strada('w699486884', 'unclassified', 'w699486884', 1, 30, 1, 11.439222581659582).
-strada('w699486887', 'service', 'w699486887', 0, 5, 1, 88.07698899540404).
+strada('w699486887', 'service', 'w699486887', 0, 20, 1, 88.07698899540404).
 strada('w699486888', 'unclassified', 'Strada Sant Anna', 1, 30, 1, 33.697138553095044).
 strada('w699486890', 'tertiary', 'Strada Complanare Est', 1, 40, 1, 43.38307812069833).
 strada('w699486892', 'unclassified', 'Strada Sant Anna', 1, 30, 1, 30.65846761619003).
 strada('w699486893', 'tertiary', 'w699486893', 1, 40, 1, 16.82017820736351).
 strada('w699486894', 'tertiary', 'Strada Complanare Est', 1, 40, 1, 41.625898725389305).
-strada('w699486899', 'unclassified', 'Via Mimmo Conenna', 1, 20, 2, 184.89966583889938).
+strada('w699486899', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 184.89966583889938).
 strada('w699486905', 'unclassified', 'w699486905', 1, 30, 1, 571.7326554441545).
 strada('w706348093', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 15.981957794291397).
 strada('w706348094', 'unclassified', 'Via Gaetano Salvemini', 1, 30, 1, 154.2101444224117).
@@ -13514,24 +13514,24 @@ strada('w712445765', 'service', 'w712445765', 1, 20, 1, 4.157002751712973).
 strada('w712445768', 'secondary', 'Corso Vittorio Veneto', 0, 30, 4, 79.05634553759589).
 strada('w713387163', 'secondary', 'Strada Provinciale per Noicattaro', 0, 50, 1, 188.88040627188846).
 strada('w713387164', 'secondary', 'Strada Provinciale per Noicattaro', 0, 50, 1, 30.889879198038177).
-strada('w713903557', 'residential', 'Piazza Vittorio Veneto', 1, 20, 1, 24.499042641210117).
+strada('w713903557', 'residential', 'Piazza Vittorio Veneto', 1, 30, 1, 24.499042641210117).
 strada('w714465409', 'residential', 'Via Monte Sei Busi', 1, 30, 1, 20.42551293952489).
-strada('w714465410', 'residential', 'Via Cristoforo Colombo', 1, 20, 1, 96.55295695108832).
-strada('w714465411', 'residential', 'Via Tripoli', 1, 10, 1, 120.51431241187339).
+strada('w714465410', 'residential', 'Via Cristoforo Colombo', 1, 30, 1, 96.55295695108832).
+strada('w714465411', 'residential', 'Via Tripoli', 1, 20, 1, 120.51431241187339).
 strada('w714465412', 'residential', 'Via Monte Sei Busi', 1, 30, 1, 47.71576718258141).
 strada('w714465413', 'residential', 'Via Monte Sei Busi', 0, 30, 1, 20.78579668784501).
 strada('w725432671', 'tertiary', 'SP 210 Perimetrale Aeroporto di Palese', 0, 50, 2, 648.5500143551533).
 strada('w725432676', 'service', 'w725432676', 0, 20, 1, 2212.2008965894847).
 strada('w725447211', 'service', 'w725447211', 0, 20, 1, 18.699002793237298).
-strada('w725447219', 'service', 'w725447219', 0, 20, 1, 1517.2884209572164).
-strada('w725447220', 'service', 'w725447220', 0, 5, 1, 123.7374528164335).
+strada('w725447219', 'service', 'w725447219', 0, 10, 1, 1517.2884209572164).
+strada('w725447220', 'service', 'w725447220', 0, 20, 1, 123.7374528164335).
 strada('w725447221', 'service', 'w725447221', 0, 20, 1, 29.04201654252495).
 strada('w725447222', 'service', 'w725447222', 1, 20, 1, 106.80247791421296).
-strada('w725447224', 'service', 'w725447224', 0, 20, 1, 129.7895001994563).
+strada('w725447224', 'service', 'w725447224', 0, 10, 1, 129.7895001994563).
 strada('w725447225', 'service', 'w725447225', 1, 20, 1, 16.070578380449067).
 strada('w725898607', 'unclassified', 'w725898607', 0, 30, 1, 23.930159939025657).
-strada('w725898608', 'service', 'w725898608', 1, 10, 1, 139.0432484851196).
-strada('w725898609', 'service', 'w725898609', 0, 10, 1, 89.73069587895684).
+strada('w725898608', 'service', 'w725898608', 1, 20, 1, 139.0432484851196).
+strada('w725898609', 'service', 'w725898609', 0, 20, 1, 89.73069587895684).
 strada('w725898622', 'service', 'w725898622', 0, 20, 1, 88.42048483252574).
 strada('w725898629', 'service', 'w725898629', 0, 20, 1, 20.414343709006836).
 strada('w725898630', 'service', 'w725898630', 0, 20, 1, 57.45788948627942).
@@ -13542,40 +13542,40 @@ strada('w726108357', 'service', 'w726108357', 0, 20, 1, 33.217467200018206).
 strada('w726108370', 'unclassified', 'w726108370', 1, 30, 1, 21.526176116656142).
 strada('w726108371', 'unclassified', 'w726108371', 1, 30, 1, 21.709515469702424).
 strada('w727697300', 'service', 'w727697300', 0, 20, 1, 37.222641643297486).
-strada('w727697301', 'service', 'w727697301', 0, 20, 1, 11.50546208337479).
+strada('w727697301', 'service', 'w727697301', 0, 10, 1, 11.50546208337479).
 strada('w731001353', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 629.8912523451277).
 strada('w731001354', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 60.97577439081095).
-strada('w731726315', 'residential', 'Strada San Vito', 1, 20, 1, 116.59997810395488).
-strada('w731726431', 'residential', 'Via Ruggiero il Normanno', 1, 20, 1, 46.84823766062201).
+strada('w731726315', 'residential', 'Strada San Vito', 1, 30, 1, 116.59997810395488).
+strada('w731726431', 'residential', 'Via Ruggiero il Normanno', 1, 30, 1, 46.84823766062201).
 strada('w734285481', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 30.048217696640293).
 strada('w734285482', 'secondary', 'Via Bruno Buozzi', 0, 30, 2, 243.81133894284218).
 strada('w734287590', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 40.146919435894056).
 strada('w735169818', 'service', 'w735169818', 0, 20, 1, 19.34193902414459).
 strada('w736591219', 'service', 'w736591219', 0, 20, 1, 108.32553637242388).
 strada('w736596146', 'residential', 'Corso Benedetto Croce', 1, 20, 1, 909.4893599094418).
-strada('w738892349', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 4.005598509301519).
+strada('w738892349', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 4.005598509301519).
 strada('w738892352', 'secondary', 'Via Bari', 0, 50, 1, 45.952623198198246).
-strada('w739524982', 'residential', 'Via Leonida Bissolati', 0, 20, 1, 264.34296323158156).
-strada('w739877682', 'service', 'w739877682', 0, 10, 1, 29.830026871310935).
-strada('w744699104', 'primary', 'w744699104', 1, 50, 1, 33.414225770549585).
+strada('w739524982', 'residential', 'Via Leonida Bissolati', 0, 30, 1, 264.34296323158156).
+strada('w739877682', 'service', 'w739877682', 0, 20, 1, 29.830026871310935).
+strada('w744699104', 'primary', 'w744699104', 1, 30, 1, 33.414225770549585).
 strada('w744699106', 'primary', 'Via Magna Grecia', 1, 50, 1, 347.80374850851547).
-strada('w744699386', 'residential', 'Via Padre Pio', 0, 30, 1, 302.8069367451687).
+strada('w744699386', 'residential', 'Via Padre Pio', 0, 20, 1, 302.8069367451687).
 strada('w744699387', 'residential', 'w744699387', 0, 30, 1, 22.94831906962957).
-strada('w744703538', 'residential', 'Via Salapia', 1, 5, 1, 37.113700261186615).
-strada('w744703539', 'residential', 'Via Salapia', 1, 30, 1, 38.14534642304339).
+strada('w744703538', 'residential', 'Via Salapia', 1, 30, 1, 37.113700261186615).
+strada('w744703539', 'residential', 'Via Salapia', 1, 20, 1, 38.14534642304339).
 strada('w744703540', 'tertiary', 'Via Caldarola', 1, 40, 1, 505.810278061561).
 strada('w744703541', 'tertiary', 'w744703541', 1, 40, 1, 20.20236237188901).
 strada('w744703542', 'residential', 'w744703542', 1, 30, 1, 32.01033229525747).
-strada('w744703543', 'tertiary', 'Via Caldarola', 1, 40, 1, 224.72145495101148).
-strada('w744703544', 'residential', 'Via Maresciallo Vittorio Maggiore', 1, 30, 1, 28.902201077369135).
+strada('w744703543', 'tertiary', 'Via Caldarola', 1, 30, 1, 224.72145495101148).
+strada('w744703544', 'residential', 'Via Maresciallo Vittorio Maggiore', 1, 20, 1, 28.902201077369135).
 strada('w755263214', 'service', 'w755263214', 0, 20, 1, 194.5714339262554).
 strada('w755263224', 'service', 'w755263224', 0, 20, 1, 49.90301801653571).
-strada('w755328637', 'unclassified', 'w755328637', 0, 30, 1, 301.1587168040226).
+strada('w755328637', 'unclassified', 'w755328637', 0, 20, 1, 301.1587168040226).
 strada('w759360401', 'residential', 'w759360401', 1, 5, 1, 38.46389655833858).
 strada('w759360402', 'residential', 'Traversa I ponte', 1, 5, 1, 80.6958014422604).
 strada('w764354445', 'residential', 'Via Archita', 1, 30, 1, 94.41866658873056).
 strada('w765212634', 'service', 'w765212634', 1, 20, 1, 65.89707638804136).
-strada('w765212635', 'service', 'w765212635', 1, 10, 1, 65.4759190662968).
+strada('w765212635', 'service', 'w765212635', 1, 20, 1, 65.4759190662968).
 strada('w765212636', 'service', 'w765212636', 1, 20, 1, 143.4160304201274).
 strada('w765212637', 'service', 'w765212637', 1, 20, 1, 79.46085450564094).
 strada('w765212638', 'service', 'w765212638', 1, 20, 1, 65.28631266283584).
@@ -13583,42 +13583,42 @@ strada('w765657133', 'service', 'w765657133', 0, 20, 1, 213.4959277306382).
 strada('w766062435', 'service', 'w766062435', 1, 10, 1, 15.845292625408407).
 strada('w766062436', 'service', 'w766062436', 1, 20, 1, 15.493010182307959).
 strada('w766062437', 'service', 'w766062437', 1, 20, 1, 23.13010235840132).
-strada('w766062438', 'service', 'w766062438', 1, 20, 1, 50.66244165238739).
-strada('w766726841', 'service', 'w766726841', 1, 20, 1, 65.39822622998204).
+strada('w766062438', 'service', 'w766062438', 1, 10, 1, 50.66244165238739).
+strada('w766726841', 'service', 'w766726841', 1, 5, 1, 65.39822622998204).
 strada('w777035414', 'secondary', 'Strada Provinciale 91', 1, 30, 1, 43.35106099779549).
 strada('w777035415', 'secondary', 'w777035415', 1, 30, 1, 16.524292250446784).
 strada('w777035416', 'trunk_link', 'w777035416', 1, 40, 1, 29.62125515546859).
 strada('w777035417', 'trunk_link', 'w777035417', 1, 40, 1, 25.57647591249034).
-strada('w777035418', 'secondary', 'Strada Provinciale 91', 1, 50, 1, 84.51929045188598).
-strada('w777035419', 'residential', 'traverse I Strada Bitonto-Santo Spirito', 0, 30, 1, 144.94594479129626).
-strada('w777035420', 'residential', 'w777035420', 1, 20, 1, 33.4642866682117).
-strada('w777035421', 'residential', 'w777035421', 1, 30, 1, 34.37976134790579).
-strada('w777035422', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 0, 20, 1, 93.32837071612357).
-strada('w778921492', 'service', 'w778921492', 0, 20, 1, 269.7842582451083).
+strada('w777035418', 'secondary', 'Strada Provinciale 91', 1, 30, 1, 84.51929045188598).
+strada('w777035419', 'residential', 'traverse I Strada Bitonto-Santo Spirito', 0, 20, 1, 144.94594479129626).
+strada('w777035420', 'residential', 'w777035420', 1, 30, 1, 33.4642866682117).
+strada('w777035421', 'residential', 'w777035421', 1, 20, 1, 34.37976134790579).
+strada('w777035422', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 0, 30, 1, 93.32837071612357).
+strada('w778921492', 'service', 'w778921492', 0, 10, 1, 269.7842582451083).
 strada('w783727818', 'service', 'w783727818', 0, 20, 1, 9.744727524218646).
 strada('w783727819', 'service', 'w783727819', 0, 20, 1, 1.289731826116698).
-strada('w783727821', 'service', 'w783727821', 0, 20, 1, 151.08223759372262).
+strada('w783727821', 'service', 'w783727821', 0, 10, 1, 151.08223759372262).
 strada('w784934275', 'service', 'w784934275', 0, 20, 1, 24.694716763085548).
 strada('w784934276', 'residential', 'w784934276', 0, 30, 1, 20.29528257659274).
-strada('w784934277', 'service', 'w784934277', 0, 20, 1, 21.269992820485108).
-strada('w784934278', 'service', 'w784934278', 0, 10, 1, 31.023994307661326).
+strada('w784934277', 'service', 'w784934277', 0, 10, 1, 21.269992820485108).
+strada('w784934278', 'service', 'w784934278', 0, 20, 1, 31.023994307661326).
 strada('w784934279', 'service', 'w784934279', 0, 20, 1, 21.016001377272634).
 strada('w785170116', 'service', 'w785170116', 0, 20, 1, 42.106610692671296).
 strada('w786588796', 'secondary', 'Via Guglielmo Oberdan', 1, 50, 1, 156.2782658087846).
 strada('w786590306', 'secondary', 'Via Guglielmo Oberdan', 1, 50, 1, 155.9691946324369).
 strada('w787571217', 'service', 'w787571217', 0, 20, 1, 5.176239799392111).
 strada('w789364353', 'secondary', 'Viale Antonio Meucci', 0, 50, 1, 45.02644185061193).
-strada('w792247493', 'service', 'w792247493', 0, 10, 1, 87.91493813074774).
+strada('w792247493', 'service', 'w792247493', 0, 20, 1, 87.91493813074774).
 strada('w792968272', 'service', 'w792968272', 1, 20, 1, 45.23230192603294).
 strada('w792968273', 'service', 'w792968273', 1, 20, 1, 31.089111827402085).
 strada('w792970591', 'residential', 'Via Giovanni Beltrani', 0, 30, 1, 39.388665113291886).
-strada('w792998735', 'service', 'w792998735', 0, 10, 1, 25.054251227255982).
+strada('w792998735', 'service', 'w792998735', 0, 20, 1, 25.054251227255982).
 strada('w792998737', 'service', 'w792998737', 0, 20, 1, 113.19521492817195).
-strada('w793001284', 'unclassified', 'Stradella Cannaruto', 1, 20, 1, 52.51679131446199).
+strada('w793001284', 'unclassified', 'Stradella Cannaruto', 1, 30, 1, 52.51679131446199).
 strada('w793006698', 'unclassified', 'Stradella Cannaruto', 0, 30, 1, 86.82011638832634).
 strada('w793268623', 'service', 'w793268623', 0, 20, 1, 87.23675894702674).
 strada('w793268624', 'service', 'w793268624', 0, 20, 1, 44.73575900481892).
-strada('w794480006', 'residential', 'Via Orfeo Mazzitelli', 0, 20, 1, 176.89536078832225).
+strada('w794480006', 'residential', 'Via Orfeo Mazzitelli', 0, 30, 1, 176.89536078832225).
 strada('w794480007', 'residential', 'w794480007', 0, 30, 1, 170.29261574016869).
 strada('w794480008', 'residential', 'w794480008', 0, 20, 1, 136.65238496145182).
 strada('w794480010', 'service', 'w794480010', 0, 20, 1, 107.87727069311772).
@@ -13629,10 +13629,10 @@ strada('w794487897', 'service', 'w794487897', 0, 20, 1, 46.027413039558766).
 strada('w794487898', 'service', 'w794487898', 1, 20, 1, 192.72054892970593).
 strada('w794487900', 'service', 'w794487900', 0, 20, 1, 43.82802848456479).
 strada('w794487901', 'service', 'w794487901', 0, 20, 1, 49.77954554416127).
-strada('w794487902', 'service', 'w794487902', 1, 5, 1, 58.784039622707574).
+strada('w794487902', 'service', 'w794487902', 1, 20, 1, 58.784039622707574).
 strada('w794487903', 'service', 'w794487903', 0, 20, 1, 45.04539004585081).
 strada('w794487904', 'service', 'w794487904', 1, 20, 1, 120.29302558074791).
-strada('w794487905', 'service', 'w794487905', 0, 20, 1, 42.84762005968529).
+strada('w794487905', 'service', 'w794487905', 0, 10, 1, 42.84762005968529).
 strada('w794487906', 'service', 'w794487906', 0, 20, 1, 49.0863326467136).
 strada('w794487907', 'service', 'w794487907', 0, 20, 1, 41.09449108993089).
 strada('w794487908', 'service', 'w794487908', 1, 20, 1, 19.052958445262774).
@@ -13647,32 +13647,32 @@ strada('w796325512', 'service', 'w796325512', 0, 20, 1, 69.8530855757955).
 strada('w797020842', 'service', 'w797020842', 0, 20, 1, 14.053092155388299).
 strada('w797020846', 'service', 'w797020846', 0, 20, 1, 5.778708598903593).
 strada('w797350454', 'service', 'w797350454', 1, 20, 1, 76.95693846797336).
-strada('w797371002', 'service', 'w797371002', 0, 20, 1, 31.828882032956823).
+strada('w797371002', 'service', 'w797371002', 0, 10, 1, 31.828882032956823).
 strada('w797380013', 'service', 'w797380013', 0, 20, 1, 162.8584486282343).
 strada('w797380014', 'track', 'w797380014', 0, 30, 1, 318.0142696197771).
 strada('w797637960', 'service', 'w797637960', 1, 20, 1, 237.29240315120234).
-strada('w797875726', 'service', 'w797875726', 1, 20, 1, 51.55156077732627).
-strada('w797875727', 'service', 'w797875727', 1, 20, 1, 139.22353966348268).
+strada('w797875726', 'service', 'w797875726', 1, 10, 1, 51.55156077732627).
+strada('w797875727', 'service', 'w797875727', 1, 10, 1, 139.22353966348268).
 strada('w797875728', 'service', 'w797875728', 0, 20, 1, 141.97494734808433).
-strada('w798069789', 'tertiary', 'w798069789', 1, 30, 1, 47.895262324809075).
+strada('w798069789', 'tertiary', 'w798069789', 1, 40, 1, 47.895262324809075).
 strada('w798069790', 'tertiary', 'Strada Santa Caterina', 1, 50, 1, 175.05049672337756).
 strada('w798069791', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 89.43083359643197).
-strada('w798069792', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 71.84986276329035).
-strada('w798069793', 'unclassified', 'w798069793', 1, 20, 1, 30.760303939584787).
+strada('w798069792', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 71.84986276329035).
+strada('w798069793', 'unclassified', 'w798069793', 1, 30, 1, 30.760303939584787).
 strada('w801626751', 'service', 'w801626751', 0, 20, 1, 49.468215623908655).
 strada('w801626763', 'service', 'w801626763', 0, 20, 1, 43.209857895112386).
 strada('w801626764', 'service', 'w801626764', 0, 20, 1, 30.560357647053813).
-strada('w801626766', 'service', 'w801626766', 0, 20, 1, 18.36077731583628).
+strada('w801626766', 'service', 'w801626766', 0, 10, 1, 18.36077731583628).
 strada('w801626767', 'service', 'w801626767', 0, 20, 1, 20.328210282260894).
 strada('w801626770', 'service', 'w801626770', 0, 20, 1, 31.61693195019759).
-strada('w801638846', 'residential', 'w801638846', 0, 30, 1, 94.04159637244187).
+strada('w801638846', 'residential', 'w801638846', 0, 20, 1, 94.04159637244187).
 strada('w805539523', 'secondary', 'Strada Provinciale 91', 0, 60, 1, 64.16389892119534).
 strada('w809138626', 'service', 'w809138626', 0, 20, 1, 94.75525258472499).
-strada('w825930795', 'service', 'w825930795', 0, 10, 1, 81.95587299157339).
-strada('w827830280', 'service', 'w827830280', 0, 10, 1, 101.82309402773822).
+strada('w825930795', 'service', 'w825930795', 0, 20, 1, 81.95587299157339).
+strada('w827830280', 'service', 'w827830280', 0, 20, 1, 101.82309402773822).
 strada('w827830281', 'service', 'w827830281', 0, 20, 1, 139.53905915057516).
 strada('w827833484', 'service', 'w827833484', 0, 20, 1, 227.06275884085895).
-strada('w827833485', 'service', 'w827833485', 0, 20, 1, 32.296519766705416).
+strada('w827833485', 'service', 'w827833485', 0, 10, 1, 32.296519766705416).
 strada('w827833489', 'service', 'w827833489', 0, 20, 1, 37.9543483588421).
 strada('w829898986', 'unclassified', 'Via Luigi Vitulli', 0, 30, 1, 120.91215051666506).
 strada('w829898987', 'unclassified', 'Via Nicola Rotondo', 0, 30, 1, 162.53703744397217).
@@ -13682,59 +13682,59 @@ strada('w829899968', 'unclassified', 'w829899968', 1, 30, 1, 27.3514264499528).
 strada('w829899970', 'unclassified', 'w829899970', 1, 30, 1, 30.903854758656323).
 strada('w829899971', 'unclassified', 'w829899971', 0, 20, 1, 103.83583370835647).
 strada('w829899972', 'unclassified', 'w829899972', 1, 30, 1, 24.753020047914525).
-strada('w829899973', 'unclassified', 'w829899973', 1, 20, 1, 32.21256385154667).
-strada('w829899974', 'unclassified', 'w829899974', 0, 20, 1, 23.77600647509748).
+strada('w829899973', 'unclassified', 'w829899973', 1, 30, 1, 32.21256385154667).
+strada('w829899974', 'unclassified', 'w829899974', 0, 30, 1, 23.77600647509748).
 strada('w829899975', 'unclassified', 'w829899975', 1, 30, 1, 23.726885108697953).
-strada('w829899976', 'unclassified', 'w829899976', 1, 30, 1, 23.89963984381508).
+strada('w829899976', 'unclassified', 'w829899976', 1, 20, 1, 23.89963984381508).
 strada('w830467854', 'unclassified', 'w830467854', 0, 30, 2, 125.56075241024695).
 strada('w830467855', 'unclassified', 'w830467855', 1, 30, 1, 330.63453695033115).
 strada('w830467860', 'service', 'w830467860', 1, 20, 1, 189.223487690194).
 strada('w839356712', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 341.33343872142626).
-strada('w839356713', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 20, 1, 110.56733118535305).
-strada('w839356714', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 111.02861353185327).
-strada('w839356715', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 88.07517737542).
-strada('w839356716', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 10, 1, 60.67161975370425).
+strada('w839356713', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 110.56733118535305).
+strada('w839356714', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 20, 1, 111.02861353185327).
+strada('w839356715', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 10, 1, 88.07517737542).
+strada('w839356716', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 60.67161975370425).
 strada('w842123448', 'unclassified', 'w842123448', 1, 30, 1, 62.633125223551296).
 strada('w842123449', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 30.562654493957744).
 strada('w842123450', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 2.461567921203897).
 strada('w842123451', 'unclassified', 'Viale Enzo Ferrari', 1, 20, 1, 47.77224568692958).
 strada('w842123452', 'unclassified', 'Viale Enzo Ferrari', 1, 30, 1, 36.76015361353447).
-strada('w842123453', 'secondary', 'w842123453', 1, 50, 1, 29.44531803660083).
+strada('w842123453', 'secondary', 'w842123453', 1, 30, 1, 29.44531803660083).
 strada('w842123454', 'secondary', 'w842123454', 1, 50, 1, 31.13242812000506).
-strada('w842123455', 'secondary', 'w842123455', 1, 30, 1, 11.339728548115929).
+strada('w842123455', 'secondary', 'w842123455', 1, 50, 1, 11.339728548115929).
 strada('w842123456', 'secondary', 'w842123456', 1, 50, 1, 31.700758915363174).
 strada('w842123457', 'secondary', 'w842123457', 1, 50, 1, 30.41059838099786).
-strada('w842123458', 'secondary', 'w842123458', 1, 50, 1, 85.46279040097288).
+strada('w842123458', 'secondary', 'w842123458', 1, 30, 1, 85.46279040097288).
 strada('w842123459', 'secondary', 'w842123459', 1, 50, 1, 19.55860029760542).
-strada('w842123460', 'secondary', 'w842123460', 1, 30, 1, 11.532774747958449).
+strada('w842123460', 'secondary', 'w842123460', 1, 50, 1, 11.532774747958449).
 strada('w842123461', 'secondary', 'w842123461', 1, 30, 1, 16.15606182570637).
-strada('w842123462', 'secondary', 'w842123462', 1, 50, 1, 24.164932420020346).
+strada('w842123462', 'secondary', 'w842123462', 1, 30, 1, 24.164932420020346).
 strada('w845017368', 'service', 'w845017368', 0, 20, 1, 52.29661144855718).
 strada('w845017369', 'service', 'w845017369', 1, 20, 1, 47.8716300354971).
 strada('w845017370', 'service', 'w845017370', 1, 20, 1, 44.68469141536736).
 strada('w845017371', 'service', 'w845017371', 0, 20, 1, 10.901795238457591).
 strada('w865976061', 'service', 'w865976061', 0, 20, 1, 102.08647262529779).
 strada('w865979935', 'service', 'w865979935', 0, 20, 1, 19.58398194678114).
-strada('w865979936', 'residential', 'Strada privata Detta della Marina 78bis', 0, 30, 1, 141.37782628881195).
-strada('w865979938', 'service', 'w865979938', 0, 20, 1, 19.190744442428358).
+strada('w865979936', 'residential', 'Strada privata Detta della Marina 78bis', 0, 20, 1, 141.37782628881195).
+strada('w865979938', 'service', 'w865979938', 0, 10, 1, 19.190744442428358).
 strada('w865979939', 'residential', 'w865979939', 0, 30, 1, 142.06643525204174).
 strada('w865979942', 'residential', 'w865979942', 0, 30, 1, 133.8916873730018).
 strada('w865979943', 'residential', 'w865979943', 0, 20, 1, 177.9884469498313).
-strada('w865979944', 'service', 'w865979944', 0, 10, 1, 79.44437802056814).
+strada('w865979944', 'service', 'w865979944', 0, 5, 1, 79.44437802056814).
 strada('w865979945', 'service', 'w865979945', 0, 20, 1, 72.3967010426525).
 strada('w865979946', 'service', 'w865979946', 0, 20, 1, 54.8455925156174).
 strada('w865979947', 'service', 'w865979947', 0, 20, 1, 54.71073267746341).
 strada('w865979948', 'service', 'w865979948', 0, 20, 1, 166.25949865211354).
-strada('w865979949', 'residential', 'w865979949', 0, 30, 2, 235.7152619715937).
-strada('w878433522', 'secondary', 'Via Paolo Pinto', 1, 30, 2, 27.404869436137123).
+strada('w865979949', 'residential', 'w865979949', 0, 20, 2, 235.7152619715937).
+strada('w878433522', 'secondary', 'Via Paolo Pinto', 1, 50, 2, 27.404869436137123).
 strada('w880088409', 'service', 'w880088409', 0, 20, 1, 425.09250592647925).
 strada('w880088410', 'residential', 'Via Morelli e Silvati NÂ° 58', 0, 30, 1, 149.33260021024924).
 strada('w888183740', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 141.58978503355627).
-strada('w899651133', 'secondary', 'w899651133', 1, 50, 1, 19.507342574273686).
+strada('w899651133', 'secondary', 'w899651133', 1, 30, 1, 19.507342574273686).
 strada('w899651134', 'secondary', 'w899651134', 1, 50, 1, 13.914449894411131).
 strada('w901684281', 'trunk', 'w901684281', 1, 90, 2, 24.95453481407253).
 strada('w901684282', 'trunk', 'w901684282', 1, 90, 2, 15.491362790021975).
-strada('w901684283', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 50, 2, 208.5753600011569).
+strada('w901684283', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 30, 2, 208.5753600011569).
 strada('w901684284', 'secondary', 'Strada Statale Bari - Gioia del Colle', 1, 50, 2, 244.0356692785117).
 strada('w907301666', 'residential', 'Traversa Isonzo', 0, 20, 1, 100.88093694742511).
 strada('w913176591', 'service', 'w913176591', 0, 20, 1, 234.08246349881463).
@@ -13748,7 +13748,7 @@ strada('w917871202', 'service', 'w917871202', 0, 20, 1, 53.2031813032553).
 strada('w917871203', 'service', 'w917871203', 0, 20, 1, 34.6619791618931).
 strada('w917871204', 'service', 'w917871204', 0, 20, 1, 83.81810243133629).
 strada('w917871205', 'service', 'w917871205', 0, 20, 1, 146.8482623677406).
-strada('w925542199', 'residential', 'w925542199', 0, 30, 1, 104.40197903027527).
+strada('w925542199', 'residential', 'w925542199', 0, 20, 1, 104.40197903027527).
 strada('w925542200', 'residential', 'w925542200', 0, 30, 1, 118.18033269366613).
 strada('w925542201', 'residential', 'w925542201', 0, 30, 1, 14.02473181422679).
 strada('w925542202', 'unclassified', 'w925542202', 0, 30, 1, 107.35158055848736).
@@ -13756,9 +13756,9 @@ strada('w925542203', 'unclassified', 'w925542203', 0, 30, 1, 11.169830564765002)
 strada('w925542204', 'track', 'w925542204', 0, 30, 1, 183.2903166930499).
 strada('w925542205', 'service', 'w925542205', 0, 20, 1, 91.23638023159367).
 strada('w925542206', 'service', 'w925542206', 0, 20, 1, 20.442751065788265).
-strada('w928692711', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 0, 30, 1, 27.004266634033904).
+strada('w928692711', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 0, 20, 1, 27.004266634033904).
 strada('w936313617', 'service', 'w936313617', 0, 20, 1, 89.88660589616009).
-strada('w936313618', 'service', 'w936313618', 0, 10, 1, 43.55298641236829).
+strada('w936313618', 'service', 'w936313618', 0, 20, 1, 43.55298641236829).
 strada('w936313619', 'service', 'w936313619', 0, 20, 1, 49.26332587166585).
 strada('w936313620', 'service', 'w936313620', 0, 20, 1, 24.327403547758532).
 strada('w936313621', 'service', 'w936313621', 0, 20, 1, 29.392087735123784).
@@ -13766,29 +13766,29 @@ strada('w936315605', 'service', 'w936315605', 0, 20, 1, 123.98346652665225).
 strada('w936315606', 'service', 'w936315606', 0, 20, 1, 46.593551873341596).
 strada('w936315607', 'service', 'w936315607', 0, 20, 1, 77.66104400751038).
 strada('w936315608', 'service', 'w936315608', 0, 20, 1, 80.532264755287).
-strada('w936315609', 'service', 'w936315609', 0, 20, 1, 38.35548082439971).
+strada('w936315609', 'service', 'w936315609', 0, 10, 1, 38.35548082439971).
 strada('w936315610', 'service', 'w936315610', 0, 20, 1, 13.823812395162069).
-strada('w936315611', 'service', 'w936315611', 0, 20, 1, 127.52492893561048).
+strada('w936315611', 'service', 'w936315611', 0, 10, 1, 127.52492893561048).
 strada('w936315612', 'service', 'w936315612', 0, 20, 1, 64.03809960522679).
 strada('w936583121', 'service', 'w936583121', 0, 20, 1, 106.64718918518838).
 strada('w936583122', 'service', 'w936583122', 0, 20, 1, 135.36052114412269).
 strada('w936583123', 'service', 'w936583123', 0, 20, 1, 52.056272427774815).
 strada('w936587605', 'service', 'w936587605', 0, 20, 1, 197.33510172081992).
 strada('w936587606', 'service', 'w936587606', 0, 20, 1, 72.97180588074136).
-strada('w943322387', 'residential', 'w943322387', 0, 20, 1, 267.39226495006244).
+strada('w943322387', 'residential', 'w943322387', 0, 30, 1, 267.39226495006244).
 strada('w943322418', 'track', 'w943322418', 0, 30, 1, 140.10945084996007).
 strada('w943322419', 'track', 'w943322419', 0, 30, 1, 627.6605600315306).
 strada('w949299787', 'service', 'w949299787', 0, 20, 1, 84.58872226382506).
 strada('w949306987', 'service', 'w949306987', 1, 20, 1, 8.37166560545472).
-strada('w949306988', 'service', 'w949306988', 1, 20, 1, 31.431893165393717).
+strada('w949306988', 'service', 'w949306988', 1, 10, 1, 31.431893165393717).
 strada('w949306989', 'service', 'w949306989', 1, 20, 1, 5.540713330911032).
-strada('w951272869', 'residential', 'w951272869', 1, 30, 1, 48.56491878196223).
+strada('w951272869', 'residential', 'w951272869', 1, 20, 1, 48.56491878196223).
 strada('w955185913', 'service', 'w955185913', 0, 30, 1, 7.750271752695133).
-strada('w962865167', 'service', 'w962865167', 0, 20, 1, 176.63483970394068).
+strada('w962865167', 'service', 'w962865167', 0, 5, 1, 176.63483970394068).
 strada('w968678510', 'secondary', 'w968678510', 1, 50, 1, 21.802798375122233).
-strada('w968705517', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 13.231878435880368).
-strada('w968705518', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 689.2707407165502).
-strada('w968705519', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 14.614542857010257).
+strada('w968705517', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 13.231878435880368).
+strada('w968705518', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 689.2707407165502).
+strada('w968705519', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 14.614542857010257).
 strada('w974029217', 'secondary_link', 'Strada Santa Caterina', 1, 30, 1, 30.271767595687894).
 strada('w974029218', 'secondary_link', 'w974029218', 1, 30, 1, 23.61675401833935).
 strada('w974029219', 'secondary_link', 'w974029219', 1, 30, 1, 11.139080926400885).
@@ -13799,20 +13799,20 @@ strada('w974029225', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara'
 strada('w974029226', 'secondary', 'Viale Donato Menichella', 1, 50, 1, 36.12516696504734).
 strada('w974029227', 'secondary', 'Viale Donato Menichella', 1, 50, 1, 181.15689163091236).
 strada('w974029228', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 38.27729217107198).
-strada('w974029229', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 40.78364335972097).
+strada('w974029229', 'secondary', 'Viale Donato Menichella', 1, 30, 2, 40.78364335972097).
 strada('w974029230', 'unclassified', 'Via Luigi Ranieri', 0, 30, 1, 22.061385634397926).
-strada('w974029231', 'service', 'Via Luigi Ranieri', 0, 5, 1, 20.461629324495117).
+strada('w974029231', 'service', 'Via Luigi Ranieri', 0, 20, 1, 20.461629324495117).
 strada('w974029232', 'secondary', 'Viale Donato Menichella', 1, 30, 2, 29.945317566614964).
-strada('w977326073', 'residential', 'Via Vito Vittorio Crocitto', 1, 30, 1, 70.46076770361594).
+strada('w977326073', 'residential', 'Via Vito Vittorio Crocitto', 1, 20, 1, 70.46076770361594).
 strada('w977326075', 'service', 'Strada privata', 0, 20, 1, 75.22955720042883).
-strada('w980964768', 'service', 'w980964768', 1, 20, 1, 3.000552591314445).
+strada('w980964768', 'service', 'w980964768', 1, 10, 1, 3.000552591314445).
 strada('w980964770', 'service', 'w980964770', 1, 20, 1, 5.698015031142569).
-strada('w982418223', 'secondary', 'Via Giovanni Amendola', 0, 30, 3, 8.268239229528287).
+strada('w982418223', 'secondary', 'Via Giovanni Amendola', 0, 50, 3, 8.268239229528287).
 strada('w982418224', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 21.637066854309516).
 strada('w982418225', 'secondary', 'Via Giovanni Amendola', 0, 50, 1, 403.3669395818723).
-strada('w982418226', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 258.9256790023226).
-strada('w982418227', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 30.92809731014212).
-strada('w982418228', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 357.82299301468214).
+strada('w982418226', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 258.9256790023226).
+strada('w982418227', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 30.92809731014212).
+strada('w982418228', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 357.82299301468214).
 strada('w982428383', 'service', 'w982428383', 0, 20, 1, 48.2699371856391).
 strada('w989909699', 'service', 'Via Fratelli De Filippo', 0, 30, 2, 62.19395943760476).
 strada('w989915024', 'track', 'w989915024', 0, 30, 1, 217.53362563465691).
@@ -13822,45 +13822,45 @@ strada('w991207356', 'service', 'w991207356', 0, 20, 1, 133.44275804551).
 strada('w991208883', 'service', 'w991208883', 0, 20, 1, 215.8439391937215).
 strada('w991208884', 'service', 'w991208884', 0, 20, 1, 222.97684074194066).
 strada('w991208885', 'service', 'w991208885', 0, 20, 1, 117.78499257365107).
-strada('w991208886', 'service', 'w991208886', 0, 20, 1, 119.67272281290879).
+strada('w991208886', 'service', 'w991208886', 0, 10, 1, 119.67272281290879).
 strada('w991208887', 'service', 'w991208887', 0, 20, 1, 105.26750264368542).
 strada('w991208888', 'service', 'w991208888', 0, 20, 1, 106.93971995215476).
 strada('w991208889', 'service', 'w991208889', 0, 10, 1, 34.48254156615501).
 strada('w994844123', 'service', 'w994844123', 0, 20, 1, 45.496899755221406).
 strada('w995642533', 'secondary', 'Via Guglielmo Oberdan', 1, 50, 1, 154.1777711595282).
-strada('w995643110', 'primary', 'Via Adolfo Omodeo', 0, 50, 1, 5.362839755336391).
+strada('w995643110', 'primary', 'Via Adolfo Omodeo', 0, 30, 1, 5.362839755336391).
 strada('w998501719', 'service', 'w998501719', 0, 20, 1, 238.24095384676326).
 strada('w998501720', 'unclassified', 'w998501720', 0, 30, 1, 52.29323431835184).
-strada('w1000930789', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 197.07403487611992).
+strada('w1000930789', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 197.07403487611992).
 strada('w1000930790', 'unclassified', 'w1000930790', 0, 30, 1, 11.264181840045307).
 strada('w1004456239', 'service', 'w1004456239', 0, 20, 1, 13.573320861726991).
 strada('w1006297375', 'residential', 'Via Lovergine', 0, 30, 1, 99.79707377167162).
-strada('w1006297376', 'residential', 'Via Principe Umberto', 0, 30, 1, 49.78195010541004).
+strada('w1006297376', 'residential', 'Via Principe Umberto', 0, 20, 1, 49.78195010541004).
 strada('w1006297377', 'residential', 'Via Principe Umberto', 1, 20, 1, 11.659480319801306).
 strada('w1006297378', 'unclassified', 'Via Modugno', 1, 30, 1, 24.52825726249935).
 strada('w1006297379', 'unclassified', 'Via Modugno', 1, 30, 1, 3.758575194869702).
 strada('w1006297380', 'unclassified', 'Via Modugno', 0, 30, 1, 424.6196456406395).
-strada('w1006297381', 'unclassified', 'Via Vincenzo Martellotta', 1, 30, 1, 60.168588236352704).
+strada('w1006297381', 'unclassified', 'Via Vincenzo Martellotta', 1, 20, 1, 60.168588236352704).
 strada('w1006494224', 'track', 'w1006494224', 0, 30, 1, 118.47225386848649).
-strada('w1006494225', 'residential', 'w1006494225', 0, 30, 1, 57.053717749333735).
+strada('w1006494225', 'residential', 'w1006494225', 0, 20, 1, 57.053717749333735).
 strada('w1006494226', 'residential', 'w1006494226', 0, 30, 1, 61.270047950729655).
-strada('w1006494227', 'residential', 'w1006494227', 0, 20, 1, 124.87052890523164).
-strada('w1006573744', 'residential', 'w1006573744', 0, 30, 1, 77.59208354553056).
-strada('w1006573745', 'residential', 'w1006573745', 0, 20, 1, 6.568629596269363).
+strada('w1006494227', 'residential', 'w1006494227', 0, 30, 1, 124.87052890523164).
+strada('w1006573744', 'residential', 'w1006573744', 0, 20, 1, 77.59208354553056).
+strada('w1006573745', 'residential', 'w1006573745', 0, 30, 1, 6.568629596269363).
 strada('w1006573746', 'residential', 'w1006573746', 0, 30, 1, 80.1842172932019).
 strada('w1006573747', 'residential', 'w1006573747', 0, 30, 1, 83.42872088806128).
 strada('w1006573748', 'residential', 'w1006573748', 0, 30, 1, 54.86733086756949).
 strada('w1006573749', 'unclassified', 'Via Vittorio Veneto in Palese', 1, 30, 1, 77.80491788333023).
 strada('w1006573750', 'unclassified', 'Via Vittorio Veneto in Palese', 1, 30, 1, 95.43984305052092).
-strada('w1006573751', 'unclassified', 'Via Capitano V.Maiorano', 0, 30, 1, 48.515218927368394).
-strada('w1006573752', 'residential', 'Via Tito Schipa', 0, 20, 1, 98.60115843291487).
-strada('w1006573753', 'residential', 'w1006573753', 0, 20, 1, 51.1702383252492).
+strada('w1006573751', 'unclassified', 'Via Capitano V.Maiorano', 0, 20, 1, 48.515218927368394).
+strada('w1006573752', 'residential', 'Via Tito Schipa', 0, 30, 1, 98.60115843291487).
+strada('w1006573753', 'residential', 'w1006573753', 0, 30, 1, 51.1702383252492).
 strada('w1006573754', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 50, 2, 94.25893122967892).
-strada('w1006573757', 'residential', 'Lungomare Cristoforo Colombo', 1, 30, 1, 25.849255284817346).
-strada('w1006573762', 'residential', 'w1006573762', 1, 20, 1, 76.11518790261616).
+strada('w1006573757', 'residential', 'Lungomare Cristoforo Colombo', 1, 5, 1, 25.849255284817346).
+strada('w1006573762', 'residential', 'w1006573762', 1, 30, 1, 76.11518790261616).
 strada('w1007402348', 'residential', 'Vico IX Garibaldi', 0, 30, 1, 38.87701167607722).
-strada('w1011449272', 'service', 'w1011449272', 1, 10, 1, 24.759833714397384).
-strada('w1011449273', 'service', 'w1011449273', 1, 10, 1, 63.55646448946374).
+strada('w1011449272', 'service', 'w1011449272', 1, 20, 1, 24.759833714397384).
+strada('w1011449273', 'service', 'w1011449273', 1, 20, 1, 63.55646448946374).
 strada('w1013285284', 'unclassified', 'w1013285284', 0, 30, 1, 32.4711966976174).
 strada('w1013288268', 'unclassified', 'w1013288268', 0, 30, 1, 191.00138120830735).
 strada('w1013294112', 'unclassified', 'w1013294112', 0, 30, 1, 360.33240799334425).
@@ -13868,8 +13868,8 @@ strada('w1013294113', 'unclassified', 'w1013294113', 0, 30, 1, 32.52108986100396
 strada('w1013294114', 'unclassified', 'w1013294114', 0, 30, 1, 215.31885735051083).
 strada('w1014035487', 'residential', 'Via Ammiraglio Caracciolo', 0, 30, 1, 18.206733194965253).
 strada('w1014035488', 'secondary', 'Corso Vittorio Veneto', 0, 50, 1, 7.88020685665471).
-strada('w1014035489', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 182.21180992217688).
-strada('w1015930438', 'residential', 'Vico I Garibaldi', 0, 30, 1, 29.781350063722332).
+strada('w1014035489', 'secondary', 'Corso Vittorio Veneto', 0, 30, 4, 182.21180992217688).
+strada('w1015930438', 'residential', 'Vico I Garibaldi', 0, 20, 1, 29.781350063722332).
 strada('w1015930440', 'residential', 'w1015930440', 0, 30, 1, 18.849178083675106).
 strada('w1016659370', 'residential', 'Largo Monsignor Curi', 0, 30, 1, 28.396122549341058).
 strada('w1019768021', 'secondary', 'Via Giovanni di Cagno Abbrescia', 0, 70, 1, 1586.7329003984726).
@@ -13878,9 +13878,9 @@ strada('w1026100200', 'residential', 'Stradella Cipparoli', 0, 20, 1, 44.7369249
 strada('w1027385932', 'secondary_link', 'Viale Europa', 1, 30, 1, 29.971154445728068).
 strada('w1033208565', 'unclassified', 'w1033208565', 1, 30, 1, 14.705370236217568).
 strada('w1034651579', 'service', 'Traversa 42 Catino', 0, 20, 1, 88.64616448020608).
-strada('w1034651580', 'unclassified', 'Strada Catino', 1, 30, 1, 48.356310661682045).
+strada('w1034651580', 'unclassified', 'Strada Catino', 1, 20, 1, 48.356310661682045).
 strada('w1034866943', 'unclassified', 'w1034866943', 1, 30, 1, 37.11248620565804).
-strada('w1034866944', 'unclassified', 'Via Iqbal Masih', 1, 20, 1, 40.36234070601833).
+strada('w1034866944', 'unclassified', 'Via Iqbal Masih', 1, 30, 1, 40.36234070601833).
 strada('w1034999431', 'unclassified', 'w1034999431', 1, 30, 1, 57.81944822086981).
 strada('w1034999433', 'unclassified', 'w1034999433', 1, 30, 1, 43.258410400464555).
 strada('w1036115365', 'service', 'w1036115365', 0, 20, 1, 48.17298973912525).
@@ -13893,15 +13893,15 @@ strada('w1037077620', 'residential', 'w1037077620', 1, 30, 1, 104.92081527947539
 strada('w1037077622', 'service', 'w1037077622', 0, 20, 1, 21.55208676190223).
 strada('w1037077623', 'residential', 'w1037077623', 0, 30, 1, 6.542588588968507).
 strada('w1037077624', 'service', 'w1037077624', 0, 20, 1, 7.927081065926956).
-strada('w1037077625', 'service', 'w1037077625', 0, 10, 1, 20.014356420064413).
+strada('w1037077625', 'service', 'w1037077625', 0, 20, 1, 20.014356420064413).
 strada('w1037077626', 'service', 'w1037077626', 0, 20, 1, 21.823798635795672).
 strada('w1037094355', 'service', 'w1037094355', 0, 20, 1, 27.12091842667426).
-strada('w1037094356', 'service', 'w1037094356', 0, 5, 1, 13.204612291176417).
+strada('w1037094356', 'service', 'w1037094356', 0, 20, 1, 13.204612291176417).
 strada('w1037094358', 'track', 'w1037094358', 0, 30, 1, 98.260275122768).
-strada('w1037094359', 'service', 'w1037094359', 0, 20, 1, 63.804050004475634).
+strada('w1037094359', 'service', 'w1037094359', 0, 5, 1, 63.804050004475634).
 strada('w1037094360', 'service', 'w1037094360', 1, 20, 1, 95.77803095796742).
 strada('w1037094361', 'service', 'w1037094361', 1, 20, 1, 19.205839915552303).
-strada('w1037094362', 'service', 'w1037094362', 0, 10, 1, 10.806304839805707).
+strada('w1037094362', 'service', 'w1037094362', 0, 20, 1, 10.806304839805707).
 strada('w1037190430', 'service', 'w1037190430', 0, 20, 1, 32.912473832419046).
 strada('w1038846427', 'unclassified', 'Via Scizzo', 0, 30, 1, 87.0196156493772).
 strada('w1040175727', 'service', 'Consegna Merci', 1, 20, 1, 86.08174067945832).
@@ -13910,13 +13910,13 @@ strada('w1040175729', 'service', 'w1040175729', 1, 20, 1, 196.51294544406613).
 strada('w1040175730', 'service', 'w1040175730', 0, 20, 1, 40.910721865299564).
 strada('w1040175731', 'service', 'w1040175731', 1, 20, 1, 59.852943573308984).
 strada('w1040175732', 'service', 'w1040175732', 1, 20, 1, 49.78220029088753).
-strada('w1040181472', 'service', 'w1040181472', 1, 20, 1, 39.80825097273582).
+strada('w1040181472', 'service', 'w1040181472', 1, 10, 1, 39.80825097273582).
 strada('w1040181473', 'service', 'w1040181473', 1, 20, 1, 81.69180263560693).
-strada('w1040181474', 'service', 'w1040181474', 1, 20, 1, 46.64116482295282).
+strada('w1040181474', 'service', 'w1040181474', 1, 10, 1, 46.64116482295282).
 strada('w1040181475', 'service', 'w1040181475', 0, 20, 1, 51.03054384126698).
-strada('w1040181476', 'service', 'w1040181476', 0, 20, 1, 11.196210121421759).
+strada('w1040181476', 'service', 'w1040181476', 0, 10, 1, 11.196210121421759).
 strada('w1040181477', 'service', 'w1040181477', 1, 20, 1, 65.10931717935708).
-strada('w1040181478', 'service', 'w1040181478', 1, 10, 1, 31.51431385724787).
+strada('w1040181478', 'service', 'w1040181478', 1, 20, 1, 31.51431385724787).
 strada('w1040181479', 'service', 'w1040181479', 1, 20, 1, 14.495296178474106).
 strada('w1040186446', 'service', 'w1040186446', 1, 20, 1, 205.883641811247).
 strada('w1040770883', 'residential', 'Via Ettore Fieramosca', 1, 30, 1, 6.132465309356617).
@@ -13932,18 +13932,18 @@ strada('w1040770892', 'service', 'w1040770892', 0, 20, 1, 56.595251089268054).
 strada('w1040770893', 'service', 'w1040770893', 0, 20, 1, 27.799701504824025).
 strada('w1040770894', 'service', 'w1040770894', 0, 20, 1, 60.67220628115557).
 strada('w1040770895', 'service', 'w1040770895', 0, 20, 1, 25.91237310562863).
-strada('w1040770896', 'service', 'w1040770896', 0, 20, 1, 67.36551796204168).
+strada('w1040770896', 'service', 'w1040770896', 0, 10, 1, 67.36551796204168).
 strada('w1040770897', 'service', 'w1040770897', 1, 20, 1, 210.9559098374726).
-strada('w1040774295', 'service', 'w1040774295', 0, 20, 1, 225.8825900738272).
-strada('w1042247910', 'service', 'Autoparco Croce Rossa Italiana - BARI', 0, 20, 1, 70.49247764353943).
+strada('w1040774295', 'service', 'w1040774295', 0, 10, 1, 225.8825900738272).
+strada('w1042247910', 'service', 'Autoparco Croce Rossa Italiana - BARI', 0, 10, 1, 70.49247764353943).
 strada('w1043372469', 'residential', 'w1043372469', 0, 20, 1, 13.598328131441162).
 strada('w1043372470', 'secondary', 'w1043372470', 1, 30, 1, 9.255221035376852).
 strada('w1043372471', 'secondary', 'w1043372471', 1, 50, 1, 9.647655640533007).
-strada('w1043372472', 'secondary', 'w1043372472', 1, 50, 1, 9.36991875575276).
+strada('w1043372472', 'secondary', 'w1043372472', 1, 30, 1, 9.36991875575276).
 strada('w1043372473', 'secondary', 'w1043372473', 1, 50, 1, 10.008565158610704).
 strada('w1043372474', 'residential', 'w1043372474', 0, 30, 1, 27.030556994934848).
-strada('w1043372475', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 2, 57.28205576623129).
-strada('w1043372476', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 2, 73.87361970493009).
+strada('w1043372475', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 2, 57.28205576623129).
+strada('w1043372476', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 2, 73.87361970493009).
 strada('w1043372477', 'secondary_link', 'w1043372477', 1, 30, 1, 27.724635300097162).
 strada('w1043372479', 'secondary_link', 'w1043372479', 1, 30, 2, 18.151153885038916).
 strada('w1043667958', 'service', 'w1043667958', 0, 20, 1, 200.06476065188707).
@@ -13958,21 +13958,21 @@ strada('w1043675211', 'secondary_link', 'w1043675211', 1, 30, 1, 116.35921067698
 strada('w1043675212', 'secondary', 'w1043675212', 1, 50, 1, 187.983638526894).
 strada('w1043675213', 'service', 'w1043675213', 0, 10, 1, 17.923517904180674).
 strada('w1043675214', 'unclassified', 'w1043675214', 1, 30, 1, 12.507126260321783).
-strada('w1043675215', 'tertiary', 'Via Camillo Rosalba', 0, 30, 1, 18.046728520525814).
+strada('w1043675215', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 18.046728520525814).
 strada('w1043675216', 'unclassified', 'w1043675216', 1, 30, 1, 156.70056746586874).
 strada('w1043675217', 'service', 'w1043675217', 0, 20, 1, 19.39185471292762).
-strada('w1043675218', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 16.85518501118828).
+strada('w1043675218', 'tertiary', 'Via Camillo Rosalba', 0, 30, 1, 16.85518501118828).
 strada('w1043675219', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 13.129279862982088).
 strada('w1043675220', 'tertiary', 'Via Camillo Rosalba', 0, 30, 1, 21.35132591684629).
 strada('w1043675221', 'service', 'w1043675221', 0, 20, 1, 22.615460424784153).
-strada('w1043675222', 'tertiary', 'Via Camillo Rosalba', 0, 40, 1, 82.15976137378912).
+strada('w1043675222', 'tertiary', 'Via Camillo Rosalba', 0, 30, 1, 82.15976137378912).
 strada('w1043675223', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 18.55251769942955).
 strada('w1043675225', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 14.347958878585098).
 strada('w1043675227', 'tertiary', 'Via Ospedale di Venere', 0, 50, 1, 9.049900969985773).
 strada('w1043675228', 'service', 'w1043675228', 0, 10, 1, 68.4030585273199).
 strada('w1043675229', 'service', 'w1043675229', 0, 10, 1, 44.68575805486828).
 strada('w1043675230', 'service', 'w1043675230', 1, 20, 1, 24.71423091536952).
-strada('w1043675231', 'service', 'w1043675231', 1, 10, 1, 22.460728882394285).
+strada('w1043675231', 'service', 'w1043675231', 1, 20, 1, 22.460728882394285).
 strada('w1043675232', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 35.944750319779175).
 strada('w1043675233', 'service', 'w1043675233', 1, 20, 1, 38.80685908230358).
 strada('w1043675234', 'service', 'w1043675234', 0, 20, 1, 12.023517738682695).
@@ -13980,17 +13980,17 @@ strada('w1043675235', 'service', 'w1043675235', 0, 20, 1, 234.95388598661398).
 strada('w1043675236', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 33.07754518443555).
 strada('w1043675237', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 184.91601596124724).
 strada('w1043677507', 'residential', 'Via Fratelli De Filippo', 0, 50, 2, 86.41940606733712).
-strada('w1043677508', 'service', 'w1043677508', 0, 5, 1, 38.795461639106016).
-strada('w1044777821', 'residential', 'Via Nicola Costa', 0, 30, 1, 2.735934007887193).
+strada('w1043677508', 'service', 'w1043677508', 0, 20, 1, 38.795461639106016).
+strada('w1044777821', 'residential', 'Via Nicola Costa', 0, 20, 1, 2.735934007887193).
 strada('w1044777822', 'residential', 'Via Nicola Costa', 0, 20, 1, 243.96923268539516).
 strada('w1049517351', 'secondary', 'Sottovia Luigi di Savoia', 0, 30, 1, 36.6842137363182).
 strada('w1049517352', 'service', 'w1049517352', 0, 20, 1, 119.36366744491242).
-strada('w1049517353', 'residential', 'Via Andrea Angiulli', 1, 30, 1, 70.11536340682483).
+strada('w1049517353', 'residential', 'Via Andrea Angiulli', 1, 20, 1, 70.11536340682483).
 strada('w1050205363', 'service', 'w1050205363', 1, 20, 1, 21.42285810903804).
 strada('w1051078297', 'unclassified', 'w1051078297', 1, 30, 1, 36.23144009490569).
 strada('w1052988131', 'service', 'w1052988131', 1, 20, 1, 314.1091027152426).
-strada('w1052988132', 'service', 'w1052988132', 1, 20, 1, 38.929704095273436).
-strada('w1052988133', 'service', 'w1052988133', 0, 20, 1, 39.02577763050591).
+strada('w1052988132', 'service', 'w1052988132', 1, 10, 1, 38.929704095273436).
+strada('w1052988133', 'service', 'w1052988133', 0, 10, 1, 39.02577763050591).
 strada('w1052988134', 'service', 'w1052988134', 0, 20, 1, 11.909207561433185).
 strada('w1053386563', 'tertiary', 'Via Camillo Rosalba', 0, 40, 4, 76.25535429489327).
 strada('w1054393232', 'unclassified', 'Strada Catino', 1, 30, 1, 108.86091345489703).
@@ -14010,14 +14010,14 @@ strada('w1057971694', 'service', 'w1057971694', 0, 20, 1, 77.9832363338097).
 strada('w1057971697', 'service', 'w1057971697', 0, 20, 1, 117.0298671336569).
 strada('w1058575896', 'service', 'w1058575896', 1, 20, 1, 100.88749837656191).
 strada('w1058575897', 'service', 'w1058575897', 0, 20, 1, 152.77389169526447).
-strada('w1058575898', 'service', 'w1058575898', 0, 10, 1, 98.06656534388142).
-strada('w1061347823', 'service', 'w1061347823', 0, 20, 1, 15.776889767241627).
+strada('w1058575898', 'service', 'w1058575898', 0, 20, 1, 98.06656534388142).
+strada('w1061347823', 'service', 'w1061347823', 0, 5, 1, 15.776889767241627).
 strada('w1065107600', 'service', 'w1065107600', 1, 20, 1, 20.643483215137298).
 strada('w1065431517', 'service', 'w1065431517', 0, 20, 1, 33.35026879885405).
-strada('w1065431518', 'service', 'w1065431518', 1, 10, 1, 21.27895210166224).
+strada('w1065431518', 'service', 'w1065431518', 1, 20, 1, 21.27895210166224).
 strada('w1065431519', 'service', 'w1065431519', 1, 20, 1, 11.346161249718683).
-strada('w1066894216', 'secondary', 'Lungomare Giambattista e Pietro Starita', 0, 50, 1, 31.129843652942835).
-strada('w1067404885', 'unclassified', 'Via Nicholas Green', 0, 20, 1, 140.23896875000207).
+strada('w1066894216', 'secondary', 'Lungomare Giambattista e Pietro Starita', 0, 30, 1, 31.129843652942835).
+strada('w1067404885', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 140.23896875000207).
 strada('w1067404887', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 151.46317925210212).
 strada('w1067404888', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 50.19040935113208).
 strada('w1067544320', 'residential', 'Lungomare Nove Maggio', 1, 30, 1, 210.5033441163119).
@@ -14029,16 +14029,16 @@ strada('w1067669254', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 34.4452032
 strada('w1067669255', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 151.23174843452853).
 strada('w1067669256', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 57.92706054026864).
 strada('w1067669258', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 19.343455630460603).
-strada('w1067669260', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 103.92880061086022).
+strada('w1067669260', 'unclassified', 'Via Nicholas Green', 0, 20, 1, 103.92880061086022).
 strada('w1067669261', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 25.97872314322499).
-strada('w1067669265', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 56.08788016302928).
+strada('w1067669265', 'unclassified', 'Via Nicholas Green', 0, 20, 1, 56.08788016302928).
 strada('w1067669266', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 13.440036115464988).
 strada('w1067687942', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 80.45002694258848).
 strada('w1067687943', 'unclassified', 'Via Nicholas Green', 0, 30, 1, 20.889815081111617).
-strada('w1067687944', 'unclassified', 'w1067687944', 0, 30, 1, 31.043229574773108).
+strada('w1067687944', 'unclassified', 'w1067687944', 0, 20, 1, 31.043229574773108).
 strada('w1068183088', 'service', 'w1068183088', 0, 20, 1, 252.5331479747728).
 strada('w1068183089', 'service', 'w1068183089', 0, 10, 1, 15.275356141391518).
-strada('w1068183090', 'service', 'w1068183090', 0, 20, 1, 288.0992639974007).
+strada('w1068183090', 'service', 'w1068183090', 0, 10, 1, 288.0992639974007).
 strada('w1068183091', 'service', 'w1068183091', 0, 20, 1, 130.64865642014354).
 strada('w1068183092', 'service', 'w1068183092', 0, 20, 1, 48.122732843930336).
 strada('w1068183093', 'service', 'w1068183093', 0, 20, 1, 15.988282843316908).
@@ -14050,114 +14050,114 @@ strada('w1069689635', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 65.51031008
 strada('w1069689636', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 18.27071166626296).
 strada('w1069689637', 'tertiary', 'w1069689637', 1, 30, 1, 65.7405379084421).
 strada('w1069689638', 'tertiary', 'w1069689638', 1, 40, 1, 50.03331615036106).
-strada('w1069689639', 'tertiary', 'w1069689639', 1, 30, 1, 26.689658592362214).
+strada('w1069689639', 'tertiary', 'w1069689639', 1, 40, 1, 26.689658592362214).
 strada('w1069689640', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 29.534652172853136).
 strada('w1069689641', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 35.942720780335776).
 strada('w1069689643', 'tertiary', 'w1069689643', 1, 40, 1, 21.06768325435538).
-strada('w1069689644', 'tertiary', 'w1069689644', 1, 40, 1, 17.33470284270413).
-strada('w1069689646', 'secondary', 'w1069689646', 1, 30, 1, 27.616855223271685).
+strada('w1069689644', 'tertiary', 'w1069689644', 1, 30, 1, 17.33470284270413).
+strada('w1069689646', 'secondary', 'w1069689646', 1, 50, 1, 27.616855223271685).
 strada('w1069689647', 'secondary', 'w1069689647', 1, 30, 1, 6.913142777370627).
-strada('w1069689648', 'secondary', 'w1069689648', 1, 50, 1, 52.28540372229508).
-strada('w1069689649', 'secondary', 'w1069689649', 1, 30, 1, 10.562152439652202).
-strada('w1069907587', 'residential', 'w1069907587', 0, 10, 1, 78.79954997578176).
-strada('w1069907589', 'residential', 'traverse I Strada Bitonto-Santo Spirito', 0, 20, 1, 25.756431196232256).
+strada('w1069689648', 'secondary', 'w1069689648', 1, 30, 1, 52.28540372229508).
+strada('w1069689649', 'secondary', 'w1069689649', 1, 50, 1, 10.562152439652202).
+strada('w1069907587', 'residential', 'w1069907587', 0, 30, 1, 78.79954997578176).
+strada('w1069907589', 'residential', 'traverse I Strada Bitonto-Santo Spirito', 0, 30, 1, 25.756431196232256).
 strada('w1069907590', 'service', 'w1069907590', 1, 20, 1, 85.10421157572074).
 strada('w1069907591', 'service', 'w1069907591', 1, 20, 1, 55.49201911192414).
-strada('w1069907594', 'service', 'w1069907594', 0, 20, 1, 157.168588522122).
+strada('w1069907594', 'service', 'w1069907594', 0, 10, 1, 157.168588522122).
 strada('w1069907609', 'service', 'w1069907609', 1, 20, 1, 29.603000114556394).
 strada('w1070241807', 'residential', 'w1070241807', 0, 20, 1, 85.16610608409391).
-strada('w1070241808', 'residential', 'w1070241808', 0, 30, 1, 76.69897806487906).
-strada('w1070241809', 'residential', 'w1070241809', 0, 30, 1, 20.364748263426698).
-strada('w1070241810', 'service', 'w1070241810', 0, 20, 1, 36.365853457319076).
+strada('w1070241808', 'residential', 'w1070241808', 0, 20, 1, 76.69897806487906).
+strada('w1070241809', 'residential', 'w1070241809', 0, 20, 1, 20.364748263426698).
+strada('w1070241810', 'service', 'w1070241810', 0, 10, 1, 36.365853457319076).
 strada('w1070589229', 'service', 'w1070589229', 1, 20, 1, 95.36973816693903).
 strada('w1070589230', 'service', 'w1070589230', 0, 20, 1, 70.1892320750302).
 strada('w1070589231', 'service', 'w1070589231', 0, 20, 1, 60.855123246900796).
 strada('w1070589232', 'primary', 'Viale della Costituente', 1, 50, 1, 23.623033116255556).
-strada('w1070589233', 'primary', 'Viale della Costituente', 1, 30, 1, 112.37526423568787).
+strada('w1070589233', 'primary', 'Viale della Costituente', 1, 50, 1, 112.37526423568787).
 strada('w1070593443', 'unclassified', 'Strada vicinale San Giorgio Martire', 0, 30, 1, 25.68571756582616).
 strada('w1070593444', 'service', 'w1070593444', 0, 20, 1, 153.5745799226217).
 strada('w1070593445', 'service', 'Lidl', 0, 20, 1, 16.71959564628242).
 strada('w1070593446', 'service', 'Lidl', 0, 20, 1, 16.560167890293897).
 strada('w1070593447', 'service', 'w1070593447', 0, 20, 1, 69.52674311731931).
-strada('w1070593448', 'service', 'Lidl', 0, 20, 1, 15.858903884679167).
+strada('w1070593448', 'service', 'Lidl', 0, 10, 1, 15.858903884679167).
 strada('w1070593449', 'service', 'Strada vicinale San Giorgio Martire', 0, 20, 1, 28.8029073932436).
 strada('w1070593450', 'service', 'w1070593450', 0, 20, 1, 182.77719638408888).
-strada('w1070600005', 'secondary', 'Via Francesco Crispi', 1, 50, 1, 60.469047683214086).
+strada('w1070600005', 'secondary', 'Via Francesco Crispi', 1, 30, 1, 60.469047683214086).
 strada('w1070600006', 'secondary', 'Via Francesco Crispi', 1, 50, 1, 11.991354844004475).
 strada('w1070600007', 'secondary', 'Via Francesco Crispi', 1, 50, 1, 43.79222920341472).
-strada('w1070600008', 'unclassified', 'w1070600008', 1, 30, 1, 41.64170417904019).
+strada('w1070600008', 'unclassified', 'w1070600008', 1, 20, 1, 41.64170417904019).
 strada('w1070600009', 'unclassified', 'w1070600009', 1, 30, 1, 43.86092448873227).
 strada('w1070605626', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 55.385859682094825).
-strada('w1070609213', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 1, 61.80753297354633).
-strada('w1071322930', 'residential', 'w1071322930', 0, 30, 1, 387.08245648856916).
+strada('w1070609213', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 1, 61.80753297354633).
+strada('w1071322930', 'residential', 'w1071322930', 0, 20, 1, 387.08245648856916).
 strada('w1071322931', 'service', 'w1071322931', 0, 20, 1, 112.07366895673384).
 strada('w1071322932', 'service', 'w1071322932', 0, 20, 1, 14.742076029301955).
 strada('w1071351755', 'unclassified', 'w1071351755', 0, 30, 1, 53.781208302793225).
-strada('w1071351756', 'unclassified', 'w1071351756', 1, 30, 1, 112.82665916840674).
+strada('w1071351756', 'unclassified', 'w1071351756', 1, 20, 1, 112.82665916840674).
 strada('w1071351757', 'unclassified', 'w1071351757', 1, 30, 1, 19.937725740447316).
 strada('w1072196976', 'secondary', 'w1072196976', 1, 50, 1, 17.30425448035526).
 strada('w1072196977', 'secondary', 'w1072196977', 1, 50, 1, 20.780992385658884).
-strada('w1072196978', 'secondary', 'w1072196978', 1, 30, 1, 13.22077021326577).
+strada('w1072196978', 'secondary', 'w1072196978', 1, 50, 1, 13.22077021326577).
 strada('w1072196979', 'secondary', 'w1072196979', 1, 50, 1, 13.279876006083517).
 strada('w1072196980', 'secondary', 'w1072196980', 1, 50, 1, 23.76459146758651).
 strada('w1072196981', 'tertiary', 'w1072196981', 1, 30, 1, 5.684367291209678).
-strada('w1072196982', 'tertiary', 'w1072196982', 1, 30, 1, 12.178193007493501).
+strada('w1072196982', 'tertiary', 'w1072196982', 1, 40, 1, 12.178193007493501).
 strada('w1072196983', 'tertiary', 'w1072196983', 1, 40, 1, 33.94235329689172).
-strada('w1072196984', 'tertiary', 'w1072196984', 1, 30, 1, 21.93362173027311).
-strada('w1072196985', 'tertiary', 'w1072196985', 1, 30, 1, 29.715397150197507).
+strada('w1072196984', 'tertiary', 'w1072196984', 1, 40, 1, 21.93362173027311).
+strada('w1072196985', 'tertiary', 'w1072196985', 1, 40, 1, 29.715397150197507).
 strada('w1072196986', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 7.950547008458436).
-strada('w1072196987', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 17.76871239264204).
-strada('w1072196988', 'tertiary', 'Strada Santa Caterina', 1, 30, 1, 28.754148489739137).
+strada('w1072196987', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 17.76871239264204).
+strada('w1072196988', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 28.754148489739137).
 strada('w1072196989', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 30.328457873058518).
-strada('w1072196991', 'tertiary', 'w1072196991', 1, 30, 1, 10.540100558268561).
-strada('w1072196992', 'tertiary', 'w1072196992', 1, 30, 1, 25.878259533022018).
+strada('w1072196991', 'tertiary', 'w1072196991', 1, 40, 1, 10.540100558268561).
+strada('w1072196992', 'tertiary', 'w1072196992', 1, 40, 1, 25.878259533022018).
 strada('w1072196993', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 23.492899232165612).
 strada('w1072196994', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 14.36869950430722).
 strada('w1072196995', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 20.851099445732878).
-strada('w1072705776', 'residential', 'Via tenente Francesco de Liguori', 0, 30, 1, 53.53442357478807).
+strada('w1072705776', 'residential', 'Via tenente Francesco de Liguori', 0, 20, 1, 53.53442357478807).
 strada('w1074206894', 'unclassified', 'w1074206894', 0, 20, 1, 162.1598157956483).
 strada('w1074206895', 'tertiary', 'Via Coppa di Bari', 0, 40, 1, 25.2113673094541).
 strada('w1074206896', 'tertiary', 'Via Coppa di Bari', 0, 40, 1, 166.32258146866238).
-strada('w1077604230', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 20, 1, 110.1124480357296).
+strada('w1077604230', 'residential', 'Via Giuseppe Fanelli 289/TER', 0, 30, 1, 110.1124480357296).
 strada('w1077633455', 'residential', 'w1077633455', 1, 30, 1, 6.704095727654353).
-strada('w1078484684', 'residential', 'Piazza Luigi di Savoia', 1, 20, 1, 63.02921956496347).
+strada('w1078484684', 'residential', 'Piazza Luigi di Savoia', 1, 30, 1, 63.02921956496347).
 strada('w1083740671', 'secondary_link', 'w1083740671', 1, 30, 1, 275.4463785708983).
 strada('w1083740672', 'service', 'w1083740672', 0, 20, 1, 370.7892885818276).
-strada('w1083740673', 'service', 'w1083740673', 0, 20, 1, 161.82728773124376).
+strada('w1083740673', 'service', 'w1083740673', 0, 10, 1, 161.82728773124376).
 strada('w1083740674', 'service', 'w1083740674', 0, 20, 1, 123.9527829852447).
 strada('w1083740675', 'service', 'w1083740675', 0, 20, 1, 123.95399292792467).
-strada('w1084621722', 'residential', 'Via Cortese', 0, 20, 1, 146.48552573259718).
+strada('w1084621722', 'residential', 'Via Cortese', 0, 30, 1, 146.48552573259718).
 strada('w1084621723', 'residential', 'Via di Santo Spirito Genova', 0, 20, 1, 152.9937594557247).
-strada('w1084621724', 'residential', 'Via di Santo Spirito Venezia', 0, 10, 1, 95.61054644562601).
+strada('w1084621724', 'residential', 'Via di Santo Spirito Venezia', 0, 30, 1, 95.61054644562601).
 strada('w1086007701', 'unclassified', 'w1086007701', 0, 30, 1, 119.94651436066438).
 strada('w1086007702', 'service', 'w1086007702', 0, 20, 1, 271.2962399671119).
-strada('w1086007703', 'unclassified', 'II traversa San Giorgio', 0, 20, 1, 71.07525222231985).
+strada('w1086007703', 'unclassified', 'II traversa San Giorgio', 0, 30, 1, 71.07525222231985).
 strada('w1086007704', 'residential', 'Strada Porticello', 0, 30, 2, 194.40646592646232).
 strada('w1086007705', 'unclassified', 'II traversa San Giorgio', 0, 30, 1, 78.24503527852167).
-strada('w1086007706', 'unclassified', 'Strada del Pantano', 0, 30, 1, 417.54617052298505).
-strada('w1087169721', 'service', 'w1087169721', 0, 10, 1, 119.66849332662862).
+strada('w1086007706', 'unclassified', 'Strada del Pantano', 0, 20, 1, 417.54617052298505).
+strada('w1087169721', 'service', 'w1087169721', 0, 20, 1, 119.66849332662862).
 strada('w1087173410', 'unclassified', 'Strada Catino', 1, 30, 1, 44.97357888755526).
 strada('w1087173411', 'unclassified', 'w1087173411', 1, 30, 1, 40.33876968909894).
 strada('w1087173412', 'unclassified', 'Strada Catino', 1, 30, 1, 107.77735101589195).
 strada('w1087178175', 'unclassified', 'Via Gregorio Ancona', 1, 30, 1, 199.08183243688583).
 strada('w1087178176', 'residential', 'Via Gregorio Ancona', 0, 20, 2, 10.580401033262122).
-strada('w1087178177', 'residential', 'Via Gregorio Ancona', 0, 30, 2, 9.999248168548071).
-strada('w1087178179', 'residential', 'Via Gregorio Ancona', 1, 20, 1, 149.2116294375802).
-strada('w1087178180', 'residential', 'Via Gregorio Ancona', 1, 30, 2, 149.40785135901234).
+strada('w1087178177', 'residential', 'Via Gregorio Ancona', 0, 10, 2, 9.999248168548071).
+strada('w1087178179', 'residential', 'Via Gregorio Ancona', 1, 30, 1, 149.2116294375802).
+strada('w1087178180', 'residential', 'Via Gregorio Ancona', 1, 20, 2, 149.40785135901234).
 strada('w1087178181', 'service', 'w1087178181', 0, 20, 1, 101.87612654280895).
 strada('w1087178182', 'service', 'w1087178182', 0, 20, 1, 174.57402933168763).
 strada('w1092132876', 'residential', 'Via Vincenzo Roppo', 0, 20, 1, 237.34252506668545).
 strada('w1092135162', 'residential', 'Via Nino Bixio', 0, 30, 1, 44.2050091190936).
-strada('w1092136438', 'residential', 'Via Bainsizza', 0, 20, 1, 29.21444091184418).
-strada('w1092136439', 'residential', 'w1092136439', 0, 20, 1, 19.60943327887246).
+strada('w1092136438', 'residential', 'Via Bainsizza', 0, 30, 1, 29.21444091184418).
+strada('w1092136439', 'residential', 'w1092136439', 0, 30, 1, 19.60943327887246).
 strada('w1099346651', 'service', 'w1099346651', 0, 20, 1, 52.70820629548563).
 strada('w1101445138', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 43.841213914266106).
 strada('w1101445139', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 22.96329893073309).
 strada('w1101445140', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 25.366287172457334).
 strada('w1101445141', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 24.863448135890557).
-strada('w1101445142', 'unclassified', 'Via Glomerelli', 1, 20, 1, 24.50365146502686).
+strada('w1101445142', 'unclassified', 'Via Glomerelli', 1, 30, 1, 24.50365146502686).
 strada('w1101445143', 'unclassified', 'Via Glomerelli', 1, 30, 1, 22.760073346690227).
-strada('w1101445145', 'unclassified', 'w1101445145', 1, 30, 1, 19.794741044522922).
+strada('w1101445145', 'unclassified', 'w1101445145', 1, 20, 1, 19.794741044522922).
 strada('w1101445146', 'unclassified', 'w1101445146', 1, 30, 1, 28.480190747330663).
 strada('w1102537130', 'service', 'w1102537130', 0, 20, 1, 38.799896373586215).
 strada('w1102537131', 'service', 'w1102537131', 0, 20, 1, 87.36208352053987).
@@ -14167,64 +14167,64 @@ strada('w1103221159', 'unclassified', 'Via Savino Schino', 0, 30, 1, 110.1976926
 strada('w1105768921', 'primary', 'Viale Domenico Cotugno', 1, 30, 2, 47.329385762973146).
 strada('w1107330352', 'secondary', 'Via Orfeo Mazzitelli', 1, 50, 2, 679.9229938907961).
 strada('w1107330353', 'residential', 'Via Orfeo Mazzitelli', 0, 50, 1, 339.3791871520774).
-strada('w1107330354', 'residential', 'Via Orfeo Mazzitelli', 0, 30, 1, 256.2269419703589).
-strada('w1107330355', 'residential', 'Via Orfeo Mazzitelli', 0, 30, 1, 205.762970598195).
+strada('w1107330354', 'residential', 'Via Orfeo Mazzitelli', 0, 20, 1, 256.2269419703589).
+strada('w1107330355', 'residential', 'Via Orfeo Mazzitelli', 0, 20, 1, 205.762970598195).
 strada('w1110778123', 'unclassified', 'Via Iqbal Masih', 0, 30, 1, 483.55790030799267).
 strada('w1112471676', 'residential', 'via Stanislao Bernardini', 1, 30, 1, 77.63034390268189).
-strada('w1112472177', 'residential', 'w1112472177', 1, 30, 1, 112.7007081616056).
+strada('w1112472177', 'residential', 'w1112472177', 1, 10, 1, 112.7007081616056).
 strada('w1112472178', 'residential', 'w1112472178', 1, 30, 1, 77.74632818751759).
 strada('w1112472841', 'residential', 'via Stanislao Bernardini', 1, 30, 1, 9.295854470498213).
 strada('w1112472842', 'service', 'w1112472842', 0, 20, 1, 42.22009569862534).
 strada('w1112472843', 'residential', 'w1112472843', 0, 30, 1, 41.33534562429385).
-strada('w1112994889', 'service', 'w1112994889', 1, 10, 1, 257.94473874675936).
+strada('w1112994889', 'service', 'w1112994889', 1, 20, 1, 257.94473874675936).
 strada('w1116389728', 'unclassified', 'w1116389728', 0, 30, 1, 127.85548248844248).
 strada('w1116389729', 'unclassified', 'Via Carlo Citelli', 0, 30, 1, 349.23587548126136).
 strada('w1116392182', 'residential', 'w1116392182', 0, 20, 1, 5.889254723272034).
 strada('w1116392183', 'service', 'w1116392183', 0, 20, 1, 78.63768080559305).
 strada('w1116392184', 'service', 'w1116392184', 0, 20, 1, 187.38645217951077).
 strada('w1116392185', 'service', 'w1116392185', 0, 20, 1, 156.3499119672093).
-strada('w1116392191', 'service', 'w1116392191', 0, 10, 1, 34.32421266335033).
+strada('w1116392191', 'service', 'w1116392191', 0, 20, 1, 34.32421266335033).
 strada('w1116392192', 'service', 'w1116392192', 0, 20, 1, 32.68154469043936).
 strada('w1116392198', 'residential', 'w1116392198', 0, 30, 1, 43.73074914763276).
 strada('w1116392199', 'service', 'w1116392199', 0, 20, 1, 200.47395403319263).
-strada('w1116392200', 'residential', 'w1116392200', 0, 20, 1, 152.90412092465778).
+strada('w1116392200', 'residential', 'w1116392200', 0, 30, 1, 152.90412092465778).
 strada('w1116392201', 'residential', 'w1116392201', 0, 30, 1, 192.72189615768735).
 strada('w1116392202', 'residential', 'w1116392202', 0, 30, 1, 28.9210544606906).
-strada('w1116392203', 'residential', 'w1116392203', 0, 30, 1, 71.875772657957).
+strada('w1116392203', 'residential', 'w1116392203', 0, 20, 1, 71.875772657957).
 strada('w1116392204', 'residential', 'w1116392204', 0, 30, 1, 106.25573177412049).
 strada('w1116392205', 'residential', 'w1116392205', 0, 30, 1, 71.4330588648858).
 strada('w1116392206', 'residential', 'w1116392206', 0, 30, 1, 81.56679813124418).
-strada('w1116392207', 'residential', 'w1116392207', 0, 30, 1, 196.35301631042483).
+strada('w1116392207', 'residential', 'w1116392207', 0, 20, 1, 196.35301631042483).
 strada('w1116392209', 'residential', 'w1116392209', 0, 30, 1, 212.7345620320518).
-strada('w1116392210', 'residential', 'w1116392210', 0, 30, 1, 124.54528508978194).
-strada('w1116392211', 'residential', 'w1116392211', 0, 30, 1, 9.944862339363787).
-strada('w1116392212', 'residential', 'w1116392212', 0, 30, 1, 11.302806363940887).
+strada('w1116392210', 'residential', 'w1116392210', 0, 20, 1, 124.54528508978194).
+strada('w1116392211', 'residential', 'w1116392211', 0, 20, 1, 9.944862339363787).
+strada('w1116392212', 'residential', 'w1116392212', 0, 20, 1, 11.302806363940887).
 strada('w1116392213', 'residential', 'w1116392213', 0, 30, 1, 194.76916961350867).
 strada('w1116392214', 'residential', 'w1116392214', 0, 30, 1, 375.9094378980475).
 strada('w1116392215', 'unclassified', 'w1116392215', 0, 30, 1, 72.03983568143416).
 strada('w1116929581', 'service', 'Polipark', 1, 20, 1, 20.407794359671872).
 strada('w1116929582', 'service', 'w1116929582', 1, 20, 1, 29.409144554025467).
 strada('w1118345916', 'tertiary_link', 'w1118345916', 0, 30, 1, 13.565142666752713).
-strada('w1118886206', 'secondary', 'Piazza Luigi di Savoia', 1, 30, 1, 110.55047646260714).
+strada('w1118886206', 'secondary', 'Piazza Luigi di Savoia', 1, 50, 1, 110.55047646260714).
 strada('w1118886207', 'service', 'w1118886207', 1, 20, 1, 33.005833929126986).
 strada('w1118886208', 'service', 'Piazza Aldo Moro', 0, 20, 1, 3.439120174078763).
 strada('w1119464909', 'residential', 'w1119464909', 1, 20, 1, 37.152011311226104).
 strada('w1121155544', 'secondary_link', 'w1121155544', 1, 30, 1, 17.154579896862177).
 strada('w1121155545', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 2, 26.810332039719043).
 strada('w1121155546', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 2, 31.942745721164002).
-strada('w1121168226', 'tertiary', 'Via Trentino Alto Adige', 1, 30, 1, 69.13738275524393).
-strada('w1123140157', 'residential', 'Via Napoli', 0, 20, 1, 328.6583992716302).
-strada('w1123581334', 'unclassified', 'w1123581334', 1, 30, 1, 24.342455808004008).
+strada('w1121168226', 'tertiary', 'Via Trentino Alto Adige', 1, 40, 1, 69.13738275524393).
+strada('w1123140157', 'residential', 'Via Napoli', 0, 30, 1, 328.6583992716302).
+strada('w1123581334', 'unclassified', 'w1123581334', 1, 20, 1, 24.342455808004008).
 strada('w1123581335', 'unclassified', 'w1123581335', 1, 30, 1, 15.706490749169728).
-strada('w1123585310', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 24.598951653365457).
+strada('w1123585310', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 24.598951653365457).
 strada('w1123880798', 'secondary_link', 'w1123880798', 1, 30, 1, 66.87957366277868).
 strada('w1123880799', 'service', 'w1123880799', 0, 20, 1, 29.781353599169996).
 strada('w1123880802', 'service', 'w1123880802', 0, 20, 1, 17.194492490630715).
 strada('w1123880803', 'service', 'w1123880803', 0, 20, 1, 11.055479089881306).
 strada('w1123880804', 'service', 'w1123880804', 0, 20, 1, 57.585633406976214).
 strada('w1124568218', 'secondary_link', 'Viale Papa Giovanni Ventitreesimo', 1, 30, 1, 77.89078227880267).
-strada('w1125023761', 'residential', 'w1125023761', 0, 30, 1, 90.58370083132631).
-strada('w1125023762', 'residential', 'Via Principessa Mafalda', 0, 20, 1, 134.07564709939885).
+strada('w1125023761', 'residential', 'w1125023761', 0, 20, 1, 90.58370083132631).
+strada('w1125023762', 'residential', 'Via Principessa Mafalda', 0, 30, 1, 134.07564709939885).
 strada('w1125792367', 'primary', 'Viale Domenico Cotugno', 1, 50, 1, 47.11189943087367).
 strada('w1125793763', 'service', 'w1125793763', 1, 20, 1, 19.447550075670215).
 strada('w1125793764', 'service', 'w1125793764', 0, 20, 1, 93.94380230270083).
@@ -14232,16 +14232,16 @@ strada('w1125815267', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 2, 35.4630667
 strada('w1125815268', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 2, 28.060603532255417).
 strada('w1130684811', 'secondary', 'Viale Beato JosemarÃ­a EscrivÃ¡', 1, 30, 1, 49.77054439710744).
 strada('w1130684812', 'secondary', 'Viale Beato JosemarÃ­a EscrivÃ¡', 0, 50, 1, 27.38089796644699).
-strada('w1130684813', 'tertiary', 'Via Camillo Rosalba', 0, 30, 2, 145.88761527067362).
+strada('w1130684813', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 145.88761527067362).
 strada('w1130684814', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 13.393938014108283).
 strada('w1132397630', 'service', 'w1132397630', 0, 20, 1, 106.66997980478885).
 strada('w1132397631', 'service', 'w1132397631', 0, 20, 1, 70.23468776255453).
 strada('w1132397632', 'service', 'w1132397632', 0, 20, 1, 24.861388058084586).
 strada('w1135075612', 'primary_link', 'w1135075612', 1, 40, 1, 17.824598921660108).
-strada('w1135075613', 'residential', 'Viale Quinto Orazio Flacco', 0, 30, 1, 15.233104216067893).
-strada('w1135075614', 'residential', 'w1135075614', 0, 20, 1, 105.94526093202533).
-strada('w1135075615', 'residential', 'w1135075615', 0, 5, 1, 99.24111411010593).
-strada('w1135075616', 'residential', 'w1135075616', 0, 20, 1, 60.07095534103617).
+strada('w1135075613', 'residential', 'Viale Quinto Orazio Flacco', 0, 20, 1, 15.233104216067893).
+strada('w1135075614', 'residential', 'w1135075614', 0, 30, 1, 105.94526093202533).
+strada('w1135075615', 'residential', 'w1135075615', 0, 30, 1, 99.24111411010593).
+strada('w1135075616', 'residential', 'w1135075616', 0, 30, 1, 60.07095534103617).
 strada('w1135075617', 'residential', 'w1135075617', 0, 20, 1, 32.538568217066114).
 strada('w1137577093', 'primary_link', 'w1137577093', 1, 40, 1, 124.59755086644314).
 strada('w1137577500', 'unclassified', 'Viale delle Murge', 0, 30, 1, 56.30807647129957).
@@ -14249,11 +14249,11 @@ strada('w1137581589', 'secondary', 'w1137581589', 1, 30, 1, 24.30449674562111).
 strada('w1137581590', 'secondary', 'Viale Louis Pasteur', 1, 50, 1, 22.91675904117479).
 strada('w1137581591', 'unclassified', 'w1137581591', 1, 30, 1, 23.80228611899069).
 strada('w1137581592', 'secondary', 'Viale Louis Pasteur', 1, 30, 2, 24.560081120752223).
-strada('w1137605122', 'residential', 'Via Stefano Speranza', 0, 20, 1, 80.69115208237876).
-strada('w1137605124', 'residential', 'Via LibertÃ ', 1, 30, 1, 82.3800535280028).
+strada('w1137605122', 'residential', 'Via Stefano Speranza', 0, 30, 1, 80.69115208237876).
+strada('w1137605124', 'residential', 'Via LibertÃ ', 1, 20, 1, 82.3800535280028).
 strada('w1137605125', 'residential', 'Via Francesco Petrelli', 1, 30, 1, 20.880436162821997).
 strada('w1137605126', 'residential', 'Via Francesco Petrelli', 1, 30, 1, 14.443381592860058).
-strada('w1137605127', 'residential', 'Via Scipione Crisanzio', 0, 30, 1, 5.71105174978613).
+strada('w1137605127', 'residential', 'Via Scipione Crisanzio', 0, 20, 1, 5.71105174978613).
 strada('w1143854229', 'residential', 'Via Gaetano Devitofrancesco', 1, 30, 1, 57.98604883960969).
 strada('w1144951071', 'motorway', 'Autostrada Adriatica', 1, 130, 2, 330.95788832418316).
 strada('w1144951072', 'motorway', 'Autostrada Adriatica', 1, 130, 2, 64.103356891731).
@@ -14264,11 +14264,11 @@ strada('w1146088384', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1
 strada('w1146088387', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 107.5925377052905).
 strada('w1147940971', 'unclassified', 'w1147940971', 1, 30, 1, 19.41333545813881).
 strada('w1148140222', 'unclassified', 'w1148140222', 1, 30, 1, 26.022527032812903).
-strada('w1148140223', 'unclassified', 'w1148140223', 0, 20, 1, 155.76500746615224).
+strada('w1148140223', 'unclassified', 'w1148140223', 0, 30, 1, 155.76500746615224).
 strada('w1148140224', 'unclassified', 'w1148140224', 1, 30, 1, 24.634711000664375).
 strada('w1148140225', 'unclassified', 'w1148140225', 1, 30, 1, 79.9580318480116).
-strada('w1148140226', 'unclassified', 'w1148140226', 1, 20, 1, 25.616087304462273).
-strada('w1148140227', 'unclassified', 'w1148140227', 1, 30, 1, 22.564525267912202).
+strada('w1148140226', 'unclassified', 'w1148140226', 1, 30, 1, 25.616087304462273).
+strada('w1148140227', 'unclassified', 'w1148140227', 1, 20, 1, 22.564525267912202).
 strada('w1148140228', 'unclassified', 'w1148140228', 1, 30, 1, 24.406440987164714).
 strada('w1148226647', 'tertiary', 'w1148226647', 1, 40, 1, 37.34829767536133).
 strada('w1149132309', 'unclassified', 'w1149132309', 1, 30, 1, 20.928574725822614).
@@ -14279,44 +14279,44 @@ strada('w1152950246', 'secondary', 'Viale Beato Josemaria EscrivÃ ', 1, 50, 1,
 strada('w1155315512', 'service', 'Pronto Soccorso - Policlinico di Bari', 0, 20, 1, 91.67772753728343).
 strada('w1157760111', 'secondary', 'Viale Beato Josemaria EscrivÃ ', 1, 30, 1, 59.11325319451523).
 strada('w1157760112', 'secondary', 'Viale Beato Josemaria EscrivÃ ', 1, 50, 1, 310.7635737819915).
-strada('w1157857543', 'service', 'w1157857543', 1, 20, 1, 11.42329817445115).
-strada('w1157857544', 'service', 'w1157857544', 0, 20, 1, 36.295783039994426).
+strada('w1157857543', 'service', 'w1157857543', 1, 10, 1, 11.42329817445115).
+strada('w1157857544', 'service', 'w1157857544', 0, 10, 1, 36.295783039994426).
 strada('w1157857545', 'service', 'w1157857545', 0, 20, 1, 168.8648745936617).
 strada('w1157857547', 'service', 'w1157857547', 0, 20, 1, 76.74015896266371).
 strada('w1157857548', 'residential', 'Via Salvatore Pietrocola', 0, 30, 1, 156.1919063916039).
-strada('w1157857549', 'residential', 'Viale delle Murge', 0, 20, 1, 109.67017202825889).
-strada('w1157857550', 'residential', 'Viale delle Murge', 1, 5, 1, 92.3924041333452).
+strada('w1157857549', 'residential', 'Viale delle Murge', 0, 30, 1, 109.67017202825889).
+strada('w1157857550', 'residential', 'Viale delle Murge', 1, 30, 1, 92.3924041333452).
 strada('w1157857551', 'primary', 'Via Generale Nicola Bellomo', 0, 30, 2, 22.08570762053457).
 strada('w1157857552', 'primary', 'Via Generale Nicola Bellomo', 0, 50, 2, 216.02006515724324).
 strada('w1158134594', 'residential', 'w1158134594', 1, 30, 1, 25.377011806509273).
 strada('w1158134595', 'residential', 'w1158134595', 1, 30, 1, 13.259697531512783).
-strada('w1158134596', 'residential', 'w1158134596', 0, 30, 1, 33.54305543284778).
-strada('w1158134597', 'service', 'w1158134597', 0, 20, 1, 12.451312591528195).
+strada('w1158134596', 'residential', 'w1158134596', 0, 20, 1, 33.54305543284778).
+strada('w1158134597', 'service', 'w1158134597', 0, 10, 1, 12.451312591528195).
 strada('w1158147444', 'unclassified', 'w1158147444', 1, 30, 1, 24.826050953476035).
 strada('w1158147446', 'unclassified', 'w1158147446', 1, 30, 1, 22.545676554726064).
 strada('w1158147447', 'unclassified', 'w1158147447', 1, 30, 1, 21.61458770023245).
 strada('w1158147448', 'unclassified', 'w1158147448', 1, 30, 1, 21.301376200227583).
-strada('w1158150503', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 1, 135.63348205298607).
+strada('w1158150503', 'secondary', 'Via Giuseppe Sangiorgi', 1, 30, 1, 135.63348205298607).
 strada('w1158669976', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 17.659491225680892).
-strada('w1159706696', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 102.74047693173668).
-strada('w1159706697', 'secondary', 'Via Giuseppe Solarino', 1, 30, 2, 72.91538546611844).
+strada('w1159706696', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 102.74047693173668).
+strada('w1159706697', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 72.91538546611844).
 strada('w1159706698', 'secondary', 'Via Giuseppe Solarino', 1, 50, 2, 60.5529731137965).
 strada('w1159983175', 'service', 'w1159983175', 1, 20, 1, 80.74313387791906).
-strada('w1160381226', 'unclassified', 'Via Iqbal Masih', 0, 30, 1, 384.0655582311055).
+strada('w1160381226', 'unclassified', 'Via Iqbal Masih', 0, 20, 1, 384.0655582311055).
 strada('w1160381228', 'service', 'w1160381228', 0, 20, 1, 9.257829289783583).
 strada('w1160381229', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 1, 30, 1, 11.639590752868909).
 strada('w1160381230', 'residential', 'traverse II Strada Bitonto-Santo Spirito', 1, 30, 1, 10.016097510210871).
 strada('w1160381231', 'unclassified', 'Via Iqbal Masih', 0, 50, 1, 159.93827695244048).
-strada('w1160381232', 'service', 'w1160381232', 0, 20, 1, 16.546567008655504).
+strada('w1160381232', 'service', 'w1160381232', 0, 10, 1, 16.546567008655504).
 strada('w1160654970', 'service', 'w1160654970', 0, 20, 1, 63.19121255653157).
 strada('w1160654976', 'service', 'w1160654976', 0, 20, 1, 25.126693002405496).
 strada('w1160654978', 'service', 'w1160654978', 0, 20, 1, 9.98207300727045).
 strada('w1160654979', 'service', 'w1160654979', 0, 20, 1, 16.858296126551604).
 strada('w1160825687', 'service', 'w1160825687', 0, 20, 1, 10.383135196752198).
 strada('w1160825688', 'service', 'w1160825688', 0, 20, 1, 21.59309643262422).
-strada('w1160825689', 'service', 'w1160825689', 0, 10, 1, 3.157977672094912).
+strada('w1160825689', 'service', 'w1160825689', 0, 20, 1, 3.157977672094912).
 strada('w1160825690', 'service', 'w1160825690', 0, 20, 1, 10.829460175125234).
-strada('w1160825691', 'service', 'w1160825691', 0, 20, 1, 16.71189975850482).
+strada('w1160825691', 'service', 'w1160825691', 0, 10, 1, 16.71189975850482).
 strada('w1160825692', 'service', 'w1160825692', 0, 20, 1, 6.413880594598366).
 strada('w1160825693', 'service', 'w1160825693', 0, 20, 1, 7.619329619076726).
 strada('w1161026307', 'tertiary', 'Via Napoli', 1, 40, 1, 13.054274637501031).
@@ -14330,12 +14330,12 @@ strada('w1165909751', 'secondary_link', 'w1165909751', 1, 30, 2, 35.670680991909
 strada('w1166190594', 'service', 'w1166190594', 1, 20, 1, 27.10461596601899).
 strada('w1166190595', 'service', 'w1166190595', 0, 20, 1, 33.33709347863685).
 strada('w1166190596', 'service', 'w1166190596', 1, 20, 1, 28.079308101229238).
-strada('w1166190598', 'tertiary', 'Via Cavour', 0, 30, 1, 236.0694404614947).
-strada('w1167944479', 'primary', 'Viale Domenico Cotugno', 1, 50, 1, 40.63869060244335).
+strada('w1166190598', 'tertiary', 'Via Cavour', 0, 40, 1, 236.0694404614947).
+strada('w1167944479', 'primary', 'Viale Domenico Cotugno', 1, 30, 1, 40.63869060244335).
 strada('w1167944481', 'secondary_link', 'w1167944481', 1, 30, 1, 19.305040714029495).
 strada('w1167944482', 'primary', 'Viale Domenico Cotugno', 1, 30, 2, 350.8287351318673).
 strada('w1167944485', 'service', 'w1167944485', 0, 20, 1, 23.983183998904394).
-strada('w1170683221', 'service', 'w1170683221', 1, 20, 1, 141.7594897742563).
+strada('w1170683221', 'service', 'w1170683221', 1, 10, 1, 141.7594897742563).
 strada('w1170683224', 'service', 'w1170683224', 0, 20, 1, 3.991593933374452).
 strada('w1170696238', 'service', 'w1170696238', 0, 20, 1, 95.62604428687716).
 strada('w1170696239', 'service', 'w1170696239', 1, 20, 1, 131.38063828079567).
@@ -14361,31 +14361,31 @@ strada('w1174583190', 'service', 'w1174583190', 0, 20, 1, 138.264009861876).
 strada('w1174583191', 'service', 'w1174583191', 1, 20, 1, 22.989316533747342).
 strada('w1174583192', 'service', 'w1174583192', 0, 20, 1, 43.52960935799523).
 strada('w1174583193', 'residential', 'w1174583193', 0, 30, 1, 131.3453981459961).
-strada('w1174583194', 'residential', 'w1174583194', 0, 20, 1, 5.689599895398061).
-strada('w1174583210', 'residential', 'w1174583210', 0, 30, 1, 96.19032446229134).
-strada('w1174583211', 'residential', 'w1174583211', 0, 30, 1, 152.94312755063663).
+strada('w1174583194', 'residential', 'w1174583194', 0, 30, 1, 5.689599895398061).
+strada('w1174583210', 'residential', 'w1174583210', 0, 20, 1, 96.19032446229134).
+strada('w1174583211', 'residential', 'w1174583211', 0, 20, 1, 152.94312755063663).
 strada('w1174583212', 'residential', 'w1174583212', 0, 30, 1, 144.5910616247277).
-strada('w1174583213', 'residential', 'w1174583213', 0, 20, 1, 5.212397177173153).
-strada('w1174583214', 'residential', 'w1174583214', 0, 30, 1, 21.96991292345853).
+strada('w1174583213', 'residential', 'w1174583213', 0, 30, 1, 5.212397177173153).
+strada('w1174583214', 'residential', 'w1174583214', 0, 20, 1, 21.96991292345853).
 strada('w1174583215', 'service', 'w1174583215', 1, 20, 1, 22.20000072296316).
 strada('w1175201458', 'primary', 'Via Generale Nicola Bellomo', 0, 50, 2, 63.48399062988784).
 strada('w1175201459', 'tertiary', 'Strada Santa Caterina', 0, 30, 2, 475.1424138491193).
 strada('w1175201475', 'secondary_link', 'w1175201475', 1, 30, 2, 39.96458718824496).
 strada('w1175364787', 'service', 'w1175364787', 0, 20, 1, 45.22367006850259).
-strada('w1175373546', 'secondary', 'Viale Beato Josemaria EscrivÃ ', 1, 50, 1, 157.97302432209676).
+strada('w1175373546', 'secondary', 'Viale Beato Josemaria EscrivÃ ', 1, 30, 1, 157.97302432209676).
 strada('w1175373547', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 406.97764406754834).
 strada('w1175373548', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 9.1390442881331).
-strada('w1175373549', 'residential', 'w1175373549', 1, 20, 1, 14.886227916147053).
-strada('w1175375754', 'service', 'w1175375754', 1, 20, 1, 85.27425675224846).
-strada('w1177928034', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 91.14616250211262).
-strada('w1179766133', 'service', 'w1179766133', 0, 20, 1, 39.85539703070876).
+strada('w1175373549', 'residential', 'w1175373549', 1, 30, 1, 14.886227916147053).
+strada('w1175375754', 'service', 'w1175375754', 1, 10, 1, 85.27425675224846).
+strada('w1177928034', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 30, 1, 91.14616250211262).
+strada('w1179766133', 'service', 'w1179766133', 0, 10, 1, 39.85539703070876).
 strada('w1180402018', 'service', 'II Traversa Camillo Rosalba', 0, 20, 1, 96.3161614119072).
 strada('w1180402019', 'service', 'w1180402019', 0, 20, 1, 42.031464881397646).
 strada('w1180402020', 'service', 'w1180402020', 0, 20, 1, 41.630397515770085).
 strada('w1180503870', 'service', 'w1180503870', 0, 20, 1, 94.92588267167409).
 strada('w1180503871', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 243.1026777332522).
-strada('w1180503876', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 390.4118415765352).
-strada('w1180601036', 'service', 'w1180601036', 0, 20, 1, 34.20944631462289).
+strada('w1180503876', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 390.4118415765352).
+strada('w1180601036', 'service', 'w1180601036', 0, 10, 1, 34.20944631462289).
 strada('w1180725483', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 35.11691646804654).
 strada('w1180725484', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 33.46345180324814).
 strada('w1182294222', 'residential', 'Via Cavour', 0, 30, 1, 51.76026620979887).
@@ -14393,8 +14393,8 @@ strada('w1183641370', 'service', 'w1183641370', 0, 20, 1, 169.30001107193195).
 strada('w1183641371', 'service', 'w1183641371', 0, 20, 1, 18.21035952404777).
 strada('w1183641372', 'service', 'w1183641372', 0, 20, 1, 112.92150733763145).
 strada('w1183679776', 'service', 'w1183679776', 0, 20, 1, 79.24179690951246).
-strada('w1183679777', 'service', 'w1183679777', 0, 20, 1, 38.81995093217046).
-strada('w1185502971', 'service', 'w1185502971', 1, 10, 1, 56.94860083665564).
+strada('w1183679777', 'service', 'w1183679777', 0, 10, 1, 38.81995093217046).
+strada('w1185502971', 'service', 'w1185502971', 1, 20, 1, 56.94860083665564).
 strada('w1185502972', 'service', 'w1185502972', 1, 20, 1, 133.17394310498034).
 strada('w1185502973', 'service', 'w1185502973', 1, 20, 1, 56.36624793619211).
 strada('w1185502974', 'service', 'w1185502974', 1, 20, 1, 68.31099255762594).
@@ -14404,8 +14404,8 @@ strada('w1194828969', 'service', 'w1194828969', 0, 20, 1, 60.440987490975786).
 strada('w1194828970', 'service', 'w1194828970', 0, 20, 1, 49.20370996966089).
 strada('w1194828971', 'service', 'w1194828971', 0, 20, 1, 31.298470021426535).
 strada('w1195585436', 'unclassified', 'Via Lucca', 0, 30, 1, 425.5196524435265).
-strada('w1195650282', 'residential', 'Via Dalmazia', 0, 30, 1, 169.39273072361522).
-strada('w1195650283', 'residential', 'Via Dalmazia', 1, 5, 1, 227.43327459293965).
+strada('w1195650282', 'residential', 'Via Dalmazia', 0, 10, 1, 169.39273072361522).
+strada('w1195650283', 'residential', 'Via Dalmazia', 1, 20, 1, 227.43327459293965).
 strada('w1195650284', 'residential', 'Corso Giuseppe Garibaldi', 1, 30, 1, 117.73670053216887).
 strada('w1195650285', 'residential', 'Via Fiume in Santo Spirito', 0, 30, 1, 239.35528884678936).
 strada('w1195650286', 'residential', 'Via Udine', 1, 30, 1, 155.102707306883).
@@ -14417,15 +14417,15 @@ strada('w1196318474', 'service', 'w1196318474', 1, 20, 1, 103.89038331228717).
 strada('w1196435328', 'service', 'w1196435328', 0, 20, 1, 82.18338734949761).
 strada('w1201107282', 'service', 'w1201107282', 1, 20, 1, 3.713389388276539).
 strada('w1201107283', 'service', 'Piazza Aldo Moro', 0, 20, 1, 3.283995843335556).
-strada('w1201107284', 'service', 'w1201107284', 1, 20, 1, 67.9729306019354).
+strada('w1201107284', 'service', 'w1201107284', 1, 10, 1, 67.9729306019354).
 strada('w1204103646', 'service', 'w1204103646', 1, 20, 1, 185.51786168289522).
 strada('w1207817709', 'service', 'w1207817709', 1, 20, 1, 157.43359254928885).
-strada('w1207818695', 'unclassified', 'w1207818695', 1, 20, 1, 90.8859813243946).
+strada('w1207818695', 'unclassified', 'w1207818695', 1, 30, 1, 90.8859813243946).
 strada('w1207818696', 'unclassified', 'w1207818696', 1, 30, 1, 11.519982402430538).
 strada('w1207871459', 'track', 'w1207871459', 0, 30, 1, 111.4152549726585).
 strada('w1207871460', 'track', 'w1207871460', 0, 30, 1, 46.81192558847926).
 strada('w1207871461', 'track', 'w1207871461', 0, 30, 1, 220.28232030089498).
-strada('w1207871462', 'service', 'w1207871462', 0, 20, 1, 192.66953005294084).
+strada('w1207871462', 'service', 'w1207871462', 0, 10, 1, 192.66953005294084).
 strada('w1207871463', 'track', 'w1207871463', 0, 30, 1, 182.78056481563016).
 strada('w1207871464', 'track', 'w1207871464', 0, 30, 1, 208.99149137174606).
 strada('w1207871465', 'track', 'w1207871465', 0, 30, 1, 12.743568717480064).
@@ -14435,15 +14435,15 @@ strada('w1207871468', 'track', 'w1207871468', 0, 30, 1, 81.9321045176959).
 strada('w1207872169', 'track', 'w1207872169', 0, 30, 1, 92.66541444289544).
 strada('w1207872170', 'track', 'w1207872170', 0, 30, 1, 184.80419753492862).
 strada('w1207872171', 'track', 'w1207872171', 0, 30, 1, 104.87240128070732).
-strada('w1207872172', 'service', 'w1207872172', 0, 20, 1, 163.6009832299451).
-strada('w1207872173', 'residential', 'w1207872173', 0, 30, 1, 195.60600739412462).
-strada('w1207872174', 'residential', 'w1207872174', 0, 20, 1, 56.970763322931425).
-strada('w1207872175', 'residential', 'w1207872175', 0, 30, 1, 201.41226760363907).
-strada('w1207872176', 'residential', 'w1207872176', 0, 20, 1, 134.72247785337157).
-strada('w1207872177', 'residential', 'w1207872177', 0, 30, 1, 126.56358777023675).
+strada('w1207872172', 'service', 'w1207872172', 0, 10, 1, 163.6009832299451).
+strada('w1207872173', 'residential', 'w1207872173', 0, 20, 1, 195.60600739412462).
+strada('w1207872174', 'residential', 'w1207872174', 0, 30, 1, 56.970763322931425).
+strada('w1207872175', 'residential', 'w1207872175', 0, 20, 1, 201.41226760363907).
+strada('w1207872176', 'residential', 'w1207872176', 0, 30, 1, 134.72247785337157).
+strada('w1207872177', 'residential', 'w1207872177', 0, 20, 1, 126.56358777023675).
 strada('w1207872178', 'residential', 'w1207872178', 0, 30, 1, 80.5525918926176).
 strada('w1207872179', 'residential', 'w1207872179', 0, 30, 1, 46.7661522858921).
-strada('w1207872180', 'residential', 'w1207872180', 0, 30, 1, 64.12404675733228).
+strada('w1207872180', 'residential', 'w1207872180', 0, 20, 1, 64.12404675733228).
 strada('w1207873183', 'service', 'w1207873183', 0, 20, 1, 225.2218214672517).
 strada('w1207873184', 'service', 'w1207873184', 0, 20, 1, 307.1286814848925).
 strada('w1207873185', 'service', 'w1207873185', 0, 20, 1, 51.36465418390841).
@@ -14453,7 +14453,7 @@ strada('w1207873188', 'service', 'w1207873188', 0, 20, 1, 99.16334827005893).
 strada('w1207873189', 'service', 'w1207873189', 0, 20, 1, 382.97250862447413).
 strada('w1207873190', 'track', 'w1207873190', 0, 30, 1, 128.3736763735064).
 strada('w1207873961', 'service', 'w1207873961', 0, 20, 1, 235.7292957092311).
-strada('w1207873962', 'service', 'w1207873962', 0, 20, 1, 127.49091196885615).
+strada('w1207873962', 'service', 'w1207873962', 0, 10, 1, 127.49091196885615).
 strada('w1207873963', 'service', 'w1207873963', 0, 20, 1, 201.9215790525684).
 strada('w1207873964', 'service', 'w1207873964', 0, 20, 1, 398.4308426299359).
 strada('w1207874973', 'track', 'w1207874973', 0, 30, 1, 390.7945318394146).
@@ -14464,21 +14464,21 @@ strada('w1207876018', 'track', 'w1207876018', 0, 30, 1, 321.1132774094759).
 strada('w1207876019', 'track', 'w1207876019', 0, 30, 1, 92.70547682079994).
 strada('w1207876020', 'track', 'w1207876020', 0, 30, 1, 53.633065330674725).
 strada('w1207876021', 'service', 'w1207876021', 0, 20, 1, 64.22371360539061).
-strada('w1207876022', 'residential', 'w1207876022', 0, 20, 1, 68.85985480836526).
+strada('w1207876022', 'residential', 'w1207876022', 0, 30, 1, 68.85985480836526).
 strada('w1207876023', 'residential', 'w1207876023', 0, 30, 1, 72.15756857918139).
-strada('w1207876024', 'residential', 'w1207876024', 0, 30, 1, 60.0245919942248).
-strada('w1207876025', 'residential', 'w1207876025', 0, 20, 1, 31.780408802817856).
-strada('w1207876026', 'residential', 'w1207876026', 0, 5, 1, 105.42787972594427).
+strada('w1207876024', 'residential', 'w1207876024', 0, 20, 1, 60.0245919942248).
+strada('w1207876025', 'residential', 'w1207876025', 0, 30, 1, 31.780408802817856).
+strada('w1207876026', 'residential', 'w1207876026', 0, 30, 1, 105.42787972594427).
 strada('w1207876027', 'residential', 'w1207876027', 0, 30, 1, 74.47638791808804).
-strada('w1207876028', 'residential', 'w1207876028', 0, 20, 1, 52.3216388412691).
-strada('w1207876029', 'residential', 'w1207876029', 0, 20, 1, 55.60825869816059).
+strada('w1207876028', 'residential', 'w1207876028', 0, 30, 1, 52.3216388412691).
+strada('w1207876029', 'residential', 'w1207876029', 0, 30, 1, 55.60825869816059).
 strada('w1207876030', 'residential', 'w1207876030', 0, 30, 1, 85.7017256819645).
 strada('w1207876031', 'residential', 'w1207876031', 0, 30, 1, 89.2979246863109).
 strada('w1207876032', 'residential', 'w1207876032', 0, 30, 1, 104.89697333008945).
-strada('w1207876033', 'residential', 'w1207876033', 0, 30, 1, 95.95178475904264).
-strada('w1207876034', 'service', 'w1207876034', 0, 10, 1, 35.07782238729328).
+strada('w1207876033', 'residential', 'w1207876033', 0, 20, 1, 95.95178475904264).
+strada('w1207876034', 'service', 'w1207876034', 0, 20, 1, 35.07782238729328).
 strada('w1207876035', 'service', 'w1207876035', 0, 20, 1, 43.81379361362953).
-strada('w1207876036', 'residential', 'w1207876036', 0, 20, 1, 90.79353936091765).
+strada('w1207876036', 'residential', 'w1207876036', 0, 30, 1, 90.79353936091765).
 strada('w1207876037', 'residential', 'w1207876037', 0, 30, 1, 94.41558740540484).
 strada('w1207876038', 'residential', 'w1207876038', 0, 30, 1, 165.28154318101642).
 strada('w1207876039', 'residential', 'w1207876039', 0, 30, 1, 148.2216417854312).
@@ -14488,20 +14488,20 @@ strada('w1207877569', 'track', 'w1207877569', 0, 30, 1, 530.6021809180799).
 strada('w1207877570', 'service', 'w1207877570', 0, 20, 1, 114.67737896802616).
 strada('w1207877571', 'track', 'w1207877571', 0, 30, 1, 393.8339409967494).
 strada('w1208984469', 'service', 'Villa De Grecis', 0, 20, 1, 98.42732781982367).
-strada('w1208984470', 'service', 'w1208984470', 0, 10, 1, 75.31809899245788).
+strada('w1208984470', 'service', 'w1208984470', 0, 20, 1, 75.31809899245788).
 strada('w1210611040', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 50, 2, 18.971031715037554).
 strada('w1210611041', 'residential', 'Largo Cristoforo Colombo', 1, 50, 2, 45.336752548113225).
 strada('w1210924607', 'track', 'w1210924607', 0, 30, 1, 141.35749578866418).
 strada('w1210924608', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 19.631426875104815).
 strada('w1210924609', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 17.72766237774355).
 strada('w1210924610', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 21.53442349496148).
-strada('w1210924611', 'residential', 'w1210924611', 0, 30, 1, 23.81086412326726).
-strada('w1210924612', 'service', 'w1210924612', 0, 20, 1, 135.8119391925683).
+strada('w1210924611', 'residential', 'w1210924611', 0, 20, 1, 23.81086412326726).
+strada('w1210924612', 'service', 'w1210924612', 0, 10, 1, 135.8119391925683).
 strada('w1210924613', 'residential', 'w1210924613', 0, 30, 1, 20.80421849759602).
 strada('w1210924614', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 6.652512986451636).
 strada('w1210924615', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 391.58055718563133).
 strada('w1210927619', 'service', 'w1210927619', 1, 20, 1, 34.13799219613669).
-strada('w1210927620', 'service', 'w1210927620', 0, 10, 1, 42.886056302613646).
+strada('w1210927620', 'service', 'w1210927620', 0, 20, 1, 42.886056302613646).
 strada('w1210927621', 'service', 'w1210927621', 1, 20, 1, 21.921201070398954).
 strada('w1210927622', 'service', 'w1210927622', 1, 20, 1, 22.5203328044997).
 strada('w1210927623', 'service', 'w1210927623', 1, 20, 1, 25.875201866404584).
@@ -14510,7 +14510,7 @@ strada('w1210927625', 'unclassified', 'w1210927625', 0, 30, 1, 30.139838523263).
 strada('w1211804124', 'primary', 'Via Bitritto', 0, 30, 2, 38.51999003464179).
 strada('w1211804125', 'primary', 'Via Bitritto', 0, 30, 2, 29.78187087592815).
 strada('w1211804126', 'primary', 'Via Bitritto', 0, 30, 2, 29.891598384758503).
-strada('w1211957342', 'unclassified', 'w1211957342', 0, 30, 1, 116.89445906311094).
+strada('w1211957342', 'unclassified', 'w1211957342', 0, 20, 1, 116.89445906311094).
 strada('w1211957347', 'unclassified', 'Via Suor M. Lucchesi', 1, 30, 1, 18.68679594334192).
 strada('w1211957348', 'service', 'w1211957348', 0, 20, 1, 129.17809110243795).
 strada('w1211957349', 'residential', 'w1211957349', 0, 20, 1, 103.07926347320841).
@@ -14525,12 +14525,12 @@ strada('w1213547727', 'service', 'w1213547727', 0, 20, 1, 63.3490105860933).
 strada('w1213547731', 'service', 'w1213547731', 0, 20, 1, 33.782026068205454).
 strada('w1213547732', 'service', 'w1213547732', 0, 20, 1, 123.80796028263896).
 strada('w1213547733', 'service', 'w1213547733', 0, 20, 1, 40.417806713265946).
-strada('w1213547734', 'service', 'w1213547734', 0, 20, 1, 119.58734504816361).
-strada('w1213547735', 'service', 'w1213547735', 0, 20, 1, 126.80333655791274).
-strada('w1213547736', 'service', 'w1213547736', 0, 20, 1, 133.0556955108363).
+strada('w1213547734', 'service', 'w1213547734', 0, 10, 1, 119.58734504816361).
+strada('w1213547735', 'service', 'w1213547735', 0, 10, 1, 126.80333655791274).
+strada('w1213547736', 'service', 'w1213547736', 0, 10, 1, 133.0556955108363).
 strada('w1213547737', 'service', 'w1213547737', 0, 20, 1, 107.11587328788424).
 strada('w1213547738', 'service', 'w1213547738', 0, 20, 1, 23.27207705692502).
-strada('w1213547739', 'service', 'w1213547739', 0, 10, 1, 49.452901533851936).
+strada('w1213547739', 'service', 'w1213547739', 0, 20, 1, 49.452901533851936).
 strada('w1213547745', 'track', 'w1213547745', 0, 30, 1, 36.79250774303655).
 strada('w1213547746', 'service', 'Pronto Soccorso Veterinario', 0, 20, 1, 29.241573889417843).
 strada('w1213551188', 'service', 'w1213551188', 0, 20, 1, 46.89633076828713).
@@ -14543,7 +14543,7 @@ strada('w1216005411', 'service', 'w1216005411', 1, 20, 1, 66.67828802559448).
 strada('w1216718234', 'tertiary', 'w1216718234', 0, 40, 2, 4.916963650320959).
 strada('w1216780068', 'track', 'w1216780068', 0, 30, 1, 176.75732041298795).
 strada('w1216834039', 'unclassified', 'Via Madonna delel Grazie', 0, 30, 1, 533.6439459768513).
-strada('w1217064437', 'unclassified', 'Ponte Via Gorizia', 0, 20, 1, 108.84246829993702).
+strada('w1217064437', 'unclassified', 'Ponte Via Gorizia', 0, 30, 1, 108.84246829993702).
 strada('w1217064438', 'unclassified', 'Ponte Via Gorizia', 0, 30, 1, 9.436693453901709).
 strada('w1217506132', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 995.9938459437569).
 strada('w1217506133', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 998.4170506206306).
@@ -14552,9 +14552,9 @@ strada('w1217506135', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 19.8555566283637
 strada('w1217972647', 'service', 'w1217972647', 0, 20, 1, 11.448086820425548).
 strada('w1217972650', 'unclassified', 'w1217972650', 1, 30, 2, 44.59364924727688).
 strada('w1217972651', 'residential', 'Via Martin Lutero', 0, 30, 2, 17.382806252817105).
-strada('w1217972652', 'residential', 'Via Martin Lutero', 1, 20, 1, 54.67317844094264).
+strada('w1217972652', 'residential', 'Via Martin Lutero', 1, 30, 1, 54.67317844094264).
 strada('w1217972653', 'residential', 'Via Martin Lutero', 1, 30, 1, 76.248947817799).
-strada('w1217972655', 'service', 'w1217972655', 0, 20, 1, 406.03530013033276).
+strada('w1217972655', 'service', 'w1217972655', 0, 10, 1, 406.03530013033276).
 strada('w1217972656', 'service', 'w1217972656', 0, 20, 1, 22.140935229105253).
 strada('w1217972657', 'service', 'w1217972657', 0, 20, 1, 141.21523882932672).
 strada('w1217972658', 'service', 'w1217972658', 0, 20, 1, 63.648155139764896).
@@ -14565,45 +14565,45 @@ strada('w1218613080', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara
 strada('w1218613081', 'secondary', 'w1218613081', 1, 50, 1, 36.894469925360085).
 strada('w1218642475', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 1132.1977182723233).
 strada('w1218642476', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 57.765685185615794).
-strada('w1218701165', 'tertiary', 'w1218701165', 1, 40, 1, 41.53412949307342).
+strada('w1218701165', 'tertiary', 'w1218701165', 1, 30, 1, 41.53412949307342).
 strada('w1218701166', 'tertiary', 'w1218701166', 1, 40, 1, 13.886854231448954).
 strada('w1218701167', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 19.483713886974765).
 strada('w1218701168', 'secondary_link', 'Via Bruno Buozzi', 1, 30, 1, 4.879855219732438).
 strada('w1218701169', 'secondary_link', 'w1218701169', 1, 30, 1, 18.15954576450444).
 strada('w1218701170', 'secondary_link', 'w1218701170', 1, 30, 1, 13.65871658088154).
-strada('w1218701171', 'secondary', 'w1218701171', 1, 50, 1, 17.971563363490883).
-strada('w1218701172', 'secondary', 'w1218701172', 1, 50, 1, 7.636426228786256).
-strada('w1218701173', 'secondary', 'w1218701173', 1, 50, 1, 9.656790390949917).
+strada('w1218701171', 'secondary', 'w1218701171', 1, 30, 1, 17.971563363490883).
+strada('w1218701172', 'secondary', 'w1218701172', 1, 30, 1, 7.636426228786256).
+strada('w1218701173', 'secondary', 'w1218701173', 1, 30, 1, 9.656790390949917).
 strada('w1218701174', 'secondary', 'Via Brigata e Divisione Bari', 0, 50, 2, 117.49608682524773).
 strada('w1218701175', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 140.88277614063134).
 strada('w1218701176', 'secondary', 'w1218701176', 1, 30, 2, 32.55630156068474).
-strada('w1218701177', 'secondary', 'Via Apulia', 1, 30, 1, 15.763424907956765).
-strada('w1218701178', 'secondary', 'w1218701178', 1, 50, 1, 170.4054015210282).
-strada('w1218701179', 'primary', 'Via Magna Grecia', 1, 30, 1, 14.682463161854589).
-strada('w1218701180', 'primary', 'Via Magna Grecia', 1, 50, 1, 5.357953317413316).
-strada('w1218701181', 'primary', 'w1218701181', 1, 30, 1, 27.192464330116728).
-strada('w1218701182', 'primary', 'w1218701182', 1, 50, 1, 10.860855672852537).
+strada('w1218701177', 'secondary', 'Via Apulia', 1, 50, 1, 15.763424907956765).
+strada('w1218701178', 'secondary', 'w1218701178', 1, 30, 1, 170.4054015210282).
+strada('w1218701179', 'primary', 'Via Magna Grecia', 1, 50, 1, 14.682463161854589).
+strada('w1218701180', 'primary', 'Via Magna Grecia', 1, 30, 1, 5.357953317413316).
+strada('w1218701181', 'primary', 'w1218701181', 1, 50, 1, 27.192464330116728).
+strada('w1218701182', 'primary', 'w1218701182', 1, 30, 1, 10.860855672852537).
 strada('w1218701183', 'primary', 'w1218701183', 1, 30, 1, 35.246643780650686).
-strada('w1218701184', 'primary', 'w1218701184', 1, 30, 1, 25.441719243943822).
-strada('w1218701185', 'tertiary', 'Via della Resistenza', 1, 30, 1, 82.97480303664018).
+strada('w1218701184', 'primary', 'w1218701184', 1, 50, 1, 25.441719243943822).
+strada('w1218701185', 'tertiary', 'Via della Resistenza', 1, 40, 1, 82.97480303664018).
 strada('w1218701794', 'primary', 'ss96 Altamura- Bari', 1, 60, 2, 529.1570548198429).
 strada('w1218775689', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 38.859197773958066).
 strada('w1218775690', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 191.71962479343574).
-strada('w1218775691', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 54.25119653535212).
+strada('w1218775691', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 54.25119653535212).
 strada('w1218775692', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 19.953022636386102).
-strada('w1218775693', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 17.8831373369312).
-strada('w1218775694', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 18.105643202266464).
+strada('w1218775693', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 17.8831373369312).
+strada('w1218775694', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 18.105643202266464).
 strada('w1218775695', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 31.919553922002372).
-strada('w1218775696', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 21.163737758402476).
-strada('w1218775697', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 41.11221994993883).
+strada('w1218775696', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 21.163737758402476).
+strada('w1218775697', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 41.11221994993883).
 strada('w1218775698', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 5.779782720263036).
 strada('w1218775699', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 410.66252505756427).
-strada('w1218775700', 'tertiary', 'Via della Resistenza', 1, 30, 1, 8.55450878040285).
+strada('w1218775700', 'tertiary', 'Via della Resistenza', 1, 40, 1, 8.55450878040285).
 strada('w1218811749', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 677.8091736488864).
 strada('w1218813905', 'unclassified', 'Via Nazionale', 0, 30, 1, 55.93702439307752).
-strada('w1218813906', 'residential', 'Via Nazionale', 0, 10, 1, 214.35980467078963).
+strada('w1218813906', 'residential', 'Via Nazionale', 0, 20, 1, 214.35980467078963).
 strada('w1218813907', 'tertiary', 'Via Nazionale', 0, 50, 2, 124.90174559151644).
-strada('w1218826549', 'tertiary', 'w1218826549', 1, 40, 1, 47.21600825408813).
+strada('w1218826549', 'tertiary', 'w1218826549', 1, 30, 1, 47.21600825408813).
 strada('w1218826550', 'tertiary', 'w1218826550', 1, 40, 1, 29.965947880013005).
 strada('w1218826551', 'tertiary', 'w1218826551', 1, 40, 1, 16.374879493367025).
 strada('w1218826552', 'tertiary', 'w1218826552', 1, 30, 1, 23.082293626095495).
@@ -14611,21 +14611,21 @@ strada('w1218828936', 'tertiary', 'w1218828936', 1, 40, 1, 10.901758842003265).
 strada('w1218828937', 'unclassified', 'w1218828937', 1, 30, 1, 20.432548404105518).
 strada('w1218831108', 'tertiary', 'w1218831108', 1, 40, 1, 13.49644926587257).
 strada('w1218831109', 'unclassified', 'w1218831109', 1, 30, 1, 7.516333917843122).
-strada('w1218831110', 'unclassified', 'w1218831110', 1, 20, 1, 19.62782844284938).
-strada('w1218831111', 'tertiary', 'w1218831111', 1, 40, 1, 17.584888480454268).
+strada('w1218831110', 'unclassified', 'w1218831110', 1, 30, 1, 19.62782844284938).
+strada('w1218831111', 'tertiary', 'w1218831111', 1, 30, 1, 17.584888480454268).
 strada('w1218846910', 'residential', 'w1218846910', 1, 30, 1, 22.669979531194368).
-strada('w1218858491', 'residential', 'Via Pietro Ravanas', 1, 30, 1, 41.21266814138625).
+strada('w1218858491', 'residential', 'Via Pietro Ravanas', 1, 20, 1, 41.21266814138625).
 strada('w1218864681', 'service', 'w1218864681', 0, 20, 1, 18.33224910441413).
 strada('w1218864682', 'service', 'w1218864682', 0, 20, 1, 21.46150564585211).
 strada('w1218864683', 'service', 'w1218864683', 0, 20, 1, 140.04120512385737).
-strada('w1218865729', 'residential', 'Prima Traversa Strada detta della Marina', 0, 30, 1, 14.143420938167843).
-strada('w1218865730', 'residential', 'Prima Traversa Strada detta della Marina', 0, 20, 1, 13.740931179909555).
+strada('w1218865729', 'residential', 'Prima Traversa Strada detta della Marina', 0, 20, 1, 14.143420938167843).
+strada('w1218865730', 'residential', 'Prima Traversa Strada detta della Marina', 0, 30, 1, 13.740931179909555).
 strada('w1218867671', 'service', 'w1218867671', 0, 20, 1, 79.66401649187286).
-strada('w1218867672', 'service', 'w1218867672', 0, 20, 1, 40.79357441300339).
+strada('w1218867672', 'service', 'w1218867672', 0, 5, 1, 40.79357441300339).
 strada('w1218871922', 'service', 'w1218871922', 0, 20, 1, 34.1777530313918).
 strada('w1218871923', 'service', 'w1218871923', 0, 20, 1, 39.63118855682263).
 strada('w1218871924', 'service', 'w1218871924', 1, 20, 1, 93.45312056774513).
-strada('w1218871925', 'service', 'w1218871925', 1, 10, 1, 99.56684941567416).
+strada('w1218871925', 'service', 'w1218871925', 1, 20, 1, 99.56684941567416).
 strada('w1218871926', 'service', 'w1218871926', 1, 20, 1, 91.38351143545998).
 strada('w1218871928', 'service', 'w1218871928', 0, 20, 1, 533.5216561891045).
 strada('w1218871929', 'service', 'w1218871929', 0, 20, 1, 47.328727919464114).
@@ -14633,9 +14633,9 @@ strada('w1218871930', 'service', 'w1218871930', 0, 20, 1, 47.05923305550094).
 strada('w1218871931', 'service', 'w1218871931', 0, 20, 1, 47.88644001073684).
 strada('w1218871932', 'service', 'w1218871932', 0, 20, 1, 19.523636344915943).
 strada('w1218871933', 'service', 'w1218871933', 0, 20, 1, 20.16305856949363).
-strada('w1218871934', 'service', 'w1218871934', 0, 10, 1, 19.52215306852184).
-strada('w1218871935', 'service', 'w1218871935', 0, 20, 1, 18.605572818906662).
-strada('w1218871936', 'service', 'w1218871936', 0, 20, 1, 61.03678630438198).
+strada('w1218871934', 'service', 'w1218871934', 0, 20, 1, 19.52215306852184).
+strada('w1218871935', 'service', 'w1218871935', 0, 10, 1, 18.605572818906662).
+strada('w1218871936', 'service', 'w1218871936', 0, 10, 1, 61.03678630438198).
 strada('w1218871937', 'service', 'w1218871937', 0, 20, 1, 47.20617954757271).
 strada('w1218871938', 'service', 'w1218871938', 0, 20, 1, 47.40825426172051).
 strada('w1218871939', 'service', 'w1218871939', 0, 20, 1, 47.43665060114453).
@@ -14645,7 +14645,7 @@ strada('w1218881316', 'service', 'w1218881316', 0, 20, 1, 47.1087372537961).
 strada('w1218881317', 'service', 'w1218881317', 0, 20, 1, 46.99395667806366).
 strada('w1218881318', 'service', 'w1218881318', 0, 20, 1, 209.5146895509043).
 strada('w1218881319', 'service', 'w1218881319', 0, 20, 1, 106.26787244170573).
-strada('w1218881320', 'service', 'w1218881320', 0, 10, 1, 84.39042956130626).
+strada('w1218881320', 'service', 'w1218881320', 0, 20, 1, 84.39042956130626).
 strada('w1218881321', 'service', 'w1218881321', 0, 20, 1, 105.75181765740804).
 strada('w1218881322', 'service', 'w1218881322', 0, 20, 1, 31.777345959587187).
 strada('w1218881324', 'service', 'w1218881324', 0, 20, 1, 31.406291926204098).
@@ -14659,28 +14659,28 @@ strada('w1218881331', 'service', 'w1218881331', 0, 20, 1, 33.77162810441602).
 strada('w1218881332', 'service', 'w1218881332', 0, 20, 1, 14.957915731217913).
 strada('w1218881333', 'service', 'w1218881333', 0, 20, 1, 6.856777063885656).
 strada('w1218881334', 'service', 'w1218881334', 0, 20, 1, 31.689797251876353).
-strada('w1218883673', 'residential', 'Via Orazio Flacco - Stradella Calvani', 0, 30, 1, 96.90217409566225).
+strada('w1218883673', 'residential', 'Via Orazio Flacco - Stradella Calvani', 0, 20, 1, 96.90217409566225).
 strada('w1218884838', 'service', 'w1218884838', 0, 20, 1, 95.50680537432763).
 strada('w1218884839', 'service', 'w1218884839', 0, 20, 1, 40.02032532855204).
 strada('w1218948291', 'service', 'w1218948291', 0, 20, 1, 495.5305258062117).
 strada('w1218948292', 'service', 'w1218948292', 0, 20, 1, 33.943453651092526).
 strada('w1218948293', 'service', 'w1218948293', 0, 20, 1, 122.46526192140394).
-strada('w1218949869', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 20, 1, 49.49922295119384).
+strada('w1218949869', 'unclassified', 'Lungomare Cristoforo Colombo', 1, 30, 1, 49.49922295119384).
 strada('w1218952336', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 848.1312277667143).
 strada('w1218973536', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 8.273840564402386).
 strada('w1219030092', 'service', 'w1219030092', 1, 20, 1, 36.46847168167493).
 strada('w1219098066', 'unclassified', 'w1219098066', 1, 30, 1, 22.260387886236398).
-strada('w1219257800', 'residential', 'Strada Cola di Cagno', 0, 20, 2, 456.28162609643266).
+strada('w1219257800', 'residential', 'Strada Cola di Cagno', 0, 30, 2, 456.28162609643266).
 strada('w1219260214', 'residential', 'w1219260214', 0, 30, 1, 47.9235894178197).
 strada('w1219260215', 'residential', 'Via di S. Spirito Carnia', 0, 20, 1, 97.10042875538258).
 strada('w1219261797', 'residential', 'w1219261797', 0, 30, 1, 213.84218748453773).
-strada('w1219261798', 'residential', 'w1219261798', 0, 30, 1, 118.9055336687573).
+strada('w1219261798', 'residential', 'w1219261798', 0, 20, 1, 118.9055336687573).
 strada('w1219261799', 'residential', 'w1219261799', 0, 30, 1, 27.0182698420114).
 strada('w1219261800', 'residential', 'w1219261800', 0, 30, 1, 143.81406097233406).
 strada('w1219261801', 'residential', 'w1219261801', 0, 30, 1, 102.27897240975585).
-strada('w1219261802', 'residential', 'w1219261802', 0, 30, 1, 97.79665322732608).
-strada('w1219261803', 'residential', 'w1219261803', 0, 20, 1, 36.26276272374576).
-strada('w1219261804', 'residential', 'w1219261804', 0, 20, 1, 70.26846070450088).
+strada('w1219261802', 'residential', 'w1219261802', 0, 20, 1, 97.79665322732608).
+strada('w1219261803', 'residential', 'w1219261803', 0, 30, 1, 36.26276272374576).
+strada('w1219261804', 'residential', 'w1219261804', 0, 30, 1, 70.26846070450088).
 strada('w1219265416', 'service', 'w1219265416', 0, 20, 1, 26.172557645534305).
 strada('w1219265417', 'service', 'w1219265417', 0, 20, 1, 45.186577934819574).
 strada('w1219310737', 'unclassified', 'w1219310737', 0, 30, 1, 45.45040508453184).
@@ -14689,12 +14689,12 @@ strada('w1219314112', 'unclassified', 'Via Napoli', 0, 30, 1, 342.5881412404895)
 strada('w1219314992', 'unclassified', 'Via Napoli', 0, 30, 1, 204.99127057828608).
 strada('w1219314993', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 355.8099951186872).
 strada('w1219314994', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 455.2321068547163).
-strada('w1219314995', 'tertiary', 'w1219314995', 1, 40, 1, 29.08281722158003).
-strada('w1219316321', 'tertiary', 'Via Napoli', 0, 30, 1, 288.5740386812308).
+strada('w1219314995', 'tertiary', 'w1219314995', 1, 30, 1, 29.08281722158003).
+strada('w1219316321', 'tertiary', 'Via Napoli', 0, 40, 1, 288.5740386812308).
 strada('w1219316322', 'trunk', 'Strada Statale 16 Adriatica', 1, 80, 2, 204.06664130067975).
 strada('w1219317883', 'unclassified', 'w1219317883', 0, 30, 1, 184.984655864811).
 strada('w1219360741', 'tertiary', 'Piazza Giuseppe Garibaldi', 1, 40, 1, 18.72154870639264).
-strada('w1219360743', 'residential', 'Largo Nicola Nitti Valentini', 1, 20, 1, 12.360605819089189).
+strada('w1219360743', 'residential', 'Largo Nicola Nitti Valentini', 1, 30, 1, 12.360605819089189).
 strada('w1219370528', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 13.539329792843692).
 strada('w1219370529', 'service', 'w1219370529', 1, 20, 1, 3.228023575519453).
 strada('w1219370530', 'residential', 'Via Caduti di Via Fani', 0, 30, 1, 72.413937244658).
@@ -14703,20 +14703,20 @@ strada('w1219371353', 'service', 'w1219371353', 1, 20, 1, 31.930019640622724).
 strada('w1219374770', 'service', 'w1219374770', 1, 20, 1, 50.44355012133754).
 strada('w1219375342', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 55.345407546857).
 strada('w1219375343', 'service', 'w1219375343', 1, 20, 1, 7.729533778965137).
-strada('w1219375344', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 11.086112369137798).
+strada('w1219375344', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 11.086112369137798).
 strada('w1219375345', 'service', 'w1219375345', 1, 30, 1, 6.09925263285912).
 strada('w1219375346', 'service', 'w1219375346', 1, 20, 1, 3.567249386296661).
 strada('w1219504327', 'service', 'w1219504327', 0, 20, 1, 149.2544093758146).
 strada('w1219504328', 'service', 'w1219504328', 0, 20, 1, 40.28954166230609).
 strada('w1219504329', 'track', 'w1219504329', 0, 30, 1, 556.3367705101782).
-strada('w1219540294', 'tertiary', 'Largo 2 Giugno', 1, 40, 1, 16.51334285833154).
+strada('w1219540294', 'tertiary', 'Largo 2 Giugno', 1, 30, 1, 16.51334285833154).
 strada('w1219546800', 'service', 'w1219546800', 1, 20, 1, 42.85701003512042).
 strada('w1219549364', 'service', 'w1219549364', 0, 20, 1, 32.1606712393337).
-strada('w1219549369', 'service', 'w1219549369', 0, 10, 1, 35.69035236953132).
+strada('w1219549369', 'service', 'w1219549369', 0, 20, 1, 35.69035236953132).
 strada('w1219598855', 'tertiary', 'Via della Resistenza', 1, 40, 1, 111.31284120198863).
 strada('w1219598856', 'tertiary', 'Via della Resistenza', 1, 30, 1, 54.91442276635104).
 strada('w1219606327', 'primary', 'Largo 2 Giugno', 1, 50, 1, 18.824254838777627).
-strada('w1219697533', 'service', 'w1219697533', 0, 20, 1, 55.92803703494872).
+strada('w1219697533', 'service', 'w1219697533', 0, 10, 1, 55.92803703494872).
 strada('w1219697534', 'service', 'w1219697534', 0, 20, 1, 13.199807043709692).
 strada('w1219700844', 'service', 'w1219700844', 0, 20, 1, 14.067085874310076).
 strada('w1219700845', 'service', 'w1219700845', 0, 20, 1, 6.266980866158011).
@@ -14724,14 +14724,14 @@ strada('w1219700846', 'service', 'w1219700846', 0, 20, 1, 96.47763558047153).
 strada('w1219700847', 'service', 'w1219700847', 0, 20, 1, 86.72794956630506).
 strada('w1219700848', 'service', 'w1219700848', 0, 20, 1, 48.87807672021171).
 strada('w1219700849', 'service', 'w1219700849', 0, 20, 1, 201.17929221081954).
-strada('w1219700850', 'service', 'w1219700850', 0, 20, 1, 84.777247805662).
-strada('w1219707935', 'residential', 'Via Arturo Toscanini', 0, 30, 1, 54.05143650035511).
-strada('w1219707936', 'tertiary', 'Via Caldarola', 1, 40, 1, 25.438029714172103).
+strada('w1219700850', 'service', 'w1219700850', 0, 10, 1, 84.777247805662).
+strada('w1219707935', 'residential', 'Via Arturo Toscanini', 0, 20, 1, 54.05143650035511).
+strada('w1219707936', 'tertiary', 'Via Caldarola', 1, 30, 1, 25.438029714172103).
 strada('w1219707937', 'unclassified', 'Via Giuseppe Prezzolini', 0, 30, 1, 25.31525330587718).
 strada('w1219707938', 'tertiary', 'Via Caldarola', 1, 40, 1, 119.49859394174949).
-strada('w1219707939', 'unclassified', 'Via Giuseppe Prezzolini', 0, 30, 1, 109.9024700841531).
+strada('w1219707939', 'unclassified', 'Via Giuseppe Prezzolini', 0, 20, 1, 109.9024700841531).
 strada('w1219707940', 'tertiary', 'w1219707940', 1, 40, 1, 23.35887253473498).
-strada('w1219707941', 'tertiary', 'w1219707941', 1, 40, 1, 18.08111508541174).
+strada('w1219707941', 'tertiary', 'w1219707941', 1, 30, 1, 18.08111508541174).
 strada('w1219709475', 'service', 'w1219709475', 0, 20, 1, 10.352019275938362).
 strada('w1219709476', 'service', 'w1219709476', 0, 20, 1, 283.1812381086965).
 strada('w1219709477', 'service', 'w1219709477', 0, 20, 1, 149.5661173743892).
@@ -14739,64 +14739,64 @@ strada('w1219709478', 'service', 'w1219709478', 0, 20, 1, 9.981851776710323).
 strada('w1219709481', 'primary_link', 'Via Giovanni Gentile', 0, 80, 1, 28.5711053332598).
 strada('w1219709482', 'primary_link', 'Via Giovanni Gentile', 0, 80, 1, 8.125702850033601).
 strada('w1219709483', 'service', 'w1219709483', 0, 20, 1, 103.05833084944307).
-strada('w1219709484', 'service', 'w1219709484', 0, 5, 1, 68.00177852351061).
+strada('w1219709484', 'service', 'w1219709484', 0, 20, 1, 68.00177852351061).
 strada('w1219709485', 'service', 'w1219709485', 0, 20, 1, 82.78803911425439).
 strada('w1219709486', 'primary_link', 'Via Giovanni Gentile', 0, 80, 1, 273.0375081734963).
 strada('w1219710091', 'primary', 'w1219710091', 1, 30, 1, 16.783885139110218).
 strada('w1219710092', 'primary', 'w1219710092', 1, 50, 1, 2.712694754818607).
 strada('w1219710093', 'primary', 'Via Adolfo Omodeo', 1, 50, 1, 237.77787327430553).
-strada('w1219710095', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 13.606593161443634).
-strada('w1219711087', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 14.954691765087732).
+strada('w1219710095', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 13.606593161443634).
+strada('w1219711087', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 14.954691765087732).
 strada('w1219711088', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 5.095837040464302).
-strada('w1219711424', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 22.106360379106547).
-strada('w1219711425', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 17.542106050559717).
+strada('w1219711424', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 22.106360379106547).
+strada('w1219711425', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 17.542106050559717).
 strada('w1219735601', 'service', 'w1219735601', 0, 20, 1, 65.01231942299174).
 strada('w1219735602', 'residential', 'w1219735602', 1, 30, 1, 70.40539649285884).
-strada('w1219735603', 'residential', 'Via Eraclide', 0, 5, 1, 350.75857623729433).
-strada('w1219735604', 'tertiary', 'Via Caldarola', 1, 30, 1, 26.901257040273325).
+strada('w1219735603', 'residential', 'Via Eraclide', 0, 30, 1, 350.75857623729433).
+strada('w1219735604', 'tertiary', 'Via Caldarola', 1, 40, 1, 26.901257040273325).
 strada('w1219735605', 'tertiary', 'Via Caldarola', 1, 40, 1, 44.476423190277075).
 strada('w1219735606', 'primary_link', 'w1219735606', 1, 40, 1, 29.963596813688).
-strada('w1219743205', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 107.40224176680698).
+strada('w1219743205', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 107.40224176680698).
 strada('w1219743206', 'residential', 'Via Napoleone Colajanni', 0, 30, 1, 8.750684151493877).
 strada('w1219744082', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 285.0698753488053).
 strada('w1219744083', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 401.3516846199134).
-strada('w1219744683', 'primary', 'w1219744683', 1, 30, 1, 1.898450762386009).
+strada('w1219744683', 'primary', 'w1219744683', 1, 50, 1, 1.898450762386009).
 strada('w1219745579', 'residential', 'Via Edoardo Orabona', 0, 50, 2, 102.86326971132362).
 strada('w1219746771', 'primary', 'w1219746771', 1, 30, 1, 14.91085216146438).
-strada('w1219747090', 'primary', 'Via Magna Grecia', 1, 30, 1, 16.711444243709554).
-strada('w1219747091', 'primary', 'Via Magna Grecia', 1, 50, 1, 10.229687651927941).
+strada('w1219747090', 'primary', 'Via Magna Grecia', 1, 50, 1, 16.711444243709554).
+strada('w1219747091', 'primary', 'Via Magna Grecia', 1, 30, 1, 10.229687651927941).
 strada('w1219747634', 'primary', 'Viale Japigia', 0, 30, 2, 16.079488635532087).
 strada('w1219750918', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 426.33118949980667).
-strada('w1219767813', 'unclassified', 'Via Mimmo Conenna', 1, 30, 1, 11.181996333857933).
+strada('w1219767813', 'unclassified', 'Via Mimmo Conenna', 1, 20, 1, 11.181996333857933).
 strada('w1219767814', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 55.9925856499891).
-strada('w1219787926', 'residential', 'w1219787926', 0, 20, 1, 54.227926872935875).
+strada('w1219787926', 'residential', 'w1219787926', 0, 30, 1, 54.227926872935875).
 strada('w1219867345', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 99.18080430068383).
 strada('w1219867346', 'unclassified', 'Via Fratelli Prayer', 0, 30, 1, 10.37734034608882).
 strada('w1219867347', 'tertiary', 'w1219867347', 1, 30, 1, 17.962270852173443).
 strada('w1219867348', 'tertiary', 'w1219867348', 1, 40, 1, 11.202530802994513).
-strada('w1219872302', 'residential', 'Piazza della LibertÃ ', 0, 20, 1, 5.87593852772646).
-strada('w1219964379', 'secondary', 'w1219964379', 1, 30, 1, 9.074057416442464).
+strada('w1219872302', 'residential', 'Piazza della LibertÃ ', 0, 30, 1, 5.87593852772646).
+strada('w1219964379', 'secondary', 'w1219964379', 1, 50, 1, 9.074057416442464).
 strada('w1219964380', 'secondary', 'w1219964380', 1, 50, 1, 15.953198713045616).
 strada('w1219964878', 'secondary_link', 'w1219964878', 1, 30, 1, 4.55628514512199).
 strada('w1219964879', 'secondary_link', 'w1219964879', 1, 30, 1, 4.555112077406198).
 strada('w1219970954', 'secondary', 'Viale Europa', 0, 50, 1, 262.23150116745825).
 strada('w1219972093', 'residential', 'Via Giovanni Candura', 0, 30, 1, 148.82654572081603).
 strada('w1219973121', 'residential', 'Via Vincenzo Ricchioni', 0, 30, 1, 104.34404618309026).
-strada('w1219973122', 'residential', 'Via Vincenzo Ricchioni', 0, 20, 1, 89.4196103992877).
+strada('w1219973122', 'residential', 'Via Vincenzo Ricchioni', 0, 30, 1, 89.4196103992877).
 strada('w1219973123', 'residential', 'w1219973123', 1, 20, 1, 47.73399697660308).
 strada('w1219973124', 'residential', 'w1219973124', 1, 30, 1, 25.13332297635486).
 strada('w1219973125', 'secondary', 'w1219973125', 1, 50, 1, 64.69103766088067).
-strada('w1219997604', 'unclassified', 'Partenze', 1, 20, 1, 109.9071733113561).
+strada('w1219997604', 'unclassified', 'Partenze', 1, 30, 1, 109.9071733113561).
 strada('w1220256568', 'service', 'w1220256568', 1, 20, 1, 73.60604960034239).
 strada('w1220256569', 'service', 'w1220256569', 0, 20, 1, 21.37096243957739).
 strada('w1220256570', 'service', 'w1220256570', 0, 20, 1, 14.347918153860123).
 strada('w1220256571', 'service', 'w1220256571', 1, 20, 1, 44.48671629992917).
 strada('w1220256572', 'service', 'w1220256572', 0, 20, 1, 39.9507044249571).
 strada('w1220256573', 'service', 'w1220256573', 1, 20, 1, 97.22993549894026).
-strada('w1220256575', 'unclassified', 'w1220256575', 0, 20, 1, 143.93298318820013).
+strada('w1220256575', 'unclassified', 'w1220256575', 0, 30, 1, 143.93298318820013).
 strada('w1220263634', 'service', 'w1220263634', 0, 20, 1, 15.654385747918443).
 strada('w1220263635', 'service', 'w1220263635', 0, 20, 1, 83.92800233488374).
-strada('w1220263641', 'residential', 'w1220263641', 0, 20, 1, 193.76121917605929).
+strada('w1220263641', 'residential', 'w1220263641', 0, 30, 1, 193.76121917605929).
 strada('w1220263642', 'residential', 'w1220263642', 0, 20, 1, 292.19338977345643).
 strada('w1220263643', 'service', 'w1220263643', 0, 20, 1, 211.30868069334602).
 strada('w1220448047', 'unclassified', 'w1220448047', 0, 30, 1, 179.7598482894408).
@@ -14805,14 +14805,14 @@ strada('w1220606619', 'residential', 'Via Giuseppe Re David', 1, 30, 1, 318.3411
 strada('w1220608823', 'service', 'w1220608823', 0, 20, 1, 261.16042089278136).
 strada('w1220608824', 'service', 'w1220608824', 0, 20, 1, 61.42711040580444).
 strada('w1220608825', 'service', 'w1220608825', 0, 20, 1, 18.668047808336144).
-strada('w1220608826', 'service', 'w1220608826', 0, 10, 1, 147.85681132675057).
+strada('w1220608826', 'service', 'w1220608826', 0, 20, 1, 147.85681132675057).
 strada('w1220608827', 'service', 'w1220608827', 0, 20, 1, 6.925034573080203).
-strada('w1220621687', 'tertiary', 'Sottovia Luigi di Savoia', 1, 40, 1, 10.521173157482671).
+strada('w1220621687', 'tertiary', 'Sottovia Luigi di Savoia', 1, 30, 1, 10.521173157482671).
 strada('w1220626088', 'secondary', 'w1220626088', 1, 50, 1, 9.750551687373148).
 strada('w1220626089', 'secondary', 'w1220626089', 0, 50, 1, 18.01216656317399).
-strada('w1220630286', 'secondary', 'w1220630286', 0, 30, 1, 12.759157314872596).
+strada('w1220630286', 'secondary', 'w1220630286', 0, 50, 1, 12.759157314872596).
 strada('w1220689139', 'service', 'w1220689139', 1, 20, 1, 137.75557692526004).
-strada('w1220689140', 'service', 'w1220689140', 1, 20, 1, 9.663774559398176).
+strada('w1220689140', 'service', 'w1220689140', 1, 5, 1, 9.663774559398176).
 strada('w1220689141', 'service', 'w1220689141', 1, 20, 1, 143.4888984280969).
 strada('w1220695432', 'service', 'w1220695432', 0, 20, 1, 14.794521946671948).
 strada('w1220695433', 'service', 'w1220695433', 0, 20, 1, 14.715896425819786).
@@ -14820,45 +14820,45 @@ strada('w1220964531', 'service', 'w1220964531', 0, 20, 1, 51.843010676662445).
 strada('w1220981154', 'service', 'w1220981154', 0, 20, 1, 143.36439823288177).
 strada('w1221237343', 'unclassified', 'Viale dei Sarti', 1, 30, 1, 140.69812259369718).
 strada('w1221237344', 'unclassified', 'Via dei Marmisti', 0, 30, 1, 14.65615404365069).
-strada('w1221237345', 'unclassified', 'Viale dei Sarti', 1, 30, 1, 141.32231963959367).
-strada('w1221418689', 'residential', 'w1221418689', 0, 20, 1, 10.5655475370456).
+strada('w1221237345', 'unclassified', 'Viale dei Sarti', 1, 20, 1, 141.32231963959367).
+strada('w1221418689', 'residential', 'w1221418689', 0, 30, 1, 10.5655475370456).
 strada('w1221418823', 'residential', 'w1221418823', 0, 20, 1, 10.491646040435255).
 strada('w1221420071', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 213.78335208949147).
 strada('w1221420072', 'residential', 'Via Natale Loiacono', 0, 30, 1, 95.62131391948667).
-strada('w1221420934', 'residential', 'Via Pantaleo Carabellese', 0, 30, 1, 76.89868180027877).
+strada('w1221420934', 'residential', 'Via Pantaleo Carabellese', 0, 20, 1, 76.89868180027877).
 strada('w1221422469', 'residential', 'Via Giuseppe Papalia', 0, 30, 1, 39.784154759160714).
 strada('w1221506606', 'residential', 'Via Tenente Francesco de Liguori', 0, 30, 1, 109.73059340140145).
 strada('w1221506608', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 269.2711960554843).
 strada('w1221526658', 'service', 'Strada Torre del Diavolo', 0, 20, 1, 439.09721180009586).
 strada('w1221526660', 'primary', 'Via Magna Grecia', 1, 30, 1, 14.597666429469095).
-strada('w1221526661', 'primary', 'Via Magna Grecia', 1, 50, 1, 5.168280808999314).
-strada('w1221526662', 'secondary', 'Via Peucetia', 1, 30, 1, 170.91364012248005).
+strada('w1221526661', 'primary', 'Via Magna Grecia', 1, 30, 1, 5.168280808999314).
+strada('w1221526662', 'secondary', 'Via Peucetia', 1, 50, 1, 170.91364012248005).
 strada('w1221526663', 'secondary', 'w1221526663', 1, 50, 3, 31.5442887131329).
-strada('w1221526664', 'secondary', 'Corso Trieste', 1, 30, 1, 86.80309381331301).
-strada('w1221526665', 'residential', 'w1221526665', 1, 30, 1, 65.94166280909246).
+strada('w1221526664', 'secondary', 'Corso Trieste', 1, 50, 1, 86.80309381331301).
+strada('w1221526665', 'residential', 'w1221526665', 1, 20, 1, 65.94166280909246).
 strada('w1221528224', 'residential', 'Viale Imperatore Traiano', 0, 20, 1, 16.1487823490045).
 strada('w1221528225', 'residential', 'Corso Sidney Sonnino', 1, 30, 1, 250.50843939309638).
 strada('w1221528226', 'residential', 'Via Gian Giuseppe Carulli', 0, 20, 1, 31.987840995864577).
 strada('w1221535865', 'secondary', 'w1221535865', 1, 50, 1, 5.430350259350517).
-strada('w1221535866', 'secondary', 'w1221535866', 1, 30, 1, 18.54592864326856).
-strada('w1221536237', 'secondary', 'Via di Maratona', 1, 30, 1, 11.33613607678073).
+strada('w1221535866', 'secondary', 'w1221535866', 1, 50, 1, 18.54592864326856).
+strada('w1221536237', 'secondary', 'Via di Maratona', 1, 50, 1, 11.33613607678073).
 strada('w1221536238', 'service', 'w1221536238', 1, 20, 1, 9.222252690346204).
-strada('w1221539087', 'secondary', 'Corso Vittorio Veneto', 0, 30, 4, 112.74950138292871).
+strada('w1221539087', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 112.74950138292871).
 strada('w1221619166', 'service', 'Piazza Aldo Moro', 0, 20, 1, 2.925133550002783).
 strada('w1221619167', 'residential', 'Via Scipione Crisanzio', 1, 30, 1, 95.749440066733).
 strada('w1221619168', 'tertiary', 'Via Quintino Sella', 1, 40, 1, 134.9220918867267).
-strada('w1221619169', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 22.156894358898445).
+strada('w1221619169', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 1, 22.156894358898445).
 strada('w1221619172', 'secondary', 'w1221619172', 1, 30, 1, 19.088717459172834).
 strada('w1221619173', 'secondary', 'w1221619173', 1, 50, 1, 14.636550207436661).
 strada('w1221620552', 'secondary', 'w1221620552', 1, 50, 1, 17.397758021643497).
 strada('w1221620553', 'secondary', 'Via Giuseppe Sangiorgi', 1, 50, 1, 30.720351305272274).
-strada('w1221620555', 'secondary', 'Strada vicinale San Giorgio Martire', 0, 30, 2, 71.81000253248804).
+strada('w1221620555', 'secondary', 'Strada vicinale San Giorgio Martire', 0, 50, 2, 71.81000253248804).
 strada('w1221620557', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 8.64452272277525).
-strada('w1221620558', 'tertiary', 'Sottovia Quintino Sella', 1, 30, 1, 41.06481584170781).
+strada('w1221620558', 'tertiary', 'Sottovia Quintino Sella', 1, 40, 1, 41.06481584170781).
 strada('w1221620560', 'service', 'w1221620560', 1, 20, 1, 3.354260863863677).
 strada('w1221765033', 'tertiary', 'w1221765033', 1, 40, 1, 11.99165982343943).
 strada('w1221765034', 'tertiary', 'w1221765034', 1, 40, 1, 6.020704464657806).
-strada('w1221769562', 'unclassified', 'Via Modugno', 1, 30, 1, 29.563548264476005).
+strada('w1221769562', 'unclassified', 'Via Modugno', 1, 20, 1, 29.563548264476005).
 strada('w1221769563', 'unclassified', 'Via Modugno', 1, 30, 1, 23.165824509184432).
 strada('w1222065309', 'service', 'w1222065309', 0, 20, 1, 91.23556464342303).
 strada('w1222065310', 'service', 'w1222065310', 0, 20, 1, 70.86354848530684).
@@ -14872,65 +14872,65 @@ strada('w1222219647', 'track', 'w1222219647', 0, 30, 1, 172.7112671775605).
 strada('w1222219648', 'track', 'w1222219648', 0, 30, 1, 115.64448903108536).
 strada('w1222219649', 'track', 'w1222219649', 0, 30, 1, 146.03068693227965).
 strada('w1222219650', 'track', 'w1222219650', 0, 30, 1, 196.81042716279083).
-strada('w1222243202', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 136.9332061709653).
+strada('w1222243202', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 136.9332061709653).
 strada('w1222243203', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 126.13043458589566).
-strada('w1222249784', 'secondary', 'w1222249784', 1, 30, 1, 39.63249729509234).
-strada('w1222249785', 'secondary', 'w1222249785', 1, 30, 1, 35.803020770713346).
+strada('w1222249784', 'secondary', 'w1222249784', 1, 50, 1, 39.63249729509234).
+strada('w1222249785', 'secondary', 'w1222249785', 1, 50, 1, 35.803020770713346).
 strada('w1222249786', 'secondary', 'w1222249786', 1, 50, 1, 29.871813646978534).
 strada('w1222249787', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara', 1, 50, 2, 17.36108709272827).
 strada('w1222249788', 'secondary', 'Viale Donato Menichella', 1, 50, 2, 22.118981314517242).
 strada('w1222253343', 'tertiary', 'w1222253343', 1, 40, 1, 2.358470233616167).
-strada('w1222453227', 'unclassified', '4A Strada Torricella', 1, 30, 1, 33.25932949615553).
+strada('w1222453227', 'unclassified', '4A Strada Torricella', 1, 20, 1, 33.25932949615553).
 strada('w1222453228', 'secondary', 'Strada Provinciale 91', 0, 60, 2, 24.275814368177794).
 strada('w1222453229', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 37.80707197775895).
-strada('w1222453230', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 40.25250576317549).
+strada('w1222453230', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 30, 1, 40.25250576317549).
 strada('w1222453231', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 127.09174157164809).
 strada('w1222453232', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 128.13559113437964).
 strada('w1222453233', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 122.99617315012028).
-strada('w1222453234', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 50, 1, 127.70264355113954).
+strada('w1222453234', 'secondary', 'Strada Provinciale Bitonto - Santo Spirito', 1, 30, 1, 127.70264355113954).
 strada('w1222465959', 'secondary', 'w1222465959', 1, 30, 1, 32.982359556608756).
 strada('w1222465960', 'secondary', 'w1222465960', 1, 30, 1, 20.457297276432296).
 strada('w1222466247', 'secondary', 'w1222466247', 1, 30, 1, 32.10382880426496).
 strada('w1222466248', 'secondary', 'w1222466248', 1, 30, 1, 12.30060114402357).
 strada('w1222466249', 'secondary', 'w1222466249', 1, 30, 1, 6.613034227951156).
-strada('w1222467268', 'secondary', 'w1222467268', 0, 50, 1, 128.75449827138246).
-strada('w1222703375', 'tertiary', 'w1222703375', 1, 40, 1, 44.801636555853726).
-strada('w1222703376', 'tertiary', 'w1222703376', 1, 30, 1, 15.700750204791772).
-strada('w1222703377', 'tertiary', 'w1222703377', 1, 30, 1, 31.64412360038468).
+strada('w1222467268', 'secondary', 'w1222467268', 0, 30, 1, 128.75449827138246).
+strada('w1222703375', 'tertiary', 'w1222703375', 1, 30, 1, 44.801636555853726).
+strada('w1222703376', 'tertiary', 'w1222703376', 1, 40, 1, 15.700750204791772).
+strada('w1222703377', 'tertiary', 'w1222703377', 1, 40, 1, 31.64412360038468).
 strada('w1222703378', 'tertiary', 'w1222703378', 1, 40, 1, 6.904896139584836).
 strada('w1222704307', 'unclassified', 'w1222704307', 1, 30, 1, 97.6510461233882).
 strada('w1222704308', 'unclassified', 'w1222704308', 1, 30, 1, 61.663889635642505).
-strada('w1222704309', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 373.6651672215744).
-strada('w1222704310', 'service', 'w1222704310', 0, 20, 1, 57.25839111205732).
+strada('w1222704309', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 373.6651672215744).
+strada('w1222704310', 'service', 'w1222704310', 0, 10, 1, 57.25839111205732).
 strada('w1223005487', 'residential', 'w1223005487', 1, 30, 1, 165.48647747968917).
 strada('w1223005488', 'residential', 'w1223005488', 1, 30, 1, 20.91982653619282).
 strada('w1223005489', 'residential', 'w1223005489', 1, 30, 1, 18.50396826884082).
-strada('w1223005490', 'residential', 'w1223005490', 1, 30, 1, 8.267923841071353).
-strada('w1223005491', 'residential', 'w1223005491', 1, 30, 1, 190.76183190422046).
+strada('w1223005490', 'residential', 'w1223005490', 1, 5, 1, 8.267923841071353).
+strada('w1223005491', 'residential', 'w1223005491', 1, 20, 1, 190.76183190422046).
 strada('w1223005492', 'residential', 'w1223005492', 1, 20, 1, 170.6147802793455).
 strada('w1223005493', 'residential', 'w1223005493', 1, 30, 1, 106.41469020273637).
 strada('w1223005494', 'secondary', 'SP 156 Bitonto - Aeroporto Palese', 0, 70, 2, 152.82340547510216).
 strada('w1223005495', 'residential', 'w1223005495', 1, 20, 1, 175.79108892811672).
 strada('w1223005496', 'secondary', 'SP 156 Bitonto - Aeroporto Palese', 0, 70, 2, 56.037633447742486).
-strada('w1223005497', 'residential', 'w1223005497', 1, 20, 1, 53.57253723437248).
+strada('w1223005497', 'residential', 'w1223005497', 1, 30, 1, 53.57253723437248).
 strada('w1223049030', 'tertiary', 'Viale Luigi De Laurentis', 1, 40, 1, 195.54146816779019).
 strada('w1223049031', 'secondary', 'Viale Madre Teresa di Calcutta', 1, 50, 2, 13.448379918693083).
-strada('w1223049032', 'tertiary', 'Viale Luigi De Laurentis', 1, 30, 1, 332.1548678886542).
+strada('w1223049032', 'tertiary', 'Viale Luigi De Laurentis', 1, 40, 1, 332.1548678886542).
 strada('w1223049033', 'unclassified', 'Viale Saverio Dioguardi', 0, 30, 1, 90.71355561511288).
 strada('w1223050325', 'unclassified', 'Piazzale Mater Ecclesiae', 1, 30, 1, 102.68669608996252).
 strada('w1223050326', 'unclassified', 'Piazzale Mater Ecclesiae', 1, 30, 1, 6.679784141677029).
 strada('w1223050327', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 62.95027924625625).
-strada('w1223051880', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 13.94586451800518).
+strada('w1223051880', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 13.94586451800518).
 strada('w1223051883', 'unclassified', 'Viale Nicola Dell Andro', 1, 30, 1, 198.88293321334618).
-strada('w1223054102', 'tertiary', 'Via Camillo Rosalba', 1, 30, 1, 68.23795852744243).
+strada('w1223054102', 'tertiary', 'Via Camillo Rosalba', 1, 40, 1, 68.23795852744243).
 strada('w1223054103', 'tertiary', 'Via Camillo Rosalba', 0, 40, 2, 117.5898480697775).
 strada('w1223054104', 'unclassified', 'w1223054104', 1, 30, 1, 8.90055140032276).
 strada('w1223054105', 'unclassified', 'w1223054105', 1, 30, 1, 4.930257203096305).
-strada('w1223054106', 'residential', 'Via Robert Kennedy', 0, 20, 1, 86.7801741194454).
+strada('w1223054106', 'residential', 'Via Robert Kennedy', 0, 30, 1, 86.7801741194454).
 strada('w1223054107', 'unclassified', 'Via Martin Luther King', 0, 30, 2, 98.81893899048649).
 strada('w1223054108', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 30.771036450296055).
-strada('w1223059753', 'residential', 'Piazza Giuseppe Massari', 1, 30, 1, 61.541087206265615).
-strada('w1223059754', 'secondary', 'Corso Trieste', 1, 30, 1, 501.24257396497205).
+strada('w1223059753', 'residential', 'Piazza Giuseppe Massari', 1, 20, 1, 61.541087206265615).
+strada('w1223059754', 'secondary', 'Corso Trieste', 1, 50, 1, 501.24257396497205).
 strada('w1223324596', 'unclassified', 'Via Raffaele Bovio', 1, 30, 1, 35.23878825321178).
 strada('w1223324597', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 30, 1, 209.1834237600376).
 strada('w1223324598', 'tertiary', 'Viale Papa Pio Dodicesimo', 0, 40, 2, 9.99971678359833).
@@ -14945,41 +14945,41 @@ strada('w1223328898', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 
 strada('w1223574744', 'service', 'w1223574744', 1, 20, 1, 120.3244203915034).
 strada('w1223846293', 'unclassified', 'Stradella Santa Lucia', 0, 30, 1, 768.0950898094776).
 strada('w1223917252', 'service', 'w1223917252', 0, 20, 1, 5.546333117248671).
-strada('w1223941986', 'service', 'w1223941986', 0, 10, 1, 35.903058496854555).
+strada('w1223941986', 'service', 'w1223941986', 0, 20, 1, 35.903058496854555).
 strada('w1223948311', 'service', 'w1223948311', 1, 20, 1, 35.76379839280448).
 strada('w1223948312', 'service', 'w1223948312', 0, 20, 1, 44.97447068722214).
-strada('w1223950850', 'unclassified', 'w1223950850', 1, 30, 1, 10.961088422909539).
+strada('w1223950850', 'unclassified', 'w1223950850', 1, 20, 1, 10.961088422909539).
 strada('w1223950851', 'service', 'w1223950851', 1, 20, 1, 49.9382640430733).
 strada('w1223950852', 'service', 'w1223950852', 1, 20, 1, 66.32710643836567).
 strada('w1223952298', 'service', 'w1223952298', 0, 20, 1, 36.53888240389463).
 strada('w1223952299', 'service', 'w1223952299', 0, 20, 1, 36.569178187476055).
 strada('w1223952300', 'service', 'w1223952300', 0, 20, 1, 36.14164788595398).
 strada('w1223952301', 'service', 'w1223952301', 0, 20, 1, 35.77277805966039).
-strada('w1223952302', 'service', 'w1223952302', 0, 10, 1, 35.36506340939629).
+strada('w1223952302', 'service', 'w1223952302', 0, 20, 1, 35.36506340939629).
 strada('w1223952303', 'service', 'w1223952303', 0, 20, 1, 35.01768576865018).
 strada('w1223954115', 'service', 'w1223954115', 0, 20, 1, 72.2704276843778).
 strada('w1223954116', 'service', 'w1223954116', 0, 20, 1, 24.653211960857778).
 strada('w1223954117', 'service', 'w1223954117', 0, 20, 1, 20.54630477023708).
-strada('w1223954118', 'service', 'w1223954118', 0, 10, 1, 20.951304483611473).
+strada('w1223954118', 'service', 'w1223954118', 0, 20, 1, 20.951304483611473).
 strada('w1223954120', 'service', 'w1223954120', 0, 20, 1, 39.00995510946895).
 strada('w1223954121', 'service', 'w1223954121', 0, 20, 1, 38.8321732315524).
 strada('w1224423196', 'service', 'w1224423196', 1, 20, 1, 43.386778165620285).
-strada('w1224423201', 'service', 'w1224423201', 0, 10, 1, 21.363664657406588).
+strada('w1224423201', 'service', 'w1224423201', 0, 20, 1, 21.363664657406588).
 strada('w1224423204', 'service', 'w1224423204', 0, 20, 1, 43.131588606112615).
-strada('w1224642807', 'tertiary', 'w1224642807', 0, 40, 1, 7.057797633475921).
-strada('w1224642808', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 30, 2, 13.707801970995128).
-strada('w1224642809', 'tertiary', 'Via de Rossi', 1, 40, 1, 6.411732020260095).
+strada('w1224642807', 'tertiary', 'w1224642807', 0, 30, 1, 7.057797633475921).
+strada('w1224642808', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 2, 13.707801970995128).
+strada('w1224642809', 'tertiary', 'Via de Rossi', 1, 30, 1, 6.411732020260095).
 strada('w1224775962', 'service', 'w1224775962', 0, 20, 1, 40.200421363208676).
 strada('w1224775963', 'service', 'w1224775963', 1, 20, 1, 72.3830718464122).
 strada('w1224775964', 'service', 'w1224775964', 0, 20, 1, 18.095830060484715).
-strada('w1224997113', 'residential', 'w1224997113', 0, 20, 1, 23.990739274503785).
+strada('w1224997113', 'residential', 'w1224997113', 0, 30, 1, 23.990739274503785).
 strada('w1224997115', 'residential', 'Via Conte Mossa', 0, 20, 1, 108.30993316012191).
 strada('w1225021036', 'service', 'w1225021036', 0, 20, 1, 33.918781048199534).
-strada('w1225021037', 'service', 'w1225021037', 0, 10, 1, 76.27193773202411).
+strada('w1225021037', 'service', 'w1225021037', 0, 20, 1, 76.27193773202411).
 strada('w1225162096', 'service', 'w1225162096', 0, 20, 1, 130.31621964574154).
 strada('w1225504354', 'unclassified', 'w1225504354', 1, 50, 1, 63.97336254552722).
 strada('w1225504355', 'unclassified', 'w1225504355', 1, 50, 1, 59.67643328408282).
-strada('w1225526452', 'unclassified', 'w1225526452', 1, 20, 1, 33.7910921289149).
+strada('w1225526452', 'unclassified', 'w1225526452', 1, 30, 1, 33.7910921289149).
 strada('w1225528615', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 121.75395064375414).
 strada('w1225532159', 'tertiary', 'Via Quintino Sella', 1, 40, 1, 77.89085882571209).
 strada('w1225782670', 'secondary_link', 'w1225782670', 1, 30, 1, 20.991573753614375).
@@ -14993,16 +14993,16 @@ strada('w1225782677', 'service', 'w1225782677', 0, 20, 1, 122.66533701562551).
 strada('w1225782678', 'unclassified', 'Via Modugno', 0, 30, 1, 641.3840790727755).
 strada('w1225782679', 'unclassified', 'Via Modugno', 0, 30, 1, 53.57603355921749).
 strada('w1225782680', 'primary', 'ss96 Altamura- Bari', 1, 60, 2, 411.7529595172226).
-strada('w1225784827', 'service', 'w1225784827', 1, 10, 1, 25.083117162073954).
+strada('w1225784827', 'service', 'w1225784827', 1, 20, 1, 25.083117162073954).
 strada('w1225784828', 'tertiary', 'w1225784828', 1, 40, 1, 43.62200591029213).
 strada('w1225784829', 'service', 'w1225784829', 1, 20, 1, 8.981172265450132).
 strada('w1225784830', 'unclassified', 'w1225784830', 0, 30, 1, 77.74841725466734).
-strada('w1225784831', 'unclassified', 'Traversa Via Martiri delle Foibe', 0, 20, 1, 65.56256062664407).
+strada('w1225784831', 'unclassified', 'Traversa Via Martiri delle Foibe', 0, 30, 1, 65.56256062664407).
 strada('w1225784832', 'unclassified', 'Viale Caduti di Nannsiriya', 0, 30, 1, 189.886378253652).
-strada('w1225784833', 'unclassified', 'Via Vincenzo Sassanelli', 0, 30, 1, 93.79586651611184).
-strada('w1225784834', 'unclassified', 'Strada Santa Caterina', 0, 20, 1, 43.45269385089906).
+strada('w1225784833', 'unclassified', 'Via Vincenzo Sassanelli', 0, 20, 1, 93.79586651611184).
+strada('w1225784834', 'unclassified', 'Strada Santa Caterina', 0, 30, 1, 43.45269385089906).
 strada('w1225784835', 'tertiary', 'Strada Santa Caterina', 1, 40, 1, 7.096876051684089).
-strada('w1225784836', 'service', 'w1225784836', 1, 20, 1, 49.924201093873215).
+strada('w1225784836', 'service', 'w1225784836', 1, 5, 1, 49.924201093873215).
 strada('w1225891582', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 58.868813408114406).
 strada('w1225891583', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 280.0769864705133).
 strada('w1225891584', 'trunk', 'Strada Statale 16 Adriatica', 1, 70, 2, 186.85755934418347).
@@ -15014,40 +15014,40 @@ strada('w1225902099', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 15.69377652000
 strada('w1225902100', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 14.993893105174537).
 strada('w1225906528', 'residential', 'Via Antonino Scopelliti', 0, 30, 1, 105.58358485805645).
 strada('w1225908701', 'tertiary', 'Corso Alcide De Gasperi', 0, 50, 1, 265.3777790282635).
-strada('w1225908702', 'residential', 'Via Alberotanza', 0, 30, 1, 251.55940431923153).
-strada('w1225908703', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 186.29780380947787).
-strada('w1225908704', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 225.63115853782753).
+strada('w1225908702', 'residential', 'Via Alberotanza', 0, 20, 1, 251.55940431923153).
+strada('w1225908703', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 186.29780380947787).
+strada('w1225908704', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 225.63115853782753).
 strada('w1225908706', 'primary', 'w1225908706', 1, 30, 1, 13.099999786683707).
-strada('w1225908707', 'residential', 'Via Giuseppe Re David', 1, 20, 1, 118.10041994666138).
-strada('w1225908708', 'secondary', 'Via Gaetano Postiglione', 0, 50, 2, 76.56689098072695).
-strada('w1225908710', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 1, 133.0767684476533).
+strada('w1225908707', 'residential', 'Via Giuseppe Re David', 1, 30, 1, 118.10041994666138).
+strada('w1225908708', 'secondary', 'Via Gaetano Postiglione', 0, 30, 2, 76.56689098072695).
+strada('w1225908710', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 133.0767684476533).
 strada('w1225944155', 'service', 'w1225944155', 0, 20, 1, 15.773655015718298).
 strada('w1225944156', 'service', 'w1225944156', 1, 20, 1, 80.23047410007423).
 strada('w1225944159', 'service', 'w1225944159', 0, 20, 1, 157.0190958860534).
 strada('w1226021809', 'service', 'w1226021809', 1, 20, 1, 26.498325442512005).
 strada('w1226021812', 'service', 'w1226021812', 1, 20, 1, 27.404647152299898).
-strada('w1226021813', 'service', 'w1226021813', 1, 20, 1, 27.131684294025707).
+strada('w1226021813', 'service', 'w1226021813', 1, 10, 1, 27.131684294025707).
 strada('w1226170624', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 2, 45.20364035926439).
 strada('w1226173975', 'secondary', 'Lungomare Araldo di Crollalanza', 0, 50, 4, 305.68272715589296).
-strada('w1226176313', 'secondary', 'w1226176313', 0, 30, 1, 10.205656640136644).
+strada('w1226176313', 'secondary', 'w1226176313', 0, 50, 1, 10.205656640136644).
 strada('w1226176316', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 39.174384922506015).
 strada('w1226184991', 'unclassified', 'Via Spagna', 0, 30, 1, 153.89925506086692).
-strada('w1226186274', 'residential', 'Via Fratelli Prayer', 0, 20, 1, 90.9620018480775).
+strada('w1226186274', 'residential', 'Via Fratelli Prayer', 0, 30, 1, 90.9620018480775).
 strada('w1226186852', 'residential', 'Via Giovanni Papapietro', 0, 30, 1, 113.36983915103059).
-strada('w1226191894', 'residential', 'w1226191894', 1, 30, 1, 27.420767475011505).
-strada('w1226191895', 'residential', 'Via Olanda', 0, 20, 1, 67.95780350776828).
-strada('w1226192170', 'residential', 'w1226192170', 1, 20, 1, 240.21986444196082).
+strada('w1226191894', 'residential', 'w1226191894', 1, 10, 1, 27.420767475011505).
+strada('w1226191895', 'residential', 'Via Olanda', 0, 30, 1, 67.95780350776828).
+strada('w1226192170', 'residential', 'w1226192170', 1, 30, 1, 240.21986444196082).
 strada('w1226192171', 'residential', 'w1226192171', 1, 30, 1, 213.20245487725546).
 strada('w1226238965', 'service', 'w1226238965', 0, 20, 1, 15.886159652718748).
 strada('w1226238983', 'service', 'w1226238983', 0, 20, 1, 18.376446971984926).
 strada('w1226249459', 'residential', 'Via Morelli e Silvati Traversa 48B', 0, 20, 1, 227.81415918653727).
-strada('w1226249460', 'service', 'w1226249460', 0, 20, 1, 163.17001873145801).
-strada('w1226249461', 'residential', 'w1226249461', 0, 20, 1, 211.71989170081252).
+strada('w1226249460', 'service', 'w1226249460', 0, 10, 1, 163.17001873145801).
+strada('w1226249461', 'residential', 'w1226249461', 0, 30, 1, 211.71989170081252).
 strada('w1226252133', 'service', 'w1226252133', 0, 20, 1, 85.26649614976296).
 strada('w1226252134', 'service', 'w1226252134', 0, 20, 1, 12.507630077231978).
 strada('w1226252135', 'service', 'w1226252135', 0, 20, 1, 249.91606524448784).
 strada('w1226325408', 'residential', 'Lungomare Nove Maggio', 0, 30, 2, 251.68541300164065).
-strada('w1226334836', 'service', 'w1226334836', 0, 20, 1, 43.91197496562117).
+strada('w1226334836', 'service', 'w1226334836', 0, 10, 1, 43.91197496562117).
 strada('w1226334837', 'unclassified', 'w1226334837', 1, 30, 1, 33.09091309236639).
 strada('w1226334838', 'service', 'w1226334838', 1, 20, 1, 24.720357085121456).
 strada('w1226334839', 'service', 'w1226334839', 1, 20, 1, 11.287754623499747).
@@ -15058,11 +15058,11 @@ strada('w1226340546', 'service', 'w1226340546', 1, 20, 1, 29.076845728427294).
 strada('w1226340547', 'service', 'w1226340547', 1, 20, 2, 29.738509452870446).
 strada('w1226341887', 'service', 'w1226341887', 0, 20, 1, 13.836740297741844).
 strada('w1226341888', 'service', 'w1226341888', 1, 20, 1, 13.948485915885659).
-strada('w1226341889', 'service', 'w1226341889', 1, 10, 1, 8.06750398921744).
+strada('w1226341889', 'service', 'w1226341889', 1, 20, 1, 8.06750398921744).
 strada('w1226443721', 'service', 'w1226443721', 0, 20, 1, 43.03968649290558).
-strada('w1226443722', 'service', 'w1226443722', 0, 10, 1, 43.66123757608567).
-strada('w1226443723', 'service', 'w1226443723', 0, 20, 1, 43.397756912224).
-strada('w1226449087', 'service', 'w1226449087', 0, 10, 1, 16.978416877757113).
+strada('w1226443722', 'service', 'w1226443722', 0, 20, 1, 43.66123757608567).
+strada('w1226443723', 'service', 'w1226443723', 0, 10, 1, 43.397756912224).
+strada('w1226449087', 'service', 'w1226449087', 0, 20, 1, 16.978416877757113).
 strada('w1226449088', 'service', 'w1226449088', 0, 20, 1, 30.788026370095622).
 strada('w1226454872', 'service', 'w1226454872', 1, 10, 1, 35.29749686587633).
 strada('w1226454873', 'service', 'w1226454873', 1, 20, 1, 25.82919583229846).
@@ -15070,51 +15070,51 @@ strada('w1226505436', 'unclassified', 'Via Nicola Ruffo', 1, 30, 2, 22.548983235
 strada('w1226505437', 'unclassified', 'w1226505437', 1, 30, 1, 38.08136231068503).
 strada('w1226615679', 'residential', 'w1226615679', 0, 30, 1, 17.53473719934216).
 strada('w1226615680', 'service', 'w1226615680', 1, 20, 1, 5.425910717912938).
-strada('w1226615681', 'secondary', 'Via di Maratona', 1, 50, 2, 37.18274305577377).
-strada('w1226615682', 'secondary', 'Via di Maratona', 1, 30, 2, 84.35016325758751).
+strada('w1226615681', 'secondary', 'Via di Maratona', 1, 30, 2, 37.18274305577377).
+strada('w1226615682', 'secondary', 'Via di Maratona', 1, 50, 2, 84.35016325758751).
 strada('w1226615683', 'secondary', 'Via di Maratona', 1, 50, 2, 121.34458662611566).
 strada('w1226624277', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 16.115436690763545).
-strada('w1226624278', 'residential', 'Via Tenente Francesco de Liguori', 0, 30, 1, 17.850428762538083).
+strada('w1226624278', 'residential', 'Via Tenente Francesco de Liguori', 0, 20, 1, 17.850428762538083).
 strada('w1226669091', 'residential', 'w1226669091', 1, 30, 1, 31.839044055581613).
 strada('w1226669092', 'primary', 'Via Giovanni Gentile', 0, 80, 1, 167.2080959255083).
 strada('w1226669095', 'tertiary', 'Strada Complanare Ovest', 0, 70, 1, 761.6762543436846).
 strada('w1226669096', 'tertiary', 'Strada Complanare Est', 0, 80, 1, 519.1360668846963).
 strada('w1226669097', 'tertiary', 'w1226669097', 1, 40, 1, 10.074278772872688).
-strada('w1226669098', 'tertiary', 'w1226669098', 1, 40, 1, 5.60827278334958).
+strada('w1226669098', 'tertiary', 'w1226669098', 1, 30, 1, 5.60827278334958).
 strada('w1226669099', 'unclassified', 'w1226669099', 0, 30, 1, 68.334589630703).
-strada('w1226669100', 'unclassified', 'Via Mimmo Conenna', 1, 20, 2, 121.24693012928562).
+strada('w1226669100', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 121.24693012928562).
 strada('w1226669101', 'unclassified', 'Via Mimmo Conenna', 0, 30, 1, 9.374572883266396).
 strada('w1226669102', 'unclassified', 'Via Mimmo Conenna', 1, 30, 2, 62.6329667508432).
 strada('w1226711785', 'secondary', 'w1226711785', 1, 50, 1, 8.886113226407478).
-strada('w1226715336', 'secondary', 'w1226715336', 1, 50, 1, 11.66419252936794).
-strada('w1226715337', 'primary', 'w1226715337', 1, 30, 1, 125.69401109021713).
+strada('w1226715336', 'secondary', 'w1226715336', 1, 30, 1, 11.66419252936794).
+strada('w1226715337', 'primary', 'w1226715337', 1, 50, 1, 125.69401109021713).
 strada('w1226715340', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 154.16003390720363).
-strada('w1226715341', 'residential', 'w1226715341', 0, 30, 1, 66.86165962684407).
+strada('w1226715341', 'residential', 'w1226715341', 0, 20, 1, 66.86165962684407).
 strada('w1226715342', 'residential', 'w1226715342', 1, 30, 1, 28.20401170442994).
-strada('w1226715343', 'residential', 'w1226715343', 1, 30, 1, 6.360117680148837).
+strada('w1226715343', 'residential', 'w1226715343', 1, 20, 1, 6.360117680148837).
 strada('w1226715344', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 50, 2, 224.89531663300576).
 strada('w1226715345', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 121.01821949907571).
-strada('w1226716498', 'tertiary', 'w1226716498', 1, 40, 1, 38.248764228372146).
+strada('w1226716498', 'tertiary', 'w1226716498', 1, 30, 1, 38.248764228372146).
 strada('w1226716499', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 198.96426454222922).
 strada('w1226716500', 'trunk', 'Tangenziale di Bari', 1, 90, 3, 188.63644113607515).
 strada('w1226716501', 'trunk', 'Via Bitritto', 1, 90, 2, 175.53175571894784).
 strada('w1226716502', 'unclassified', 'w1226716502', 1, 30, 1, 25.096457380757027).
 strada('w1226791223', 'trunk', 'Via Bitritto', 1, 90, 2, 265.7746868291184).
-strada('w1226791224', 'service', 'w1226791224', 0, 20, 1, 56.3852724370608).
+strada('w1226791224', 'service', 'w1226791224', 0, 10, 1, 56.3852724370608).
 strada('w1226791225', 'service', 'w1226791225', 1, 20, 1, 109.98057476293596).
 strada('w1226791226', 'service', 'w1226791226', 1, 20, 1, 93.72399414675508).
 strada('w1226911103', 'service', 'w1226911103', 1, 20, 1, 8.981036780201295).
 strada('w1226911104', 'service', 'w1226911104', 1, 20, 1, 51.24908521254133).
 strada('w1226914463', 'trunk', 'Via Bitritto', 1, 70, 2, 94.18144889355956).
-strada('w1226914464', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 30, 2, 16.37408944398565).
+strada('w1226914464', 'secondary', 'Strada Provinciale Modugno - Carbonara', 1, 10, 2, 16.37408944398565).
 strada('w1226914465', 'secondary', 'w1226914465', 1, 50, 1, 8.229251392304743).
 strada('w1226914466', 'tertiary', 'Largo Paolo Danese', 1, 30, 1, 78.6400966118814).
 strada('w1226914467', 'tertiary', 'Largo Paolo Danese', 1, 30, 1, 16.740123903523212).
-strada('w1226914468', 'residential', 'Via Arpad Weisz', 1, 30, 1, 17.326385828518905).
+strada('w1226914468', 'residential', 'Via Arpad Weisz', 1, 20, 1, 17.326385828518905).
 strada('w1226914469', 'residential', 'w1226914469', 1, 20, 1, 18.32043240802909).
 strada('w1226914470', 'tertiary', 'Strada Torre Tresca', 0, 30, 1, 11.344568065697949).
-strada('w1226917093', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 36.96552969042007).
-strada('w1226917094', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 30, 1, 55.779701768231135).
+strada('w1226917093', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 30, 1, 36.96552969042007).
+strada('w1226917094', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 55.779701768231135).
 strada('w1226917097', 'secondary', 'w1226917097', 1, 50, 1, 22.734392633470964).
 strada('w1226919089', 'trunk', 'Via Bitritto', 1, 90, 2, 324.6206436181285).
 strada('w1226960830', 'service', 'w1226960830', 1, 20, 1, 5.053489740784256).
@@ -15123,36 +15123,36 @@ strada('w1226960833', 'secondary', 'w1226960833', 1, 50, 1, 28.745002183658343).
 strada('w1226960834', 'unclassified', 'w1226960834', 1, 30, 1, 5.897169834754865).
 strada('w1226960835', 'tertiary', 'Via Camillo Rosalba', 0, 40, 4, 16.339282350133306).
 strada('w1226960836', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 19.132119871400274).
-strada('w1226960837', 'tertiary', 'Via Renato Dell Andro', 1, 40, 1, 81.62777744821302).
+strada('w1226960837', 'tertiary', 'Via Renato Dell Andro', 1, 30, 1, 81.62777744821302).
 strada('w1226960838', 'unclassified', 'w1226960838', 1, 30, 1, 59.961323215447706).
-strada('w1227238104', 'tertiary', 'Via Antonio Lucarelli', 1, 40, 1, 25.40216020453979).
+strada('w1227238104', 'tertiary', 'Via Antonio Lucarelli', 1, 30, 1, 25.40216020453979).
 strada('w1227238105', 'unclassified', 'w1227238105', 1, 30, 1, 16.666042960632094).
 strada('w1227238106', 'unclassified', 'Viale Giuseppe Bartolo', 0, 30, 1, 34.84593595538254).
 strada('w1227238107', 'secondary', 'w1227238107', 1, 50, 1, 11.132154668955621).
-strada('w1227238108', 'secondary', 'w1227238108', 1, 50, 1, 5.803042974043042).
-strada('w1227238109', 'secondary', 'Via Napoli', 0, 50, 1, 10.08911208758138).
+strada('w1227238108', 'secondary', 'w1227238108', 1, 30, 1, 5.803042974043042).
+strada('w1227238109', 'secondary', 'Via Napoli', 0, 30, 1, 10.08911208758138).
 strada('w1227238110', 'service', 'w1227238110', 1, 20, 1, 7.27291143644387).
 strada('w1227241434', 'unclassified', 'Viale Giuseppe Bartolo', 0, 30, 1, 14.599834131061053).
-strada('w1227241435', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 12.332157956046519).
+strada('w1227241435', 'tertiary', 'Via Giulio Petroni', 0, 30, 1, 12.332157956046519).
 strada('w1227241436', 'secondary', 'Viale Gennaro Trisorio-Liuzzi', 0, 50, 1, 12.555978260870397).
 strada('w1227241437', 'residential', 'Via Cascia', 0, 30, 1, 11.879740039490017).
-strada('w1227241438', 'unclassified', 'Viale Santa Rita', 1, 20, 1, 12.852434144450715).
-strada('w1227241440', 'residential', 'Contrada Ferrigni', 0, 30, 1, 83.28961646413117).
+strada('w1227241438', 'unclassified', 'Viale Santa Rita', 1, 30, 1, 12.852434144450715).
+strada('w1227241440', 'residential', 'Contrada Ferrigni', 0, 20, 1, 83.28961646413117).
 strada('w1227243305', 'residential', 'Via Fratelli De Filippo', 0, 50, 2, 39.0421921535123).
 strada('w1227452794', 'tertiary', 'Via Caldarola', 1, 40, 1, 65.2683095683396).
-strada('w1227452795', 'residential', 'Viale Archimede', 0, 30, 1, 243.28389816693223).
+strada('w1227452795', 'residential', 'Viale Archimede', 0, 20, 1, 243.28389816693223).
 strada('w1227452796', 'residential', 'w1227452796', 1, 30, 1, 71.01350502036364).
 strada('w1227452797', 'residential', 'w1227452797', 0, 30, 1, 73.6603467571201).
 strada('w1227452798', 'residential', 'Via Giorgio la Pira', 0, 30, 1, 364.3604592215312).
 strada('w1227452800', 'residential', 'Via Giorgio la Pira', 0, 30, 1, 241.75713695878386).
-strada('w1227452802', 'residential', 'Viale Archimede', 0, 20, 1, 229.99042790014107).
-strada('w1227452803', 'residential', 'Via Peucetia', 0, 20, 1, 52.79066277181792).
-strada('w1227452804', 'residential', 'Via Salapia', 0, 20, 1, 12.004651987337668).
-strada('w1227452805', 'residential', 'Via Peucetia', 1, 20, 1, 31.675248487244183).
+strada('w1227452802', 'residential', 'Viale Archimede', 0, 30, 1, 229.99042790014107).
+strada('w1227452803', 'residential', 'Via Peucetia', 0, 30, 1, 52.79066277181792).
+strada('w1227452804', 'residential', 'Via Salapia', 0, 30, 1, 12.004651987337668).
+strada('w1227452805', 'residential', 'Via Peucetia', 1, 30, 1, 31.675248487244183).
 strada('w1227452806', 'residential', 'Via Peucetia', 1, 30, 1, 47.313095332206466).
-strada('w1227452807', 'residential', 'Via Peucetia', 1, 30, 1, 35.82888964299394).
-strada('w1227452810', 'secondary', 'Via Giuseppe Capruzzi', 0, 30, 1, 43.41343919278316).
-strada('w1227457781', 'primary', 'w1227457781', 1, 30, 1, 14.894898022880941).
+strada('w1227452807', 'residential', 'Via Peucetia', 1, 20, 1, 35.82888964299394).
+strada('w1227452810', 'secondary', 'Via Giuseppe Capruzzi', 0, 50, 1, 43.41343919278316).
+strada('w1227457781', 'primary', 'w1227457781', 1, 50, 1, 14.894898022880941).
 strada('w1227457782', 'primary', 'Viale Papa Giovanni Ventitreesimo', 1, 30, 2, 338.8940040619928).
 strada('w1227460005', 'service', 'Via Salvatore Matarrese', 1, 20, 1, 42.862250396769134).
 strada('w1227460006', 'unclassified', 'Via Salvatore Matarrese', 0, 30, 1, 11.962559268848349).
@@ -15163,114 +15163,114 @@ strada('w1227781384', 'service', 'w1227781384', 1, 20, 1, 23.0751935685108).
 strada('w1227781385', 'service', 'w1227781385', 1, 20, 1, 30.271428141422387).
 strada('w1227793587', 'primary', 'Via Magna Grecia', 1, 50, 1, 9.39195996270739).
 strada('w1227793588', 'residential', 'w1227793588', 1, 20, 1, 37.49214358528392).
-strada('w1227793589', 'residential', 'Via Peucetia', 1, 30, 1, 37.532083349327586).
+strada('w1227793589', 'residential', 'Via Peucetia', 1, 20, 1, 37.532083349327586).
 strada('w1227793590', 'residential', 'Viale Archimede', 0, 30, 1, 211.28531368606022).
-strada('w1227793591', 'residential', 'Via Arturo Toscanini', 0, 30, 1, 245.97889371947414).
+strada('w1227793591', 'residential', 'Via Arturo Toscanini', 0, 20, 1, 245.97889371947414).
 strada('w1227793593', 'residential', 'Via Tenente Cesare Suglia', 0, 30, 1, 267.7912829233022).
 strada('w1227793594', 'unclassified', 'w1227793594', 0, 30, 1, 27.06881452191038).
-strada('w1227799000', 'unclassified', 'Via della LealtÃ ', 0, 20, 1, 48.03616221442128).
+strada('w1227799000', 'unclassified', 'Via della LealtÃ ', 0, 30, 1, 48.03616221442128).
 strada('w1227799001', 'unclassified', 'w1227799001', 0, 30, 1, 9.720534960540444).
-strada('w1227799002', 'unclassified', 'Via Gregorio Ancona', 1, 30, 1, 190.95382646326348).
+strada('w1227799002', 'unclassified', 'Via Gregorio Ancona', 1, 20, 1, 190.95382646326348).
 strada('w1227799003', 'unclassified', 'Via Iqbal Masih', 0, 30, 1, 8.80253462687834).
 strada('w1227799004', 'unclassified', 'Via Nicholas Green', 0, 30, 2, 81.40007819955645).
 strada('w1227799005', 'unclassified', 'Via Nicholas Green', 0, 30, 2, 86.40174058029743).
-strada('w1227799007', 'residential', 'Strada Catino', 0, 30, 1, 140.93762583282177).
+strada('w1227799007', 'residential', 'Strada Catino', 0, 20, 1, 140.93762583282177).
 strada('w1227799445', 'unclassified', 'Viale Caravella', 0, 30, 1, 222.520178728963).
 strada('w1227968645', 'unclassified', 'Strada Catino', 1, 30, 1, 7.350407472806581).
 strada('w1227968646', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 122.28375350001208).
 strada('w1227968648', 'tertiary', 'Via Napoli in Santo Spirito', 0, 40, 2, 56.025482854629736).
-strada('w1227968649', 'residential', 'w1227968649', 0, 20, 1, 41.82027879199593).
+strada('w1227968649', 'residential', 'w1227968649', 0, 30, 1, 41.82027879199593).
 strada('w1227985499', 'service', 'Piazza della LibertÃ ', 0, 20, 1, 28.403867208616052).
 strada('w1228005144', 'trunk_link', 'w1228005144', 0, 40, 1, 19.92059177665225).
 strada('w1228005145', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 51.231710646714525).
 strada('w1228005146', 'trunk_link', 'w1228005146', 0, 40, 1, 123.74470166399345).
 strada('w1228005147', 'secondary', 'Via Gabriele D Annunzio', 1, 30, 1, 5.619338678538612).
-strada('w1228005148', 'secondary', 'w1228005148', 1, 50, 1, 19.304135006818488).
+strada('w1228005148', 'secondary', 'w1228005148', 1, 30, 1, 19.304135006818488).
 strada('w1228005149', 'secondary', 'SP 156 Bitonto - Aeroporto Palese', 0, 70, 2, 284.2897207244453).
-strada('w1228005161', 'tertiary', 'w1228005161', 1, 30, 1, 43.02211418511817).
+strada('w1228005161', 'tertiary', 'w1228005161', 1, 40, 1, 43.02211418511817).
 strada('w1228005162', 'tertiary', 'w1228005162', 1, 40, 1, 29.255439888305037).
-strada('w1228054195', 'residential', 'Via Nizza', 0, 30, 1, 31.291094058039786).
+strada('w1228054195', 'residential', 'Via Nizza', 0, 10, 1, 31.291094058039786).
 strada('w1228238385', 'tertiary', 'w1228238385', 1, 40, 1, 44.95188868658437).
 strada('w1228238386', 'tertiary', 'w1228238386', 1, 40, 1, 29.719612107386443).
 strada('w1228238387', 'tertiary', 'w1228238387', 1, 40, 1, 40.74254817182151).
 strada('w1228238388', 'tertiary', 'w1228238388', 1, 40, 1, 22.164631051192263).
-strada('w1228238389', 'tertiary', 'w1228238389', 1, 40, 1, 8.67882807341272).
+strada('w1228238389', 'tertiary', 'w1228238389', 1, 30, 1, 8.67882807341272).
 strada('w1228238390', 'tertiary', 'w1228238390', 0, 40, 1, 134.28608641300028).
-strada('w1228238391', 'unclassified', 'w1228238391', 1, 20, 1, 19.455514920349284).
+strada('w1228238391', 'unclassified', 'w1228238391', 1, 30, 1, 19.455514920349284).
 strada('w1228238392', 'unclassified', 'w1228238392', 1, 30, 1, 3.372461496110566).
-strada('w1228238394', 'unclassified', 'w1228238394', 1, 20, 1, 39.4282242183315).
-strada('w1228238395', 'unclassified', 'w1228238395', 1, 30, 1, 3.844242980391749).
+strada('w1228238394', 'unclassified', 'w1228238394', 1, 30, 1, 39.4282242183315).
+strada('w1228238395', 'unclassified', 'w1228238395', 1, 20, 1, 3.844242980391749).
 strada('w1228238396', 'unclassified', 'w1228238396', 1, 30, 1, 46.8831903575062).
 strada('w1228238397', 'unclassified', 'w1228238397', 1, 30, 1, 27.878905839984892).
 strada('w1228238399', 'unclassified', 'w1228238399', 1, 30, 1, 72.55132291309758).
 strada('w1228243415', 'tertiary', 'w1228243415', 1, 40, 1, 23.403703855472145).
-strada('w1228243416', 'tertiary', 'w1228243416', 1, 30, 1, 8.422202661166).
+strada('w1228243416', 'tertiary', 'w1228243416', 1, 40, 1, 8.422202661166).
 strada('w1228243417', 'unclassified', 'w1228243417', 1, 30, 1, 26.839246453913056).
 strada('w1228243418', 'unclassified', 'w1228243418', 1, 30, 1, 19.275755407350182).
 strada('w1228243419', 'unclassified', 'w1228243419', 1, 30, 1, 8.980631415555944).
 strada('w1228243420', 'unclassified', 'w1228243420', 1, 30, 1, 17.242717825236188).
 strada('w1228243421', 'tertiary', 'w1228243421', 1, 40, 1, 31.436376669663357).
-strada('w1228243422', 'tertiary', 'w1228243422', 1, 40, 1, 8.652862808207166).
+strada('w1228243422', 'tertiary', 'w1228243422', 1, 30, 1, 8.652862808207166).
 strada('w1228312674', 'residential', 'Via Abate Giacinto Gimma', 1, 30, 1, 28.25795186095622).
 strada('w1228383711', 'service', 'w1228383711', 0, 20, 1, 47.30605425786398).
 strada('w1228384125', 'residential', 'w1228384125', 1, 20, 1, 28.73386342054758).
 strada('w1228496363', 'secondary', 'SP 156 Bitonto - Aeroporto Palese', 0, 70, 2, 8.826699838820602).
-strada('w1228496364', 'secondary', 'w1228496364', 1, 30, 1, 17.162956432012887).
+strada('w1228496364', 'secondary', 'w1228496364', 1, 50, 1, 17.162956432012887).
 strada('w1228501780', 'secondary', 'Via Gabriele D Annunzio', 1, 50, 1, 8.211549129384359).
 strada('w1228501781', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 28.70076981128856).
 strada('w1228501783', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 224.24563339448596).
 strada('w1228501784', 'trunk', 'Strada Statale 16 Adriatica', 1, 90, 2, 151.28990196306538).
 strada('w1228501785', 'unclassified', 'w1228501785', 1, 30, 1, 66.16080709101898).
-strada('w1228501786', 'unclassified', 'w1228501786', 1, 30, 1, 8.512351339077735).
+strada('w1228501786', 'unclassified', 'w1228501786', 1, 20, 1, 8.512351339077735).
 strada('w1228501787', 'unclassified', 'w1228501787', 1, 30, 1, 20.971366085287336).
 strada('w1228501790', 'unclassified', 'Via Gregorio Ancona', 1, 30, 2, 193.0681165212001).
 strada('w1228653954', 'unclassified', 'w1228653954', 1, 40, 1, 64.67569840396263).
 strada('w1228653955', 'unclassified', 'w1228653955', 1, 40, 1, 17.94981961794702).
-strada('w1228653956', 'unclassified', '4A Strada Torricella', 0, 20, 1, 57.61656173701052).
+strada('w1228653956', 'unclassified', '4A Strada Torricella', 0, 30, 1, 57.61656173701052).
 strada('w1228653957', 'unclassified', 'w1228653957', 0, 30, 1, 66.09870019744703).
-strada('w1228706169', 'unclassified', 'w1228706169', 1, 30, 1, 11.75965824023364).
+strada('w1228706169', 'unclassified', 'w1228706169', 1, 20, 1, 11.75965824023364).
 strada('w1228721082', 'secondary', 'w1228721082', 1, 50, 1, 3.831458987077466).
 strada('w1228721084', 'secondary', 'Viale Europa', 0, 50, 2, 187.69002769127596).
-strada('w1228721085', 'unclassified', 'Via Nicola Cadudi', 1, 30, 1, 19.912575592040056).
-strada('w1228721086', 'tertiary', 'Via Nicola Cacudi', 0, 30, 1, 406.654881054358).
+strada('w1228721085', 'unclassified', 'Via Nicola Cadudi', 1, 20, 1, 19.912575592040056).
+strada('w1228721086', 'tertiary', 'Via Nicola Cacudi', 0, 40, 1, 406.654881054358).
 strada('w1228721087', 'unclassified', 'w1228721087', 1, 30, 1, 69.74194709607382).
-strada('w1228728432', 'secondary', 'Viale Europa', 0, 50, 1, 285.63055691926513).
-strada('w1228728433', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 40.71843437357927).
-strada('w1228728434', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 88.85237957917187).
+strada('w1228728432', 'secondary', 'Viale Europa', 0, 30, 1, 285.63055691926513).
+strada('w1228728433', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 40.71843437357927).
+strada('w1228728434', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 88.85237957917187).
 strada('w1228884561', 'track', 'w1228884561', 0, 30, 1, 1882.319815216849).
 strada('w1228884562', 'track', 'w1228884562', 0, 30, 1, 53.67385458269664).
 strada('w1228884563', 'track', 'w1228884563', 0, 30, 1, 490.7340209617869).
 strada('w1228884564', 'track', 'w1228884564', 0, 30, 1, 475.90136007156013).
-strada('w1229064756', 'service', 'w1229064756', 0, 20, 1, 226.3267974019019).
-strada('w1229064757', 'service', 'w1229064757', 0, 20, 1, 21.21362500543486).
+strada('w1229064756', 'service', 'w1229064756', 0, 10, 1, 226.3267974019019).
+strada('w1229064757', 'service', 'w1229064757', 0, 10, 1, 21.21362500543486).
 strada('w1229064758', 'service', 'w1229064758', 0, 20, 1, 23.153344173929217).
 strada('w1229238730', 'residential', 'w1229238730', 0, 30, 1, 38.92603429356776).
-strada('w1229282477', 'service', 'w1229282477', 0, 20, 1, 110.92890502709682).
-strada('w1229282478', 'service', 'w1229282478', 0, 10, 1, 10.032141311044233).
+strada('w1229282477', 'service', 'w1229282477', 0, 10, 1, 110.92890502709682).
+strada('w1229282478', 'service', 'w1229282478', 0, 20, 1, 10.032141311044233).
 strada('w1229282479', 'service', 'w1229282479', 0, 20, 1, 6.610993369157906).
-strada('w1230686041', 'secondary', 'Via Vito Nicola Di Tullio', 0, 50, 1, 34.17563685046177).
+strada('w1230686041', 'secondary', 'Via Vito Nicola Di Tullio', 0, 30, 1, 34.17563685046177).
 strada('w1230686042', 'residential', 'Via Paolo Lembo', 0, 30, 1, 70.38080562248855).
 strada('w1230686043', 'secondary', 'w1230686043', 0, 30, 1, 9.259899278130149).
 strada('w1230847489', 'service', 'w1230847489', 0, 20, 1, 31.802715940932536).
 strada('w1230847493', 'service', 'w1230847493', 0, 20, 1, 16.391146989352553).
 strada('w1231083060', 'service', 'w1231083060', 0, 20, 1, 22.474108109244572).
 strada('w1231327914', 'service', 'w1231327914', 0, 20, 1, 19.24193095676949).
-strada('w1231327922', 'service', 'w1231327922', 0, 20, 1, 11.130184842117671).
-strada('w1231327923', 'service', 'w1231327923', 0, 20, 1, 30.969295920995005).
-strada('w1231361728', 'residential', 'w1231361728', 1, 20, 1, 36.817536721317865).
+strada('w1231327922', 'service', 'w1231327922', 0, 10, 1, 11.130184842117671).
+strada('w1231327923', 'service', 'w1231327923', 0, 10, 1, 30.969295920995005).
+strada('w1231361728', 'residential', 'w1231361728', 1, 30, 1, 36.817536721317865).
 strada('w1231361729', 'residential', 'Viale Lazio', 0, 50, 1, 28.387054368436743).
 strada('w1231361731', 'residential', 'Viale Lazio', 0, 50, 1, 31.273300436644824).
-strada('w1231453015', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 361.7841375996335).
-strada('w1231453017', 'residential', 'Via Molise', 0, 30, 1, 14.038306275350294).
-strada('w1231453018', 'residential', 'Viale Puglia', 1, 20, 1, 223.65383892195047).
+strada('w1231453015', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 361.7841375996335).
+strada('w1231453017', 'residential', 'Via Molise', 0, 20, 1, 14.038306275350294).
+strada('w1231453018', 'residential', 'Viale Puglia', 1, 30, 1, 223.65383892195047).
 strada('w1231453019', 'residential', 'Viale Lazio', 0, 50, 1, 47.76171462256674).
 strada('w1231453020', 'residential', 'Via Campania', 0, 50, 1, 72.96755698782526).
 strada('w1231453021', 'residential', 'Via Latina', 0, 50, 1, 41.56754584488184).
 strada('w1231453022', 'residential', 'Via Sardegna', 0, 50, 1, 142.88015312196956).
 strada('w1231453023', 'residential', 'Via Piemonte', 0, 50, 1, 203.8847910400952).
-strada('w1231453024', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 89.99791365656998).
+strada('w1231453024', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 89.99791365656998).
 strada('w1231453025', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 12.223224331635736).
-strada('w1231453026', 'tertiary', 'Viale delle Regioni', 1, 40, 1, 12.31707737474492).
+strada('w1231453026', 'tertiary', 'Viale delle Regioni', 1, 30, 1, 12.31707737474492).
 strada('w1231457302', 'service', 'w1231457302', 0, 20, 1, 10.035776829861149).
 strada('w1231457303', 'tertiary', 'Via Trentino Alto Adige', 1, 40, 1, 19.611799987341264).
 strada('w1231457304', 'residential', 'Via Veneto', 0, 30, 1, 84.12049908851027).
@@ -15279,15 +15279,15 @@ strada('w1231457308', 'residential', 'Viale Lazio', 0, 50, 1, 84.81811566407903)
 strada('w1231457309', 'residential', 'Viale Puglia', 1, 50, 1, 183.2398642919295).
 strada('w1231457310', 'residential', 'Viale Puglia', 1, 50, 1, 4.411367151737736).
 strada('w1231457311', 'residential', 'Viale Puglia', 1, 20, 1, 77.79157786695853).
-strada('w1231457312', 'secondary', 'Viale Europa', 0, 50, 1, 19.399565294818476).
+strada('w1231457312', 'secondary', 'Viale Europa', 0, 30, 1, 19.399565294818476).
 strada('w1231460232', 'secondary_link', 'w1231460232', 1, 30, 1, 4.188634703572408).
 strada('w1231912227', 'service', 'Park & Ride - Pane e Pomodoro', 1, 20, 1, 120.54185096370169).
 strada('w1232947422', 'service', 'w1232947422', 0, 20, 1, 17.898635925803625).
-strada('w1233060618', 'residential', 'Largo Adua', 1, 20, 1, 88.81429540914456).
+strada('w1233060618', 'residential', 'Largo Adua', 1, 30, 1, 88.81429540914456).
 strada('w1233247048', 'service', 'w1233247048', 1, 20, 1, 5.744355633680638).
 strada('w1233267579', 'secondary', 'Corso Senatore Antonio De Tullio', 0, 50, 1, 95.47000932574389).
 strada('w1233267580', 'service', 'w1233267580', 1, 30, 1, 93.7856142498075).
-strada('w1233267581', 'service', 'w1233267581', 1, 5, 1, 11.898519298025583).
+strada('w1233267581', 'service', 'w1233267581', 1, 20, 1, 11.898519298025583).
 strada('w1233267582', 'service', 'w1233267582', 1, 20, 1, 9.256878374089847).
 strada('w1233267583', 'unclassified', 'w1233267583', 1, 30, 1, 13.533578877221826).
 strada('w1233267584', 'service', 'w1233267584', 1, 20, 1, 10.583913709395937).
@@ -15298,119 +15298,119 @@ strada('w1233267589', 'service', 'w1233267589', 1, 30, 1, 66.83693894473058).
 strada('w1233267590', 'secondary', 'Corso Senatore Antonio De Tullio', 0, 50, 1, 16.313197716870686).
 strada('w1233267591', 'service', 'w1233267591', 1, 20, 1, 3.621967439636007).
 strada('w1233275601', 'tertiary', 'Via Caldarola', 1, 40, 1, 153.7960099079933).
-strada('w1233275602', 'residential', 'Via Cavalieri di Vittorio Veneto', 0, 20, 1, 51.327627838305055).
-strada('w1233275603', 'residential', 'Via dei Caduti Partigiani', 0, 30, 1, 163.5765595944202).
+strada('w1233275602', 'residential', 'Via Cavalieri di Vittorio Veneto', 0, 30, 1, 51.327627838305055).
+strada('w1233275603', 'residential', 'Via dei Caduti Partigiani', 0, 20, 1, 163.5765595944202).
 strada('w1233275604', 'tertiary', 'w1233275604', 1, 40, 1, 5.348844771329947).
 strada('w1233275605', 'residential', 'Via Peucetia', 1, 30, 1, 67.04349784298196).
 strada('w1233275606', 'residential', 'Via Peucetia', 1, 20, 1, 24.385327538120098).
-strada('w1233283085', 'service', 'w1233283085', 1, 20, 1, 8.153252004903122).
+strada('w1233283085', 'service', 'w1233283085', 1, 10, 1, 8.153252004903122).
 strada('w1234004795', 'service', 'w1234004795', 0, 20, 1, 71.4121236492379).
 strada('w1234008504', 'residential', 'Piazza Colonnello Felice Trizio', 1, 30, 1, 38.39875129126691).
 strada('w1234008505', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 217.67116183687142).
 strada('w1234008506', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 27.56102195762892).
 strada('w1234008507', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 11.044737020106506).
-strada('w1234587146', 'residential', 'Via Altamura', 1, 20, 1, 44.938424777420984).
+strada('w1234587146', 'residential', 'Via Altamura', 1, 30, 1, 44.938424777420984).
 strada('w1234587537', 'residential', 'Via Barletta', 1, 30, 1, 44.52258041471061).
 strada('w1234719257', 'service', 'w1234719257', 0, 20, 1, 13.651001298181725).
 strada('w1234719258', 'service', 'w1234719258', 0, 20, 1, 19.073648906913245).
-strada('w1234719263', 'service', 'w1234719263', 0, 20, 1, 18.522376017200013).
-strada('w1234719271', 'service', 'w1234719271', 0, 20, 1, 162.8355894774139).
+strada('w1234719263', 'service', 'w1234719263', 0, 10, 1, 18.522376017200013).
+strada('w1234719271', 'service', 'w1234719271', 0, 10, 1, 162.8355894774139).
 strada('w1234719275', 'service', 'w1234719275', 0, 20, 1, 94.62111836530572).
 strada('w1234719276', 'service', 'w1234719276', 0, 20, 1, 37.726027879319155).
 strada('w1235824817', 'residential', 'Via Mortara', 0, 30, 1, 69.69318539100958).
 strada('w1235831583', 'residential', 'Via Sant Antonio', 0, 30, 1, 59.967558559063974).
 strada('w1235831584', 'residential', 'Via delle Laudi', 0, 30, 1, 58.86858658861147).
-strada('w1235833384', 'residential', 'Via della Concordia', 1, 20, 1, 61.02148174818576).
+strada('w1235833384', 'residential', 'Via della Concordia', 1, 30, 1, 61.02148174818576).
 strada('w1235834656', 'residential', 'Via Orticelli', 0, 30, 1, 34.76130848465819).
-strada('w1235836013', 'tertiary', 'Lungomare Nove Maggio', 0, 30, 2, 24.135746513189265).
+strada('w1235836013', 'tertiary', 'Lungomare Nove Maggio', 0, 40, 2, 24.135746513189265).
 strada('w1235836017', 'residential', 'Piazza Federico Secondo di Svevia', 1, 20, 1, 117.81790449521627).
 strada('w1235836018', 'service', 'w1235836018', 0, 20, 1, 10.747741790143595).
 strada('w1235836021', 'secondary', 'Via Paolo Pinto', 0, 50, 4, 100.55511803597494).
-strada('w1235836022', 'residential', 'Via NicolÃ² van Westerhout', 0, 30, 2, 5.261799025196843).
-strada('w1235836023', 'residential', 'Via NicolÃ² van Westerhout', 1, 20, 1, 3.860536890389109).
+strada('w1235836022', 'residential', 'Via NicolÃ² van Westerhout', 0, 20, 2, 5.261799025196843).
+strada('w1235836023', 'residential', 'Via NicolÃ² van Westerhout', 1, 30, 1, 3.860536890389109).
 strada('w1235836024', 'unclassified', 'Strada del Torrente Balice', 0, 30, 2, 1.875479874713019).
 strada('w1235836025', 'track', 'w1235836025', 0, 30, 1, 90.22612771933662).
 strada('w1235836026', 'unclassified', 'w1235836026', 0, 30, 1, 141.88333720756236).
 strada('w1235836027', 'tertiary', 'Via Napoli', 0, 40, 1, 225.00934859719882).
 strada('w1235836028', 'unclassified', 'w1235836028', 0, 30, 1, 55.91319758553851).
-strada('w1235836029', 'unclassified', 'Strada del Baraccone', 0, 30, 1, 117.33318424320973).
+strada('w1235836029', 'unclassified', 'Strada del Baraccone', 0, 20, 1, 117.33318424320973).
 strada('w1235836030', 'service', 'w1235836030', 0, 20, 1, 43.37391620657878).
 strada('w1235836031', 'service', 'w1235836031', 0, 20, 1, 58.57107171634141).
-strada('w1235836032', 'service', 'w1235836032', 0, 20, 1, 259.9706431334041).
+strada('w1235836032', 'service', 'w1235836032', 0, 10, 1, 259.9706431334041).
 strada('w1235836034', 'service', 'w1235836034', 0, 20, 1, 11.988526850058054).
 strada('w1235853095', 'unclassified', 'Strada Scansano', 0, 30, 1, 23.72398133781633).
 strada('w1235853096', 'unclassified', 'Strada Scansano', 0, 30, 1, 19.837972885547963).
-strada('w1235853097', 'unclassified', 'Strada Scansano', 0, 30, 1, 21.66795870665619).
-strada('w1235853098', 'secondary', 'Via Giuseppe Fanelli', 0, 50, 1, 59.848052457867155).
+strada('w1235853097', 'unclassified', 'Strada Scansano', 0, 20, 1, 21.66795870665619).
+strada('w1235853098', 'secondary', 'Via Giuseppe Fanelli', 0, 30, 1, 59.848052457867155).
 strada('w1235853099', 'service', 'w1235853099', 0, 20, 1, 26.879990276639315).
-strada('w1235853100', 'tertiary', 'Viale UnitÃ  d Italia', 1, 40, 1, 38.929648495774934).
+strada('w1235853100', 'tertiary', 'Viale UnitÃ  d Italia', 1, 30, 1, 38.929648495774934).
 strada('w1235853101', 'residential', 'Via Giuseppe Pisanelli', 1, 30, 1, 67.2665152832267).
-strada('w1235853104', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 5.66891922098365).
-strada('w1235853105', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 23.864364502122154).
+strada('w1235853104', 'residential', 'Piazza Aldo Moro', 1, 5, 1, 5.66891922098365).
+strada('w1235853105', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 23.864364502122154).
 strada('w1235853108', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 1, 84.14482909893903).
-strada('w1235856773', 'residential', 'Via Caduti di Via Fani', 0, 20, 1, 9.223607039505575).
+strada('w1235856773', 'residential', 'Via Caduti di Via Fani', 0, 30, 1, 9.223607039505575).
 strada('w1236070238', 'residential', 'Via Ugonotti', 0, 30, 1, 10.467113942717623).
-strada('w1236077474', 'residential', 'Via Ospedalieri', 0, 20, 1, 44.40852059381138).
+strada('w1236077474', 'residential', 'Via Ospedalieri', 0, 30, 1, 44.40852059381138).
 strada('w1236078885', 'tertiary', 'Piazza Umberto Primo', 1, 40, 1, 28.97088793109415).
 strada('w1236078886', 'tertiary', 'Piazza Umberto Primo', 1, 40, 1, 211.53702087678133).
-strada('w1236078887', 'tertiary', 'Via Ugo Foscolo', 1, 40, 1, 651.7138519827561).
+strada('w1236078887', 'tertiary', 'Via Ugo Foscolo', 1, 30, 1, 651.7138519827561).
 strada('w1236078888', 'tertiary', 'Piazza Umberto Primo', 1, 40, 1, 233.8252249453511).
 strada('w1236078889', 'tertiary', 'Piazza Umberto Primo', 1, 40, 1, 16.526372181366387).
 strada('w1236142984', 'residential', 'Vico Randaccio', 0, 30, 1, 39.7219860621344).
-strada('w1236144521', 'residential', 'Via Benedetto Cairoli', 0, 20, 1, 32.17292939764587).
-strada('w1236145707', 'residential', 'Vico I Giuseppe Giusti', 0, 20, 1, 47.490422647194606).
-strada('w1236145708', 'residential', 'w1236145708', 0, 30, 1, 80.892729115918).
-strada('w1236297413', 'residential', 'Via Plinio', 0, 20, 1, 43.95615234536641).
+strada('w1236144521', 'residential', 'Via Benedetto Cairoli', 0, 30, 1, 32.17292939764587).
+strada('w1236145707', 'residential', 'Vico I Giuseppe Giusti', 0, 30, 1, 47.490422647194606).
+strada('w1236145708', 'residential', 'w1236145708', 0, 20, 1, 80.892729115918).
+strada('w1236297413', 'residential', 'Via Plinio', 0, 30, 1, 43.95615234536641).
 strada('w1236297414', 'residential', 'Vico San Leo', 0, 30, 1, 35.26390700972421).
-strada('w1236297415', 'residential', 'Via San Vittore', 0, 20, 1, 53.80091913775299).
+strada('w1236297415', 'residential', 'Via San Vittore', 0, 10, 1, 53.80091913775299).
 strada('w1236297416', 'tertiary', 'Via Vincenzo Roppo', 0, 50, 1, 243.7929519516723).
 strada('w1236299054', 'residential', 'Via Crocifisso', 0, 30, 1, 34.68135461058418).
-strada('w1236303446', 'residential', 'Via San Filippo', 1, 30, 1, 103.841656095088).
+strada('w1236303446', 'residential', 'Via San Filippo', 1, 20, 1, 103.841656095088).
 strada('w1236307291', 'tertiary', 'w1236307291', 1, 40, 1, 8.61076653640054).
 strada('w1236307292', 'residential', 'Strada San Nicola', 0, 20, 1, 232.29149445173948).
-strada('w1236307695', 'residential', 'w1236307695', 1, 20, 1, 17.9386562758771).
+strada('w1236307695', 'residential', 'w1236307695', 1, 30, 1, 17.9386562758771).
 strada('w1236307696', 'tertiary', 'Via Ugo Foscolo', 1, 30, 1, 14.452480294180326).
 strada('w1236449057', 'service', 'w1236449057', 1, 20, 1, 166.1765526697852).
 strada('w1236449058', 'service', 'w1236449058', 1, 20, 1, 7.752104244462056).
 strada('w1236450213', 'unclassified', 'w1236450213', 1, 30, 1, 27.512898101991063).
 strada('w1236450214', 'unclassified', 'Via Ignazio Lojacono', 1, 30, 1, 25.824990563900116).
 strada('w1236450215', 'residential', 'w1236450215', 1, 30, 1, 19.398006993629018).
-strada('w1236450216', 'residential', 'Via Ottavio Tupputi', 1, 20, 1, 26.579057413101886).
+strada('w1236450216', 'residential', 'Via Ottavio Tupputi', 1, 30, 1, 26.579057413101886).
 strada('w1236607022', 'service', 'w1236607022', 0, 20, 1, 283.6556918743784).
 strada('w1236607065', 'service', 'w1236607065', 1, 20, 1, 22.73956165945688).
-strada('w1236614312', 'service', 'w1236614312', 1, 20, 1, 2.353689198805301).
+strada('w1236614312', 'service', 'w1236614312', 1, 10, 1, 2.353689198805301).
 strada('w1236614313', 'service', 'w1236614313', 1, 20, 1, 6.751900066172688).
 strada('w1236614314', 'service', 'w1236614314', 1, 30, 1, 8.710545172658263).
-strada('w1236614315', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 20.98437638029365).
+strada('w1236614315', 'residential', 'Piazza Aldo Moro', 1, 20, 1, 20.98437638029365).
 strada('w1236614316', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 104.16798784446729).
 strada('w1236614317', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 9.368957959453214).
-strada('w1236614318', 'secondary', 'Via Luigi Einaudi', 1, 30, 1, 287.0833530706206).
-strada('w1236716729', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 10.180678662964176).
-strada('w1236716730', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 9.373743833391528).
-strada('w1236716731', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 25.140279220300005).
-strada('w1236716732', 'unclassified', 'w1236716732', 1, 30, 1, 33.81401943583637).
+strada('w1236614318', 'secondary', 'Via Luigi Einaudi', 1, 50, 1, 287.0833530706206).
+strada('w1236716729', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 10.180678662964176).
+strada('w1236716730', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 9.373743833391528).
+strada('w1236716731', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 25.140279220300005).
+strada('w1236716732', 'unclassified', 'w1236716732', 1, 20, 1, 33.81401943583637).
 strada('w1236716733', 'unclassified', 'w1236716733', 1, 30, 1, 6.837238019396803).
 strada('w1236716734', 'unclassified', 'Via Conte Giusso', 0, 30, 1, 78.5972412155503).
 strada('w1236716735', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 478.6345452841172).
 strada('w1236716737', 'secondary', 'Strada Provinciale Valenzano - Bari', 0, 50, 4, 666.093710874653).
 strada('w1236716738', 'residential', 'Via Gorizia', 1, 30, 1, 17.765665361093856).
-strada('w1236716740', 'residential', 'Via Angeloantonio Quaranta', 0, 30, 1, 40.41456957055962).
+strada('w1236716740', 'residential', 'Via Angeloantonio Quaranta', 0, 20, 1, 40.41456957055962).
 strada('w1236716741', 'residential', 'Via Angeloantonio Quaranta', 0, 30, 1, 102.8337270862484).
-strada('w1236716742', 'secondary', 'Strada Provinciale Valenzano - Bari', 0, 30, 4, 59.456022354570344).
+strada('w1236716742', 'secondary', 'Strada Provinciale Valenzano - Bari', 0, 50, 4, 59.456022354570344).
 strada('w1236835058', 'tertiary', 'w1236835058', 1, 40, 1, 18.51016167964525).
-strada('w1236835059', 'primary', 'w1236835059', 1, 50, 1, 9.207378302112405).
-strada('w1236835061', 'secondary', 'Via Apulia', 1, 30, 1, 23.253213513750588).
+strada('w1236835059', 'primary', 'w1236835059', 1, 30, 1, 9.207378302112405).
+strada('w1236835061', 'secondary', 'Via Apulia', 1, 50, 1, 23.253213513750588).
 strada('w1236835062', 'secondary', 'Viale Japigia', 1, 30, 1, 20.64983173812839).
 strada('w1236835063', 'service', 'w1236835063', 1, 20, 1, 26.713943955196722).
 strada('w1236891932', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 58.28373214565427).
 strada('w1236891933', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 16.08672379853985).
 strada('w1236906095', 'unclassified', 'Via Madonna delel Grazie', 0, 30, 1, 36.54334538544005).
-strada('w1236906096', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 5.834888402750533).
+strada('w1236906096', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 5.834888402750533).
 strada('w1236906098', 'tertiary', 'Via Giuseppe Fanelli', 0, 50, 1, 112.09225168199158).
-strada('w1236906099', 'primary', 'Via Adolfo Omodeo', 1, 50, 1, 6.737903984579812).
+strada('w1236906099', 'primary', 'Via Adolfo Omodeo', 1, 30, 1, 6.737903984579812).
 strada('w1236906100', 'primary', 'w1236906100', 1, 30, 1, 0.972776983230852).
 strada('w1236906101', 'residential', 'Piazza Aldo Moro', 1, 30, 1, 4.493271974618666).
-strada('w1237099945', 'unclassified', 'w1237099945', 1, 30, 1, 28.92317078089373).
+strada('w1237099945', 'unclassified', 'w1237099945', 1, 20, 1, 28.92317078089373).
 strada('w1237256725', 'residential', 'Via Giuseppe Massari', 0, 30, 1, 57.04154926141737).
 strada('w1237256778', 'residential', 'Via Carbonai', 0, 20, 1, 74.30105412681573).
 strada('w1238257783', 'trunk_link', 'w1238257783', 1, 40, 1, 25.13430445358314).
@@ -15421,9 +15421,9 @@ strada('w1238289717', 'track', 'w1238289717', 0, 30, 1, 159.55318054354498).
 strada('w1238289718', 'track', 'w1238289718', 0, 30, 1, 56.655171146839145).
 strada('w1238289719', 'track', 'w1238289719', 0, 30, 1, 252.52470685062616).
 strada('w1238289720', 'unclassified', 'via La Trofa', 0, 30, 1, 496.8109091843434).
-strada('w1238297370', 'service', 'w1238297370', 0, 20, 1, 249.9797716186945).
+strada('w1238297370', 'service', 'w1238297370', 0, 10, 1, 249.9797716186945).
 strada('w1238297372', 'service', 'w1238297372', 0, 20, 1, 104.28912900933885).
-strada('w1238297373', 'service', 'w1238297373', 0, 5, 1, 24.95714227122151).
+strada('w1238297373', 'service', 'w1238297373', 0, 20, 1, 24.95714227122151).
 strada('w1238298572', 'service', 'w1238298572', 0, 20, 1, 82.71894378474063).
 strada('w1238301373', 'service', 'w1238301373', 0, 20, 1, 82.18311939657632).
 strada('w1238302475', 'unclassified', 'Strada Scansano', 0, 30, 1, 64.1685916950811).
@@ -15435,8 +15435,8 @@ strada('w1238531670', 'tertiary_link', 'Strada Donadonisi', 1, 40, 1, 7.69710950
 strada('w1238531671', 'service', 'w1238531671', 0, 20, 1, 61.399168297999324).
 strada('w1238531673', 'service', 'w1238531673', 0, 20, 1, 16.01525940176041).
 strada('w1238531674', 'service', 'w1238531674', 0, 20, 1, 4.10856474684592).
-strada('w1238531675', 'service', 'w1238531675', 0, 20, 1, 6.108046154272888).
-strada('w1238531676', 'residential', 'Via Vaccarella', 1, 20, 1, 531.5739259349991).
+strada('w1238531675', 'service', 'w1238531675', 0, 5, 1, 6.108046154272888).
+strada('w1238531676', 'residential', 'Via Vaccarella', 1, 30, 1, 531.5739259349991).
 strada('w1238841230', 'service', 'w1238841230', 0, 20, 1, 12.940925767921595).
 strada('w1238841231', 'service', 'w1238841231', 0, 20, 1, 34.20121319151886).
 strada('w1238841232', 'service', 'w1238841232', 0, 20, 1, 28.10677940141411).
@@ -15445,8 +15445,8 @@ strada('w1238841234', 'unclassified', 'Via Mimmo Conenna', 1, 30, 1, 75.55049585
 strada('w1238851922', 'unclassified', 'Via Cardinale Agostino Ciasca', 0, 30, 1, 28.434572886948).
 strada('w1238851923', 'service', 'w1238851923', 0, 20, 1, 37.520320245819946).
 strada('w1238851926', 'service', 'w1238851926', 0, 20, 1, 56.21423949165452).
-strada('w1238851927', 'service', 'w1238851927', 0, 10, 1, 76.24243156062384).
-strada('w1238863972', 'unclassified', 'w1238863972', 1, 30, 1, 9.760125205606986).
+strada('w1238851927', 'service', 'w1238851927', 0, 20, 1, 76.24243156062384).
+strada('w1238863972', 'unclassified', 'w1238863972', 1, 20, 1, 9.760125205606986).
 strada('w1238932386', 'service', 'w1238932386', 0, 20, 1, 23.042974531958706).
 strada('w1238945299', 'residential', 'w1238945299', 0, 30, 1, 24.04026706532511).
 strada('w1239161358', 'residential', 'Via Cesare Battisti', 0, 30, 1, 42.34752863855727).
@@ -15461,7 +15461,7 @@ strada('w1240114771', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 11.795603627
 strada('w1240114772', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 27.073720892369785).
 strada('w1240114773', 'tertiary', 'Piazza Giulio Cesare', 1, 30, 2, 33.01993752212696).
 strada('w1240291732', 'residential', 'Via Gaetano Devitofrancesco', 0, 20, 1, 116.79104167265407).
-strada('w1240423334', 'service', 'Via Salvatore Matarrese', 0, 20, 1, 12.159594322931028).
+strada('w1240423334', 'service', 'Via Salvatore Matarrese', 0, 10, 1, 12.159594322931028).
 strada('w1240423339', 'service', 'w1240423339', 0, 20, 1, 46.35583939897509).
 strada('w1240423340', 'service', 'w1240423340', 0, 20, 1, 71.57197607277257).
 strada('w1240423343', 'service', 'w1240423343', 1, 20, 1, 86.9023597014894).
@@ -15474,44 +15474,44 @@ strada('w1240423349', 'service', 'w1240423349', 1, 20, 1, 57.70933037827392).
 strada('w1240423350', 'service', 'w1240423350', 0, 20, 1, 46.93915012764266).
 strada('w1240423351', 'service', 'w1240423351', 1, 20, 1, 31.458570648465265).
 strada('w1240423352', 'service', 'w1240423352', 1, 20, 1, 27.360248926379334).
-strada('w1240423353', 'service', 'w1240423353', 1, 20, 1, 13.511717406961111).
+strada('w1240423353', 'service', 'w1240423353', 1, 10, 1, 13.511717406961111).
 strada('w1240423354', 'service', 'w1240423354', 1, 20, 1, 13.430209831785932).
 strada('w1240423355', 'service', 'w1240423355', 1, 20, 1, 13.505533651661167).
 strada('w1240423356', 'service', 'w1240423356', 1, 20, 1, 15.697710185394465).
 strada('w1240423357', 'service', 'w1240423357', 1, 20, 1, 36.78095778985419).
-strada('w1240423358', 'service', 'w1240423358', 1, 20, 1, 36.52165155886731).
+strada('w1240423358', 'service', 'w1240423358', 1, 10, 1, 36.52165155886731).
 strada('w1240423359', 'service', 'w1240423359', 1, 20, 1, 15.68369048484288).
-strada('w1240423360', 'service', 'w1240423360', 1, 5, 1, 14.37583332484174).
+strada('w1240423360', 'service', 'w1240423360', 1, 10, 1, 14.37583332484174).
 strada('w1240423361', 'service', 'w1240423361', 1, 20, 1, 32.24177465448152).
 strada('w1240423362', 'service', 'w1240423362', 1, 20, 1, 9.101673316762252).
 strada('w1240423365', 'service', 'w1240423365', 1, 20, 1, 13.995123784561908).
 strada('w1240423366', 'service', 'w1240423366', 1, 20, 1, 74.1249630191217).
 strada('w1240423367', 'service', 'w1240423367', 1, 20, 1, 21.72663666956619).
 strada('w1240454969', 'service', 'w1240454969', 1, 20, 1, 17.44268976257098).
-strada('w1240462015', 'residential', 'Via Giuseppe Saverio Poli', 1, 30, 1, 103.34374510207692).
+strada('w1240462015', 'residential', 'Via Giuseppe Saverio Poli', 1, 20, 1, 103.34374510207692).
 strada('w1241106918', 'residential', 'Traversa al numero 5 di Via Abate Eustasio', 0, 30, 1, 164.97534942182847).
-strada('w1241116775', 'residential', 'Via Paolo Gargano', 0, 30, 1, 80.70063249468619).
-strada('w1241116776', 'residential', 'via Timavo', 1, 30, 1, 52.07811807461843).
-strada('w1242147360', 'service', 'w1242147360', 0, 10, 1, 19.171764458805278).
+strada('w1241116775', 'residential', 'Via Paolo Gargano', 0, 20, 1, 80.70063249468619).
+strada('w1241116776', 'residential', 'via Timavo', 1, 20, 1, 52.07811807461843).
+strada('w1242147360', 'service', 'w1242147360', 0, 20, 1, 19.171764458805278).
 strada('w1242147361', 'service', 'w1242147361', 0, 20, 1, 39.602093099040076).
 strada('w1242147363', 'residential', 'Via Rocco Dicillo', 1, 50, 1, 143.48178603108522).
 strada('w1242147364', 'unclassified', 'Via Rocco Dicillo', 0, 30, 1, 186.46239507423053).
 strada('w1242147368', 'service', 'w1242147368', 0, 20, 1, 27.12615756505179).
 strada('w1242147369', 'service', 'w1242147369', 0, 20, 1, 48.4677124014038).
 strada('w1242147370', 'service', 'w1242147370', 0, 20, 1, 24.427159702899345).
-strada('w1242147372', 'service', 'w1242147372', 0, 20, 1, 17.234961143974346).
+strada('w1242147372', 'service', 'w1242147372', 0, 10, 1, 17.234961143974346).
 strada('w1242190725', 'residential', 'w1242190725', 0, 30, 1, 82.07849785274504).
 strada('w1242204288', 'service', 'w1242204288', 0, 20, 1, 62.37596044681102).
-strada('w1242204289', 'service', 'w1242204289', 0, 20, 1, 36.85635160966699).
+strada('w1242204289', 'service', 'w1242204289', 0, 10, 1, 36.85635160966699).
 strada('w1242204291', 'service', 'w1242204291', 0, 20, 1, 40.05080602829173).
 strada('w1242669440', 'residential', 'w1242669440', 0, 30, 1, 176.4275898420322).
 strada('w1242789796', 'service', 'w1242789796', 1, 20, 1, 220.79875631064806).
 strada('w1242807252', 'service', 'w1242807252', 1, 20, 1, 219.57699658161633).
 strada('w1242807253', 'service', 'w1242807253', 1, 10, 1, 48.83180285745497).
 strada('w1242807254', 'service', 'w1242807254', 1, 20, 1, 33.08228451937922).
-strada('w1242807255', 'service', 'w1242807255', 1, 10, 1, 14.40736345912931).
+strada('w1242807255', 'service', 'w1242807255', 1, 20, 1, 14.40736345912931).
 strada('w1243136552', 'service', 'w1243136552', 0, 20, 1, 123.01665063231226).
-strada('w1243168920', 'residential', 'Via Raffaele Perna', 0, 20, 1, 96.42523678698427).
+strada('w1243168920', 'residential', 'Via Raffaele Perna', 0, 30, 1, 96.42523678698427).
 strada('w1243703944', 'service', 'w1243703944', 0, 20, 1, 52.425717432794485).
 strada('w1244996694', 'service', 'w1244996694', 0, 20, 1, 19.852350714310774).
 strada('w1245191805', 'tertiary', 'Corso Vittorio Emanuele Secondo', 0, 40, 1, 44.73635716549364).
@@ -15524,29 +15524,29 @@ strada('w1246309191', 'service', 'w1246309191', 0, 20, 1, 31.308639599074514).
 strada('w1246309192', 'service', 'w1246309192', 0, 20, 1, 6.892227095500793).
 strada('w1246309193', 'service', 'w1246309193', 0, 20, 1, 15.017995560259141).
 strada('w1246309194', 'service', 'w1246309194', 0, 20, 1, 18.53425256270149).
-strada('w1246309195', 'service', 'w1246309195', 0, 5, 1, 105.45148883435232).
+strada('w1246309195', 'service', 'w1246309195', 0, 20, 1, 105.45148883435232).
 strada('w1246324551', 'service', 'w1246324551', 0, 20, 1, 9.394962059043209).
 strada('w1246324552', 'service', 'w1246324552', 0, 20, 1, 39.47696944472656).
 strada('w1246324553', 'service', 'w1246324553', 0, 20, 1, 47.26085593999898).
 strada('w1246945288', 'tertiary', 'w1246945288', 1, 40, 1, 22.307031598356243).
-strada('w1246945289', 'tertiary', 'w1246945289', 1, 30, 1, 59.77741807436031).
-strada('w1246945290', 'tertiary', 'w1246945290', 1, 40, 1, 125.79588585752728).
+strada('w1246945289', 'tertiary', 'w1246945289', 1, 40, 1, 59.77741807436031).
+strada('w1246945290', 'tertiary', 'w1246945290', 1, 30, 1, 125.79588585752728).
 strada('w1246945293', 'tertiary', 'Via Scardicchio', 1, 40, 1, 29.880322341619703).
 strada('w1246945294', 'tertiary', 'w1246945294', 1, 40, 1, 11.836214476285441).
 strada('w1246951399', 'service', 'w1246951399', 0, 20, 1, 149.19899564270665).
 strada('w1246951400', 'service', 'w1246951400', 0, 20, 1, 28.360765042776492).
 strada('w1246951401', 'service', 'w1246951401', 0, 20, 1, 27.46014959360573).
 strada('w1250778416', 'unclassified', 'Via Salvatore Matarrese', 1, 50, 1, 4.395929790823323).
-strada('w1251332907', 'residential', 'Via Giacomo Matteotti', 1, 20, 1, 111.10790508122486).
-strada('w1253230000', 'service', 'w1253230000', 0, 20, 1, 6.613774287723722).
+strada('w1251332907', 'residential', 'Via Giacomo Matteotti', 1, 30, 1, 111.10790508122486).
+strada('w1253230000', 'service', 'w1253230000', 0, 10, 1, 6.613774287723722).
 strada('w1253560882', 'service', 'w1253560882', 1, 20, 1, 120.1757119997973).
 strada('w1253560884', 'service', 'w1253560884', 1, 20, 1, 57.38590170502048).
 strada('w1253560885', 'service', 'w1253560885', 1, 20, 1, 26.206594132454853).
 strada('w1253560886', 'service', 'w1253560886', 0, 20, 1, 67.8545173377882).
-strada('w1253560887', 'secondary', 'w1253560887', 1, 50, 1, 12.656680411230312).
-strada('w1253560888', 'secondary', 'w1253560888', 1, 30, 1, 37.46610436136845).
-strada('w1253560889', 'secondary', 'w1253560889', 1, 30, 3, 32.65021012476788).
-strada('w1253560890', 'residential', 'Corso Vittorio Veneto', 1, 10, 1, 20.659852952227705).
+strada('w1253560887', 'secondary', 'w1253560887', 1, 30, 1, 12.656680411230312).
+strada('w1253560888', 'secondary', 'w1253560888', 1, 50, 1, 37.46610436136845).
+strada('w1253560889', 'secondary', 'w1253560889', 1, 50, 3, 32.65021012476788).
+strada('w1253560890', 'residential', 'Corso Vittorio Veneto', 1, 20, 1, 20.659852952227705).
 strada('w1253560891', 'secondary', 'Corso Vittorio Veneto', 0, 50, 4, 594.6397237142694).
 strada('w1253560893', 'service', 'w1253560893', 0, 20, 1, 49.25423008037977).
 strada('w1253893525', 'service', 'w1253893525', 0, 5, 1, 31.60611949608273).
@@ -15557,18 +15557,18 @@ strada('w1253893529', 'service', 'w1253893529', 1, 20, 1, 10.54926161774463).
 strada('w1253893530', 'service', 'w1253893530', 1, 20, 1, 25.43442208115664).
 strada('w1253893531', 'service', 'w1253893531', 1, 20, 1, 10.202781492731237).
 strada('w1254370708', 'service', 'w1254370708', 1, 20, 1, 36.38136286502728).
-strada('w1254370709', 'service', 'w1254370709', 0, 20, 1, 14.18104608292822).
+strada('w1254370709', 'service', 'w1254370709', 0, 10, 1, 14.18104608292822).
 strada('w1254370710', 'service', 'w1254370710', 1, 20, 1, 45.55093216913075).
 strada('w1254370711', 'service', 'w1254370711', 1, 20, 1, 44.77093631876748).
 strada('w1254370712', 'service', 'w1254370712', 1, 20, 1, 183.73426811781067).
 strada('w1254370713', 'service', 'w1254370713', 0, 20, 1, 13.61546659700236).
 strada('w1254370714', 'service', 'w1254370714', 0, 20, 1, 14.232422014363403).
 strada('w1254882643', 'service', 'w1254882643', 1, 20, 1, 6.440298890111513).
-strada('w1256896934', 'residential', 'Parallela Peucetia', 1, 30, 1, 107.79258317765408).
+strada('w1256896934', 'residential', 'Parallela Peucetia', 1, 20, 1, 107.79258317765408).
 strada('w1256903512', 'residential', 'w1256903512', 1, 30, 1, 38.86168921138785).
-strada('w1256903513', 'residential', 'w1256903513', 1, 30, 1, 67.32873590107354).
+strada('w1256903513', 'residential', 'w1256903513', 1, 20, 1, 67.32873590107354).
 strada('w1256903514', 'residential', 'w1256903514', 0, 30, 1, 8.464800516759665).
-strada('w1259480286', 'residential', 'Via Giacomo Tauro', 1, 20, 1, 33.49055767181791).
+strada('w1259480286', 'residential', 'Via Giacomo Tauro', 1, 30, 1, 33.49055767181791).
 strada('w1259480287', 'residential', 'Via Giacomo Tauro', 1, 30, 1, 24.80474555819361).
 strada('w1261872296', 'track', 'w1261872296', 0, 30, 1, 220.56137806057018).
 strada('w1261872297', 'service', 'w1261872297', 0, 20, 1, 131.81821407259253).
@@ -15586,7 +15586,7 @@ strada('w1263507572', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Ta
 strada('w1263507573', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 178.7314760837546).
 strada('w1263507574', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 69.23492381260799).
 strada('w1263507575', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 210.24279957309312).
-strada('w1263507576', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 70, 2, 55.96656076887437).
+strada('w1263507576', 'trunk', 'Strada Statale 100 di Gioia del Colle (Bari - Taranto)', 1, 80, 2, 55.96656076887437).
 strada('w1263508454', 'secondary', 'Corso Trieste', 0, 50, 1, 38.918787993418285).
 strada('w1263508455', 'tertiary', 'Via Caldarola', 1, 40, 1, 21.159870214712214).
 strada('w1263508456', 'tertiary', 'Via Caldarola', 1, 30, 1, 9.430864936374938).
@@ -15600,25 +15600,25 @@ strada('w1265098433', 'service', 'w1265098433', 0, 20, 1, 82.30683645078535).
 strada('w1265098434', 'service', 'w1265098434', 0, 20, 1, 43.70796435216041).
 strada('w1265098443', 'service', 'w1265098443', 0, 20, 1, 9.200648052786446).
 strada('w1265255785', 'tertiary', 'Via Caldarola', 0, 40, 1, 286.8881753442415).
-strada('w1265255786', 'primary', 'w1265255786', 1, 50, 1, 17.370019836126545).
+strada('w1265255786', 'primary', 'w1265255786', 1, 30, 1, 17.370019836126545).
 strada('w1265255787', 'tertiary', 'Via Giulio Petroni', 0, 40, 1, 175.58736581348623).
-strada('w1265255790', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 50, 1, 355.85630248529407).
-strada('w1265255791', 'secondary', 'w1265255791', 1, 50, 1, 7.297467382015226).
-strada('w1265255792', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 19.25797343558404).
-strada('w1265255793', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 30, 1, 11.511265908246145).
+strada('w1265255790', 'secondary', 'Viale John Fitzgerald Kennedy', 1, 30, 1, 355.85630248529407).
+strada('w1265255791', 'secondary', 'w1265255791', 1, 30, 1, 7.297467382015226).
+strada('w1265255792', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 30, 1, 19.25797343558404).
+strada('w1265255793', 'secondary', 'Viale Giuseppe Tatarella - Asse Nord-Sud', 1, 50, 1, 11.511265908246145).
 strada('w1265255794', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara', 1, 50, 2, 6.580000747604819).
 strada('w1265255795', 'secondary', 'Raccordo Giuseppe Rossi - Tondo di Carbonara', 1, 50, 2, 38.516548864190945).
 strada('w1265255796', 'motorway', 'Autostrada Adriatica', 1, 130, 2, 227.5458811066172).
-strada('w1265314064', 'residential', 'Via Quarnaro', 1, 20, 1, 60.43505389527542).
+strada('w1265314064', 'residential', 'Via Quarnaro', 1, 30, 1, 60.43505389527542).
 strada('w1265314065', 'residential', 'Piazza Eroi del Mare', 1, 30, 1, 37.82545881087566).
 strada('w1265668950', 'residential', 'w1265668950', 0, 30, 1, 45.60972997647539).
-strada('w1265668955', 'residential', 'Via Padre Pio', 1, 30, 1, 194.65400581278084).
-strada('w1265673068', 'residential', 'w1265673068', 1, 20, 1, 76.20416175989764).
+strada('w1265668955', 'residential', 'Via Padre Pio', 1, 20, 1, 194.65400581278084).
+strada('w1265673068', 'residential', 'w1265673068', 1, 10, 1, 76.20416175989764).
 strada('w1265673069', 'residential', 'w1265673069', 1, 30, 1, 13.004546244949752).
 strada('w1265781751', 'service', 'w1265781751', 0, 20, 1, 13.622527122364122).
 strada('w1266170392', 'unclassified', 'w1266170392', 0, 30, 1, 96.58533671392435).
-strada('w1266862213', 'residential', 'Largo Angelo Fraccacreta', 1, 20, 1, 73.52488603886822).
-strada('w1266862214', 'residential', 'Via GiosuÃ¨ Carducci', 1, 20, 1, 104.90360225988219).
+strada('w1266862213', 'residential', 'Largo Angelo Fraccacreta', 1, 30, 1, 73.52488603886822).
+strada('w1266862214', 'residential', 'Via GiosuÃ¨ Carducci', 1, 30, 1, 104.90360225988219).
 strada('w1267965943', 'unclassified', 'Via Francesco Pepe', 0, 30, 1, 163.55318498939707).
 strada('w1271253576', 'service', 'w1271253576', 1, 20, 1, 168.51178817703718).
 strada('w1271253577', 'service', 'w1271253577', 0, 20, 1, 22.646549037784546).
@@ -15626,7 +15626,7 @@ strada('w1271253578', 'service', 'w1271253578', 0, 20, 1, 42.7842200309815).
 strada('w1272591904', 'service', 'w1272591904', 0, 20, 1, 58.14804347089313).
 strada('w1274065313', 'unclassified', 'w1274065313', 0, 30, 1, 49.35563849510259).
 strada('w1274065315', 'service', 'w1274065315', 1, 20, 1, 55.56661797217401).
-strada('w1274065316', 'service', 'w1274065316', 1, 20, 1, 30.414684747560962).
+strada('w1274065316', 'service', 'w1274065316', 1, 10, 1, 30.414684747560962).
 strada('w1274065317', 'service', 'w1274065317', 0, 20, 1, 24.84419337304776).
 strada('w1274065318', 'service', 'w1274065318', 1, 20, 1, 104.36880204351506).
 strada('w1274065319', 'service', 'w1274065319', 0, 20, 1, 9.72773010099193).
@@ -15638,17 +15638,17 @@ strada('w1274603772', 'secondary', 'Via Giovanni Amendola', 0, 50, 1, 6.20103950
 strada('w1274603773', 'service', 'Strada Stoppelli', 1, 20, 1, 28.903730658281873).
 strada('w1274603774', 'service', 'Strada Stoppelli', 1, 20, 1, 29.58685049274777).
 strada('w1274603775', 'secondary', 'Via Giovanni Amendola', 0, 50, 3, 31.29586108458882).
-strada('w1274603776', 'secondary', 'Via Giovanni Amendola', 1, 50, 1, 18.80769433520598).
+strada('w1274603776', 'secondary', 'Via Giovanni Amendola', 1, 30, 1, 18.80769433520598).
 strada('w1280106780', 'service', 'w1280106780', 1, 20, 1, 93.46317528995243).
-strada('w1280106781', 'service', 'w1280106781', 1, 10, 1, 91.36128203352119).
+strada('w1280106781', 'service', 'w1280106781', 1, 20, 1, 91.36128203352119).
 strada('w1280106782', 'service', 'w1280106782', 1, 20, 1, 104.21065140093495).
-strada('w1280106783', 'service', 'w1280106783', 1, 10, 1, 112.82457714839227).
+strada('w1280106783', 'service', 'w1280106783', 1, 20, 1, 112.82457714839227).
 strada('w1280106784', 'service', 'w1280106784', 1, 20, 2, 69.33854941429715).
-strada('w1280502904', 'service', 'w1280502904', 0, 20, 1, 118.03115191693078).
+strada('w1280502904', 'service', 'w1280502904', 0, 10, 1, 118.03115191693078).
 strada('w1280502905', 'service', 'w1280502905', 0, 20, 1, 115.03671372549181).
 strada('w1280502906', 'service', 'w1280502906', 0, 20, 1, 114.86455464988367).
 strada('w1280502907', 'service', 'w1280502907', 0, 20, 1, 114.77484126484211).
-strada('w1280502908', 'service', 'w1280502908', 0, 5, 1, 114.7192802980402).
+strada('w1280502908', 'service', 'w1280502908', 0, 20, 1, 114.7192802980402).
 strada('w1280502909', 'service', 'w1280502909', 0, 20, 1, 114.64750238424841).
 strada('w1280502910', 'service', 'w1280502910', 0, 20, 1, 98.71778476163689).
 strada('w1280502911', 'service', 'w1280502911', 0, 20, 1, 98.86410567805292).
@@ -15656,12 +15656,12 @@ strada('w1280502912', 'service', 'w1280502912', 0, 20, 1, 98.98824697027001).
 strada('w1280502913', 'service', 'w1280502913', 0, 20, 1, 99.12194554499433).
 strada('w1280502914', 'service', 'w1280502914', 0, 20, 1, 99.26284923343187).
 strada('w1280502915', 'service', 'w1280502915', 0, 20, 1, 97.7968162220375).
-strada('w1280502916', 'service', 'w1280502916', 0, 20, 1, 115.53692947205414).
+strada('w1280502916', 'service', 'w1280502916', 0, 10, 1, 115.53692947205414).
 strada('w1280502917', 'service', 'w1280502917', 1, 20, 1, 66.07539105108145).
-strada('w1280502918', 'service', 'w1280502918', 0, 10, 1, 56.72959793862958).
+strada('w1280502918', 'service', 'w1280502918', 0, 20, 1, 56.72959793862958).
 strada('w1280502919', 'service', 'w1280502919', 0, 20, 1, 330.66021763263154).
 strada('w1280502920', 'service', 'w1280502920', 1, 20, 1, 85.0611753219035).
-strada('w1280502921', 'service', 'w1280502921', 0, 20, 1, 53.157751865595074).
+strada('w1280502921', 'service', 'w1280502921', 0, 10, 1, 53.157751865595074).
 strada('w1280502922', 'service', 'w1280502922', 0, 20, 1, 24.307851750771754).
 strada('w1280502926', 'service', 'w1280502926', 0, 20, 1, 33.84570685053676).
 strada('w1280502930', 'service', 'w1280502930', 0, 20, 1, 32.607204407026494).
@@ -15669,8 +15669,8 @@ strada('w1280502931', 'service', 'w1280502931', 1, 20, 1, 43.23136471092766).
 strada('w1280502932', 'service', 'w1280502932', 0, 20, 1, 40.14726255711759).
 strada('w1282463363', 'unclassified', 'w1282463363', 0, 30, 1, 43.26709964574228).
 strada('w1283400056', 'residential', 'Piazza Armando Diaz', 0, 30, 1, 41.034648155388126).
-strada('w1283400057', 'residential', 'Piazza Armando Diaz', 1, 10, 1, 32.57161103802601).
-strada('w1283400058', 'residential', 'Piazza Armando Diaz', 1, 30, 1, 55.21189455362399).
+strada('w1283400057', 'residential', 'Piazza Armando Diaz', 1, 30, 1, 32.57161103802601).
+strada('w1283400058', 'residential', 'Piazza Armando Diaz', 1, 20, 1, 55.21189455362399).
 strada('w1283595517', 'service', 'w1283595517', 0, 20, 1, 9.921846819760237).
 strada('w1283887172', 'track', 'w1283887172', 0, 30, 1, 97.7179666098121).
 strada('w1283888105', 'track', 'w1283888105', 0, 30, 1, 226.5748400041772).
@@ -15680,7 +15680,7 @@ strada('w1285552338', 'service', 'w1285552338', 0, 20, 1, 104.09406881139964).
 strada('w1288254808', 'service', 'w1288254808', 0, 20, 1, 11.8982835153063).
 strada('w1289178138', 'service', 'w1289178138', 0, 20, 1, 61.307365235870144).
 strada('w1289178599', 'service', 'w1289178599', 0, 20, 1, 86.67058364647028).
-strada('w1289267904', 'service', 'w1289267904', 0, 20, 1, 3.554663366629079).
+strada('w1289267904', 'service', 'w1289267904', 0, 10, 1, 3.554663366629079).
 strada('w1289268641', 'service', 'w1289268641', 1, 20, 1, 47.91249169850961).
 strada('w1289643935', 'unclassified', 'w1289643935', 0, 30, 1, 126.20689805314348).
 strada('w1289643936', 'unclassified', 'Via Della FelicitÃ ', 0, 30, 1, 191.87736688761467).

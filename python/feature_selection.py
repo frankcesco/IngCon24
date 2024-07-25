@@ -11,7 +11,7 @@ def extract_prolog_data():
     # Estrarre i dati degli incidenti con 18 argomenti
     incidenti = list(prolog.query('incidente(Id, Data, Abitato, Tipo, Caratteris, Asciutto, Pavimentaz, Meteo, Traffico, DanniCose, Lesioni, Ora, Minuto, Strada, NearestX, NearestY, Quartiere, FasciaOraria)'))
     # Estrarre i dati dei quartieri con 5 argomenti
-    quartieri = list(prolog.query('quartiere(Id, Nome, Area, Pop2011, TEST, Densita)'))
+    quartieri = list(prolog.query('quartiere(Id, Nome, Area, Pop2011, Densita)'))
 
     return incidenti, strade, quartieri
 

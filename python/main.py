@@ -12,12 +12,12 @@ def run_scripts():
 
     for script in scripts:
         script_path = os.path.join(base_path, script)
+        print(f"Esecuzione di {script} in corso...")
         result = subprocess.run([sys.executable, script_path], capture_output=True, text=True)
         if result.returncode != 0:
             print(f"Errore durante l'esecuzione di {script}")
             print(result.stderr)
         else:
-            print(f"Esecuzione di {script} in corso...")
             print(result.stdout)
 
 if __name__ == '__main__':
