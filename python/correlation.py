@@ -1,7 +1,7 @@
 from pyswip import Prolog
 import pandas as pd
 import numpy as np
-from scipy.stats import chi2_contingency, pearsonr
+from scipy.stats import chi2_contingency
 
 
 def extract_data():
@@ -32,39 +32,22 @@ def extract_data():
     return df
 
 
-def calculate_tetrachoric_correlation(contingency_table):
-    # Estrarre valori dalla tabella di contingenza
-    a = contingency_table[0, 0]
-    b = contingency_table[0, 1]
-    c = contingency_table[1, 0]
-    d = contingency_table[1, 1]
-
-    if (a + b) * (c + d) * (a + c) * (b + d) == 0:
-        tetracorr = np.nan
-    else:
-        # Calcolare la proporzione di successi e fallimenti
-        prop = (a + c) * (b + d) / ((a + b) * (c + d))
-        # Applicare la formula generale della correlazione tetracorica
-        tetracorr = np.cos(np.pi / (1 + np.sqrt(prop)))
-
-    return tetracorr
-
-
 def calculate_chi_squared(contingency_table):
     # Calcolare il valore chi-quadrato e il p-value
     chi2, p, _, _ = chi2_contingency(contingency_table, correction=False)
     return chi2, p
 
 
-def calculate_pearson_correlation(df):
-    # Assicurati che i dati siano numerici
-    df['DanniCose'] = pd.to_numeric(df['DanniCose'])
-    df['Lesioni'] = pd.to_numeric(df['Lesioni'])
+def calculate_jaccard_index(contingency_table):
+    # Estrarre valori dalla tabella di contingenza
+    a = contingency_table[0, 0]
+    b = contingency_table[0, 1]
+    c = contingency_table[1, 0]
+    d = contingency_table[1, 1]
 
-    # Calcola il coefficiente di correlazione di Pearson
-    pearson_corr, _ = pearsonr(df['DanniCose'], df['Lesioni'])
-
-    return pearson_corr
+    # Calcolare l'indice di Jaccard
+    jaccard_index = d / (b + c + d)
+    return jaccard_index
 
 
 if __name__ == '__main__':
@@ -88,25 +71,19 @@ if __name__ == '__main__':
         elif row['DanniCose'] == 1 and row['Lesioni'] == 1:
             contingency_table[1, 1] += 1
 
-    # Calcolare la correlazione tetracorica
-    tetracorr = calculate_tetrachoric_correlation(contingency_table)
-
     # Calcolare il chi-quadrato e il p-value
     chi2, p = calculate_chi_squared(contingency_table)
 
-    # Calcolare la correlazione di Pearson
-    pearson_corr = calculate_pearson_correlation(df)
+    # Calcolare l'indice di Jaccard
+    jaccard_index = calculate_jaccard_index(contingency_table)
 
     # Visualizzare i risultati
     print("Tabella di Contingenza:")
     print(contingency_table)
 
-    print("Correlazione tetracorica tra 'DanniCose' e 'Lesioni':")
-    print(tetracorr)
-
     print("Chi-quadrato e p-value:")
     print(f"Chi-quadrato: {chi2}")
     print(f"p-value: {p}")
 
-    print("Coefficiente di correlazione di Pearson tra 'DanniCose' e 'Lesioni':")
-    print(pearson_corr)
+    print("Indice di Jaccard tra 'DanniCose' e 'Lesioni':")
+    print(jaccard_index)
