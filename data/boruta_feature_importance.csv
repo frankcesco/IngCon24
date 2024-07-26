@@ -1,0 +1,66 @@
+Feature,Rank
+Strada_Maxspeed,2
+Quartiere,3
+FasciaOraria_notte,4
+Quartiere_Pop2011,5
+Strada_Highway_secondary,6
+Traffico_Normale,7
+Strada_Lanes,8
+Quartiere_Area,9
+Quartiere_Densita,10
+Traffico_Scarso,11
+FasciaOraria_sera,12
+Caratteris_Rettilineo,13
+Strada_Oneway,14
+Tipo_Comunale extraurbana,15
+Caratteris_Incrocio,16
+Caratteris_Pendenza,17
+Strada_Highway_trunk_link,18
+Caratteris_Rotatoria,19
+Caratteris_Intersezione semaforizzata,20
+FasciaOraria_pomeriggio,21
+Strada_Highway_residential,22
+Strada_Highway_service,23
+Tipo_Statale,24
+Asciutto,25
+Tipo_Provinciale entro l abitato,26
+Meteo_Vento forte,27
+Meteo_Sereno,28
+Abitato,28
+Strada_Highway_tertiary,30
+DanniCose,31
+Strada_Highway_demolished,32
+FasciaOraria_mattina,33
+Tipo_Strada urbana,34
+Meteo_Pioggia in atto,35
+Meteo_Nuvoloso,35
+Strada_Highway_unclassified,37
+Traffico_Intenso,38
+Caratteris_Curva a visuale libera,39
+Caratteris_Intersezione non regolata/non segnalata,40
+Strada_Highway_primary_link,41
+Strada_Highway_tertiary_link,42
+Strada_Highway_primary,42
+Strada_Highway_trunk,44
+Tipo_Provinciale,45
+Caratteris_Intersezione stradale segnalata,46
+Caratteris_Curva senza visuale libera,47
+Tipo_Altra strada,48
+Strada_Highway_secondary_link,49
+Tipo_Statale entro l abitato,50
+Caratteris_Pianeggiante,51
+Caratteris_Cavalcavia,52
+Caratteris_Sottopasso illuminato,52
+Caratteris_Strettoia,54
+Strada_Highway_track,55
+Caratteris_Galleria illuminata,56
+Meteo_Nebbia,57
+Meteo_Sole radente,58
+Meteo_Foschia,59
+Strada_Highway_motorway,60
+Caratteris_Passaggio a livello (custodito),61
+Caratteris_Sottopasso non illuminato,62
+Meteo_Grandine in atto,62
+Meteo_Nevicata in atto,64
+Caratteris_Dosso,65
+Caratteris_Passaggio a livello (incustodito),65

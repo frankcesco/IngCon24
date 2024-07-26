@@ -12,13 +12,7 @@ incidente('6', '02/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', '
 incidente('7', '02/01/2022', 1, 'Strada urbana', 'Rotatoria', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 14, 20, 'w25654689', 16.8501802190298, 41.1142537353495, '8').
 incidente('8', '02/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 17, 55, 'w292335019', 16.8322447263976, 41.1248661903233, '9').
 incidente('9', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387163', 16.9995005, 41.0831559, '17').
-incidente('9', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387164', 16.9995005, 41.0831559, '17').
-incidente('9', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387163', 16.9995005, 41.0831559, '17').
-incidente('9', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387164', 16.9995005, 41.0831559, '17').
 incidente('10', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387163', 16.9995005, 41.0831559, '17').
-incidente('10', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387164', 16.9995005, 41.0831559, '17').
-incidente('10', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387163', 16.9995005, 41.0831559, '17').
-incidente('10', '02/01/2022', 1, 'Provinciale entro l abitato', 'Curva senza visuale libera', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 00, 'w713387164', 16.9995005, 41.0831559, '17').
 incidente('11', '02/01/2022', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 21, 15, 'w1164108701', 16.8537653125836, 41.1077766213592, '8').
 incidente('12', '03/01/2022', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 06, 10, 'w96606441', 16.8615102149403, 41.1103787503567, '8').
 incidente('13', '03/01/2022', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 08, 15, 'w714465412', 16.9991507378271, 41.0863025647585, '17').
@@ -121,13 +115,7 @@ incidente('109', '19/01/2022', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', '
 incidente('110', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 16, 20, 'w30029581', 16.8678577488953, 41.1113589672908, '8').
 incidente('111', '19/01/2022', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 19, 30, 'w24884196', 16.860186952265, 41.1193397383258, '4').
 incidente('112', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w127664375', 16.7806901, 41.125474, '11').
-incidente('112', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w374168420', 16.7806901, 41.125474, '11').
-incidente('112', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w127664375', 16.7806901, 41.125474, '11').
-incidente('112', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w374168420', 16.7806901, 41.125474, '11').
 incidente('113', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w127664375', 16.7806901, 41.125474, '11').
-incidente('113', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w374168420', 16.7806901, 41.125474, '11').
-incidente('113', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w127664375', 16.7806901, 41.125474, '11').
-incidente('113', '19/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 50, 'w374168420', 16.7806901, 41.125474, '11').
 incidente('114', '20/01/2022', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 00, 15, 'w31578895', 16.8503382751839, 41.1171000821129, '9').
 incidente('115', '20/01/2022', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 06, 55, 'w363142488', 16.8520918540266, 41.1209779896018, '4').
 incidente('116', '20/01/2022', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 07, 15, 'w1225908702', 16.8736398737639, 41.0958413220206, '7').
@@ -3032,13 +3020,7 @@ incidente('3014', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata'
 incidente('3015', '12/01/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Nuvoloso', 'Normale', 0, 0, 20, 20, 'w25563515', 16.8770134548586, 41.1148730502212, '6').
 incidente('3016', '12/01/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Nuvoloso', 'Scarso', 0, 0, 22, 35, 'w132717751', 16.825661911411, 41.1241202249511, '9').
 incidente('3017', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633572', 16.8129609, 41.1359189, '10').
-incidente('3017', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633573', 16.8129609, 41.1359189, '10').
-incidente('3017', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633572', 16.8129609, 41.1359189, '10').
-incidente('3017', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633573', 16.8129609, 41.1359189, '10').
 incidente('3018', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633572', 16.8129609, 41.1359189, '10').
-incidente('3018', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633573', 16.8129609, 41.1359189, '10').
-incidente('3018', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633572', 16.8129609, 41.1359189, '10').
-incidente('3018', '12/01/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 23, 30, 'w390633573', 16.8129609, 41.1359189, '10').
 incidente('3019', '13/01/2023', 1, 'Strada urbana', 'Intersezione stradale segnalata', 1, 'Asfaltata', 'Sereno', 'Scarso', 1, 0, 00, 30, 'w294384863', 16.900502594207, 41.1059605462323, '5').
 incidente('3020', '13/01/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 0, 08, 10, 'w1219744083', 16.8796448030687, 41.1013486397579, '6').
 incidente('3021', '13/01/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 10, 10, 'w714465409', 16.9993896890158, 41.0862337888132, '17').
@@ -3380,13 +3362,7 @@ incidente('3356', '23/02/2023', 0, 'Statale', 'Rettilineo', 1, 'Asfaltata', 'Ser
 incidente('3357', '23/02/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 12, 00, 'w33831686', 16.8634577442057, 41.1096463721564, '8').
 incidente('3358', '23/02/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 16, 30, 'w653583335', 16.8647256550767, 41.116722080333, '2').
 incidente('3359', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '2').
-incidente('3359', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '2').
-incidente('3359', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '7').
-incidente('3359', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '7').
 incidente('3360', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '2').
-incidente('3360', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '2').
-incidente('3360', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '7').
-incidente('3360', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 16, 35, 'w383600343', 16.8699122256538, 41.1170256753276, '7').
 incidente('3361', '23/02/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 17, 45, 'w184760822', 16.8081122478946, 41.108830058134, '9').
 incidente('3362', '23/02/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 22, 00, 'w30029581', 16.8665902978942, 41.1114932825646, '8').
 incidente('3363', '23/02/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 22, 50, 'w25585825', 16.8733897880466, 41.1133611215055, '7').
@@ -3575,13 +3551,7 @@ incidente('3545', '16/03/2023', 0, 'Statale', 'Rettilineo', 1, 'Asfaltata', 'Ser
 incidente('3546', '16/03/2023', 1, 'Strada urbana', 'Intersezione stradale segnalata', 1, 'Asfaltata', 'Vento forte', 'Normale', 1, 1, 12, 25, 'w25586000', 16.8676305228535, 41.0967099712444, '7').
 incidente('3547', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 1, 14, 00, 'w25654693', 16.8599180482247, 41.1085926153828, '8').
 incidente('3548', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '8').
-incidente('3548', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '8').
-incidente('3548', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '7').
-incidente('3548', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '7').
 incidente('3549', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '8').
-incidente('3549', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '8').
-incidente('3549', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '7').
-incidente('3549', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 20, 'w968705518', 16.8676847678409, 41.1063800675349, '7').
 incidente('3550', '16/03/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 15, 15, 'w561218346', 16.8858116735409, 41.0860894305899, '6').
 incidente('3551', '16/03/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 21, 00, 'w29986258', 16.8741803851929, 41.1201230732471, '2').
 incidente('3552', '16/03/2023', 1, 'Provinciale entro l abitato', 'Curva a visuale libera', 1, 'Asfaltata', 'Vento forte', 'Scarso', 0, 1, 21, 50, 'w131039498', 16.9557132647866, 41.0953699328348, '17').
@@ -3905,14 +3875,8 @@ incidente('3869', '22/04/2023', 0, 'Provinciale', 'Curva senza visuale libera', 
 incidente('3870', '22/04/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 05, 'w303860395', 16.7566557042211, 41.1605967991811, '13').
 incidente('3871', '22/04/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 14, 35, 'w25563512', 16.8754848932951, 41.1160294882334, '6').
 incidente('3872', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '2').
-incidente('3872', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '2').
-incidente('3872', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '7').
-incidente('3872', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '7').
 incidente('3873', '22/04/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w25748820', 16.8673488642888, 41.0993567973765, '8').
 incidente('3874', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '2').
-incidente('3874', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '2').
-incidente('3874', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '7').
-incidente('3874', '22/04/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 00, 'w383600343', 16.8700310775425, 41.1170333818296, '7').
 incidente('3875', '22/04/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 21, 00, 'w24884108', 16.8738204642354, 41.1209026358283, '2').
 incidente('3876', '22/04/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 22, 15, 'w133757805', 16.8850250594102, 41.1080982306598, '6').
 incidente('3877', '23/04/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 00, 35, 'w25634399', 16.8832123013312, 41.1064514404844, '6').
@@ -4286,32 +4250,8 @@ incidente('4244', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata'
 incidente('4245', '01/06/2023', 1, 'Strada urbana', 'Rotatoria', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 13, 15, 'w1219711425', 16.8896089685896, 41.0981969875152, '6').
 incidente('4246', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 05, 'w32942662', 16.7979916233234, 41.1231524471177, '11').
 incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4247', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
 incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4248', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
 incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w292276949', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637939', 16.8231994, 41.1209675, '9').
-incidente('4249', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 15, 'w95637938', 16.8231994, 41.1209675, '9').
 incidente('4250', '01/06/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 17, 35, 'w129120201', 16.8548077, 41.1015302, '8').
 incidente('4251', '01/06/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 10, 'w30029558', 16.8597998623096, 41.1234834793304, '4').
 incidente('4252', '01/06/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 19, 00, 'w31355826', 16.8729636796822, 41.072249234333, '14').
@@ -5524,13 +5464,7 @@ incidente('5458', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Strada pav
 incidente('5459', '05/10/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 14, 25, 'w130557835', 16.8190108826168, 41.136455640553, '10').
 incidente('5460', '05/10/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 30, 'w25563712', 16.8799631432581, 41.1136600426174, '6').
 incidente('5461', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '8').
-incidente('5461', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '8').
-incidente('5461', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '7').
-incidente('5461', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '7').
 incidente('5462', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '8').
-incidente('5462', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '8').
-incidente('5462', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '7').
-incidente('5462', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 17, 50, 'w968705518', 16.8676844734096, 41.1063775668792, '7').
 incidente('5463', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 18, 10, 'w96606441', 16.8615271445858, 41.1103933217812, '8').
 incidente('5464', '05/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 18, 10, 'w25654817', 16.8717448374977, 41.1068896222717, '7').
 incidente('5465', '05/10/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 18, 50, 'w294551391', 16.8826901248764, 41.1176602724341, '3').
@@ -5746,13 +5680,7 @@ incidente('5674', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata'
 incidente('5675', '27/10/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 18, 20, 'w1274596356', 16.87187088949, 41.1171526087301, '2').
 incidente('5676', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 20, 20, 'w204988985', 16.740325089574, 41.1458580243768, '13').
 incidente('5677', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '2').
-incidente('5677', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '2').
-incidente('5677', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '7').
-incidente('5677', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '7').
 incidente('5678', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '2').
-incidente('5678', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '2').
-incidente('5678', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '7').
-incidente('5678', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 20, 35, 'w383600343', 16.8699471652726, 41.1170279408553, '7').
 incidente('5679', '27/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 0, 21, 10, 'w30009729', 16.8756592357128, 41.1241317920851, '2').
 incidente('5680', '28/10/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 0, 1, 00, 00, 'w29980621', 16.8643244111711, 41.122842492255, '2').
 incidente('5681', '28/10/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Scarso', 1, 0, 03, 00, 'w26001577', 17.0019222955523, 41.0847615741596, '17').
@@ -5983,32 +5911,8 @@ incidente('5905', '18/11/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 
 incidente('5906', '18/11/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 13, 03, 'w295028468', 16.7710112360717, 41.1526908797283, '12').
 incidente('5907', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 1, 13, 45, 'w30633416', 16.8876385628584, 41.1156210114475, '5').
 incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5908', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
 incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5909', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
 incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716742', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w175451804', 16.8828958, 41.0627074, '14').
-incidente('5910', '18/11/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Normale', 0, 0, 16, 10, 'w1236716737', 16.8828958, 41.0627074, '14').
 incidente('5911', '18/11/2023', 0, 'Statale', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Intenso', 1, 0, 19, 40, 'w383272079', 16.8600103699995, 41.0897933426769, '14').
 incidente('5912', '18/11/2023', 0, 'Statale', 'Rettilineo', 1, 'Asfaltata', 'Vento forte', 'Intenso', 0, 0, 20, 15, 'w1055087604', 16.8996235905095, 41.0968816844371, '5').
 incidente('5913', '18/11/2023', 1, 'Strada urbana', 'Incrocio', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 22, 00, 'w1219744082', 16.8763608256323, 41.1007941666551, '7').
@@ -6254,13 +6158,7 @@ incidente('6152', '14/12/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata'
 incidente('6153', '14/12/2023', 1, 'Strada urbana', 'Curva a visuale libera', 0, 'Asfaltata', 'Nuvoloso', 'Normale', 0, 0, 18, 20, 'w559495119', 16.8543155250412, 41.0999895480837, '8').
 incidente('6154', '14/12/2023', 0, 'Provinciale', 'Rettilineo', 0, 'Asfaltata', 'Pioggia in atto', 'Scarso', 0, 0, 19, 35, 'w28684909', 16.842634982197, 41.0967539401036, '8').
 incidente('6155', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w787571217', 16.8676876, 41.1197878, '2').
-incidente('6155', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w797020842', 16.8676876, 41.1197878, '2').
-incidente('6155', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w787571217', 16.8676876, 41.1197878, '2').
-incidente('6155', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w797020842', 16.8676876, 41.1197878, '2').
 incidente('6156', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w787571217', 16.8676876, 41.1197878, '2').
-incidente('6156', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w797020842', 16.8676876, 41.1197878, '2').
-incidente('6156', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w787571217', 16.8676876, 41.1197878, '2').
-incidente('6156', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 0, 00, 00, 'w797020842', 16.8676876, 41.1197878, '2').
 incidente('6157', '15/12/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Normale', 0, 1, 00, 00, 'w1219744083', 16.8796448030687, 41.1013486397579, '6').
 incidente('6158', '15/12/2023', 1, 'Strada urbana', 'Rettilineo', 0, 'Asfaltata', 'Nuvoloso', 'Normale', 0, 0, 07, 30, 'w306397509', 16.8743301487965, 41.1182367294144, '2').
 incidente('6159', '15/12/2023', 1, 'Strada urbana', 'Intersezione semaforizzata', 1, 'Asfaltata', 'Sereno', 'Scarso', 0, 0, 10, 15, 'w29975372', 16.8516200350347, 41.1271879353419, '4').

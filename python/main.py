@@ -7,7 +7,9 @@ def run_scripts():
     scripts = [
         'generate_prolog.py',
         'update_kb.py',
-        'apply_inference_rules.py'
+        'apply_inference_rules.py',
+        'correlation.py',
+        'feature_selection.py'
     ]
 
     for script in scripts:
