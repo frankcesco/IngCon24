@@ -56,14 +56,8 @@ df_reduced.to_csv(reduced_output_path, index=False)
 
 print(f"Dati ridotti salvati in '{reduced_output_path}'")
 
-# FEATURE SELECTION
-
 # Carica il dataset ridotto
 df_reduced = pd.read_csv(reduced_output_path)
-
-# Verifica che il dataset sia stato caricato correttamente
-print("Dati ridotti caricati:")
-print(df_reduced.head())
 
 # Convertire le feature categoriche in numeriche utilizzando get_dummies
 df_reduced = pd.get_dummies(df_reduced)
@@ -78,29 +72,19 @@ X.fillna(-999, inplace=True)
 # Imposta il modello RandomForest per Boruta
 rf = RandomForestClassifier(n_jobs=-1, class_weight='balanced', max_depth=5, random_state=42)
 
-# Esegui Boruta
-boruta_selector = BorutaPy(rf, n_estimators='auto', verbose=2, random_state=42)
+# Imposta il percentile individuato dal plateau nel grafico
+selected_percentile = 85
+
+# Feature selection con BorutaPy usando il percentile selezionato
+print(f"Percentile: {selected_percentile}")
+boruta_selector = BorutaPy(rf, perc=selected_percentile, n_estimators='auto', verbose=2, random_state=42)
 boruta_selector.fit(X.values, y.values)
 
-# Ottenere i risultati di Boruta
-feature_ranks = boruta_selector.ranking_
-feature_names = X.columns
+# Salva i risultati della selezione delle feature
+selected_features = boruta_selector.support_.sum()
+print(f"Percentile: {selected_percentile}, Selected Features: {selected_features}")
 
-# Creare un DataFrame con i risultati
-features = pd.DataFrame({
-    'Feature': feature_names,
-    'Rank': feature_ranks
-})
-
-# Ordinare le feature per importanza
-features.sort_values(by='Rank', inplace=True)
-
-# Visualizzare le feature più importanti
-print("Feature più importanti secondo Boruta:")
-print(features.head(10))
-
-# Salva i risultati in un file CSV
-output_path_boruta = os.path.abspath('../data/boruta_feature_importance.csv')
-features.to_csv(output_path_boruta, index=False)
-
-print(f"Risultati di Boruta salvati in '{output_path_boruta}'")
+# Salvare i risultati di feature selection (opzionale)
+output_path_features = os.path.abspath('../data/selected_features.csv')
+pd.DataFrame({'Feature': X.columns[boruta_selector.support_]}).to_csv(output_path_features, index=False)
+print(f"Feature selezionate salvate in '{output_path_features}'")
