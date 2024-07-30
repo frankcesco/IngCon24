@@ -8,8 +8,8 @@ def run_scripts():
         'generate_prolog.py',
         'update_kb.py',
         'apply_inference_rules.py',
-        'correlation.py',
-        'feature_selection.py'
+        'feature_selection.py',
+        'supervised.py'
     ]
 
     for script in scripts:
