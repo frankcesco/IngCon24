@@ -47,8 +47,8 @@ models = {
 # Griglia degli iperparametri per ogni modello
 param_grid = {
     'RandomForest': {
-        'randomforest__n_estimators': [100, 200],
-        'randomforest__max_depth': [5, 10]
+        'randomforest__n_estimators': [100, 200, 500],
+        'randomforest__max_features': ['sqrt', 'log2']
     },
     'SVC': {
         'svc__C': [0.1, 1, 10],
@@ -66,7 +66,7 @@ param_grid = {
 for model_name in models:
     print(f"Training {model_name}...")
     pipe = Pipeline(steps=[('scaler', StandardScaler()), (model_name.lower(), models[model_name])])
-    search = GridSearchCV(pipe, param_grid[model_name], cv=5, scoring='accuracy')
+    search = GridSearchCV(pipe, param_grid[model_name], cv=5, scoring='accuracy') # Si può mettere repeated_kfold al posto di cv=5
     search.fit(X_train, y_train)
     print(f"Best parameters for {model_name}: {search.best_params_}")
     print(f"Best cross-validation accuracy for {model_name}: {search.best_score_}")
@@ -97,52 +97,3 @@ for model_name in models:
     plot_path = os.path.join(plots_directory, f'ROC_{model_name}.png')
     plt.savefig(plot_path)
     plt.close()
-
-# Ottimizzazione del modello Random Forest
-param_grid_rf = {
-    'randomforest__n_estimators': [100, 200, 300],
-    'randomforest__max_depth': [5, 10, 15],
-    'randomforest__min_samples_split': [2, 5, 10],
-    'randomforest__min_samples_leaf': [1, 2, 4],
-    'randomforest__bootstrap': [True, False]
-}
-
-pipe_rf = Pipeline(steps=[('scaler', StandardScaler()), (
-'randomforest', RandomForestClassifier(n_jobs=-1, class_weight='balanced', random_state=42))])
-grid_search = GridSearchCV(pipe_rf, param_grid_rf, cv=5, scoring='accuracy', verbose=2, n_jobs=-1)
-
-grid_search.fit(X_train, y_train)
-
-print("Best parameters found: ", grid_search.best_params_)
-print("Best cross-validation score: ", grid_search.best_score_)
-
-best_rf = grid_search.best_estimator_
-y_pred_best_rf = best_rf.predict(X_test)
-
-print(f'Accuracy: {accuracy_score(y_test, y_pred_best_rf)}')
-print(f'Classification Report:\n{classification_report(y_test, y_pred_best_rf)}')
-
-# Calcola la curva ROC e l'AUC per il modello Random Forest ottimizzato
-y_pred_proba_rf = best_rf.predict_proba(X_test)[:, 1] if hasattr(best_rf,
-                                                                 "predict_proba") else best_rf.decision_function(X_test)
-fpr_rf, tpr_rf, _ = roc_curve(y_test, y_pred_proba_rf)
-roc_auc_rf = auc(fpr_rf, tpr_rf)
-
-# Stampa il valore ROC AUC per il modello Random Forest ottimizzato
-print(f"ROC AUC for Optimized Random Forest: {roc_auc_rf}")
-
-# Plot ROC curve for the optimized Random Forest
-plt.figure()
-plt.plot(fpr_rf, tpr_rf, color='darkorange', lw=2, label=f'ROC curve (area = {roc_auc_rf:.2f})')
-plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
-plt.xlim([0.0, 1.0])
-plt.ylim([0.0, 1.05])
-plt.xlabel('False Positive Rate')
-plt.ylabel('True Positive Rate')
-plt.title('Receiver Operating Characteristic - Optimized Random Forest')
-plt.legend(loc="lower right")
-
-# Salva la figura
-plot_path_rf = os.path.join(plots_directory, 'ROC_Optimized_RandomForest.png')
-plt.savefig(plot_path_rf)
-plt.close()
