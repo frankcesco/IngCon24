@@ -8,8 +8,12 @@ def run_prolog_rules():
     prolog.consult('../prolog/facts.pl')
     prolog.consult('../prolog/rules.pl')
 
-    # Esegui la regola per elaborare le velocità massime con un'ipotesi di mondo aperto
-    list(prolog.query('assign_speeds'))
+    try:
+        # Esegui la regola per elaborare le velocità massime con un'ipotesi di mondo aperto
+        list(prolog.query('assign_speeds'))
+    except Exception as e:
+        print(f"Errore durante l'esecuzione della query Prolog: {e}")
+        return
 
     # Recupera tutti i fatti aggiornati
     updated_strade = list(prolog.query('strada(Id, Highway, Name, Oneway, Maxspeed, Lanes, Length)'))
@@ -23,7 +27,7 @@ def run_prolog_rules():
     # Filtra i fatti aggiornati per rimuovere quelli con valori nulli
     filtered_strade = [fact for fact in updated_strade if not has_null_values(fact)]
     filtered_incidenti = [fact for fact in updated_incidenti if not has_null_values(fact)]
-    filtered_quartieri = [fact for fact in updated_quartieri if not has_null_values(fact)]
+    # filtered_quartieri = [fact for fact in updated_quartieri if not has_null_values(fact)]
 
     # Leggi i fatti originali da facts.pl
     with open('../prolog/facts.pl', 'r', encoding='utf-8') as original_file:
@@ -63,7 +67,7 @@ def run_prolog_rules():
         for fact in filtered_strade:
             writer.writerow({'Id': fact['Id'], 'Maxspeed': fact['Maxspeed']})
 
-    print("Velocità aggiornate esportate in updated_speeds.csv")
+    print("Velocita' aggiornate esportate in updated_speeds.csv")
 
 if __name__ == '__main__':
     run_prolog_rules()

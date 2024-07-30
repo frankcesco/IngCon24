@@ -5,56 +5,44 @@ assign_track_speed :-
     fail.
 assign_track_speed.
 
-% Predicati per memorizzare la distribuzione di probabilità pesata
-:- dynamic speed_distribution/3.
+% Predicati per memorizzare la media pesata della velocità
+:- dynamic speed_mean/2.
 
-% Calcolo della distribuzione pesata per ciascuna categoria di strada
-calculate_speed_distribution :-
+% Calcolo della media pesata per ciascuna categoria di strada
+calculate_speed_mean :-
     findall(Highway, strada(_, Highway, _, _, _, _, _), Highways),
     list_to_set(Highways, UniqueHighways),
-    forall(member(Hwy, UniqueHighways), calculate_distribution_for(Hwy)).
+    forall(member(Hwy, UniqueHighways), calculate_mean_for(Hwy)).
 
-calculate_distribution_for(Highway) :-
+calculate_mean_for(Highway) :-
     findall([MaxSpeed, Length], strada(_, Highway, _, _, MaxSpeed, _, Length), SpeedsAndLengths),
     exclude(is_null_speed, SpeedsAndLengths, ValidSpeedsAndLengths),
-    calculate_weighted_distribution(ValidSpeedsAndLengths, WeightedDistribution, TotalWeight),
-    retractall(speed_distribution(Highway, _, _)),
-    assertz(speed_distribution(Highway, WeightedDistribution, TotalWeight)).
+    calculate_weighted_mean(ValidSpeedsAndLengths, MeanSpeed),
+    retractall(speed_mean(Highway, _)),
+    assertz(speed_mean(Highway, MeanSpeed)).
 
 is_null_speed([null, _]).
 
-calculate_weighted_distribution(SpeedsAndLengths, WeightedDistribution, TotalWeight) :-
-    findall([Speed, Weight], (member([Speed, Length], SpeedsAndLengths), ceiling(Length, Weight)), WeightedSpeedsAndWeights),
-    msort(WeightedSpeedsAndWeights, SortedWeightedSpeedsAndWeights),
-    calculate_totals(SortedWeightedSpeedsAndWeights, WeightedDistribution, 0, TotalWeight).
+calculate_weighted_mean(SpeedsAndLengths, MeanSpeed) :-
+    findall(Speed * Length, (member([Speed, Length], SpeedsAndLengths), Speed \= null), WeightedSpeeds),
+    sum_list(WeightedSpeeds, TotalWeightedSpeed),
+    findall(Length, member([_, Length], SpeedsAndLengths), Lengths),
+    sum_list(Lengths, TotalLength),
+    ( TotalLength > 0 -> MeanSpeed is TotalWeightedSpeed / TotalLength ; MeanSpeed = 0 ).
 
-calculate_totals([], [], TotalWeight, TotalWeight).
-calculate_totals([[Speed, Weight]|Rest], [[Speed, CumulativeWeight]|WeightedDistribution], Accum, TotalWeight) :-
-    CumulativeWeight is Accum + Weight,
-    calculate_totals(Rest, WeightedDistribution, CumulativeWeight, TotalWeight).
-
-% Regola per assegnare i valori mancanti basandosi sulla distribuzione di probabilità pesata
+% Regola per assegnare i valori mancanti basandosi sulla media pesata
 assign_missing_speeds :-
     strada(Id, Highway, Name, Oneway, null, Lanes, Length),
-    speed_distribution(Highway, Distribution, TotalWeight),
-    random_between(1, TotalWeight, Rand),
-    select_speed(Distribution, Rand, SelectedSpeed),
+    speed_mean(Highway, MeanSpeed),
     retract(strada(Id, Highway, Name, Oneway, null, Lanes, Length)),
-    assertz(strada(Id, Highway, Name, Oneway, SelectedSpeed, Lanes, Length)),
+    assertz(strada(Id, Highway, Name, Oneway, MeanSpeed, Lanes, Length)),
     fail.
 assign_missing_speeds.
-
-select_speed([[Speed, CumulativeWeight]|_], Rand, Speed) :-
-    Rand =< CumulativeWeight.
-select_speed([[_, CumulativeWeight]|Rest], Rand, Speed) :-
-    Rand > CumulativeWeight,
-    NewRand is Rand - CumulativeWeight,
-    select_speed(Rest, NewRand, Speed).
 
 % Regola che chiama le regole di assegnazione della velocità con open-world assumption
 assign_speeds :-
     assign_track_speed,
-    calculate_speed_distribution,
+    calculate_speed_mean,
     assign_missing_speeds.
 
 % Calcolo della fascia oraria di un incidente basata sull'orario di chiamata
