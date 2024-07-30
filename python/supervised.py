@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV, RepeatedKFold
 from sklearn.metrics import accuracy_score, classification_report, roc_curve, auc
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
@@ -62,14 +62,25 @@ param_grid = {
     }
 }
 
+# Configurazione di RepeatedKFold per la cross-validation con 5 ripetizioni
+rkf = RepeatedKFold(n_splits=5, n_repeats=100, random_state=42)
+
+# Dizionario per memorizzare le accuratezze dei modelli
+accuracies = {model_name: [] for model_name in models}
+
 # Esegui la GridSearchCV per ogni modello per selezionare i migliori iperparametri
 for model_name in models:
     print(f"Training {model_name}...")
     pipe = Pipeline(steps=[('scaler', StandardScaler()), (model_name.lower(), models[model_name])])
-    search = GridSearchCV(pipe, param_grid[model_name], cv=5, scoring='accuracy') # Si può mettere repeated_kfold al posto di cv=5
+    search = GridSearchCV(pipe, param_grid[model_name], cv=rkf, scoring='accuracy', n_jobs=-1) # Uso di rkf come cv
     search.fit(X_train, y_train)
     print(f"Best parameters for {model_name}: {search.best_params_}")
     print(f"Best cross-validation accuracy for {model_name}: {search.best_score_}")
+
+    # Memorizza le accuratezze da tutte le ripetizioni
+    accuracies[model_name] = search.cv_results_['mean_test_score']
+
+    # Calcola l'accuratezza del test set
     test_accuracy = search.score(X_test, y_test)
     print(f"Test set accuracy for {model_name}: {test_accuracy}")
 
@@ -97,3 +108,10 @@ for model_name in models:
     plot_path = os.path.join(plots_directory, f'ROC_{model_name}.png')
     plt.savefig(plot_path)
     plt.close()
+
+# Calcola la media e la deviazione standard dell'accuratezza per ogni modello
+for model_name, scores in accuracies.items():
+    mean_accuracy = np.mean(scores)
+    std_accuracy = np.std(scores)
+    print(f"{model_name} - Media dell'accuratezza: {mean_accuracy:.4f}")
+    print(f"{model_name} - Deviazione standard dell'accuratezza: {std_accuracy:.4f}")
