@@ -73,7 +73,7 @@ X.fillna(-999, inplace=True)
 rf = RandomForestClassifier(n_jobs=-1, class_weight='balanced', max_depth=5, random_state=42)
 
 # Imposta il percentile individuato dal plateau nel grafico
-selected_percentile = 85
+selected_percentile = 90
 
 # Feature selection con BorutaPy usando il percentile selezionato
 print(f"Percentile: {selected_percentile}")
