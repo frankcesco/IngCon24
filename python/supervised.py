@@ -20,17 +20,11 @@ if not os.path.exists(plots_directory):
 reduced_output_path = '../data/merged_data_reduced.csv'
 df_reduced = pd.read_csv(reduced_output_path)
 
-# Seleziona le feature indicate da Boruta salvate in ../data/selected_features.csv
-selected_features_path = '../data/selected_features.csv'
-selected_features = pd.read_csv(selected_features_path, header=0).values.flatten()
-print(f"Selected Features: {selected_features}")
-print(f"Total Selected Features: {len(selected_features)}\n")
-
 # Convertire le feature categoriche in numeriche utilizzando get_dummies per one-hot encoding
 df_reduced = pd.get_dummies(df_reduced)
 
 # Separare le feature (X) e il target (y)
-X = df_reduced[selected_features]
+X = df_reduced.drop(columns=['Lesioni'])  # Usa tutte le feature, non solo quelle selezionate da Boruta
 y = df_reduced['Lesioni']
 
 # Dividere il dataset in training e test set
@@ -62,8 +56,11 @@ param_grid = {
     }
 }
 
-# Configurazione di RepeatedKFold per la cross-validation con 5 ripetizioni
-rkf = RepeatedKFold(n_splits=5, n_repeats=100, random_state=42)
+# Configurazione di RepeatedKFold per la cross-validation con 100 ripetizioni e 5 split
+n_splits = 5
+n_repeats = 100
+rkf = RepeatedKFold(n_splits=n_splits, n_repeats=n_repeats, random_state=42)
+n = n_splits * n_repeats  # Numero totale di valutazioni
 
 # Dizionario per memorizzare le accuratezze dei modelli
 accuracies = {model_name: [] for model_name in models}
@@ -85,8 +82,7 @@ for model_name in models:
     print(f"Test set accuracy for {model_name}: {test_accuracy}")
 
     # Calcola la curva ROC e l'AUC
-    y_pred_proba = search.predict_proba(X_test)[:, 1] if hasattr(search, "predict_proba") else search.decision_function(
-        X_test)
+    y_pred_proba = search.predict_proba(X_test)[:, 1] if hasattr(search, "predict_proba") else search.decision_function(X_test)
     fpr, tpr, _ = roc_curve(y_test, y_pred_proba)
     roc_auc = auc(fpr, tpr)
 
@@ -110,8 +106,20 @@ for model_name in models:
     plt.close()
 
 # Calcola la media e la deviazione standard dell'accuratezza per ogni modello
+model_results = []
 for model_name, scores in accuracies.items():
     mean_accuracy = np.mean(scores)
     std_accuracy = np.std(scores)
+    model_results.append({
+        'model': model_name,
+        'mean_accuracy': mean_accuracy,
+        'std_accuracy': std_accuracy,
+        'n': n  # Numero totale di valutazioni
+    })
     print(f"{model_name} - Media dell'accuratezza: {mean_accuracy:.4f}")
     print(f"{model_name} - Deviazione standard dell'accuratezza: {std_accuracy:.4f}")
+
+# Salva i risultati nel file CSV
+results_df = pd.DataFrame(model_results)
+results_df.to_csv('../data/model_accuracies.csv', index=False)
+print("Results saved to ../data/model_accuracies.csv")

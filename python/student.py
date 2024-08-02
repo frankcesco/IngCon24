@@ -1,14 +1,13 @@
 import numpy as np
 from scipy import stats
+import pandas as pd
 
-# Dati dell'accuratezza media e deviazione standard
-models = {
-    'RandomForest': {'mean_accuracy': 0.5241, 'std_accuracy': 0.0002, 'n': 10},
-    'SVC': {'mean_accuracy': 0.5444, 'std_accuracy': 0.0041, 'n': 10},
-    'KNN': {'mean_accuracy': 0.5293, 'std_accuracy': 0.0057, 'n': 10},
-    'LogisticRegression': {'mean_accuracy': 0.5561, 'std_accuracy': 0.0000, 'n': 10}
-}
+# Carica i dati dal file CSV
+data_path = '../data/model_accuracies.csv'
+model_data = pd.read_csv(data_path)
 
+# Crea un dizionario dai dati
+models = {row['model']: {'mean_accuracy': row['mean_accuracy'], 'std_accuracy': row['std_accuracy'], 'n': row['n']} for index, row in model_data.iterrows()}
 
 def compute_t_test(model1, model2):
     """Esegui il test t di Student tra due modelli."""
@@ -51,10 +50,8 @@ def main():
         print()
 
     # Stampa il miglior modello
-    print(
-        f"Il miglior modello basato sull'accuratezza media è: {best_model} con un'accuratezza media di {best_accuracy:.4f}")
+    print(f"Il miglior modello basato sull'accuratezza media e': {best_model} con un'accuratezza media di {best_accuracy:.4f}")
 
 
 if __name__ == "__main__":
     main()
-
