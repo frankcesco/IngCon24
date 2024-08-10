@@ -20,11 +20,17 @@ if not os.path.exists(plots_directory):
 reduced_output_path = '../data/merged_data_reduced.csv'
 df_reduced = pd.read_csv(reduced_output_path)
 
+# Seleziona le feature indicate da Boruta salvate in ../data/selected_features.csv
+selected_features_path = '../data/selected_features.csv'
+selected_features = pd.read_csv(selected_features_path, header=0).values.flatten()
+print(f"Selected Features: {selected_features}")
+print(f"Total Selected Features: {len(selected_features)}\n")
+
 # Convertire le feature categoriche in numeriche utilizzando get_dummies per one-hot encoding
 df_reduced = pd.get_dummies(df_reduced)
 
 # Separare le feature (X) e il target (y)
-X = df_reduced.drop(columns=['Lesioni'])  # Usa tutte le feature, non solo quelle selezionate da Boruta
+X = df_reduced[selected_features]
 y = df_reduced['Lesioni']
 
 # Dividere il dataset in training e test set
@@ -49,7 +55,7 @@ param_grid = {
         'svc__kernel': ['linear', 'rbf']
     },
     'KNN': {
-        'knn__n_neighbors': [3, 5, 7]
+        'knn__n_neighbors': [3, 7, 21]
     },
     'LogisticRegression': {
         'logisticregression__C': [0.1, 1, 10]
