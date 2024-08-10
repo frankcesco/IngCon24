@@ -10,7 +10,8 @@ def run_scripts():
         'apply_inference_rules.py',
         'feature_selection.py',
         'supervised.py',
-        'student.py'
+        'student.py',
+        'unsupervised.py'
     ]
 
     for script in scripts:
